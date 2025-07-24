@@ -18,8 +18,8 @@ theme: just-the-docs
 # in the templates via {{ site.myvariable }}.
 title: DataTalks.Club Zoomcamps Notes and Resources
 description: A collection of notes and resources for the DataTalks.Club Zoomcamps, our free courses.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://datatalks.club/zoomcamps-notes-faq/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/notes" # the subpath of your site, e.g. /blog
+url: "https://datatalks.club" # the base hostname & protocol for your site, e.g. http://example.com
 repository: DataTalksClub/zoomcamps-notes-faq # for github-metadata
 
 permalink: pretty
