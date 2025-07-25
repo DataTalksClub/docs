@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<div class="term-card term-detail">
+  <h1>{{ page.title }}</h1>
+  <div class="term-definition">{{ page.description }}</div>
+  
+  {{ content }}
+  
+  <div class="term-navigation">
+    <h3>Related Terms</h3>
+    <div class="related-terms">
+      {% for related in page.related_terms %}
+        <a href="{{ related.url | relative_url }}" class="related-term-link">{{ related.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  
+  <div class="back-to-vocabulary">
+    <a href="{{ '/docs/vocabulary' | relative_url }}">&larr; Back to Vocabulary</a>
+  </div>
+</div>
+
+<style>
+  .term-detail {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .term-navigation {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e9ecef;
+  }
+  
+  .related-terms {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  
+  .related-term-link {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background-color: #f1f3f5;
+    border-radius: 16px;
+    font-size: 0.875rem;
+    color: #2563eb;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+  
+  .related-term-link:hover {
+    background-color: #e9ecef;
+    text-decoration: none;
+  }
+  
+  .back-to-vocabulary {
+    margin-top: 2rem;
+    font-size: 0.875rem;
+  }
+</style> 
