@@ -1,1 +1,71 @@
 // custom SCSS (or CSS) goes here
+
+// Vocabulary term link styles
+.vocab-term-link {
+  position: relative;
+  display: inline;
+  border-bottom: 1px dashed #2563eb;
+  color: inherit;
+  text-decoration: none;
+  cursor: help;
+  
+  &::after {
+    content: "📚";
+    font-size: 0.75em;
+    vertical-align: super;
+    margin-left: 0.1em;
+    opacity: 0.7;
+  }
+  
+  &:hover {
+    color: #2563eb;
+    border-bottom: 1px solid #2563eb;
+    
+    &::before {
+      content: attr(title);
+      position: absolute;
+      bottom: 100%;
+      left: 0;
+      background-color: #f8f9fa;
+      border: 1px solid #dee2e6;
+      border-radius: 4px;
+      padding: 0.5rem;
+      width: 250px;
+      font-size: 0.875rem;
+      color: #212529;
+      z-index: 100;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      pointer-events: none;
+      white-space: normal;
+    }
+  }
+}
+
+// Fix for paragraph breaks with vocab links
+p {
+  .vocab-term-link {
+    display: inline;
+    white-space: normal;
+    vertical-align: baseline;
+    line-height: inherit;
+  }
+}
+
+// Fix for line breaks with vocab links
+p, li, h1, h2, h3, h4, h5, h6 {
+  a.vocab-term-link {
+    display: inline;
+    white-space: normal;
+    vertical-align: baseline;
+    line-height: inherit;
+  }
+}
+
+// Dark mode support
+.dark .vocab-term-link {
+  &:hover::before {
+    background-color: #212529;
+    border-color: #495057;
+    color: #e9ecef;
+  }
+}
