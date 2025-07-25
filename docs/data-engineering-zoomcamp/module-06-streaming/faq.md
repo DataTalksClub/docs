@@ -1,6 +1,6 @@
 ---
 title: FAQ
-parent: Module 6
+parent: "Module 6: Stream Processing"
 nav_order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Module 5
+title: "Module 5: Batch Processing"
 parent: Data Engineering Zoomcamp
 nav_order: 5
 ---

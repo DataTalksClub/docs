@@ -19,15 +19,15 @@ A comprehensive collection of notes, FAQ, and resources for the DataTalks.Club Z
 
 ## DataTalks.Club Free Courses
 
-| Course | Description | Article | Repository |
-|:---|:---|:---|:---:|
-| [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Complete data engineering bootcamp covering Docker, SQL, Terraform, GCP, Kafka, and Spark | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/data-engineering-zoomcamp?style=social)](https://github.com/DataTalksClub/data-engineering-zoomcamp) |
-| [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) | ML engineering with deployment focus covering regression, classification, deep learning, and practical projects | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/machine-learning-zoomcamp?style=social)](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
-| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Production ML systems & best practices including experiment tracking, model deployment, and monitoring | [Article](https://datatalks.club/blog/mlops-zoomcamp.html) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/mlops-zoomcamp?style=social)](https://github.com/DataTalksClub/mlops-zoomcamp) |
-| [Stock Markets Analytics Zoomcamp](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) |  Financial data analysis and algorithmic trading strategies using Python and modern analytics tools | [Article](https://pythoninvest.com/course) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/stock-markets-analytics-zoomcamp?style=social)](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) |
-| [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) |  Large Language Models course covering fine-tuning, RAG systems, and LLM application development | Coming Soon | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=social)](https://github.com/DataTalksClub/llm-zoomcamp) |
-| [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp) | Hands-on course focused on open-source LLM tools, local deployment, and cost-effective AI solutions | Coming Soon | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/open-source-llm-zoomcamp?style=social)](https://github.com/DataTalksClub/open-source-llm-zoomcamp) |
-| [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) | Modern AI development tools and workflows for building, testing, and deploying AI applications | Coming Soon | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/ai-dev-tools-zoomcamp?style=social)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) |
+| Course | Status | Description | Registration | Repository |
+|:---|:---|:---|:---:|:---:|
+| [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) | **16 Weeks • September 2025** | ML engineering with deployment focus covering regression, classification, deep learning, and practical projects | [Register Now](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/machine-learning-zoomcamp?style=social)](https://github.com/DataTalksClub/machine-learning-zoomcamp) |
+| [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | **9 Weeks • January 2026** | Complete data engineering bootcamp covering Docker, SQL, Terraform, GCP, Kafka, and Spark | [Register Now](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/data-engineering-zoomcamp?style=social)](https://github.com/DataTalksClub/data-engineering-zoomcamp) |
+| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | **🔴 LIVE • 9 Weeks** | Production ML systems & best practices including experiment tracking, model deployment, and monitoring | [Join Now](https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/mlops-zoomcamp?style=social)](https://github.com/DataTalksClub/mlops-zoomcamp) |
+| [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) | **🔴 LIVE • 8 Weeks** | Large Language Models course covering fine-tuning, RAG systems, and LLM application development | [Join Now](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=social)](https://github.com/DataTalksClub/llm-zoomcamp) |
+| [Stock Markets Analytics Zoomcamp](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) | **8 Weeks • April 2025** | Financial data analysis and algorithmic trading strategies using Python and modern analytics tools | [Register Now](https://pythoninvest.com/course) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/stock-markets-analytics-zoomcamp?style=social)](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) |
+| [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp) | **Coming Soon** | Hands-on course focused on open-source LLM tools, local deployment, and cost-effective AI solutions | [Join Waitlist](https://airtable.com/apprlTIMJPOWhp2Kr/shrYO3Dcm6RN9f4Ko) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/open-source-llm-zoomcamp?style=social)](https://github.com/DataTalksClub/open-source-llm-zoomcamp) |
+| [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) | **Coming Soon** | A course that teaches you how to leverage AI tools to accelerate and improve your coding workflow | [Join Waitlist](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/ai-dev-tools-zoomcamp?style=social)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) |
 
 ## What's in This Repository
 
@@ -75,6 +75,8 @@ DataTalks.Club is a global online community that brings together data profession
 - **Career Growth**: Practical skills and networking opportunities
 - **Current Content**: Fresh material covering the latest industry trends
 
+---
+
 ## Community Activities
 
 ### Live Events
@@ -95,6 +97,8 @@ Join study groups to work on real projects together, get peer support, and build
 - [Browse Events](http://lu.ma/dtc-events) - See upcoming live sessions
 - [YouTube Channel](https://www.youtube.com/@DataTalksClub) - Watch recorded sessions
 - [Newsletter](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa) - Weekly updates
+
+---
 
 ### Quick Links
 - [Main Website](https://datatalks.club/)

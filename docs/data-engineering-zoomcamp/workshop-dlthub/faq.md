@@ -1,6 +1,6 @@
 ---
 title: FAQ
-parent: Workshop dltHub
+parent: "Workshop dltHub"
 nav_order: 2
 ---
 

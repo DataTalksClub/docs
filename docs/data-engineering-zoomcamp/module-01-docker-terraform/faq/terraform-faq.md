@@ -1,7 +1,7 @@
 ---
 title: Terraform FAQ
 description: Frequently asked questions and troubleshooting guide for Terraform issues in the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: "DE Module 1 FAQ"
 nav_order: 13
 has_children: false
 ---

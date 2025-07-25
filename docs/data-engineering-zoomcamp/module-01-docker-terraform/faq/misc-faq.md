@@ -1,7 +1,7 @@
 ---
 title: Miscellaneous FAQ
 description: Frequently asked questions covering various topics and general troubleshooting for the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: DE Module 1 FAQ
 nav_order: 14
 has_children: false
 ---

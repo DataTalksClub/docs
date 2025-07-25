@@ -1,7 +1,7 @@
 ---
 title: "Data Engineering Zoomcamp"
 layout: default
-nav_order: 1
+nav_order: 4
 has_children: true
 description: "Complete data engineering bootcamp covering Docker, SQL, Terraform, GCP, Kafka, and Spark"
 ---

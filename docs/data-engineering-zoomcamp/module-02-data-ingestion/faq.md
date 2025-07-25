@@ -1,6 +1,6 @@
 ---
 title: FAQ
-parent: Module 2
+parent: "Module 2: Data Ingestion"
 nav_order: 2
 ---
 

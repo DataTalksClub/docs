@@ -1,6 +1,6 @@
 ---
 title: Lecture Notes
-parent: Module 3
+parent: "Module 3: Data Warehousing"
 nav_order: 1
 ---
 

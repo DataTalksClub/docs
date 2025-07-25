@@ -1,5 +1,5 @@
 ---
-title: Module 3
+title: "Module 3: Data Warehousing"
 parent: Data Engineering Zoomcamp
 nav_order: 3
 ---

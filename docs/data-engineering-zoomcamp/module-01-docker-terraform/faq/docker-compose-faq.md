@@ -1,7 +1,7 @@
 ---
 title: Docker Compose FAQ
 description: Frequently asked questions and troubleshooting guide for Docker Compose networking, volume mounting, hostname resolution, and service orchestration in the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: DE Module 1 FAQ
 nav_order: 5
 has_children: false
 ---

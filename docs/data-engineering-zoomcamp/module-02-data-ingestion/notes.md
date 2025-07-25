@@ -1,6 +1,6 @@
 ---
 title: Lecture Notes
-parent: Module 2
+parent: "Module 2: Data Ingestion"
 nav_order: 1
 ---
 

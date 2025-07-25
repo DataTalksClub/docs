@@ -1,7 +1,7 @@
 ---
 title: Docker FAQ
 description: Frequently asked questions and troubleshooting guide for Docker containers, volumes, networking, and platform-specific issues in the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: "DE Module 1 FAQ"
 nav_order: 4
 has_children: false
 ---

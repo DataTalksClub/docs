@@ -18,63 +18,105 @@ Welcome to the documentation section for DataTalks.Club Zoomcamps. Here you'll f
 ## 📚 Available Courses
 
 ### 🔧 Data Engineering Zoomcamp
-**Status**: Active with notes and resources  
+**Status**: Upcoming (January 2026)  
+**Duration**: 9 weeks  
 **Description**: Complete data engineering bootcamp covering Docker, SQL, Terraform, GCP, Kafka, and Spark. Learn to build robust data pipelines and work with cloud platforms.
 
 **What You'll Learn:**
-- Containerization with Docker and Docker Compose
+- Data warehousing and ETL processes
+- Batch and stream processing
+- Cloud infrastructure with Google Cloud Platform
+- Containerization with Docker
 - Infrastructure as Code with Terraform
 - Data ingestion and processing pipelines
-- Working with Google Cloud Platform
 - Stream processing with Apache Kafka
 - Big data processing with Apache Spark
-- Data warehousing with BigQuery
-- Workflow orchestration with Prefect
 
 [📖 Browse Data Engineering Notes](data-engineering-zoomcamp/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [🎥 Watch Videos](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### 🤖 Machine Learning Zoomcamp
-**Status**: Coming Soon  
+**Status**: Upcoming (September 2025)  
+**Duration**: 16 weeks  
 **Description**: ML engineering with deployment focus covering regression, classification, deep learning, and practical projects. Master machine learning fundamentals from data preprocessing to model deployment.
 
 **What You'll Learn:**
-- Machine learning fundamentals and algorithms
-- Feature engineering and data preprocessing  
-- Regression and classification techniques
+- ML fundamentals and algorithms
+- Model deployment and MLOps basics
+- Deep learning and neural networks
+- Real-world projects and applications
+- Feature engineering and data preprocessing
 - Model evaluation and selection
-- Deep learning with TensorFlow/Keras
-- Model deployment strategies
-- MLOps basics and best practices
 
 ### 🚀 MLOps Zoomcamp  
-**Status**: Coming Soon  
-**Description**: Production ML systems & best practices including experiment tracking, model deployment, and monitoring. Bridge the gap between ML development and production.
+**Status**: Currently Live  
+**Duration**: 9 weeks  
+**Description**: Production ML systems and best practices including experiment tracking, model deployment, and monitoring. Bridge the gap between ML development and production.
 
 **What You'll Learn:**
-- Experiment tracking with MLflow
+- Model monitoring and observability
+- ML pipelines and orchestration
 - Model registry and versioning
+- Production deployment strategies
+- Experiment tracking with MLflow
 - Workflow orchestration with Prefect
-- Model deployment strategies
-- Monitoring and observability
 - CI/CD for machine learning
-- Infrastructure as Code for ML
-
-### 📊 Stock Markets Analytics Zoomcamp
-**Status**: Coming Soon  
-**Description**: Financial data analysis and algorithmic trading strategies using Python and modern analytics tools.
 
 ### 🧠 LLM Zoomcamp
-**Status**: Coming Soon  
+**Status**: Currently Live  
+**Duration**: 8 weeks  
 **Description**: Large Language Models course covering fine-tuning, RAG systems, and LLM application development.
+
+**What You'll Learn:**
+- LLM fine-tuning techniques
+- Prompt engineering strategies
+- Retrieval-Augmented Generation (RAG) applications
+- LLM application development
 
 ### 🔓 Open Source LLM Zoomcamp
 **Status**: Coming Soon  
 **Description**: Hands-on course focused on open-source LLM tools, local deployment, and cost-effective AI solutions.
 
+**What You'll Learn:**
+- Open-source model implementation
+- Model optimization techniques
+- Efficient deployment strategies
+- Cost-effective AI solutions
+
 ### 🛠️ AI Dev Tools Zoomcamp
 **Status**: Coming Soon  
-**Description**: Modern AI development tools and workflows for building, testing, and deploying AI applications.
+**Description**: Learn how to leverage AI tools to accelerate and improve your coding workflow.
+
+**What You'll Learn:**
+- AI system design principles
+- Development workflow optimization
+- Tool integration strategies
+- AI-assisted coding techniques
+
+### 📊 Stock Markets Analytics Zoomcamp
+**Status**: Upcoming (April 2025)  
+**Duration**: 8 weeks  
+**Description**: Financial data analysis and algorithmic trading strategies using Python and modern analytics tools.
+
+**What You'll Learn:**
+- Market analysis techniques
+- Trading strategy development
+- Risk management principles
+- Financial data processing
+
+---
+
+## 🏆 Hackathons & Competitions
+
+### DataTalks.Club Summer 2025 AI Hackathon
+**Duration**: 9-week build sprint  
+**Focus**: Create LLM-powered applications for the DataTalks.Club community  
+**Prizes**: $250 AWS credits for winners
+
+### MLOps Zoomcamp Competition
+**Timeline**: June-August 2025  
+**Challenge**: Build deceptive chatbots or bot-detection classifiers  
+**Prizes**: $500 AWS vouchers for top 10 participants
 
 ---
 

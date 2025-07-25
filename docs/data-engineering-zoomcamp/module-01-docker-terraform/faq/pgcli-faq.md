@@ -1,7 +1,7 @@
 ---
 title: PGCLI FAQ
 description: Frequently asked questions and troubleshooting guide for PGCLI PostgreSQL command-line interface in the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: DE Module 1 FAQ
 nav_order: 6
 has_children: false
 ---

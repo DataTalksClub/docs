@@ -1,6 +1,6 @@
 ---
 title: FAQ
-parent: Module 4
+parent: "Module 4: Analytics Engineering"
 nav_order: 2
 ---
 

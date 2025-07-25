@@ -1,6 +1,6 @@
 ---
-title: Module 1 FAQ
-parent: Module 1
+title: DE Module 1 FAQ
+parent: "Module 1: Containerization and Infrastructure as Code"
 nav_order: 2
 ---
 

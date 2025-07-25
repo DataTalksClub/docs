@@ -1,5 +1,5 @@
 ---
-title: Module 2
+title: "Module 2: Data Ingestion"
 parent: Data Engineering Zoomcamp
 nav_order: 2
 ---

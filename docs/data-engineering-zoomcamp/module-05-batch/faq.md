@@ -1,6 +1,6 @@
 ---
 title: FAQ
-parent: Module 5
+parent: "Module 5: Batch Processing"
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: WSL FAQ
 description: Frequently asked questions and troubleshooting guide for Windows Subsystem for Linux (WSL) issues in the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: "DE Module 1 FAQ"
 nav_order: 8
 has_children: false
 ---

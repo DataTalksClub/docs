@@ -1,5 +1,5 @@
 ---
-title: Module 4
+title: "Module 4: Analytics Engineering"
 parent: Data Engineering Zoomcamp
 nav_order: 4
 ---

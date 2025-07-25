@@ -1,7 +1,7 @@
 ---
 title: Taxi Data FAQ
 description: Frequently asked questions and troubleshooting guide for NYC Taxi data handling in the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: DE Module 1 FAQ
 nav_order: 2
 has_children: false
 ---

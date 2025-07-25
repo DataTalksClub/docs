@@ -2,7 +2,7 @@
 title: "Course FAQ"
 layout: default
 nav_order: 100
-parent: Data Engineering Zoomcamp
+parent: LLM Zoomcamp
 has_children: false
 ---
 

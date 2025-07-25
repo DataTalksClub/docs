@@ -1,6 +1,6 @@
 ---
 title: Lecture Notes
-parent: Workshop dltHub
+parent: "Workshop dltHub"
 nav_order: 1
 ---
 

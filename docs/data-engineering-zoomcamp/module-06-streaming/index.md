@@ -1,5 +1,5 @@
 ---
-title: Module 6
+title: "Module 6: Stream Processing"
 parent: Data Engineering Zoomcamp
 nav_order: 6
 ---

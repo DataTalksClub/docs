@@ -1,7 +1,7 @@
 ---
 title: Google Cloud Platform FAQ
 description: Frequently asked questions and troubleshooting guide for Google Cloud Platform (GCP) issues in the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: "DE Module 1 FAQ"
 nav_order: 11
 has_children: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: Workshop dltHub
+title: "Workshop dltHub"
 parent: Data Engineering Zoomcamp
 nav_order: 8
 ---

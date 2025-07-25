@@ -1,6 +1,6 @@
 ---
 title: FAQ
-parent: Module 3
+parent: "Module 3: Data Warehousing"
 nav_order: 2
 ---
 

@@ -1,16 +1,12 @@
 ---
 title: Lecture Notes
-parent: "Module 1: Containerization and Infrastructure as Code"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 1
 ---
 
 # Official Notes
 Coming soon
 {: .label .label-yellow }
-
-## Module Materials
-
-[Access materials](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/01-docker-terraform/README.md){: .btn .btn-purple }
 
 ## Community Notes
 

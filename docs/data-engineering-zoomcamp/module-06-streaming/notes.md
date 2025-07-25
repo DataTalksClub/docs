@@ -1,6 +1,6 @@
 ---
 title: Lecture Notes
-parent: Module 6
+parent: "Module 6: Stream Processing"
 nav_order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Module 1
+title: "Module 1: Containerization and Infrastructure as Code"
 parent: Data Engineering Zoomcamp
 nav_order: 1
 ---

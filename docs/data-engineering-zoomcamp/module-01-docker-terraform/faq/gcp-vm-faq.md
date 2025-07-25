@@ -1,7 +1,7 @@
 ---
 title: GCP VM FAQ
 description: Frequently asked questions and troubleshooting guide for Google Cloud Platform Virtual Machines in the Data Engineering Zoomcamp
-parent: Module 1 FAQ
+parent: DE Module 1 FAQ
 nav_order: 12
 has_children: false
 ---
