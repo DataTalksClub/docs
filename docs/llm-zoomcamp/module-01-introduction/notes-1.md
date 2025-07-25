@@ -116,7 +116,7 @@ When you interact with ChatGPT, Claude, or similar models, you experience:
 
 ### How LLMs Process Your Requests
 
-![LLM Processing](/assets/images/llm-zoomcamp/module-1/lecture-1-llms.png)
+![LLM Processing](/notes/assets/images/llm-zoomcamp/module-1/lecture-1-llms.png)
 *Figure 1: LLM Processing*
 
 Understanding the basic input-output flow helps us use LLMs more effectively:
@@ -151,7 +151,7 @@ This works perfectly because cooking salmon is well-documented in the LLM's trai
 
 **Scenario 2 - LLM Knowledge Gap**:
 
-![Why we need RAG](/assets/images/llm-zoomcamp/module-1/lecture-1-why-we-need-rag.png)
+![Why we need RAG](/notes/assets/images/llm-zoomcamp/module-1/lecture-1-why-we-need-rag.png)
 
 ```
 Question: "Is it too late to join the Data Engineering Zoomcamp?"
@@ -181,7 +181,7 @@ If we just connected students directly to ChatGPT, they'd get generic answers th
 
 ### What is RAG?
 
-![RAG Overview](/assets/images/llm-zoomcamp/module-1/lecture-1-rag.png)
+![RAG Overview](/notes/assets/images/llm-zoomcamp/module-1/lecture-1-rag.png)
 
 **RAG = Retrieval (Search) + Augmented (Enhanced) + Generation (LLM)**
 
