@@ -1,3 +1,6 @@
+// Import the datatalks color scheme to access its variables
+@import "color_schemes/datatalks";
+
 // Vocabulary term cards styling
 .term-card {
   background-color: #f8f9fa;
@@ -35,23 +38,62 @@
     h3 {
       font-size: 0.9rem;
       text-transform: uppercase;
-      letter-spacing: 0.5px;
+      letter-spacing: 0.05em;
       margin-top: 0;
-      margin-bottom: 0.5rem;
       color: $datatalks-dark-blue;
     }
     
     ul {
-      margin-bottom: 0;
+      margin: 0.5rem 0 0;
       padding-left: 1.2rem;
-      
-      li {
-        margin-bottom: 0.25rem;
-        
-        &:last-child {
-          margin-bottom: 0;
-        }
-      }
+    }
+  }
+  
+  .term-card-footer {
+    margin-top: 1rem;
+    text-align: right;
+  }
+  
+  .term-read-more {
+    display: inline-block;
+    color: $datatalks-blue;
+    font-weight: 500;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Vocabulary grid layout
+.vocabulary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+// Related terms styling
+.related-terms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  
+  .related-term-link {
+    display: inline-block;
+    background-color: $datatalks-light-blue;
+    color: $datatalks-dark-blue;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      background-color: darken($datatalks-light-blue, 5%);
+      transform: translateY(-1px);
     }
   }
 } 
