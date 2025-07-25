@@ -2,7 +2,6 @@
 title: "What is Supervised Machine Learning?"
 parent: "Module 1: Introduction to Machine Learning"
 nav_order: 3
-layout: page_with_toc
 ---
 
 # What is Supervised Machine Learning?
