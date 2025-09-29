@@ -1,7 +1,7 @@
 ---
-title: How To Contribute
+title: "How To Contribute"
 layout: default
-nav_order: 2
+nav_order: 3
 description: "Course notes and resources for DataTalks.Club Zoomcamps"
 has_children: true
 ---

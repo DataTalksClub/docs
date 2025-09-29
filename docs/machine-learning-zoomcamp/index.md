@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Zoomcamp
+title: Machine Learning Zoomcamp Notes
 layout: default
 nav_order: 3
 has_children: true

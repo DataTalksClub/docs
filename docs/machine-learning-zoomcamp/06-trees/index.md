@@ -1,7 +1,7 @@
 ---
 title: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 6
-parent: Machine Learning Zoomcamp
+parent: Machine Learning Zoomcamp Notes
 has_children: true
 ---
 

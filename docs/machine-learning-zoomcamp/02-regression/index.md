@@ -1,7 +1,7 @@
 ---
 title: "Module 2: Machine Learning for Regression"
 nav_order: 2
-parent: Machine Learning Zoomcamp
+parent: Machine Learning Zoomcamp Notes
 has_children: true
 ---
 

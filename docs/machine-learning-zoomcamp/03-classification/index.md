@@ -1,7 +1,7 @@
 ---
 title: "Module 3: Machine Learning for Classification"
 nav_order: 3
-parent: Machine Learning Zoomcamp
+parent: Machine Learning Zoomcamp Notes
 has_children: true
 ---
 

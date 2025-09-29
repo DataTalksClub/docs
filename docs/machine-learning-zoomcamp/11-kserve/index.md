@@ -1,7 +1,7 @@
 ---
 title: "Module 11: KServe"
 nav_order: 11
-parent: Machine Learning Zoomcamp
+parent: Machine Learning Zoomcamp Notes
 has_children: true
 ---
 

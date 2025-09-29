@@ -1,7 +1,7 @@
 ---
 title: "Module 1: Introduction to Machine Learning"
 nav_order: 1
-parent: Machine Learning Zoomcamp
+parent: Machine Learning Zoomcamp Notes
 has_children: true
 ---
 

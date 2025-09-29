@@ -1,7 +1,7 @@
 ---
 title: "Module 8: Neural Networks and Deep Learning"
 nav_order: 8
-parent: Machine Learning Zoomcamp
+parent: Machine Learning Zoomcamp Notes
 has_children: true
 ---
 
