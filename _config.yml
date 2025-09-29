@@ -30,6 +30,11 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+  - scope:
+      path: "ml-zoomcamp-2025"
+      type: "pages"
+    values:
+      layout: "default"
 
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
