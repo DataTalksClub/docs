@@ -8,3 +8,5 @@ has_children: true
 
 This module covers the following topics:
 
+module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/04-evaluation
+
