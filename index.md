@@ -27,18 +27,3 @@ A comprehensive collection of notes, FAQ, and resources for the DataTalks.Club Z
 | [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) | 10 weeks | June 2026 | Large Language Models course covering fine-tuning, RAG systems, and LLM application development | [Register](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=social)](https://github.com/DataTalksClub/llm-zoomcamp) |
 | [Stock Markets Analytics Zoomcamp](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) | 8 weeks | April 2026 | Financial data analysis and algorithmic trading strategies using Python and modern analytics tools | [Register](https://pythoninvest.com/course) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/stock-markets-analytics-zoomcamp?style=social)](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) |
 | [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp) | – | Coming Soon | Hands-on course focused on open-source LLM tools, local deployment, and cost-effective AI solutions | – | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/open-source-llm-zoomcamp?style=social)](https://github.com/DataTalksClub/open-source-llm-zoomcamp) |
-
-## Contributing
-
-We welcome contributions from the community! You can help by:
-
-- **Reporting Issues**: Found an error or broken link? Let us know
-- **Improving Content**: Submit pull requests with corrections or enhancements
-- **Adding Notes**: Share your own course notes and insights
-- **Answering Questions**: Help fellow learners in discussions
-
-### How to Contribute
-1. Fork this repository
-2. Create a new branch for your changes
-3. Make your improvements
-4. Submit a pull request with a clear description
