@@ -1,6 +1,6 @@
 ---
-title: "09. Final Model"
-parent: "Module 06: Trees"
+title: "9. Selecting the best model"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 9
 ---
 

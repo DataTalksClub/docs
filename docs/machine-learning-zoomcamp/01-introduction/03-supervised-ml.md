@@ -1,6 +1,6 @@
 ---
-title: "03. Supervised Ml"
-parent: "Module 01: Intro"
+title: "3. Supervised Machine Learning"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 3
 ---
 

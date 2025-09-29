@@ -1,6 +1,6 @@
 ---
-title: "12. Using Model"
-parent: "Module 08: Deep Learning"
+title: "12. Using the model"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 12
 ---
 

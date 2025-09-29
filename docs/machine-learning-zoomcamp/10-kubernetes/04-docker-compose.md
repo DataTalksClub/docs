@@ -1,6 +1,6 @@
 ---
-title: "04. Docker Compose"
-parent: "Module 10: Kubernetes"
+title: "4. Running everything locally with Docker-compose"
+parent: "Module 10: Kubernetes and TensorFlow Serving"
 nav_order: 4
 ---
 

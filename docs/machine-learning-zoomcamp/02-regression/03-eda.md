@@ -1,6 +1,6 @@
 ---
-title: "03. Exploratory Data Analysis"
-parent: "Module 02: Regression"
+title: "3. Exploratory Data Analysis"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 3
 ---
 

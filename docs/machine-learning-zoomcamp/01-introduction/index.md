@@ -1,10 +1,10 @@
 ---
-title: "Module 01: Intro"
+title: "Module 1: Introduction to Machine Learning"
 nav_order: 0
 has_children: true
 ---
 
-# Module 01: Intro
+# Module 1: Introduction to Machine Learning
 
 This module covers the following topics:
 
@@ -20,4 +20,4 @@ This module covers the following topics:
 1.10 Summary
 1.11 Homework
 
-module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro
+Module content on GitHub: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro

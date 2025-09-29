@@ -1,6 +1,6 @@
 ---
-title: "08. Summary"
-parent: "Module 05: Deployment"
+title: "8. Summary"
+parent: "Module 5: Deploying Machine Learning Models"
 nav_order: 8
 ---
 

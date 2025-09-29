@@ -1,6 +1,6 @@
 ---
-title: "07. Training the Model (Normal Equation)"
-parent: "Module 02: Regression"
+title: "7. Training the Model (Normal Equation)"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 7
 ---
 

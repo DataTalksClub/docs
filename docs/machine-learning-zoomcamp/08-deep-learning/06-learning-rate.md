@@ -1,6 +1,6 @@
 ---
-title: "06. Learning Rate"
-parent: "Module 08: Deep Learning"
+title: "6. Adjusting the learning rate"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 6
 ---
 

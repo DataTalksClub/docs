@@ -1,11 +1,11 @@
 ---
-title: "Module 02: Regression"
-nav_order: 2
+title: "Module 2: Machine Learning for Regression"
+nav_order: 0
 has_children: true
 ---
 
-# Module 02: Regression
+# Module 2: Machine Learning for Regression
 
 This module covers the following topics:
 
-module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/02-regression
+Module content on GitHub: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/02-regression

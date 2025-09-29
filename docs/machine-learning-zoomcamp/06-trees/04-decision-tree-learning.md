@@ -1,6 +1,6 @@
 ---
-title: "04. Decision Tree Learning"
-parent: "Module 06: Trees"
+title: "4. Decision tree learning algorithm"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 4
 ---
 

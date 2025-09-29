@@ -1,6 +1,6 @@
 ---
-title: "05. Risk"
-parent: "Module 03: Classification"
+title: "5. Feature importance: Churn rate and risk ratio"
+parent: "Module 3: Machine Learning for Classification"
 nav_order: 5
 ---
 

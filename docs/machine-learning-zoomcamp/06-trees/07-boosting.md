@@ -1,6 +1,6 @@
 ---
-title: "07. Boosting"
-parent: "Module 06: Trees"
+title: "7. Gradient boosting and XGBoost"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 7
 ---
 

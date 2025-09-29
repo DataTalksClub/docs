@@ -1,6 +1,6 @@
 ---
-title: "02. Data Preparation"
-parent: "Module 03: Classification"
+title: "2. Data Preparation"
+parent: "Module 3: Machine Learning for Classification"
 nav_order: 2
 ---
 

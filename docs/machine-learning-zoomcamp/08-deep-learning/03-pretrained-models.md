@@ -1,6 +1,6 @@
 ---
-title: "03. Pretrained Models"
-parent: "Module 08: Deep Learning"
+title: "3. Pre-trained convolutional neural networks"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 3
 ---
 

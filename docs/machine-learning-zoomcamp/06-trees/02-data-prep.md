@@ -1,6 +1,6 @@
 ---
-title: "02. Data Prep"
-parent: "Module 06: Trees"
+title: "2. Data cleaning and preparation"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 2
 ---
 

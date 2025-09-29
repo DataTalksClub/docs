@@ -1,6 +1,6 @@
 ---
 title: "16. Summary"
-parent: "Module 02: Regression"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 16
 ---
 

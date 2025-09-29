@@ -1,6 +1,6 @@
 ---
-title: "06. Random Forest"
-parent: "Module 06: Trees"
+title: "6. Ensemble learning and random forest"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 6
 ---
 

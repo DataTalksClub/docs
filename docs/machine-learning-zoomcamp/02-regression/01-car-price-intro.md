@@ -1,6 +1,6 @@
 ---
-title: "01. Car Price Prediction"
-parent: "Module 02: Regression"
+title: "1. Car Price Prediction"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 1
 ---
 

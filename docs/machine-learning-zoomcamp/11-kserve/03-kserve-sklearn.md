@@ -1,6 +1,6 @@
 ---
-title: "03. Kserve Sklearn"
-parent: "Module 11: Kserve"
+title: "3. Deploying a Scikit-Learn model with KServe"
+parent: "Module 11: KServe"
 nav_order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "09. Logistic Regression"
+title: "9. Logistic Regression"
 parent: "Module 03: Classification"
 nav_order: 9
 ---

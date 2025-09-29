@@ -1,12 +1,10 @@
 ---
-title: "Module 09: Serverless"
-nav_order: 9
+title: "Module 9: Serverless Deep Learning"
+nav_order: 0
 has_children: true
 ---
 
-# Module 09: Serverless
+# Module 9: Serverless Deep Learning
 
 This module covers the following topics:
-
-module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/09-serverless
 

@@ -1,6 +1,6 @@
 ---
-title: "01. Churn Project"
-parent: "Module 03: Classification"
+title: "1. Churn Prediction Project"
+parent: "Module 3: Machine Learning for Classification"
 nav_order: 1
 ---
 

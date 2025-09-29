@@ -1,6 +1,6 @@
 ---
-title: "06. Linear Regression in Vector & Matrix Form"
-parent: "Module 02: Regression"
+title: "6. Linear Regression in Vector & Matrix Form"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 6
 ---
 

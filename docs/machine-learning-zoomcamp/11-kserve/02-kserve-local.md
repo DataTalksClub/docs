@@ -1,6 +1,6 @@
 ---
-title: "02. Kserve Local"
-parent: "Module 11: Kserve"
+title: "2. Running KServe locally"
+parent: "Module 11: KServe"
 nav_order: 2
 ---
 

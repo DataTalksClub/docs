@@ -1,5 +1,5 @@
 ---
-title: "1.6. GitHub Codespaces"
+title: "6. GitHub Codespaces"
 parent: "Module 1: Introduction to Machine Learning"
 nav_order: 6
 ---

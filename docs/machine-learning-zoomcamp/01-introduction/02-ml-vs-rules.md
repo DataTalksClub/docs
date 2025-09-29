@@ -1,6 +1,6 @@
 ---
-title: "02. Ml Vs Rules"
-parent: "Module 01: Intro"
+title: "2. ML vs Rule-Based Systems"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 2
 ---
 

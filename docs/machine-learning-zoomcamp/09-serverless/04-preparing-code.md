@@ -1,6 +1,6 @@
 ---
-title: "04. Preparing Code"
-parent: "Module 09: Serverless"
+title: "4. Preparing the code for Lambda"
+parent: "Module 9: Serverless Deep Learning"
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "04. Precision Recall"
-parent: "Module 04: Evaluation"
+title: "4. Precision and Recall"
+parent: "Module 4: Evaluation Metrics for Classification"
 nav_order: 4
 ---
 

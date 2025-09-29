@@ -1,6 +1,6 @@
 ---
-title: "09. Pandas"
-parent: "Module 01: Intro"
+title: "9. Introduction to Pandas"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 9
 ---
 # Introduction to Pandas

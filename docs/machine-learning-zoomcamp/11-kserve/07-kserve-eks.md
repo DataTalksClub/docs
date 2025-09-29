@@ -1,6 +1,6 @@
 ---
-title: "07. Kserve Eks"
-parent: "Module 11: Kserve"
+title: "7. Deploying with KServe and EKS"
+parent: "Module 11: KServe"
 nav_order: 7
 ---
 

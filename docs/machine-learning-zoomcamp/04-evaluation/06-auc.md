@@ -1,6 +1,6 @@
 ---
-title: "06. Auc"
-parent: "Module 04: Evaluation"
+title: "6. ROC AUC"
+parent: "Module 4: Evaluation Metrics for Classification"
 nav_order: 6
 ---
 

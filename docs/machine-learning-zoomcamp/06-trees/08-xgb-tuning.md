@@ -1,6 +1,6 @@
 ---
-title: "08. Xgb Tuning"
-parent: "Module 06: Trees"
+title: "8. XGBoost parameter tuning"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 8
 ---
 

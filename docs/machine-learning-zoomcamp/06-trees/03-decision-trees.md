@@ -1,6 +1,6 @@
 ---
-title: "03. Decision Trees"
-parent: "Module 06: Trees"
+title: "3. Decision trees"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "08. Linear Algebra"
-parent: "Module 01: Intro"
+title: "8. Linear Algebra Refresher"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 8
 ---
 

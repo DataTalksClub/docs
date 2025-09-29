@@ -1,6 +1,6 @@
 ---
-title: "07. Checkpointing"
-parent: "Module 08: Deep Learning"
+title: "7. Checkpointing"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 7
 ---
 

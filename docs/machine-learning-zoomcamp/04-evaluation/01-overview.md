@@ -1,6 +1,6 @@
 ---
-title: "01. Overview"
-parent: "Module 04: Evaluation"
+title: "1. Evaluation metrics: session overview"
+parent: "Module 4: Evaluation Metrics for Classification"
 nav_order: 1
 ---
 

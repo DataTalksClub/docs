@@ -1,6 +1,6 @@
 ---
-title: "04. Conv Neural Nets"
-parent: "Module 08: Deep Learning"
+title: "4. Convolutional neural networks"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 4
 ---
 

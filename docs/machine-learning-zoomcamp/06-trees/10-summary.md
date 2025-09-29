@@ -1,6 +1,6 @@
 ---
 title: "10. Summary"
-parent: "Module 06: Trees"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 10
 ---
 

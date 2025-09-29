@@ -1,6 +1,6 @@
 ---
-title: "09. Evaluating a Regression Model with RMSE"
-parent: "Module 02: Regression"
+title: "9. Evaluating a Regression Model with RMSE"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 9
 ---
 

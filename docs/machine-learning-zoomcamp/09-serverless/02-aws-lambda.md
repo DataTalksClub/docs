@@ -1,6 +1,6 @@
 ---
-title: "02. Aws Lambda"
-parent: "Module 09: Serverless"
+title: "2. AWS Lambda"
+parent: "Module 9: Serverless Deep Learning"
 nav_order: 2
 ---
 

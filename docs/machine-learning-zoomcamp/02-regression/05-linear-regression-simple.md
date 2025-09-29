@@ -1,6 +1,6 @@
 ---
-title: "05. Linear Regression"
-parent: "Module 02: Regression"
+title: "5. Linear Regression"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 5
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "05. Transfer Learning"
-parent: "Module 08: Deep Learning"
+title: "5. Transfer learning"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 5
 ---
 

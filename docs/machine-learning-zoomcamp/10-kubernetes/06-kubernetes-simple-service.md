@@ -1,6 +1,6 @@
 ---
-title: "06. Kubernetes Simple Service"
-parent: "Module 10: Kubernetes"
+title: "6. Deploying a simple service to Kubernetes"
+parent: "Module 10: Kubernetes and TensorFlow Serving"
 nav_order: 6
 ---
 

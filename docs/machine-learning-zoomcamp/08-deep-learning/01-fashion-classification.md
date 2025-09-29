@@ -1,6 +1,6 @@
 ---
-title: "01. Fashion Classification"
-parent: "Module 08: Deep Learning"
+title: "1. Fashion classification"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 1
 ---
 

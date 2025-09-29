@@ -1,6 +1,6 @@
 ---
-title: "07. Kubernetes Tf Serving"
-parent: "Module 10: Kubernetes"
+title: "7. Deploying TensorFlow models to Kubernetes"
+parent: "Module 10: Kubernetes and TensorFlow Serving"
 nav_order: 7
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "02. Accuracy"
-parent: "Module 04: Evaluation"
+title: "2. Accuracy and dummy model"
+parent: "Module 4: Evaluation Metrics for Classification"
 nav_order: 2
 ---
 

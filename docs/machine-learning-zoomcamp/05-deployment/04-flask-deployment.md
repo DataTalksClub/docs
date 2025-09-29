@@ -1,6 +1,6 @@
 ---
-title: "04. Flask Deployment"
-parent: "Module 05: Deployment"
+title: "4. Serving the churn model with Flask"
+parent: "Module 5: Deploying Machine Learning Models"
 nav_order: 4
 ---
 

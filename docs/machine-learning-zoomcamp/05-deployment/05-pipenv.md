@@ -1,6 +1,6 @@
 ---
-title: "05. Pipenv"
-parent: "Module 05: Deployment"
+title: "5. Python virtual environment: Pipenv"
+parent: "Module 5: Deploying Machine Learning Models"
 nav_order: 5
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "15. Using Model"
-parent: "Module 02: Regression"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 15
 ---
 

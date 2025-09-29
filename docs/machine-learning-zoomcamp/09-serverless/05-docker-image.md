@@ -1,6 +1,6 @@
 ---
-title: "05. Docker Image"
-parent: "Module 09: Serverless"
+title: "5. Preparing a Docker image"
+parent: "Module 9: Serverless Deep Learning"
 nav_order: 5
 ---
 

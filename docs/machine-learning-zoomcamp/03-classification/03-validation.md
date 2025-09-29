@@ -1,6 +1,6 @@
 ---
-title: "03. Validation"
-parent: "Module 03: Classification"
+title: "3. Setting Up the Validation Framework"
+parent: "Module 3: Machine Learning for Classification"
 nav_order: 3
 ---
 

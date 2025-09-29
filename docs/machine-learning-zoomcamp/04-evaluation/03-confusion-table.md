@@ -1,6 +1,6 @@
 ---
-title: "03. Confusion Table"
-parent: "Module 04: Evaluation"
+title: "3. Confusion Table"
+parent: "Module 4: Evaluation Metrics for Classification"
 nav_order: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "06. Kserve Transformers"
-parent: "Module 11: Kserve"
+title: "6. KServe transformers"
+parent: "Module 11: KServe"
 nav_order: 6
 ---
 

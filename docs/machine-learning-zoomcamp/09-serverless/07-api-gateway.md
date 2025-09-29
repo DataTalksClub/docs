@@ -1,6 +1,6 @@
 ---
-title: "07. Api Gateway"
-parent: "Module 09: Serverless"
+title: "7. API Gateway: exposing the lambda function"
+parent: "Module 9: Serverless Deep Learning"
 nav_order: 7
 ---
 

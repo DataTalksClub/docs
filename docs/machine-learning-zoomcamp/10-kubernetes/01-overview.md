@@ -1,6 +1,6 @@
 ---
-title: "01. Overview"
-parent: "Module 10: Kubernetes"
+title: "1. Overview"
+parent: "Module 10: Kubernetes and TensorFlow Serving"
 nav_order: 1
 ---
 

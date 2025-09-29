@@ -1,6 +1,6 @@
 ---
-title: "05. Roc"
-parent: "Module 04: Evaluation"
+title: "5. ROC Curves"
+parent: "Module 4: Evaluation Metrics for Classification"
 nav_order: 5
 ---
 

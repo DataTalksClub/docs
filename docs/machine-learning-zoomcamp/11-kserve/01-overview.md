@@ -1,6 +1,6 @@
 ---
-title: "01. Overview"
-parent: "Module 11: Kserve"
+title: "1. Overview"
+parent: "Module 11: KServe"
 nav_order: 1
 ---
 

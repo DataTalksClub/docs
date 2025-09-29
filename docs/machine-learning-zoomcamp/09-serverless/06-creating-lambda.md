@@ -1,6 +1,6 @@
 ---
-title: "06. Creating Lambda"
-parent: "Module 09: Serverless"
+title: "6. Creating the lambda function"
+parent: "Module 9: Serverless Deep Learning"
 nav_order: 6
 ---
 

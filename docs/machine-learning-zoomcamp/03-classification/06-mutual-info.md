@@ -1,6 +1,6 @@
 ---
-title: "06. Mutual Info"
-parent: "Module 03: Classification"
+title: "6. Feature importance: Mutual information"
+parent: "Module 3: Machine Learning for Classification"
 nav_order: 6
 ---
 

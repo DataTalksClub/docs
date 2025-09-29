@@ -1,6 +1,6 @@
 ---
-title: "08. Eks"
-parent: "Module 10: Kubernetes"
+title: "8. Deploying to EKS"
+parent: "Module 10: Kubernetes and TensorFlow Serving"
 nav_order: 8
 ---
 

@@ -1,12 +1,10 @@
 ---
-title: "Module 05: Deployment"
-nav_order: 5
+title: "Module 5: Deploying Machine Learning Models"
+nav_order: 0
 has_children: true
 ---
 
 # Module 05: Deployment
 
 This module covers the following topics:
-
-module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/05-deployment
 

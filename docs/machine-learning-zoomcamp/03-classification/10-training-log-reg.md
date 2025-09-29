@@ -1,5 +1,5 @@
 ---
-title: "10. Training Log Reg"
+title: "10. Training logistic regression with Scikit-Learn"
 parent: "Module 03: Classification"
 nav_order: 10
 ---

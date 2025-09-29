@@ -1,6 +1,6 @@
 ---
-title: "06. Docker"
-parent: "Module 05: Deployment"
+title: "6. Environment management: Docker and Docker Hub"
+parent: "Module 5: Deploying Machine Learning Models"
 nav_order: 6
 ---
 

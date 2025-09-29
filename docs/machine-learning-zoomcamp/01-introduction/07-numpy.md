@@ -1,6 +1,6 @@
 ---
-title: "07. Numpy"
-parent: "Module 01: Intro"
+title: "7. Introduction to NumPy"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 7
 ---
 # Introduction to NumPy

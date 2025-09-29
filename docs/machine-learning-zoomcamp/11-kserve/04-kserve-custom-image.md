@@ -1,6 +1,6 @@
 ---
-title: "04. Kserve Custom Image"
-parent: "Module 11: Kserve"
+title: "4. Deploying custom Scikit-Learn images with KServe"
+parent: "Module 11: KServe"
 nav_order: 4
 ---
 

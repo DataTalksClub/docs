@@ -1,6 +1,6 @@
 ---
-title: "08. Summary"
-parent: "Module 04: Evaluation"
+title: "8. Summary"
+parent: "Module 4: Evaluation Metrics for Classification"
 nav_order: 8
 ---
 

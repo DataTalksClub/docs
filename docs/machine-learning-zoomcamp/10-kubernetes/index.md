@@ -1,12 +1,10 @@
 ---
-title: "Module 10: Kubernetes"
-nav_order: 10
+title: "Module 10: Kubernetes and TensorFlow Serving"
+nav_order: 0
 has_children: true
 ---
 
-# Module 10: Kubernetes
+# Module 10: Kubernetes and TensorFlow Serving
 
 This module covers the following topics:
-
-module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/10-kubernetes
 

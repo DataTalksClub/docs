@@ -1,6 +1,6 @@
 ---
-title: "08. Ohe"
-parent: "Module 03: Classification"
+title: "8. One-hot encoding"
+parent: "Module 3: Machine Learning for Classification"
 nav_order: 8
 ---
 

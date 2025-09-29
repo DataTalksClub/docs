@@ -1,6 +1,6 @@
 ---
-title: "05. Kubernetes Intro"
-parent: "Module 10: Kubernetes"
+title: "5. Introduction to Kubernetes"
+parent: "Module 10: Kubernetes and TensorFlow Serving"
 nav_order: 5
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "10. Summary"
-parent: "Module 01: Intro"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 10
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "07. Correlation"
-parent: "Module 03: Classification"
+title: "7. Feature importance: Correlation"
+parent: "Module 3: Machine Learning for Classification"
 nav_order: 7
 ---
 

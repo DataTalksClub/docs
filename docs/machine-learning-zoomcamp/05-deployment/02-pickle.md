@@ -1,6 +1,6 @@
 ---
-title: "02. Pickle"
-parent: "Module 05: Deployment"
+title: "2. Saving and loading the model"
+parent: "Module 5: Deploying Machine Learning Models"
 nav_order: 2
 ---
 

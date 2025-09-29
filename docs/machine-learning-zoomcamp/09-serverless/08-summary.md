@@ -1,6 +1,6 @@
 ---
-title: "08. Summary"
-parent: "Module 09: Serverless"
+title: "8. Summary"
+parent: "Module 9: Serverless Deep Learning"
 nav_order: 8
 ---
 

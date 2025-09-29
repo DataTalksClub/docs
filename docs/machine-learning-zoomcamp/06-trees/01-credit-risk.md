@@ -1,6 +1,6 @@
 ---
-title: "01. Credit Risk"
-parent: "Module 06: Trees"
+title: "1. Credit risk scoring project"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 1
 ---
 

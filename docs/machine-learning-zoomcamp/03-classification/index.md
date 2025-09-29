@@ -1,12 +1,12 @@
 ---
-title: "Module 03: Classification"
-nav_order: 3
+title: "Module 3: Machine Learning for Classification"
+nav_order: 0
 has_children: true
 ---
 
-# Module 03: Classification
+# Module 3: Machine Learning for Classification
 
 This module covers the following topics:
 
-module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/03-classification
+Module content on GitHub: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/03-classification
 

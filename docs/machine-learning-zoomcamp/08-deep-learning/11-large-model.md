@@ -1,6 +1,6 @@
 ---
-title: "11. Large Model"
-parent: "Module 08: Deep Learning"
+title: "11. Training a larger model"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 11
 ---
 

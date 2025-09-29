@@ -1,6 +1,6 @@
 ---
-title: "04. Validation Framework"
-parent: "Module 02: Regression"
+title: "4. Validation Framework"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 4
 ---
 

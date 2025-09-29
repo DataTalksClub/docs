@@ -1,6 +1,6 @@
 ---
-title: "08. More Layers"
-parent: "Module 08: Deep Learning"
+title: "8. Adding more layers"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 8
 ---
 

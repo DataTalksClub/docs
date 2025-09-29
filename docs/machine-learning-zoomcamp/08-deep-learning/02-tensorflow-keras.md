@@ -1,6 +1,6 @@
 ---
-title: "02. Tensorflow Keras"
-parent: "Module 08: Deep Learning"
+title: "2. TensorFlow and Keras"
+parent: "Module 8: Neural Networks and Deep Learning"
 nav_order: 2
 ---
 

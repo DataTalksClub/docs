@@ -1,6 +1,6 @@
 ---
-title: "03. Tensorflow Lite"
-parent: "Module 09: Serverless"
+title: "3. TensorFlow Lite"
+parent: "Module 9: Serverless Deep Learning"
 nav_order: 3
 ---
 

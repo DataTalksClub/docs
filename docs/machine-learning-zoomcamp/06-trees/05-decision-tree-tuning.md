@@ -1,6 +1,6 @@
 ---
-title: "05. Decision Tree Tuning"
-parent: "Module 06: Trees"
+title: "5. Decision trees parameter tuning"
+parent: "Module 6: Decision Trees and Ensemble Learning"
 nav_order: 5
 ---
 

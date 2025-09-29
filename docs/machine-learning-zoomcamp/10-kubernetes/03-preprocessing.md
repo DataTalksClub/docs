@@ -1,6 +1,6 @@
 ---
-title: "03. Preprocessing"
-parent: "Module 10: Kubernetes"
+title: "3. Creating a pre-processing service"
+parent: "Module 10: Kubernetes and TensorFlow Serving"
 nav_order: 3
 ---
 

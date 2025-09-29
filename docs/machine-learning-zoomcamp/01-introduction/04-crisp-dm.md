@@ -1,6 +1,6 @@
 ---
-title: "04. Crisp Dm"
-parent: "Module 01: Intro"
+title: "4. CRISP-DM"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 4
 ---
 # What is CRISP-DM?

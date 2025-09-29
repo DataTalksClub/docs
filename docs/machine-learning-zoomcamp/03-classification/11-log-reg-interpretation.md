@@ -1,5 +1,5 @@
 ---
-title: "11. Log Reg Interpretation"
+title: "11. Model interpretation"
 parent: "Module 03: Classification"
 nav_order: 11
 ---

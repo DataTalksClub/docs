@@ -1,6 +1,6 @@
 ---
 title: "13. Regularization"
-parent: "Module 02: Regression"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 13
 ---
 

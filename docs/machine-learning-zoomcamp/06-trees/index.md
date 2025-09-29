@@ -1,12 +1,10 @@
 ---
-title: "Module 06: Trees"
-nav_order: 6
+title: "Module 6: Decision Trees and Ensemble Learning"
+nav_order: 0
 has_children: true
 ---
 
 # Module 06: Trees
 
 This module covers the following topics:
-
-module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/06-trees
 

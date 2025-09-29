@@ -1,6 +1,6 @@
 ---
-title: "07. Aws Eb"
-parent: "Module 05: Deployment"
+title: "7. Deployment to the cloud: AWS Elastic Beanstalk (optional)"
+parent: "Module 5: Deploying Machine Learning Models"
 nav_order: 7
 ---
 

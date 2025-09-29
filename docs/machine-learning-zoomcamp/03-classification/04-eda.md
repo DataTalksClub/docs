@@ -1,6 +1,6 @@
 ---
-title: "04. Eda"
-parent: "Module 03: Classification"
+title: "4. EDA"
+parent: "Module 3: Machine Learning for Classification"
 nav_order: 4
 ---
 

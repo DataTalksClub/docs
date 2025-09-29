@@ -1,6 +1,6 @@
 ---
 title: "12. Categorical Variables"
-parent: "Module 02: Regression"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 12
 ---
 

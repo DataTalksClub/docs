@@ -1,6 +1,6 @@
 ---
-title: "01. What Is Ml"
-parent: "Module 01: Intro"
+title: "1. What Is Machine Learning?"
+parent: "Module 1: Introduction to Machine Learning"
 nav_order: 1
 ---
 

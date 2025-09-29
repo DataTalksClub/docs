@@ -1,6 +1,6 @@
 ---
-title: "08. Baseline Model"
-parent: "Module 02: Regression"
+title: "8. Baseline Model"
+parent: "Module 2: Machine Learning for Regression"
 nav_order: 8
 ---
 

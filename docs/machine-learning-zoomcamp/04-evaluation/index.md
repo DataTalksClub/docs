@@ -1,12 +1,10 @@
 ---
-title: "Module 04: Evaluation"
-nav_order: 4
+title: "Module 4: Evaluation Metrics for Classification"
+nav_order: 0
 has_children: true
 ---
 
 # Module 04: Evaluation
 
 This module covers the following topics:
-
-module content on github: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/04-evaluation
 

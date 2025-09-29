@@ -1,6 +1,6 @@
 ---
-title: "03. Flask Intro"
-parent: "Module 05: Deployment"
+title: "3. Web services: introduction to Flask"
+parent: "Module 5: Deploying Machine Learning Models"
 nav_order: 3
 ---
 

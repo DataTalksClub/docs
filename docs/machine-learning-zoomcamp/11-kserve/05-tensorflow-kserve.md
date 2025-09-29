@@ -1,6 +1,6 @@
 ---
-title: "05. Tensorflow Kserve"
-parent: "Module 11: Kserve"
+title: "5. Serving TensorFlow models with KServe"
+parent: "Module 11: KServe"
 nav_order: 5
 ---
 

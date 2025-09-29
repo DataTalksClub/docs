@@ -1,6 +1,6 @@
 ---
-title: "01. Intro"
-parent: "Module 05: Deployment"
+title: "1. Intro / Session overview"
+parent: "Module 5: Deploying Machine Learning Models"
 nav_order: 1
 ---
 
