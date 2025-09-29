@@ -28,17 +28,6 @@ A comprehensive collection of notes, FAQ, and resources for the DataTalks.Club Z
 | [Stock Markets Analytics Zoomcamp](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) | 8 weeks | April 2026 | Financial data analysis and algorithmic trading strategies using Python and modern analytics tools | [Register](https://pythoninvest.com/course) | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/stock-markets-analytics-zoomcamp?style=social)](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) |
 | [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp) | – | Coming Soon | Hands-on course focused on open-source LLM tools, local deployment, and cost-effective AI solutions | – | [![GitHub](https://img.shields.io/github/stars/DataTalksClub/open-source-llm-zoomcamp?style=social)](https://github.com/DataTalksClub/open-source-llm-zoomcamp) |
 
-<p align="center">
-  <img width="50%" src="https://github.com/DataTalksClub/datatalksclub.github.io/blob/main/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image5.png" alt="DataTalks.Club free courses">
-</p>
-<div align="center">
-
-[Complete Course Catalog](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html)
-
-*Discover all our courses, from beginner-friendly introductions to advanced specializations*
-
-</div>
-
 ## Contributing
 
 We welcome contributions from the community! You can help by:
