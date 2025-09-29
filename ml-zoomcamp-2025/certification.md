@@ -9,7 +9,7 @@ nav_order: 4
 ## 1. What You Need to Pass
 
 <div align="center">
-  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-github-structure.png" alt="Alt text" width="80%">
+  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-github-structure.png' | relative_url }}" alt="Alt text" width="80%">
 </div>
 
 Earning your ML Zoomcamp certificate requires completing a specific combination of projects rather than achieving a particular grade. You must **pass 2 out of 3 available projects**, giving you flexibility in choosing your path. You can complete either the midterm project plus the final capstone project, or the final capstone project plus a second capstone project.

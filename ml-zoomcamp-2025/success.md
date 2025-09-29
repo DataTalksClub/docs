@@ -15,7 +15,7 @@ Most importantly, approach every project as a **portfolio piece** that should be
 Share your progress regularly on LinkedIn and Twitter using the #mlzoomcamp hashtag, and tag Alexey Grigorev and DataTalks.Club in your posts. The **leaderboard system** at [courses.datatalks.club/ml-zoomcamp-2025/leaderboard](https://courses.datatalks.club/ml-zoomcamp-2025/leaderboard) awards points for homework completion, FAQ contributions, and resource sharing.
 
 <div align="center">
-  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-leaderboard.png" alt="Alt text" width="80%">
+  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-leaderboard.png' | relative_url }}" alt="Alt text" width="80%">
 </div>
 
 Consider writing blog posts about concepts you've mastered or challenges you've overcome. Examples include "Understanding Cross-Validation in Module 4" or "My Journey Deploying a FastAPI Model." Posts about struggles like "3 Deployment Failures That Taught Me Docker Basics" are often more valuable than success stories. When you feel confident in a topic, answer questions in Slack—teaching others solidifies your own knowledge.
