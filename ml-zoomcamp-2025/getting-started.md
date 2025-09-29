@@ -10,9 +10,21 @@ nav_order: 0
 
 Start by visiting the [ML Zoomcamp GitHub repository](https://github.com/DataTalksClub/machine-learning-zoomcamp) and **starring it** ⭐. All course materials are in this repository, with each module having its own folder (for example, `01-intro` or `03-classification`). Cohort-specific homework and deadlines are located in `cohorts/2025`.
 
-The lectures are pre-recorded and available in the **YouTube playlist**, so you can watch them whenever it suits you. Occasionally, additional workshops or updated implementation videos are released—there will be additional announcements if this happens. If nothing is announced, you can assume all necessary materials are already available.
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-github-structure.png" alt="Alt text" width="80%">
+</div>
+
+The lectures are pre-recorded and available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR), so you can watch them whenever it suits you. Occasionally, additional workshops or updated implementation videos are released—there will be additional announcements if this happens. If nothing is announced, you can assume all necessary materials are already available.
+
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-youtube.png" alt="Alt text" width="80%">
+</div>
 
 Finally, locate and bookmark the [FAQ Website](https://datatalks.club/faq/machine-learning-zoomcamp.html). This comprehensive resource contains answers to the most frequently asked questions from previous cohorts. Make it a habit to check this document before asking questions in Slack, as your question has likely been answered before.
+
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-faq.png" alt="Alt text" width="80%">
+</div>
 
 ## 2. Course Structure and Flexibility
 
@@ -28,4 +40,12 @@ Before diving into the coursework, ensure you have the necessary technical found
 
 Connect with the vibrant ML Zoomcamp community to enhance your learning experience. After registering for the course, you'll receive an invitation to the **Slack Workspace** via email. Join the workspace and navigate to the "machine-learning-zoomcamp" channel, which serves as your primary support and Q&A platform throughout the course.
 
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-slack.png" alt="Alt text" width="80%">
+</div>
+
 Consider also joining the **Telegram Channel** for course announcements. While optional, it's highly recommended for receiving important updates and staying connected with course developments.
+
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-telegram.png" alt="Alt text" width="80%">
+</div>

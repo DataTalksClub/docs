@@ -10,21 +10,41 @@ nav_order: 7
 
 The [GitHub repository](https://github.com/DataTalksClub/machine-learning-zoomcamp) contains all course materials and serves as the central hub for the course.
 
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-github-structure.png" alt="Alt text" width="80%">
+</div>
+
 ## YouTube Playlist
 
 The [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR) contains all course lectures.
+
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-youtube.png" alt="Alt text" width="80%">
+</div>
 
 ## Course Platform
 
 The [course platform](https://courses.datatalks.club/ml-zoomcamp-2025/) is a dedicated platform for submitting homework and accessing course materials.
 
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-course-platform-schedule.png" alt="Alt text" width="80%">
+</div>
+
 ## Slack
 
 The [Slack workspace](https://datatalks.club/slack.html) is a community-driven platform for discussing the course and getting help from fellow learners and instructors.
 
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-slack.png" alt="Alt text" width="80%">
+</div>
+
 ## Telegram
 
 The [Telegram channel](https://datatalks.club/telegram.html) is for course announcements only. If you don't receive the newsletter, you may have unsubscribed from it.
+
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-telegram.png" alt="Alt text" width="80%">
+</div>
 
 ## Newsletter
 
@@ -33,6 +53,11 @@ The [Newsletter](https://datatalks.club/newsletter.html) provides course announc
 ## FAQ
 
 The [FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html) is a comprehensive resource containing answers to the most frequently asked questions from previous cohorts. Make it a habit to check this document before asking questions in Slack, as your question has likely been answered before.
+
+<div align="center">
+  <img src="/assets/images/ml-zoomcamp/ml-zoomcamp-faq.png" alt="Alt text" width="80%">
+</div>
+
 
 ## Community Notes
 
