@@ -1,6 +1,6 @@
-# DataTalks.Club Zoomcamps Notes and FAQ
+# DataTalks.Club Zoomcamps Notes
 
-A comprehensive collection of notes, FAQ, and resources for the DataTalks.Club Zoomcamps, our free courses on data engineering, machine learning, and analytics.
+This website is currently under development and contains community-contributed notes and resources. Content is being actively added and improved by DataTalks.Club community.
 
 | Course | Duration | Next Cohort | Description | Register | Repository |
 |:---|:---:|:---:|:---|:---:|:---:|
