@@ -8,7 +8,7 @@ nav_order: 0
 
 ## 1. Access Your Learning Materials
 
-Start by visiting the [ML Zoomcamp GitHub repository](https://github.com/DataTalksClub/machine-learning-zoomcamp) and **starring it** ⭐. All course materials are in this repository, with each module having its own folder (for example, `01-intro` or `03-classification`). Cohort-specific homework and deadlines are located in `cohorts/2025`.
+Start by visiting the [ML Zoomcamp GitHub repository](https://github.com/DataTalksClub/machine-learning-zoomcamp) and **starring it** ⭐. All course materials are in this repository, with each module having its own folder (for example, `01-intro` or `03-classification`). [Cohort-specific](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts) homework and deadlines are located in `cohorts/2025`.
 
 <div align="center">
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-github-structure.png' | relative_url }}" alt="Alt text" width="80%">
@@ -30,11 +30,11 @@ Finally, locate and bookmark the [FAQ Website](https://datatalks.club/faq/machin
 
 The course has **no regular live sessions** except for occasional intro streams, supporting self-paced learning.
 
-While you can progress ahead of schedule, projects have deadlines to maintain cohort synchronization.
+While you can progress ahead of [schedule](https://courses.datatalks.club/ml-zoomcamp-2025/), projects have deadlines to maintain cohort synchronization. Learn more about the complete learning path in our [Course Curriculum](curriculum.html) and understand [Assignments and Scoring](assignments-and-scoring.html) requirements.
 
 ## 3. Technical Setup
 
-Before diving into the coursework, ensure you have the necessary technical foundation. You'll need basic **Python knowledge** and comfort with the **command line, Git, and Docker**. Create a **GitHub account** where you'll publish all your homework code—detailed setup instructions are covered in the Prerequisites section.
+Before diving into the coursework, ensure you have the necessary technical foundation. You'll need basic **Python knowledge** and comfort with the **command line, Git, and Docker**. Create a **GitHub account** where you'll publish all your homework code—detailed setup instructions are covered in our [Prerequisites](prerequisites.html) guide.
 
 ## 4. Join the Learning Community
 
@@ -44,7 +44,7 @@ Connect with the vibrant ML Zoomcamp community to enhance your learning experien
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-slack.png' | relative_url }}" alt="Alt text" width="80%">
 </div>
 
-Consider also joining the **Telegram Channel** for course announcements. While optional, it's highly recommended for receiving important updates and staying connected with course developments.
+Consider also joining the [Telegram Channel](https://t.me/mlzoomcamp) for course announcements. While optional, it's highly recommended for receiving important updates and staying connected with course developments.
 
 <div align="center">
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-telegram.png' | relative_url }}" alt="Alt text" width="80%">

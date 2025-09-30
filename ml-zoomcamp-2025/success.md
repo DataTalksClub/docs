@@ -24,7 +24,7 @@ Consider writing blog posts about concepts you've mastered or challenges you've 
 
 Active learning is crucial for this hands-on course. Code along with lectures and experiment with variations to test your understanding. For instance, when working through the car price prediction in Module 2, try different features or preprocessing techniques to see how they affect model performance.
 
-Homework is published under `cohorts/2025/{module}` in the course GitHub repository, with submission forms shared in Slack. While homework doesn't count toward certification, completing assignments on time helps gauge your comprehension. After each deadline passes, the submission form closes automatically.
+Homework is published under `cohorts/2025/{module}` in the course GitHub repository, with submission forms shared in Slack. While homework doesn't count toward certification, completing assignments on time helps gauge your comprehension. Learn more in our [Assignments and Scoring](assignments-and-scoring.html) guide. After each deadline passes, the submission form closes automatically.
 
 Publish all your code to public GitHub repositories with clear documentation and meaningful commit messages like `feat: implement logistic regression for churn prediction` rather than generic `homework submission`.
 
@@ -40,4 +40,4 @@ Use meaningful repository names that describe the project's purpose: `telecom-ch
 
 Set up your development environment early using **Anaconda** (especially for Windows) and the **UV package manager** for virtual environments. Document your setup process with specific versions and commands. Use version control for all projects from the beginning.
 
-Time management becomes critical as the course progresses. Each project follows a structured timeline: **2 weeks for development** followed by **1 week for peer reviews** (you must review 3 projects for each one you submit). The earliest you can receive your certificate is **January 2025**. Start homework assignments early in the week to avoid deadline pressure.
+Time management becomes critical as the course progresses. Each project follows a structured timeline: **2 weeks for development** followed by **1 week for peer reviews** (you must review 3 projects for each one you submit). Learn more about project requirements in [Certification and Projects](certification.html). The earliest you can receive your certificate is **January 2025**. Start homework assignments early in the week to avoid deadline pressure.

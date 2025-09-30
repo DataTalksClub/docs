@@ -34,4 +34,4 @@ The **earliest you can receive your certificate is January 2025**, which comes a
 
 To clarify expectations, only two elements are strictly **required for certification**: completing 2 out of 3 projects with deployments, and conducting peer reviews (3 reviews per project you submit).
 
-However, several activities are **optional but highly recommended** for your learning success. Homework assignments provide excellent practice and help solidify concepts, even though they don't directly impact certification. Learning in public activities and active community participation, while optional, significantly enhance your learning experience and can lead to career opportunities.
+However, several activities are **optional but highly recommended** for your learning success. [Homework assignments](assignments-and-scoring.html) provide excellent practice and help solidify concepts, even though they don't directly impact certification. Learning in public activities and active community participation, while optional, significantly enhance your learning experience and can lead to career opportunities.

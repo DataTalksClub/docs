@@ -10,4 +10,3 @@ has_children: true
 {: .fs-9 }
 
 Welcome to the **5th edition** of the Machine Learning Zoomcamp, a completely **free, hands-on course** that attracts thousands of participants each year. This comprehensive guide will walk you through everything you need to know to get started and successfully complete the course.
-
