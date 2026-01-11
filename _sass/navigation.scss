@@ -67,8 +67,11 @@
 
     .nav-list-expander {
       position: absolute;
+      top: 0;
       @if $nav-list-expander-right {
         right: 0;
+      } @else {
+        left: 0;
       }
 
       width: $nav-list-item-height-sm;
