@@ -1,6 +1,6 @@
 ---
 title: "6. Getting Help Effectively"
-parent: "Machine Learning Zoomcamp 2025"
+parent: Machine Learning Zoomcamp
 nav_order: 5
 ---
 

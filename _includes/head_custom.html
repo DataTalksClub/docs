@@ -1,0 +1,16 @@
+<script>
+window.addEventListener('load', function() {
+  var currentHost = window.location.hostname;
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    var link = links[i];
+    if (link.href && link.href.indexOf('http') === 0) {
+      var linkHost = link.hostname;
+      if (linkHost !== currentHost) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  }
+});
+</script>

@@ -1,6 +1,6 @@
 ---
 title: "8. Additional Resources and Support"
-parent: "Machine Learning Zoomcamp 2025"
+parent: Machine Learning Zoomcamp
 nav_order: 7
 ---
 

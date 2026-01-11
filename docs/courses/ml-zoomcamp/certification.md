@@ -1,6 +1,6 @@
 ---
 title: "5. Certification and Projects"
-parent: "Machine Learning Zoomcamp 2025"
+parent: Machine Learning Zoomcamp
 nav_order: 4
 ---
 

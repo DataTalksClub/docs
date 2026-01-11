@@ -1,6 +1,6 @@
 ---
 title: "2. Course Curriculum"
-parent: "Machine Learning Zoomcamp 2025"
+parent: Machine Learning Zoomcamp
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "3. What's New in 2025"
-parent: "Machine Learning Zoomcamp 2025"
+parent: Machine Learning Zoomcamp
 nav_order: 2
 ---
 

@@ -30,11 +30,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-  - scope:
-      path: "ml-zoomcamp-2025"
-      type: "pages"
-    values:
-      layout: "default"
+
 
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
@@ -65,6 +61,11 @@ exclude:
   - fixtures/
   - _private
   - _private/**
+  # Project files not meant for site
+  - CLAUDE.md
+  - AGENTS.md
+  - Makefile
+  - .claude/
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "assets/images/dtc-logo.png"

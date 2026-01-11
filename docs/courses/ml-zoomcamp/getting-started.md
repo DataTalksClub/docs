@@ -1,6 +1,6 @@
 ---
 title: "1. Your First Actions"
-parent: "Machine Learning Zoomcamp 2025"
+parent: Machine Learning Zoomcamp
 nav_order: 0
 ---
 

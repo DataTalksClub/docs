@@ -23,6 +23,32 @@ This website is currently under development and contains community-contributed n
 
 </div>
 
+## Running Locally
+
+This site is built with [Jekyll](https://jekyllrb.com/). To run it locally:
+
+### Using Make (recommended)
+
+```bash
+make install   # Install dependencies (first time only)
+make serve     # Start the development server at http://localhost:4000
+```
+
+Available make targets:
+- `make help` - Show all available targets
+- `make install` - Install Ruby dependencies via Bundler
+- `make serve` - Start Jekyll development server
+- `make serve-livereload` - Start server with live reload
+- `make build` - Build the site for production
+- `make clean` - Remove generated files and caches
+
+### Manual commands
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
 ## What's in this Repository
 
 - **Course Notes**: Detailed notes from each course session
