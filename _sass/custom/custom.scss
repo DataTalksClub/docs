@@ -1,5 +1,10 @@
 // custom SCSS (or CSS) goes here
 
+// Fix for mobile menu accordion - make expander buttons clickable
+.nav-list-expander {
+  cursor: pointer;
+}
+
 // Vocabulary term link styles
 .vocab-term-link {
   position: relative;
