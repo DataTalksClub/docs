@@ -1,6 +1,7 @@
 ---
 title: "FAQ"
-nav_order: 5
+nav_order: 100
+parent: Courses
 has_children: false
 ---
 

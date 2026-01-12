@@ -34,12 +34,12 @@ Welcome to the DataTalks.Club Zoomcamps Notes repository! This is a community-dr
 1. **Fork the Repository**: Click the "Fork" button on the main repository page
 2. **Clone Your Fork**: 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/zoomcamps-notes-faq.git
-   cd zoomcamps-notes-faq
+   git clone https://github.com/YOUR_USERNAME/docs.git
+   cd docs
    ```
 3. **Add Upstream Remote**:
    ```bash
-   git remote add upstream https://github.com/DataTalksClub/zoomcamps-notes-faq.git
+   git remote add upstream https://github.com/DataTalksClub/docs.git
    ```
 
 ### 2. Making Changes
