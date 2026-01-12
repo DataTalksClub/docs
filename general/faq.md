@@ -1,7 +1,8 @@
 ---
 title: "FAQ"
-nav_order: 100
-parent: Courses
+layout: default
+nav_order: 2
+parent: General
 has_children: false
 ---
 
@@ -60,15 +61,18 @@ Any modern computer with internet access will work. All coursework can be done u
 
 ### Where can I ask questions?
 
-Join our [Slack community](https://datatalks.club/slack.html) and ask questions in the course-specific channels.
+Join our [Slack community](https://datatalks.club/slack) and ask questions in the course-specific channels.
 
 ### Is there a course FAQ?
 
 Yes! Each course has a comprehensive FAQ:
-- [ML Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html)
-- [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html)
-- [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp.html)
+- [ML Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp/)
+- [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp/)
+- [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp/)
+- [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp/)
+
+See the [Course FAQ]({{ '/courses/faq/' | relative_url }}) for information about contributing to the FAQ repository.
 
 ## Still Have Questions?
 
-Feel free to ask in our Slack community or contact us at [info@datatalks.club](mailto:info@datatalks.club)
+Feel free to ask in our Slack community.

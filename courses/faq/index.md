@@ -1,18 +1,16 @@
 ---
-title: "FAQ"
+title: "Course FAQ Repository"
 layout: default
-nav_order: 100
+nav_order: 50
 has_children: false
 parent: Courses
 ---
 
-# Course FAQ
+# Course FAQ Repository
 
 The DataTalks.Club FAQ contains answers to frequently asked questions from the community. Each course has its own comprehensive FAQ covering general questions, module-specific topics, and technical issues.
 
 [Visit the FAQ website](https://datatalks.club/faq/)
-
-<img src="{{ '/assets/images/data-engineering-zoomcamp/launch/leaderboard.jpg' | relative_url }}" alt="DataTalks.Club FAQ" width="80%">
 
 ## Available Course FAQs
 
@@ -30,6 +28,8 @@ Each course FAQ is organized by:
 - Technical issues and solutions
 - Code examples and explanations
 - Links to documentation and resources
+
+For general questions about courses (registration, time commitment, etc.), see the [General FAQ]({{ '/general/faq/' | relative_url }}).
 
 ## Contributing to the FAQ
 
