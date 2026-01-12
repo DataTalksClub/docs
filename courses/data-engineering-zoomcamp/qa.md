@@ -8,10 +8,6 @@ has_children: false
 
 # Questions & Answers
 
-> [View the general DataTalks.Club FAQ](/notes/general/faq/)
-
-For more general questions about DataTalks.Club courses, visit the main FAQ page.
-
 ## Why Google Cloud Platform instead of AWS/Azure?
 
 Key reasons:

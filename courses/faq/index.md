@@ -1,7 +1,7 @@
 ---
-title: "Course FAQ Repository"
+title: "Course FAQ"
 layout: default
-nav_order: 50
+nav_order: 999
 has_children: false
 parent: Courses
 ---
@@ -28,8 +28,6 @@ Each course FAQ is organized by:
 - Technical issues and solutions
 - Code examples and explanations
 - Links to documentation and resources
-
-For general questions about courses (registration, time commitment, etc.), see the [General FAQ]({{ '/general/faq/' | relative_url }}).
 
 ## Contributing to the FAQ
 

@@ -28,7 +28,7 @@ The platform hosts multiple zoomcamps:
 
 If you encounter any issues with the platform:
 
-1. Check the [course FAQ]({{ '/general/faq/' | relative_url }})
+1. Check the [course FAQ]({{ '/courses/faq/' | relative_url }})
 2. Ask in [`#course-management-platform`](https://app.slack.com/client/T01ATQK62F8/C06EKF95CQ3) channel on Slack (see [Slack guide]({{ '/general/slack/' | relative_url }}) for more channels)
 3. [Create an issue](https://github.com/DataTalksClub/course-management-platform/issues) on GitHub
 
