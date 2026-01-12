@@ -12,15 +12,13 @@ The course management platform is where you submit homework, track your progress
 
 [courses.datatalks.club/de-zoomcamp-2026](https://courses.datatalks.club/de-zoomcamp-2026/)
 
-![Course platform interface](/notes/assets/images/data-engineering-zoomcamp/launch/course-platform.jpg)
+<img src="{{ '/assets/images/data-engineering-zoomcamp/launch/course-platform.jpg' | relative_url }}" alt="Course platform interface" width="80%">
 
-## What You'll Find Here
+You'll find there:
 
 - Homework submission links and deadlines
-- Project milestone dates
-- Peer review periods
-- Office hours schedules
-- Important course announcements
-- Progress tracking and leaderboard
+- Project submission forms and deadlines
+- Progress tracking
+- Leaderboard
 
-The platform is your central hub for staying on track with the 2026 cohort.
+For more information about the course management platform, see the [platform documentation]({{ '/courses/course-management-platform/' | relative_url }}).

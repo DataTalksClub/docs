@@ -1,8 +1,8 @@
 ---
 title: "Certification"
 layout: default
-nav_order: 9
-parent: Data Engineering Zoomcamp
+nav_order: 7
+parent: Logistics
 has_children: false
 ---
 
@@ -10,23 +10,13 @@ has_children: false
 
 ## How to Earn Your Certificate
 
-To earn a certificate, you must:
+Complete the [final project]({{ '/courses/data-engineering-zoomcamp/logistics/projects/' | relative_url }}) and participate in peer reviews.
 
-### 1. Complete the Final Project Successfully
+That's the only requirement.
 
-Build your own data pipeline resulting in a dashboard. You choose:
-- The dataset
-- The tools (batch/streaming/mix)
-- The data warehouse destination
+The final project demonstrates your practical skills by building an end-to-end data pipeline with a dashboard. You choose the dataset, tools, and approach.
 
-The project demonstrates your practical skills and is the primary requirement for graduation.
-
-### 2. Participate in Peer Reviews
-
-Review 3 other projects from your cohort. This helps you:
-- Learn from different approaches
-- See how others solved similar problems
-- Contribute back to the community
+After submitting, review 3 projects from your cohort to complete the peer review requirement.
 
 ## What's NOT Required
 
@@ -35,6 +25,8 @@ Review 3 other projects from your cohort. This helps you:
 - No final exam. Your project speaks for itself.
 
 ## Your Certificate
+
+<img src="{{ '/assets/images/data-engineering-zoomcamp/certificate.png' | relative_url }}" alt="Data Engineering Zoomcamp Certificate" width="60%">
 
 Upon successful completion:
 - You'll receive a certificate of completion

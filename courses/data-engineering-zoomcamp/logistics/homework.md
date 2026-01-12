@@ -1,8 +1,8 @@
 ---
-title: "Homework & Quizzes"
+title: "Homework"
 layout: default
-nav_order: 5
-parent: Data Engineering Zoomcamp
+nav_order: 1
+parent: Logistics
 has_children: false
 ---
 
@@ -10,7 +10,7 @@ has_children: false
 
 Each module has a homework assignment with multiple-choice questions. Submit answers through the Course Management Platform.
 
-![Course platform homework interface](/notes/assets/images/data-engineering-zoomcamp/launch/course-platform.jpg)
+<img src="{{ '/assets/images/data-engineering-zoomcamp/launch/course-platform.jpg' | relative_url }}" alt="Course platform homework interface" width="80%">
 
 ## Homework Purpose
 

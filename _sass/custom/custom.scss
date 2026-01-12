@@ -87,10 +87,14 @@ p, li, h1, h2, h3, h4, h5, h6 {
   .main-content {
     flex: 1;
     max-width: 100%;
-    
+
     @media (min-width: 50rem) {
       max-width: 75%;
       padding-right: 2rem;
+    }
+
+    h3 {
+      margin-bottom: 1rem;
     }
   }
   

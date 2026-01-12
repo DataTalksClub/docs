@@ -1,18 +1,16 @@
 ---
-title: "Curriculum"
+title: "Deadlines"
 layout: default
-nav_order: 4
-parent: Data Engineering Zoomcamp
+nav_order: 2
+parent: Logistics
 has_children: false
 ---
 
-# Course Curriculum
+# Deadlines & Schedule
 
-> For the most up-to-date curriculum, visit the [GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).
+For the most up-to-date curriculum, visit the [GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main) or see the [GitHub resources page]({{ '/courses/data-engineering-zoomcamp/resources/github/' | relative_url }}) for the repository structure.
 
-## Course Content
-
-The course content is delivered through multiple formats to accommodate different learning styles and schedules:
+The course content is delivered through multiple formats:
 
 - Pre-recorded videos on the DataTalks.Club YouTube channel
 - Office hours recordings available from previous cohorts
@@ -22,11 +20,11 @@ All videos are free to access and can be watched at your own pace.
 
 ## Schedule & Deadlines
 
-For the 2026 cohort schedule, homework deadlines, and important dates, visit the course management platform:
+For the 2026 cohort schedule, homework deadlines, and important dates, visit the course management platform. See the [platform documentation]({{ '/courses/data-engineering-zoomcamp/resources/course-platform/' | relative_url }}) for more information.
 
 [courses.datatalks.club/de-zoomcamp-2026](https://courses.datatalks.club/de-zoomcamp-2026/)
 
-![Course schedule on the management platform](/notes/assets/images/data-engineering-zoomcamp/cmp-schedule.png)
+<img src="{{ '/assets/images/data-engineering-zoomcamp/cmp-schedule.png' | relative_url }}" alt="Course schedule on the management platform" width="80%">
 
 This is where we keep all deadlines for homework submissions, project milestones, peer review periods, office hours schedules, and important course announcements.
 
@@ -82,12 +80,3 @@ Distributed batch processing for large-scale data using PySpark.
 [View on GitHub](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/06-streaming)
 
 Apache Kafka and Apache Flink for real-time stream processing.
-
-### The Final Project
-
-[View on GitHub](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/projects)
-
-For two weeks, you'll build your own data pipeline resulting in a dashboard. You choose:
-- The dataset
-- The tools (batch/streaming/mix)
-- The data warehouse destination

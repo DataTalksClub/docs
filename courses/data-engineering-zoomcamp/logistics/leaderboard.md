@@ -1,8 +1,8 @@
 ---
 title: "Leaderboard"
 layout: default
-nav_order: 7
-parent: Data Engineering Zoomcamp
+nav_order: 4
+parent: Logistics
 has_children: false
 ---
 
@@ -15,6 +15,6 @@ A gamified element where students earn points for:
 - FAQ contributions (+1 point each)
 - Project completion
 
-![Student leaderboard](/notes/assets/images/data-engineering-zoomcamp/launch/leaderboard.jpg)
+<img src="{{ '/assets/images/data-engineering-zoomcamp/launch/leaderboard.jpg' | relative_url }}" alt="Student leaderboard" width="80%">
 
 The leaderboard creates friendly competition and encourages consistent participation throughout the course.

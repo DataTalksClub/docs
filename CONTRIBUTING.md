@@ -11,12 +11,12 @@ When adding images to your markdown files, please follow these guidelines:
 
 **Correct Image Reference:**
 ```markdown
-![Image Description](/notes/assets/images/your-path/image.png)
+<img src="{{ '/assets/images/your-path/image.png' | relative_url }}" alt="Image Description" width="80%">
 ```
 
 **Incorrect Image Reference:**
 ```markdown
-![Image Description](/assets/images/your-path/image.png)
+![Image Description](/notes/assets/images/your-path/image.png)
 ```
 
 This is necessary because the site is configured with a baseurl of `/notes` in the `_config.yml` file. Without this prefix, images will not display correctly when the site is deployed.
