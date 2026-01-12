@@ -22,6 +22,11 @@ vendor/
 # We use Node.js as our runtime, so we ignore node_modules
 node_modules
 
+# Playwright test results and artifacts
+test-results/
+playwright-report/
+playwright/.cache/
+
 # .DS_Store is a macOS-only metadata file about directories. Convention is to not commit them.
 # See: https://en.wikipedia.org/wiki/.DS_Store
 .DS_Store
