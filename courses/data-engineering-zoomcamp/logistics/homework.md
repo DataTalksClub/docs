@@ -8,7 +8,7 @@ has_children: false
 
 # Homework & Quizzes
 
-Each module has a homework assignment with multiple-choice questions. Submit answers through the Course Management Platform.
+Each module has a homework assignment with multiple-choice questions. Submit answers through the [Course Management Platform]({{ '/courses/course-management-platform/' | relative_url }}).
 
 <img src="{{ '/assets/images/data-engineering-zoomcamp/launch/course-platform.jpg' | relative_url }}" alt="Course platform homework interface" width="80%">
 

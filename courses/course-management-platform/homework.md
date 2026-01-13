@@ -35,7 +35,7 @@ The homework submission form includes:
 You can earn additional leaderboard points beyond homework answers:
 
 - FAQ contributions - Share valuable insights from your learning journey. Accepted entries are added to the [Course FAQ]({{ '/courses/faq/' | relative_url }}) and earn points.
-- Learning in public - Share your progress on social media and submit the link. See [Learning in Public]({{ '/general/learning-in-public/' | relative_url }}) for guidance.
+- Learning in public - Share your progress on social media and submit the link.
 
 ## How It Works
 

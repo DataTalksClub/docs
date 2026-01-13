@@ -176,12 +176,22 @@ p, li, h1, h2, h3, h4, h5, h6 {
   .page-toc-inner {
     background-color: #2d333b;
   }
-  
+
   .toc-link {
     color: #adbac7;
-    
+
     &:hover {
       color: $link-color;
     }
   }
+}
+
+// Reduce line height in code blocks
+.highlight pre,
+.highlight .table-wrapper pre,
+.highlight .table-wrapper td pre,
+.highlight code,
+pre.highlight,
+pre code {
+  line-height: 1.5 !important;
 }
