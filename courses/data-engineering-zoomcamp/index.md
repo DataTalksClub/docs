@@ -15,6 +15,6 @@ The course runs for 10 weeks: 7 weeks of modules plus 3 weeks for the final proj
 
 <img src="{{ '/assets/images/data-engineering-zoomcamp/de-zoomcamp-2025.jpg' | relative_url }}" alt="Data Engineering Zoomcamp" width="80%">
 
-See the [full curriculum](curriculum/) for detailed module information.
+See the [GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main) for the full curriculum and detailed module information.
 
 No previous data engineering experience required. Join thousands of students learning data engineering together.
