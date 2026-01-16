@@ -14,10 +14,10 @@ The DataTalks.Club FAQ contains answers to frequently asked questions from the c
 
 ## Available Course FAQs
 
-- [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp/)
-- [Machine Learning Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp/)
-- [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp/)
-- [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp/)
+- [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html)
+- [Machine Learning Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html)
+- [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp.html)
+- [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html)
 
 ## What's Inside
 
