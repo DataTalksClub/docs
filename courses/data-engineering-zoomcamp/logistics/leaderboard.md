@@ -8,16 +8,13 @@ has_children: false
 
 # The Leaderboard
 
-A gamified element where students earn points for:
-
-- Correct [homework]({{ '/courses/data-engineering-zoomcamp/logistics/homework/' | relative_url }}) answers (+1 point each)
-- [Learning in public]({{ '/courses/data-engineering-zoomcamp/logistics/learning-in-public/' | relative_url }}) links (+1 point each)
-- [FAQ]({{ '/courses/faq/' | relative_url }}) contributions (+1 point each)
-- [Project]({{ '/courses/data-engineering-zoomcamp/logistics/projects/' | relative_url }}) completion
+Earn points by completing homework, sharing your learning publicly, contributing to the FAQ, and finishing your project. See [how the leaderboard works]({{ '/courses/course-management-platform/leaderboard/' | relative_url }}) for the full points breakdown.
 
 <img src="{{ '/assets/images/data-engineering-zoomcamp/launch/leaderboard.jpg' | relative_url }}" alt="Student leaderboard" width="80%">
 
 The leaderboard creates friendly competition and encourages consistent participation throughout the course.
+
+Only submit links to your own social media posts about the course when earning learning in public points. Submitting unrelated links will result in losing all learning in public points. See the [misuse policy]({{ '/courses/course-management-platform/learning-in-public/' | relative_url }}) for details.
 
 This is totally optional. The leaderboard is just for fun. You can completely ignore it and still get everything you need from this course. The main goal is for you to learn data engineering.
 

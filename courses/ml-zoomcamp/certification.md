@@ -14,7 +14,7 @@ nav_order: 4
 
 Earning your ML Zoomcamp certificate requires completing a specific combination of projects rather than achieving a particular grade. You must **pass 2 out of 3 available projects**, giving you flexibility in choosing your path. You can complete either the midterm project plus the final capstone project, or the final capstone project plus a second capstone project.
 
-For each project you submit, you're required to **complete peer reviews** by evaluating 3 of your fellow students' projects. This peer review process is mandatory and helps reinforce your learning while contributing to the community.
+For each project you submit, you're required to complete peer reviews by evaluating 3 of your fellow students' projects. See the [peer review guide]({{ '/courses/course-management-platform/peer-review/' | relative_url }}) for the evaluation process and tips.
 
 All your projects must include **working deployed models**. This means you can't just build a model—you need to make it accessible through deployment, demonstrating real-world ML engineering skills.
 

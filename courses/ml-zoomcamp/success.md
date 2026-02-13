@@ -12,11 +12,9 @@ Most importantly, approach every project as a **portfolio piece** that should be
 
 ## Learning in Public
 
-Share your progress regularly on LinkedIn and Twitter using the #mlzoomcamp hashtag, and tag Alexey Grigorev and DataTalks.Club in your posts. The **leaderboard system** at [courses.datatalks.club/ml-zoomcamp-2025/leaderboard](https://courses.datatalks.club/ml-zoomcamp-2025/leaderboard) awards points for homework completion, FAQ contributions, and resource sharing.
+Share your progress regularly on LinkedIn and Twitter using the #mlzoomcamp hashtag, and tag Alexey Grigorev and DataTalks.Club in your posts. Each link you submit earns points on the [leaderboard]({{ '/courses/course-management-platform/leaderboard/' | relative_url }}). See the [learning in public guide]({{ '/courses/course-management-platform/learning-in-public/' | relative_url }}) for submission details and rules.
 
-<div align="center">
-  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-leaderboard.png' | relative_url }}" alt="Alt text" width="80%">
-</div>
+Only submit links to your own social media posts about the course. Submitting unrelated links - documentation pages, random articles, other people's content - will result in losing all learning in public points. See the [misuse policy]({{ '/courses/course-management-platform/learning-in-public/' | relative_url }}) for details.
 
 Consider writing blog posts about concepts you've mastered or challenges you've overcome. Examples include "Understanding Cross-Validation in Module 4" or "My Journey Deploying a FastAPI Model." Posts about struggles like "3 Deployment Failures That Taught Me Docker Basics" are often more valuable than success stories. When you feel confident in a topic, answer questions in Slack—teaching others solidifies your own knowledge.
 

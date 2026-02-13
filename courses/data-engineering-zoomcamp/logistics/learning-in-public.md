@@ -40,15 +40,9 @@ Share your progress:
 3. Include the course hashtag (`#dezoomcamp`)
 4. Submit your post link through the course platform to earn leaderboard points
 
-<img src="{{ '/assets/images/course-management-platform/learning-in-public-links.png' | relative_url }}" alt="Learning in public links section in course platform" width="80%">
+Submit your post links through the course platform when completing homework, projects, or peer reviews. Each link earns you 1 extra point on the [leaderboard]({{ '/courses/data-engineering-zoomcamp/logistics/leaderboard/' | relative_url }}). See the [learning in public platform guide]({{ '/courses/course-management-platform/learning-in-public/' | relative_url }}) for details on link limits, valid links, and submission mechanics.
 
-When submitting homework, projects, or peer reviews, you'll find a "Learning in public links" section. Add your social media post URLs here to earn extra points:
-
-- Up to 7 links for homework submissions
-- Up to 14 links for project submissions
-- Up to 2 links for peer reviews
-
-Each link earns you 1 extra point on the [leaderboard]({{ '/courses/data-engineering-zoomcamp/logistics/leaderboard/' | relative_url }}).
+Only submit links to your own social media posts about the course. Submitting unrelated links - documentation pages, random articles, other people's content - will result in losing all learning in public points and having this feature permanently disabled. If you see someone misusing the system, report it in the course Slack channel.
 
 ### Why Extra Points?
 

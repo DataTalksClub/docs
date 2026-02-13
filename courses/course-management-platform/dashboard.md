@@ -1,7 +1,7 @@
 ---
 title: "Dashboard"
 layout: default
-nav_order: 6
+nav_order: 7
 parent: Course Management Platform
 has_children: false
 ---

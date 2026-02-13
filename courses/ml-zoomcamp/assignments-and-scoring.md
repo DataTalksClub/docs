@@ -44,4 +44,6 @@ Submissions also appear on the [leaderboard](https://courses.datatalks.club/ml-z
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-leaderboard.png' | relative_url }}" alt="Alt text" width="80%">
 </div>
 
-You can also gain extra points by sharing your learning publicly with the hashtag `#mlzoomcamp` and tagging Alexey Grigorev or DataTalksClub.
+See [how the leaderboard works]({{ '/courses/course-management-platform/leaderboard/' | relative_url }}) for details on earning points through homework, learning in public, and FAQ contributions.
+
+Only submit links to your own social media posts about the course when earning learning in public points. Submitting unrelated links will result in losing all learning in public points. See the [misuse policy]({{ '/courses/course-management-platform/learning-in-public/' | relative_url }}) for details.

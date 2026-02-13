@@ -35,7 +35,7 @@ Create a dashboard with at least two visualizations. Use Looker Studio, Streamli
 
 ## Evaluation
 
-Peer review is mandatory to pass the project. After submitting, you must review 3 projects from your cohort.
+Peer review is mandatory to pass the project. After submitting, you must review 3 projects from your cohort. See the [peer review guide]({{ '/courses/course-management-platform/peer-review/' | relative_url }}) for evaluation tips and process details.
 
 Your project will be assessed on:
 
