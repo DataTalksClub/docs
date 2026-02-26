@@ -16,7 +16,7 @@ theme: just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DataTalks.Club Zoomcamps Notes and Resources
+title: DataTalks.Club Documentation
 description: A collection of notes and resources for the DataTalks.Club Zoomcamps, our free courses.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datatalks.club" # the base hostname & protocol for your site, e.g. http://example.com

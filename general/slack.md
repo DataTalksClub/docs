@@ -1,7 +1,7 @@
 ---
 title: "Slack"
 layout: default
-nav_order: 3
+nav_order: 1
 parent: General
 has_children: false
 ---
