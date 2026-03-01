@@ -33,6 +33,12 @@ You decide:
 
 Create a dashboard with at least two visualizations. Use Looker Studio, Streamlit, or any BI tool.
 
+## Submission
+
+You get 2 attempts to submit your project. If you fail the first attempt or need more time, you can use the second attempt. See the [project submission guide]({{ '/courses/course-management-platform/projects/' | relative_url }}) for details on how to submit, commit IDs, certificate name, and other platform mechanics.
+
+You are not restricted to the technologies covered in the course. If the course uses GCP, you are free to use AWS, Azure, or anything else. If you use tools outside the course content, make sure to document everything in detail so your peer reviewers can understand your choices.
+
 ## Evaluation
 
 Peer review is mandatory to pass the project. After submitting, you must review 3 projects from your cohort. See the [peer review guide]({{ '/courses/course-management-platform/peer-review/' | relative_url }}) for evaluation tips and process details.

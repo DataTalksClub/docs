@@ -35,3 +35,9 @@ The **earliest you can receive your certificate is January 2025**, which comes a
 To clarify expectations, only two elements are strictly **required for certification**: completing 2 out of 3 projects with deployments, and conducting peer reviews (3 reviews per project you submit).
 
 However, several activities are **optional but highly recommended** for your learning success. [Homework assignments](assignments-and-scoring.html) provide excellent practice and help solidify concepts, even though they don't directly impact certification. Learning in public activities and active community participation, while optional, significantly enhance your learning experience and can lead to career opportunities.
+
+## 4. Project Submission and Technology Choices
+
+See the [project submission guide]({{ '/courses/course-management-platform/projects/' | relative_url }}) for details on how to submit your project, commit IDs, certificate name settings, and other platform mechanics.
+
+You are not restricted to the technologies covered in the course. If the course uses a specific framework or cloud provider, you can use alternatives. However, if you use something outside the course content, describe everything with as many details as possible - your peer reviewers need full context to evaluate technologies they may not know.

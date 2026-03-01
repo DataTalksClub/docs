@@ -17,6 +17,8 @@ Peer review is a mandatory part of the project. After submitting your project, r
 3. Evaluate each project based on criteria
 4. Provide constructive feedback
 
+<img src="{{ '/assets/images/course-management-platform/peer-review-assignment.jpg' | relative_url }}" alt="Peer review assignment showing 3 projects to evaluate" width="80%">
+
 ## Why Peer Review
 
 - Learn from different approaches and solutions
@@ -27,6 +29,8 @@ Peer review is a mandatory part of the project. After submitting your project, r
 ## Evaluation Criteria
 
 Each course has its own evaluation criteria. The platform will display the specific rubric when reviewing. Criteria typically assess project quality, documentation, and reproducibility.
+
+<img src="{{ '/assets/images/course-management-platform/peer-review-evaluation.jpg' | relative_url }}" alt="Peer review evaluation form with criteria" width="80%">
 
 ## Tips for Good Reviews
 
