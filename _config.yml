@@ -59,8 +59,6 @@ exclude:
   - Dockerfile
   # theme test code
   - fixtures/
-  - _private
-  - _private/**
   # Project files not meant for site
   - CLAUDE.md
   - AGENTS.md

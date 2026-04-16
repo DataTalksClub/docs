@@ -1,7 +1,0 @@
----
-title: "5. Serving TensorFlow models with KServe"
-parent: "Module 11: KServe"
-nav_order: 5
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iXwQb2LRKGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
