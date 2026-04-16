@@ -35,7 +35,7 @@ Typically, you prepare the workshop yourself. In some cases, Alexey can prepare 
 
 - [How to Evaluate MCP-powered AI Agents Beyond Accuracy using Agent GPA - Josh Reini](https://www.youtube.com/watch?v=oMmJvlNuDZE)
 - [From APIs to Warehouses: AI-Assisted Data Ingestion with dlt - Aashish Nair](https://www.youtube.com/watch?v=5eMytPBgmVs)
-- [Build a Production-Ready YouTube AI Agent with Temporal | Step-by-Step Tutorial](https://www.youtube.com/watch?v=N1gaI3Qz6vw) - example where Alexey prepared the workshop
+- [Build a Production-Ready YouTube AI Agent with Temporal - Step-by-Step Tutorial](https://www.youtube.com/watch?v=N1gaI3Qz6vw) - example where Alexey prepared the workshop
 
 ### Preparation
 
