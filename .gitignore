@@ -36,3 +36,6 @@ playwright/.cache/
 *.gem
 .bundle
 .ruby-version
+
+
+slack

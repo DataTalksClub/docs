@@ -5,6 +5,7 @@ gem "jekyll", "~> 4.4.0"
 
 gem "base64"
 gem "csv"
+gem "bigdecimal", "~> 3.1.9"
 
 gem "jekyll-github-metadata", ">= 2.15"
 gem "jekyll-include-cache", group: :jekyll_plugins
