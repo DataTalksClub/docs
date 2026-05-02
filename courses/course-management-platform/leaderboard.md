@@ -8,42 +8,38 @@ has_children: false
 
 # Leaderboard
 
-Track your progress and see how you rank among other students in your cohort.
+This page covers the platform UI for the leaderboard. For what counts toward points and the misuse policy, see [Leaderboard and Learning in Public]({{ '/courses/zoomcamp-logistics/leaderboard/' | relative_url }}).
+
+## Where to find the leaderboard
+
+Each cohort has its own leaderboard page on the platform.
 
 <img src="{{ '/assets/images/course-management-platform/ml-leaderboard.png' | relative_url }}" alt="ML Zoomcamp leaderboard" width="80%">
 
-## How It Works
-
-The leaderboard displays a ranked table of all students in your cohort. Each row shows:
-
-- Student position and name
-- Total points earned
-- Progress bar showing course completion
-
-## How Points Work
-
-Earn points through:
-
-- Correct homework answers (+1 point each)
-- Learning in public links (+1 point each)
-- FAQ contributions (+1 point each)
-- Project completion
-- Peer reviews (+3 points each)
-
-## View Your Cohort Leaderboard
-
-Access the leaderboard from your course platform:
+Direct links per cohort:
 
 - [ML Zoomcamp 2025 leaderboard](https://courses.datatalks.club/ml-zoomcamp-2025/leaderboard)
 - [Data Engineering Zoomcamp 2026 leaderboard](https://courses.datatalks.club/de-zoomcamp-2026/leaderboard)
 
-## Purpose
+## What the leaderboard shows
 
-The leaderboard creates friendly competition and encourages consistent participation throughout the course. It's a way to:
+For each participant in the cohort:
 
-- Track your learning progress
-- See how you compare to peers
-- Stay motivated to complete modules
-- Celebrate your achievements
+- Position and display name (anonymous handles allowed).
+- Total points earned.
+- Progress bar showing course completion.
 
-Remember: The leaderboard is for motivation, not pressure. Focus on learning at your own pace.
+## Point values on the platform
+
+The platform awards points as follows:
+
+- Correct homework answers: +1 point each.
+- Learning in public links: +1 point each.
+- FAQ contributions: +1 point each (after acceptance into the public FAQ).
+- Peer reviews completed on time: +3 points each.
+- Project completion: variable, based on peer-review scoring.
+
+## See also
+
+- [Leaderboard and Learning in Public]({{ '/courses/zoomcamp-logistics/leaderboard/' | relative_url }}) for what counts and the misuse policy.
+- [Learning in Public]({{ '/courses/course-management-platform/learning-in-public/' | relative_url }}) for the platform UI for submitting links.

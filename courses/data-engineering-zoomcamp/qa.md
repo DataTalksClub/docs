@@ -1,69 +1,75 @@
 ---
 title: "Q&A"
 layout: default
-nav_order: 10
+nav_order: 9
 parent: Data Engineering Zoomcamp
 has_children: false
 ---
 
-# Questions & Answers
+# Questions and Answers
 
-## Why Google Cloud Platform instead of AWS/Azure?
+DE-specific questions. For general zoomcamp logistics (joining, deadlines, certificate, project flow), see [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}). For module-specific and technical issues, check the [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html).
 
-Key reasons:
+## Why Google Cloud Platform instead of AWS or Azure?
 
-1. $300 free credits for new accounts vs. AWS's limited free tier
-2. Better tool access. No service limitations during the free trial
-3. Historical compatibility. dbt worked better with BigQuery when the course launched
+Three reasons:
 
-For the project, you can use any cloud provider.
+- $300 free credits for new accounts. AWS's free tier is limited and many services exclude the free tier; Azure's $200 expires after 30 days. GCP gives the most generous credits with the fewest service restrictions.
+- No service limitations during the free trial. The course exercises all run on the free tier.
+- Historical compatibility. dbt worked better with BigQuery when the course launched, and the curriculum was built around the GCP stack.
+
+For the project, you can use any cloud. See [Environment Setup]({{ '/courses/data-engineering-zoomcamp/environment-setup/' | relative_url }}) for notes on alternatives.
 
 ## Can I get a DE job without a degree?
 
-Short answer: YES.
+Short answer: yes.
 
-Multiple success stories include:
-- Students who landed jobs through the course network
-- Bruno (no formal degree, now Senior DE at US companies)
-- Career switchers from analytics
+Multiple success stories from past cohorts:
 
-The key is:
-- Strong portfolio of projects
-- Networking (learning in public helps)
-- Consistency and going beyond basics
+- Students who landed jobs through the course network.
+- Bruno (no formal degree, now Senior DE at US companies).
+- Career switchers from analytics, support, and unrelated fields.
 
-## Is 31 "too old" to start?
+What works:
 
-Absolutely not. You're still early in your career. In Germany, many start at 30+ after extended education. The industry cares about skills, not age.
+- A strong portfolio of projects.
+- Networking (learning in public helps).
+- Consistency and going beyond the basics.
 
-Tip: Don't put age on your CV to avoid unconscious bias.
+## Is 31 (or 35, or 40) too old to start?
+
+No. In data engineering, the industry cares about skills, not age. In Germany, many DEs start their careers at 30+ after extended education. Career switchers from other engineering, finance, or analytics backgrounds are common.
+
+Tip: do not put your age on your CV to avoid unconscious bias.
 
 ## How much time does the course take?
 
-- 7 weeks for modules
-- 2-3 weeks for project
-- Plan for 10-15 hours per week for optimal results
+- Two weeks for Module 1, one week each for modules 2 to 6.
+- Two to three weeks for the project.
+- Plan for 10 to 15 hours per week.
 
-## What's NOT covered (the other 80%)?
+See [Prerequisites]({{ '/courses/data-engineering-zoomcamp/prerequisites/' | relative_url }}) for details.
 
-Bruno highlighted areas the course doesn't cover but working DEs encounter:
+## What is NOT covered (the other 80%)?
 
-- Polars: Modern pandas alternative for data manipulation
-- Delta Lake / Apache Iceberg: Advanced table formats for data lakes
-- Snowflake / Redshift / ClickHouse: Other data warehouses
-- dbt incremental models: Optimizing dbt for large datasets
-- Apache Flink: Real-time streaming (but Zak covers this in Module 6)
-- Data governance & catalogs: DataHub, Unity Catalog
+The course covers the essential 20% that handles 80% of real-world DE work. Areas the course does not cover that you will encounter in real DE jobs:
 
-The course covers the essential 20% that will handle 80% of real-world work. The rest comes with experience.
+- Polars: a modern pandas alternative for data manipulation.
+- Delta Lake / Apache Iceberg: advanced table formats for data lakes.
+- Snowflake / Redshift / ClickHouse: other data warehouses (the course uses BigQuery).
+- dbt incremental models: optimizing dbt for large datasets.
+- Apache Flink: real-time streaming. Module 6 introduces it but only briefly.
+- Data governance and catalogs: DataHub, Unity Catalog.
+- Databricks: increasingly common in industry but not in the course.
 
-## Final Thoughts
+The remaining 80% comes with experience in your first DE role.
+
+## Final thoughts
 
 Data engineering is a field that's "5 feet deep and 50 miles wide."
 
-Remember:
-- Ask questions (after checking the Q&A)
-- Learn in public
-- Help your peers in Slack
-- Don't get discouraged. It gets challenging.
+- Ask questions in Slack (after checking the FAQ and the Q+A in this section).
+- Learn in public.
+- Help your peers.
+- Do not get discouraged. It gets challenging.
 - You got this.

@@ -1,29 +1,41 @@
 ---
-title: "7. Prerequisites"
+title: "Prerequisites"
+layout: default
+nav_order: 1
 parent: Machine Learning Zoomcamp
-nav_order: 6
+has_children: false
 ---
 
 # Prerequisites
 
-## 1. Required Skills and Tools
+The Machine Learning Zoomcamp does not require prior ML experience. It does assume general programming literacy.
 
-To succeed in this course, you should have **strong programming experience in any major language**. While Python is the primary language used throughout the course, if you're proficient in other programming languages, you can quickly pick up Python fundamentals as you progress. You'll also need to be comfortable with essential development tools including the **command line, Git, and Docker basics**.
+For general expectations about zoomcamp time commitment, see [Before You Start]({{ '/courses/zoomcamp-logistics/before-you-start/' | relative_url }}).
 
-For your development setup, install **Anaconda** for Python management (particularly recommended for Windows users) and set up the **UV package manager** for handling virtual environments.
+## Required skills
 
-## 2. What You Don't Need
+- Strong programming experience in any major language. Python is what the course uses, but if you are proficient in another language you can pick up Python fundamentals as you go.
+- Comfort with the command line, Git, and Docker basics.
 
-Importantly, you do **not need prior machine learning experience**—the course is designed to take you from beginner to practitioner. You also don't need an advanced mathematics background, as the course covers basic linear algebra concepts in Module 1, providing all the mathematical foundation you'll need.
+## You do not need
 
-## 3. Adapting to Your Background
+- Prior machine learning experience. The course takes you from beginner to practitioner.
+- Advanced math. Module 1 covers the basic linear algebra you need.
+- Prior cloud experience. The course uses AWS for deployment but introduces it from scratch.
+- A degree.
 
-The course is particularly well-suited for **data engineers** looking to transition into ML engineering or data science roles. If you have an **infrastructure background** with experience in deployment technologies, you can focus more on the ML concepts and may choose to skip deployment sections you're already familiar with. For **career switchers**, the course emphasizes building a strong project portfolio that demonstrates your capabilities to potential employers.
+## Time commitment
 
-## 4. Course Context and Technical Framework
+- Module-week pace for the curriculum.
+- Two weeks of project work followed by one week of peer review (per project).
+- Plan for 10 to 15 hours per week.
 
-The course uses **Jupyter notebooks** throughout and primarily uses **AWS** for cloud examples, though concepts transfer easily to other platforms.
+The earliest you can receive your certificate is after the final project's peer-review deadline.
 
-The course embraces modern development practices, welcoming **AI tools like Cursor and ChatGPT** while emphasizing the importance of understanding fundamental concepts. You need to grasp the underlying principles to effectively debug AI-generated code, maintain control over your implementations, and create custom solutions when AI tools fall short.
+## Adapting to your background
 
-The course focuses exclusively on **Python-based deployment** and doesn't cover Spark ML, keeping the scope focused on the most common industry practices. For projects, you'll work with datasets containing at least 100 rows, ensuring you have sufficient data for meaningful model development.
+- Data engineers transitioning to ML: focus on the modeling modules, you can move faster on deployment.
+- Infrastructure / SRE backgrounds: you can move faster on deployment modules.
+- Career switchers from non-tech fields: lean on study groups, expect to spend extra time on programming basics in module 1.
+
+For dev tools and environment choices, see [Environment Setup]({{ '/courses/ml-zoomcamp/environment-setup/' | relative_url }}).

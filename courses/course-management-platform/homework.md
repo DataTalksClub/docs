@@ -8,64 +8,42 @@ has_children: false
 
 # Homework Submission
 
-Submit your homework through the course management platform to track your progress on the leaderboard.
+This page covers the platform UI for submitting homework. For when homework is released, deadline policy, and what should be in your repository, see [Homework]({{ '/courses/zoomcamp-logistics/homework/' | relative_url }}).
+
+## Where to find homework on the platform
+
+Log in to your course platform and open the course page. All homework assignments for the cohort are listed there with their deadlines and your submission status.
 
 <img src="{{ '/assets/images/course-management-platform/ml-zoomcamp.png' | relative_url }}" alt="ML Zoomcamp course page" width="80%">
 
-The course page displays all homework assignments with their deadlines and your submission status.
-
-## Homework Submission Page
-
-Each homework has its own submission page with multiple-choice questions and additional fields.
-
-<img src="{{ '/assets/images/course-management-platform/homework-submission.png' | relative_url }}" alt="Homework submission page" width="80%">
-
-### Submission Fields
-
-The homework submission form includes:
-
-- Multiple-choice questions - Select the correct answer for each question
-- Homework URL - Link to your homework notebook or code (optional)
-- Time spent on lectures - Number of hours spent watching videos
-- Time spent on homework - Number of hours spent completing the assignment
-- FAQ contribution - Share insights for the course FAQ (earns extra points)
-
-## Earning Extra Points
-
-You can earn additional leaderboard points beyond homework answers:
-
-- FAQ contributions - Share valuable insights from your learning journey. Accepted entries are added to the [Course FAQ]({{ '/courses/faq/' | relative_url }}) and earn points.
-- Learning in public - Share your progress on social media and submit the link.
-
-## How It Works
-
-Each module has a homework assignment with multiple-choice questions. Select your answers and submit before the deadline.
-
-## Accessing Homework
-
-Homework links are available on your course platform:
+Direct links to the platform per cohort:
 
 - [ML Zoomcamp 2025](https://courses.datatalks.club/ml-zoomcamp-2025/)
 - [Data Engineering Zoomcamp 2026](https://courses.datatalks.club/de-zoomcamp-2026/)
 - [MLOps Zoomcamp 2025](https://courses.datatalks.club/mlops-zoomcamp-2025/)
 
-Deadlines are also announced in Slack and shown on the course schedule.
+## Submission form
 
-## Submission Process
+Each homework has its own submission page.
 
-1. Click on the homework link for your module
-2. Answer the multiple-choice questions
-3. Optionally provide your homework URL
-4. Report time spent on lectures and homework
-5. Optionally contribute an FAQ entry for extra points
-6. Submit before the deadline
-7. Receive immediate feedback and points
+<img src="{{ '/assets/images/course-management-platform/homework-submission.png' | relative_url }}" alt="Homework submission page" width="80%">
 
-## Tips
+The form includes:
 
-- Submit before the deadline even if you're not 100% confident
-- Use homework as a learning tool, not just for points
-- Review incorrect answers to understand gaps in your knowledge
-- Share your learning publicly to earn extra points and build your portfolio
+- Multiple-choice questions - select the correct answer for each question.
+- Homework URL - link to your homework notebook or code.
+- Time spent on lectures - number of hours spent watching videos.
+- Time spent on homework - number of hours spent completing the assignment.
+- Learning in public links - links to your social media posts (see [Learning in Public]({{ '/courses/course-management-platform/learning-in-public/' | relative_url }})).
+- FAQ contribution - share insights for the [Course FAQ]({{ '/courses/faq/' | relative_url }}).
 
-Remember: Homework is for learning. Scores don't affect graduation or certification.
+## After submitting
+
+You receive immediate feedback and points after submitting. The platform shows which questions were correct and your running score.
+
+You can resubmit before the deadline; only your last submission counts.
+
+## See also
+
+- [Homework]({{ '/courses/zoomcamp-logistics/homework/' | relative_url }}) for general logistics (when released, deadlines, what to put in your repo).
+- [Leaderboard]({{ '/courses/course-management-platform/leaderboard/' | relative_url }}) for how points are calculated.

@@ -1,51 +1,79 @@
 ---
-title: "1. Your First Actions"
+title: "Getting Started"
+layout: default
+nav_order: 2
 parent: Machine Learning Zoomcamp
-nav_order: 0
+has_children: false
 ---
 
-# Your First Actions
+# Getting Started
 
-## 1. Access Your Learning Materials
+For the cross-course onboarding (registration, account setup, calendar, newsletter), read [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}) first.
 
-Start by visiting the [ML Zoomcamp GitHub repository](https://github.com/DataTalksClub/machine-learning-zoomcamp) and **starring it** ⭐. All course materials are in this repository, with each module having its own folder (for example, `01-intro` or `03-classification`). [Cohort-specific](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts) homework and deadlines are located in `cohorts/2025`.
+This page covers the Machine Learning Zoomcamp specifics.
 
-<div align="center">
-  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-github-structure.png' | relative_url }}" alt="Alt text" width="80%">
-</div>
+## Star the GitHub repository
 
-The lectures are pre-recorded and available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR), so you can watch them whenever it suits you. Occasionally, additional workshops or updated implementation videos are released—there will be additional announcements if this happens. If nothing is announced, you can assume all necessary materials are already available.
+[github.com/DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 
-<div align="center">
-  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-youtube.png' | relative_url }}" alt="Alt text" width="80%">
-</div>
-
-Finally, locate and bookmark the [FAQ Website](https://datatalks.club/faq/machine-learning-zoomcamp.html). This comprehensive resource contains answers to the most frequently asked questions from previous cohorts. Make it a habit to check this document before asking questions in Slack, as your question has likely been answered before.
+Star it so you can find it later. All course materials are here, with each module having its own folder. Cohort-specific homework and deadlines are under `cohorts/2025/`.
 
 <div align="center">
-  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-faq.png' | relative_url }}" alt="Alt text" width="80%">
+  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-github-structure.png' | relative_url }}" alt="ML Zoomcamp GitHub structure" width="80%">
 </div>
 
-## 2. Course Structure and Flexibility
+See [Resources]({{ '/courses/ml-zoomcamp/resources/' | relative_url }}) for more.
 
-The course has **no regular live sessions** except for occasional intro streams, supporting self-paced learning.
+## Join the ML Zoomcamp Slack channel
 
-While you can progress ahead of [schedule](https://courses.datatalks.club/ml-zoomcamp-2025/), projects have deadlines to maintain cohort synchronization. Learn more about the complete learning path in our [Course Curriculum](curriculum.html) and understand [Assignments and Scoring](assignments-and-scoring.html) requirements.
+After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack), find:
 
-## 3. Technical Setup
+[`#course-ml-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA)
 
-Before diving into the coursework, ensure you have the necessary technical foundation. You'll need basic **Python knowledge** and comfort with the **command line, Git, and Docker**. Create a **GitHub account** where you'll publish all your homework code—detailed setup instructions are covered in our [Prerequisites](prerequisites.html) guide.
-
-## 4. Join the Learning Community
-
-Connect with the vibrant ML Zoomcamp community to enhance your learning experience. After registering for the course, you'll receive an invitation to the **Slack Workspace** via email. Join the workspace and navigate to the "machine-learning-zoomcamp" channel, which serves as your primary support and Q&A platform throughout the course.
+This is your primary support and Q+A channel for the course.
 
 <div align="center">
-  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-slack.png' | relative_url }}" alt="Alt text" width="80%">
+  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-slack.png' | relative_url }}" alt="ML Zoomcamp Slack channel" width="80%">
 </div>
 
-Consider also joining the [Telegram Channel](https://t.me/mlzoomcamp) for course announcements. While optional, it's highly recommended for receiving important updates and staying connected with course developments.
+## Subscribe to ML Telegram (optional, recommended)
+
+[t.me/mlzoomcamp](https://t.me/mlzoomcamp) for course announcements. Telegram is announcement-only and is the most reliable place to catch important updates because Slack is busy.
 
 <div align="center">
-  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-telegram.png' | relative_url }}" alt="Alt text" width="80%">
+  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-telegram.png' | relative_url }}" alt="ML Zoomcamp Telegram channel" width="80%">
 </div>
+
+## Subscribe to YouTube
+
+The lectures are pre-recorded and available in the [ML Zoomcamp YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR). The course is largely self-paced; live sessions are limited to a kickoff and occasional updates.
+
+<div align="center">
+  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-youtube.png' | relative_url }}" alt="ML Zoomcamp YouTube playlist" width="80%">
+</div>
+
+## Bookmark the FAQ
+
+The [Machine Learning Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html) is a comprehensive resource with answers from previous cohorts. Check it before posting in Slack.
+
+<div align="center">
+  <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-faq.png' | relative_url }}" alt="ML Zoomcamp FAQ" width="80%">
+</div>
+
+## Set up your environment
+
+The course uses Python with scikit-learn, FastAPI for deployment, and AWS for cloud examples. See [Environment Setup]({{ '/courses/ml-zoomcamp/environment-setup/' | relative_url }}) for the choices you need to make.
+
+## Start Module 1
+
+Begin with [Module 1: Introduction](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro). For what each module covers, see [Curriculum]({{ '/courses/ml-zoomcamp/curriculum/' | relative_url }}).
+
+## Where to look next
+
+- [Prerequisites]({{ '/courses/ml-zoomcamp/prerequisites/' | relative_url }}) - what you need to know before starting.
+- [Curriculum]({{ '/courses/ml-zoomcamp/curriculum/' | relative_url }}) - the modules.
+- [Environment Setup]({{ '/courses/ml-zoomcamp/environment-setup/' | relative_url }}) - Python, AWS, dev tools.
+- [Project]({{ '/courses/ml-zoomcamp/project/' | relative_url }}) - the project rubric (2 of 3 projects required).
+- [Resources]({{ '/courses/ml-zoomcamp/resources/' | relative_url }}) - all ML-specific links in one place.
+- [What's New]({{ '/courses/ml-zoomcamp/whats-new/' | relative_url }}) - changes for the current cohort.
+- [Learning in Public]({{ '/courses/zoomcamp-logistics/learning-in-public/' | relative_url }}) - hashtag for ML is `#mlzoomcamp`.

@@ -1,0 +1,911 @@
+# Unmatched questions (no theme bucket fired)
+
+Source: _temp/slack/course-data-engineering.threads.jsonl
+
+Years: 2025, 2026
+
+Total: 899
+
+[r:N] = reply count (r:0 = unanswered). Sorted oldest first.
+
+---
+
+- [2025-01-02] [r:16] Hi everyone,  I hope you're all doing well as we gear up for this exciting journey together. I wanted to share some ideas for brainstorming and hear your thoughts!  It could be really beneficial to start working on a project from Day 1, something we can build and improve gradually throughout the course. Even if some of us decide to step back later on (as often happens in intensive programs), havin ...
+- [2025-01-03] [r:1] Hello everyone! It's my first Zoomcamp. Is there anything I can do or install before the start of the course?
+- [2025-01-04] [r:2] Hi  How much would past videos (on the YT channel) be relevant in this new cohort?
+- [2025-01-05] [r:3] Hello everyone , I am new in this group. I have a questions to you? Which steps I sgould complete before 13th of Januarty I mean before course startings?
+- [2025-01-06] [r:0] Hello everyone, I am a data specialist based in Spain and I'm very excited to refine my skills in data engineering with this course! I also wanted to ask, in practice, there is no difference between the modules in the GitHub rep and the cohort folder, other than what will be updated for the live course, correct?
+- [2025-01-07] [r:3] hey everyone, hope you're all doing well! i set up everything i need for the first module in github codespaces due to the ram demands of running it locally, but i was wondering if doing it in codespaces could cause any issues later in other modules or in future job scenarios?
+- [2025-01-07] [r:0] Hello everyone, hope you are all doing well! I have a question. If I follow all the videos before the video "setting up the environment on cloud VM" with no issue.Do (http://issue.Do) I need to watch these two "setting up the environment on cloud VM" and "GitHub Codespaces"?  is github codespaces a must for module 1? thank you!
+- [2025-01-07] [r:1] Anybody else from Central America ?
+- [2025-01-07] [r:1] hi everyone. should i learn SQL or python before? i'm learning DE path
+- [2025-01-08] [r:8] Not sure how it works. How come I am not able to run wget unless i use python -m wget? I think this is screwing me up when I'm trying to run `python ingest_data.py`
+- [2025-01-08] [r:2] Hi guys is there a way to see the projects done last year or the years before that for the Data Engineering zoomcamp ?
+- [2025-01-08] [r:0] Am I the only one getting pumped for what's to come in DE Zoomcamp? I can't wait :heart_eyes:
+- [2025-01-08] [r:2] hi everyone, how much do I need to know about docker to prepare for the course?
+- [2025-01-09] [r:3] Do you guys also encounter Docker Desktop's Malware Blocked problem in Mac? How did you guys resolve it? Thanks!
+- [2025-01-09] [r:2] As far as setting up the environment is there a preferred option between codespaces and using google cloud VM?
+- [2025-01-10] [r:4] Hi all, did anyone come across the same issue when trying Google Cloud for free? after adding the payment method, an error occurred: “Action unsuccessfully - This action couldn’t be completed. Try again later. [OR_BACR2_34].” It always showed the same error even if I changed my payment method. Thank you!
+- [2025-01-10] [r:3] Is this course is live from 13 Jan ?
+- [2025-01-10] [r:3] Hello guys, will there be a Docker Installation guide or I have to do that myself?
+- [2025-01-11] [r:0] Hello everyone, Is there a guide to set up the required tech stacks for next week?
+- [2025-01-11] [r:0] Hello everyone, are there any Egyptians joining this cohort? It’d be great to connect and know each other
+- [2025-01-11] [r:1] Hello! Anyone suggests previous Zoomcamp students projects in github to take some ideias how to structure the things along the course? I do not have experience in git. Thanks in advance
+- [2025-01-11] [r:8] Hi Team, I encountered a CSV formatting issue where the `VendorID` column is being interpreted as a `timestamp`, even though the table specifies it as a `bigint`, which is correct. This issue is preventing me from loading the data into the PostgreSQL database.  The CSV file was extracted using a Python script and transferred into the PostgreSQL container, but there’s a persistent formatting issue  ...
+- [2025-01-11] [r:1] which videos of this list should I watch and implement before the course start? https://dezoomcamp.streamlit.app/Module%201%20Introduction%20&amp;%20Prerequisites
+- [2025-01-11] [r:0] The homework for week1 is already updated?
+- [2025-01-11] [r:2] this links is invalid anymore?
+- [2025-01-12] [r:3] Hi:) how can we get the link to join?:)
+- [2025-01-12] [r:1] When the FAQ talks about a "live" cohort, it means that you've presented the homework and projects on time, right? Not assistance to the call. Because I will need to catch the video maybe an hour later or so after I finish work
+- [2025-01-12] [r:8] After installing Docker, creating GitHub and GCP. Do I need to perform any other task before tomorrow class?
+- [2025-01-12] [r:1] Hey folks. At my last job, we used Colima - https://github.com/abiosoft/colima - shouldn't be any issues for this course?
+- [2025-01-12] [r:5] Hello everyone, I’m a little late, but I’m willing to start with you all tomorrow. What are the requirements for setting up our environment so I can get started?  Thank you in advance
+- [2025-01-12] [r:3] Hi, if I'm planning to use GitHub Codespaces, do I directly jump into the Cdoespaces setting up video? and how do I set up GCP?
+- [2025-01-12] [r:2] Hi all, Will all the homeworks be shared tomorrow? Thanks
+- [2025-01-12] [r:2] anyone using a Macbook to go through this course? Can we use the Terminal like how Alex is using mingw?
+- [2025-01-12] [r:1] Am I still part of the live cohort if I can't make it to the stream but watch it later that day and follow along?
+- [2025-01-13] [r:15] can anyone help me making a GCB cloud account cause I'm trying to do it since month ago and still having the same error "Can’t complete the transaction. Please fix issues with your payments profile &lt;a href="https://policies.google.com/terms" target="_blank"&gt;here&lt;/a&gt; and try again in a few days. [OR_BAOOC_04] OR_BAOOC_04"
+- [2025-01-13] [r:2] hello everyone . I am a student with a basic understanding of Python. Can I start  data engineering course with this skill?
+- [2025-01-13] [r:6] Hi all, if you're super new with Docker (like me). I recommend this video as preparation for the course, she explains very clearly what it is and how it's used :slightly_smiling_face: https://www.youtube.com/watch?v=pg19Z8LL06w&amp;t=1257s
+- [2025-01-13] [r:0] I am new here, what steps should I follow?
+- [2025-01-13] [r:2] I want to ask something I am joining recently Am I late? Also I will start first folder on the github repo is that ok? Thank you guys for helping
+- [2025-01-13] [r:7] Good morning everyone! (It’s 7:40am here in San Francisco).  The public calendar shows that this course starts at 8am (i.e. in 20 minutes) with a link to here: https://www.youtube.com/c/datatalksclub.  That page has a link to a lot of past videos. Is there a particular kickoff video that will happen soon? I’d like to start the course on the right foot but am not sure how.
+- [2025-01-13] [r:0] Is everyone here from Egypt??
+- [2025-01-13] [r:0] yeah but I cannot see any video scheduled there?
+- [2025-01-13] [r:1] Hello! I have issues to login to docker. After signing on the webpage, no redirection to the app happening. Somebody has been facing the same?
+- [2025-01-13] [r:0] https://www.youtube.com/watch?v=X8cEEwi8DTM
+- [2025-01-13] [r:0] Hello Everybody, For someone without any tech career experience, Is data engineering a good starting point?
+- [2025-01-13] [r:1] Hey guys, I didn't catch the part where they mentioned the Public Social Credit thingy, can anyone explain what that would be?
+- [2025-01-13] [r:0] on the stream, Alexey mentioned cohort DE course , 2022 course  and 2023 one, how do i start to learn? do we have any plan?
+- [2025-01-13] [r:6] @user What is the "Public Social Credit" thing?
+- [2025-01-13] [r:1] @user are the sessions happening daily ?
+- [2025-01-13] [r:1] @user How to start precisely?
+- [2025-01-13] [r:2] @user when are the homeworks due ?
+- [2025-01-13] [r:5] @user How do we log into the course management portal?
+- [2025-01-13] [r:4] Hi, i'm facing this warning of Malware Blocked just after installing the Docker on Mac Does anyone else face the same issue? if yes, please share yours and how you have fixed it. thanks
+- [2025-01-13] [r:1] I joined the first live session: curious to know, how long is each session?
+- [2025-01-13] [r:1] @user Is the living class daily?
+- [2025-01-13] [r:1] Any recommendations for a DE book? something that would help to follow along with the course maybe?
+- [2025-01-13] [r:3] Is it like a weekly study and 1 homework?
+- [2025-01-13] [r:0] Hello I didn't bring the pre-season  can anyone tell me what is  asked for me  to download  ??
+- [2025-01-13] [r:4] How can I solve my problem with gcp trial
+- [2025-01-13] [r:1] lets say I have both envs configured on gcp and codespaces. I start looking at the week-1 videos and the first one walk me through an on-prem example. Should I assume it is recommended to run these examples on gcp/codespaces?
+- [2025-01-13] [r:2] i was able to finally get docker successfully installed but do we need to sign into docker with personal email or we can skip that step?
+- [2025-01-13] [r:1] Where can I find the needed files to run the docker commands?
+- [2025-01-13] [r:1] If we finish a module before the deadline, can we move on to the next module? @user @user
+- [2025-01-13] [r:3] @user do we need to pull for the git repo for week 1?
+- [2025-01-13] [r:1] @user where do I save my DockerFile from VSCode so that Docker can access it?
+- [2025-01-13] [r:65] Does anyone knows , when I try to download the ny_taxi data with running docker command on GitBash, it shows like the video, but it doesn't download anything
+- [2025-01-13] [r:5] does anyone explain it to me, please? what does the term "test:pandas" mean? test is the name of execute file, isn't it?  this is from the introduction to Docker video.
+- [2025-01-14] [r:2] Hi everyone, I am trying to follow along the first video in module 1, Introduction to Docker but the folders and files seem to be different in the video than the repo. How do you guys do it?
+- [2025-01-14] [r:3] Just read the message of the question 3 update and now I'm worried. I see you updated almost all possible answers but one, and that one is the answer I'm getting from the DB. If I assume you had to update the correct answer (because the wrong answers should not be an issue), then I don't know what's wrong with my query. Could someone take a look to my query to guide me a little on where it is wron ...
+- [2025-01-14] [r:8] Hello! In homework Q2 two options work, but I can give only one answer. Could please anyone help me what do I miss?
+- [2025-01-14] [r:1] Hi all, Good to be here. There is sea of messages and thus difficult to get to the answer of the desired query. Sorry for the silly questions. But may I ask after yesterday (live session) what are the further steps as in, (or if you could point me to the document etc. ) what to install before doing the course? when the course begins? when the homework need to be submitted?  Some people are already ...
+- [2025-01-14] [r:5] i'm a beginner, how can i get this screen?
+- [2025-01-14] [r:0] Hello People! Quick question about the process to sing up. I've added my email and sing up in the Zoomcamp. But I haven'te receive any email. How could I know if I'm correctly enrolled? Thanks!
+- [2025-01-14] [r:3] @user Are all the videos accompanied by slides and Word documents?
+- [2025-01-14] [r:3] The first challenge.  In the question 3 of the module 1 assignment, we were told to find the number of trip between october to november with different  trip's distances. I got 6,5,2,0,0 respectively which ofcourse is quite different from the options provided.   I used the below logic;  SELECT COUNT(*) AS trip_count FROM public.green_taxi_trip WHERE lpep_pickup_datetime &gt;= '2019-10-01 00:00:00'  ...
+- [2025-01-14] [r:18] Hey there y'all. I'm trying to follow along through the videos https://youtu.be/2JM-ziJt0WI?si=dEZUQxO9hbwE-rEc&t=92 but it looks like the code in the repo now is little bit different. Will there be any issues when I try  to utilize the code in the repo for the files within the video? I was trying to utilize the docker file within the repo, but it looks like there are some files that I need that a ...
+- [2025-01-14] [r:21] Can anyone please help me with this error?
+- [2025-01-14] [r:3] @user What is the link to go to slido?
+- [2025-01-14] [r:3] Hi @here I noticed the intro video on docker uses python 3.9. My question is do I have to use the same python version? Like will recent version of python break the app at some point ?
+- [2025-01-14] [r:1] hello everyone can anyone tell how to get started for week 1?? @user
+- [2025-01-14] [r:1] how do I start this course. Do I have to install anything on my system or is there any installation video for it?
+- [2025-01-15] [r:1] Hi everyone. My first time of creating a google cloud account and I constantly get this error when I try to confirm my identity with my payment info: "This action couldn’t be completed. Try again later. [OR_BACR2_34]". Does anyone know a way around it? Thank you! @user
+- [2025-01-15] [r:1] when will the homework for the next weeks be released? is it week by week, for e.g. 2nd week is released next Monday? @user
+- [2025-01-15] [r:2] I managed to create Google cloud account, what next should i do?? Any advice?
+- [2025-01-15] [r:2] Hello, everyone. I think that the entire playlist of the course is this one: https://www.youtube.com/watch?v=T0KR4zcNXIY&amp;list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&amp;index=4
+- [2025-01-15] [r:4] Can anyone please help i am stuck at chunck append code
+- [2025-01-15] [r:32] Is the StopIteration exception inevitable?
+- [2025-01-15] [r:32] @user why is jupyter recommended? Or is it just a preference? I have PyTorch which covers running ipynb files very well
+- [2025-01-15] [r:4] Hi all, I am stuck here since the past 15 minutes: Does it usually take long or I am missing something?  This is when I try to run pgadmin4 in docker
+- [2025-01-15] [r:2] @user How do I empty the yellow_taxi_data table?
+- [2025-01-15] [r:4] Hi. is it possible to download lecture slides without creating an account on slide share?
+- [2025-01-15] [r:4] How you guys are approaching the course. Each of the tools is bigger in itself. In such a short period, how can we learn all three?
+- [2025-01-15] [r:2] For questions 3-6 in homework 1, do we have to document how we derive the answers in our submission? Since our Git submission will be public, will it help or not? Thanks. @user
+- [2025-01-15] [r:4] `git push` has limits on file sizes. Do we just ignore uploading the `ny_taxi_postgres_data`? ```remote: error: Trace: 8650ebba278a65ef8af69e35befbeb04b45bb7f2c16389b2f0ef42c05fb6aca5 remote: error: See https://gh.io/lfs for more information. remote: error: File module1/question3-6/ny_taxi_postgres_data/base/16384/16562.1 is 254.69 MB; this exceeds GitHub's file size limit of 100.00 MB remote: err ...
+- [2025-01-15] [r:7] @user I downloaded the green data file, but I can't view it because it's in .gz format. What do I do so that I can view the file in a csv format for preview?
+- [2025-01-15] [r:15] why i have entered the password, but it doesn't work
+- [2025-01-15] [r:13] @user Update `main.tf (http://main.tf)` to use the variables defined in `variables.tf (http://variables.tf)` for bucket and dataset names. Ensure the bucket name and dataset name meet Google Cloud's naming requirements: • Bucket names:     ◦ Must be globally unique.     ◦ Can only contain lowercase letters, numbers, dashes (`-`), and periods (`.`).     ◦ Must start and end with a letter or number. ...
+- [2025-01-16] [r:0] please where is the link to the first assignment?
+- [2025-01-16] [r:19] can i please get some help on this error
+- [2025-01-16] [r:2] The project will be at the end of the cohort? For now we just complete the homework right?
+- [2025-01-16] [r:1] @user What is the suggested timeline to complete this bootcamp in 9 weeks?
+- [2025-01-16] [r:1] When is assignment 1 due
+- [2025-01-17] [r:4] I see people already answering the week 2 homework. How the hell do we know the homework is available and ready to be solved? (for all weeks). I don't remember any anouncement (and for god's sake, I hope the announcements are not in this channel, as it is crowded with doubts and this kind of notifications would go undetected).
+- [2025-01-17] [r:0] Hello, does anyone know what could be the reason im getting this error message?
+- [2025-01-17] [r:1] @user  I turned off my VM and now when I restarted it’s external IP got changed. Where would I need to make changes for everything to work again as expected and should we make IP static or would that impact anything?
+- [2025-01-17] [r:6] Please how many weeks does a Module last? What is the deadline for completing Module 1?
+- [2025-01-17] [r:6] Hi @user, I m starting with dockers right now and want to know if I first check docker containers on my local before I go with GCP?
+- [2025-01-17] [r:6] Any idea on how to solve this?
+- [2025-01-17] [r:15] @user I feel like i am missing something with module 1 question 3. I am not getting any of the possible answers for the question. I am getting 104830  Here is my code,  ```SELECT      COUNT(*) AS trip_count  FROM      green_taxi_data  WHERE      lpep_pickup_datetime &gt;= '2019-10-01' AND      lpep_pickup_datetime &lt; '2019-11-01' AND trip_distance &lt;= 1``` What am I doing wrong where I am not  ...
+- [2025-01-17] [r:2] I'm having trouble installing. wget on my laptop any help on this? I notice it's important for the second video when dealing with the NY taxi csv
+- [2025-01-17] [r:2] Should I delete duplicate entries during the import process?  For example, the flow defined in the file 02_postgres_taxi (https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/507586ad57ebcecf0235e9c95a9509bad1a01b6e/02-workflow-orchestration/flows/02_postgres_taxi.yaml#L229) attempts to ensure uniqueness based on time and other trip characteristics. I believe the intention was to preven ...
+- [2025-01-18] [r:2] @user where is the ny_taxi data located?
+- [2025-01-18] [r:3] Hi@user, is it intended that question 2 from HW1 has 2 valid answers?
+- [2025-01-18] [r:4] I am going through the recorded videos on YouTube but unable to understand the parts where the command line is used as I don't have any experience in the same. Can anyone please help with any tutorial on Command line and Visual Basic?
+- [2025-01-18] [r:1] @user Is the material for each year’s zoomcamp different? In other words, is 2025 different from 2024’s and 2023’s?
+- [2025-01-18] [r:3] Hello all, about homework 1, question 3, the period refers to pickup date or drop off date?
+- [2025-01-18] [r:3] @user homework 1,question 3, the period refers to pickup or drop off ?
+- [2025-01-18] [r:2] can you start homework, close the tab then come back to complete it?
+- [2025-01-18] [r:3] @user what is deadline for finishing exercise and module 1?
+- [2025-01-18] [r:7] I am following the content of the video and the code is working and all good. But i am not confident that i can replicate this on my own. Does any one have any tips?
+- [2025-01-18] [r:2] @user Where can I find the data I need to map to?
+- [2025-01-18] [r:0] Are you guys able to follow along? Some steps in the videos and documentation are confusing so I'm kind of winging it with AI help
+- [2025-01-18] [r:1] Hey @user I am at the DE Zoomcamp 1.4.1 - Setting up the Environment on Google Cloud. Do i need to install Anaconda when I already have python inside my local machine?
+- [2025-01-18] [r:38] I'm trying to solve hw1 problem 3.  The query below does not return any of the values provided. Where am I going wrong?  ```SELECT     SUM(trip_count) AS total_trip_count FROM (     SELECT         DATE(lpep_pickup_datetime) AS pickup_date,         COUNT(*) AS trip_count     FROM         green_taxi     WHERE         lpep_pickup_datetime &gt;= '2019-10-01' AND         lpep_pickup_datetime &lt; '2019 ...
+- [2025-01-19] [r:1] @user Do I have to pull the data-engineering-zoomcamp GitHub repo to my Linux ambient to make the same steps as Alex did in the video "DE Zoomcamp 1.2.1 Introduction do Docker"?
+- [2025-01-19] [r:3] @user I need some clarity on the course structure. It seems like the entire course is already available in GitHub. the weekly records are just a recap. is this correct?
+- [2025-01-19] [r:1] @user For the homework tasks, is it better to create a new repository, or is it enough to use the forked one and create a dedicated folder for it?
+- [2025-01-19] [r:3] @user I need help regarding setting up my environment. The first module videos are showcasing Alexey using Docker Desktop locally but he also mentioned the availability to use GitHub Codespaces as well as GCP. So are these 3 environments optional (choose only one)? I am not quite sure how to use GCP or GitHub Codespaces to run docker and follow up with the videos any help here please.
+- [2025-01-19] [r:3] Hey. What to do with the duplicated rows from the .csv files? Shall we squash it or just keep as is?
+- [2025-01-19] [r:1] @user I am confused by what question 5 is asking. It reads:  &gt; Which were the top pickup locations with over 13,000 in `total_amount` (across all trips) for 2019-10-18? &gt; Consider only `lpep_pickup_datetime` when filtering by date. I know how to filter a table by date. And I know how to do a `GROUP BY` and calculate aggregate statistics and then `ORDER BY` the results to see what the top res ...
+- [2025-01-19] [r:11] is it anyone using mac for this course. I am bit confusing about the content
+- [2025-01-19] [r:14] Collecting psycopg2   Using cached psycopg2-2.9.10.tar.gz (385 kB) Note: you may need to restart the kernel to use updated packages.Building wheels for collected packages: psycopg2   Building wheel for psycopg2 (setup.py): started   Building wheel for psycopg2 (setup.py): finished with status 'error'   Running setup.py clean for psycopg2  Failed to build psycopg2 Installing collected packages: psy ...
+- [2025-01-19] [r:3] @user when is the first homework submission due date ?
+- [2025-01-19] [r:7] Hi! I am getting a slightly off answers in Homework 1 Question 3 (but happen to get a match in the last question). May I know how can I double check if I was able to process (?) the data correctly? I am pretty sure with my WHERE statements in SQL. Thanks a bunch!
+- [2025-01-20] [r:5] @user when will we start using gcp actually?
+- [2025-01-20] [r:1] @user do I need one VPS for googel cloud (big query...) services?
+- [2025-01-20] [r:0] :wave: Hello, team! Just signup! What do I miss?
+- [2025-01-20] [r:5] @user Where do I locate machine configuration in the compute environment?
+- [2025-01-20] [r:3] @user I can't open a Jupyter notebook on chrome anymore - it gives me the err_connection_refused error, how do I resolve it?
+- [2025-01-20] [r:1] @user I am running a linux VM via codespaces and am attempting to mount the ny_taxi database to my container, but the database keeps showing up empty. How do i determine the proper path for a linux VM?
+- [2025-01-20] [r:6] Hi all, I just wanted to check if all the homework assignments here https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2025 have been updated for 2025, or if some still have the 2024 ones. Could someone clarify? Thanks!
+- [2025-01-20] [r:2] Could a separate channel be made for questions to ZoomcampQABot? Maybe that way this channel would be cleaner @user
+- [2025-01-21] [r:1] @user Hi. When i try to make loop to load all chunks from dataframe to database but it load just 100000 rows and the output says StopIteration, how can i fix this?
+- [2025-01-21] [r:1] When I try to add export PATH= "${HOME}/bin:${PATH}" to bashrc file, I get the following error message:  *bash: export: `/home/amethyst/bin:/home/amethyst/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/bin/remote-cli:/home/amethyst/bin:/home/amethyst/anaconda3/bin:/home/amethyst/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/ ...
+- [2025-01-21] [r:1] @user ```python    import sys    print(sys.executable)``` how to change this environment, if it is different from the one where i have installed the dependencies?
+- [2025-01-21] [r:1] @user hi. can u give me link for all dataset in this course in csv file?
+- [2025-01-21] [r:1] @user What is the list of links of example repos for homework submission?
+- [2025-01-21] [r:1] Hi all I’m trying to get started on the first week, is there a guide on how to download the tools and navigate through them?  Cc:@user
+- [2025-01-21] [r:21] I am stuck in my data engineering lesson practice. I created the database using docker run -it and I set the password
+- [2025-01-21] [r:1] Hi. I am done with the first week's content and assignment. Is it possible to start week 2 and do the assignment? I believe i can submit the assignment when it comes up. cc: @user
+- [2025-01-21] [r:11] So, when i use wget to fetch the dataser, it does not return a csv file. It's just a bunch of random letters and names strung together, some parameters and no visible extension. How am I supposed to reach the ny taxi dataset and get the csv using my macos terminal?
+- [2025-01-21] [r:4] @user  from module two we Will work on vm at gcp all ??
+- [2025-01-21] [r:1] The question 2 from Week 1 homework might have outdate options. I am getting different version of wheel file than the mentioned one  ```### Question 2. Understanding docker first run  Run docker with the python:3.9 image in an interactive mode and the entrypoint of bash. Now check the python modules that are installed ( use `pip list` ).  What is version of the package _wheel_ ?  - 0.42.0 - 1.0.0  ...
+- [2025-01-21] [r:15] Hi, can anybody help?  When I try to install anaconda in git bash, it says: 'Anaconda3 will now be installed into this location: /home/u1874244/anaconda3'  When I say okay, it then tells me: 'ERROR: Not enough free disk space: 5082104 < 7351738'  Below is a screenshot:
+- [2025-01-21] [r:1] @user how do i install docker?
+- [2025-01-21] [r:2] How can I update the 04_gcp_kv file? @user
+- [2025-01-21] [r:2] @user what means, “Biggest pickup zones”, it means that I need to group by pickup location and count pickups?
+- [2025-01-21] [r:3] @user The data on the green_tripdata_2019-10 was locked and I was unable to access it when I imported it on the postgresql. How can I resolve this?
+- [2025-01-21] [r:2] When did we change HW1 TLC data ingest from 2019-10 to 2019-09? I'm see in github it's for september, but I'm pretty sure last week when working on the HW it was required October.
+- [2025-01-21] [r:2] So I guess I need to confirm is the one in github repo now is the right one for homework? the September 2019?
+- [2025-01-21] [r:5] Hello everyone, I am working on *DE Zoomcamp 1.4.1 - Setting up the Environment on Google Cloud (Cloud VM + SSH access). AT THE TIME STAMP OF AROUND 41:00*  *It is mentioned that the JSON file is made in another video. Can someone point me to the video and time so I can complete this step?*
+- [2025-01-21] [r:1] When will the week2 homework submission open?
+- [2025-01-22] [r:1] when is the last day for submitting? i can only do them on sudays
+- [2025-01-22] [r:2] Must we have a Google Cloud account? I was unable to create one.
+- [2025-01-22] [r:1] Hi there,  Any whatsapp group that was made ?
+- [2025-01-22] [r:3] @user quick question, usually how many month is the data engineering cohort? Thanks
+- [2025-01-22] [r:1] Good day esteem colleagues Please where can I see the timeline for homework submissions?
+- [2025-01-22] [r:1] @user where can I see the timelines for homework submissions?
+- [2025-01-22] [r:7] I'm having issues accessing http://localhost:8080. I was able to run it the first time and then I closed the browser and now it doesn't let me login. is there something I need to run in the command line prior to accessing?  also can we use a tool like Dbeaver to access the dabase instead of the localhost website?  ```{"success":0,"errormsg":"'NoneType' object is not subscriptable","info":"","resul ...
+- [2025-01-22] [r:45] Does anyone know why I'm getting the error below? I've already set up the ssh configuration file.
+- [2025-01-22] [r:14] More questions related to module 2. For questions 3, 4 and 5, what does include the "data for 2020"? All trips that overlap that period somehow? Only trips that are fully included inside that period? Trips that started during that year? Or trips that finished that year? The three questions are all similar to this: &gt; How many rows are there for the `Yellow` Taxi data for the year 2020?
+- [2025-01-22] [r:8] Homework 1, Question 7 states: "Modify the files as necessary to create a GCP Bucket and Big Query Dataset.". Can we choose one approach (i.e. with or without variables.tf)?
+- [2025-01-22] [r:7] Hii Im facing issue to install Anaconda it gave me installed but when i tested import pandas i couldn't find ? any help please
+- [2025-01-22] [r:8] Hi there, just confused if I am doing something wrong. In the tasks description is written to search in the specific date "2019-10-18" When I am filtering I am getting no row there so its misspelled or its my fault? I have checked data is not in a mess, but still query gives empty result thanks in advance
+- [2025-01-22] [r:6] I am currently setting up my environment. I have an old MacBook Air (2017). I installed GCP SDK with homebrew and most of the packages are not installed. Where do I go from here?
+- [2025-01-22] [r:7] @user what year data should I use for homework 1?
+- [2025-01-23] [r:6] @user i am wondering why i rerun the docker run command with connection of pgnetwork. the original result of operation can still be exist ? is it because the image stored ? cuz i need to deport the 5432 port to rerun the docker run command with pgnetwork
+- [2025-01-23] [r:0] hello everyone, I have a question that is a bit related with the course but not exactly. It there any book that the instructors would suggest to go deep in to the data engineering topic?
+- [2025-01-23] [r:1] @user , should we follow the instructions literally as in *DE Zoomcamp 1.1.1 - Introduction to Google Cloud Platform*  , and name the projects exactly as mentioned in the video, or ?
+- [2025-01-23] [r:3] Hi there, just confused if am doing something wrong with Q3 the trip segmentation count am null?  Can someone help with this.
+- [2025-01-23] [r:3] Has anyone had the same problem with Google Cloud? This is me trying to add a payment card
+- [2025-01-23] [r:2] how to pass $(URL) or download file address and excute .py script file python ingest_data.py \     -- user = root \     -- password =root \     -- host =localhost \     -- port =5432 \     -- db = ny_taxi \     -- table_name = yellow_taxi_trips \     -- url = $(URL)
+- [2025-01-23] [r:3] @user Is it necessary to have a VM running in gcp or docker on a local machine in order to take this course?
+- [2025-01-23] [r:2] How to fix the null issue in question3 of homework01
+- [2025-01-23] [r:2] @user in Question 3. Trip Segmentation Count:  during the period of October 1st 2019 (inclusive) and November 1st 2019 (exclusive), how many trips use column lpep_pickup_datetime ?
+- [2025-01-23] [r:4] @user How many bytes 1 MegaByte have?
+- [2025-01-23] [r:2] Hello, I am newly joined to the course and I am having a difficult time to setup google cloud reading the instructions on the readme page, is there a video I can refer to for the same? I am completely new to gcp and cloud computing
+- [2025-01-23] [r:1] Help would really be appreciated.
+- [2025-01-23] [r:21] Hello. Can anyone help me? I'm trying to connect to host in my VSCode using the ssh in my linux ubuntu, but I´m receiving an error like "Could not establish connection to "de-zoomcamp". I've made the same steps Alexey made at the class 1.4.1 (created the config file inside my .ssh file in my home at ubuntu).  I get to stablish connection doing "ssh de-zoomcamp" command at ubuntu terminal, but I ca ...
+- [2025-01-23] [r:13] Hi there,  anyone here who just started? I'm totally new and would love to have a team-learning approach for this one. Reply me in this thread if you didn't started yet. Sorry Alexy though :wink:  To others, good luck with everything, we'll catch ya'll up :slightly_smiling_face:
+- [2025-01-24] [r:7] Hi, I have a question, when i can start the project and delivery that? Can i start now the project and delivery when i finished or exist specific dates for that?
+- [2025-01-24] [r:7] @user What items need to be installed and set up in Module 1? Can you explain it completely with text and without video?
+- [2025-01-24] [r:6] In the question number 2 of module 2, *the question asks about the value of the variable after or before rendering?* The variable contents do not change with any input value, so half of the question seems misleading. It is the rendering of the variable the one that depends on the inputs and the one that will change if rendered. This is the question, for reference: &gt; What is the value of the var ...
+- [2025-01-24] [r:5] What's the meaning of inclusive and exclusive in question 3 homework module 1? @user
+- [2025-01-24] [r:4] @user Do we also have to ingest the zones dataset as shown in video 1.2.6 or is it optional?
+- [2025-01-24] [r:4] Hello Everyone, I have a question, what is meant by this statement "basics of SQL", like what does include? I've been doing mainly FE work for so all I recall is SELECT, WHERE, ORDER BY, GROUP BY for the most part
+- [2025-01-24] [r:0] Hey Guys! I have completed week 1 and I'm excited to share my learning experience with gratitude via a YouTube video - https://www.youtube.com/watch?v=BO_FOikcu18&amp;t=3s I hope this video will be useful for the community as well.  I am just entering week 2 and enjoying learning from the Zoom camp.
+- [2025-01-24] [r:2] Is there anything else required to be included in my homework file for week 2 besides the choices? For example, do I need to include screenshots to prove that I got the correct output?
+- [2025-01-24] [r:12] for week 1 homework, question 3, I'm not finding any of the answer options correct, and I'm quite sure my code is correct...any help?
+- [2025-01-24] [r:0] Hello, In my GitHub project do I need to write the SQL querys for you to check the responses? Thanks
+- [2025-01-24] [r:1] How far are we in the course?
+- [2025-01-25] [r:1] @user do i need to install conda on my local pc?
+- [2025-01-25] [r:1] I’m just doing the homework for week 1 and I’m stuck at Question 3. Trip Segmentation Count — I get answers that appear in the answer choices when I just count the trips for all time. But once I set the filter (WHERE lpep_pickup_datetime &gt;= ‘2019-10-01’ AND lpep_pickup_datetime &lt; ‘2019-11-01’)), my numbers don’t match any choices. I am using the green taxi trips as advised. Anyone had the sa ...
+- [2025-01-25] [r:1] Hello @user, In my GitHub project do I need to write the SQL querys for you to check the responses? Thanks
+- [2025-01-25] [r:4] Where is this code located.
+- [2025-01-25] [r:1] Hello all, @user  Does anyone got the following error on GCP?  ```There was an error while loading /compute/metadata?inv=1&invt=AbnysQ&project=dataeng-447910. Please try again. ```
+- [2025-01-25] [r:3] @user For module 1 hw, the where clause has to filter based on all completed trips or all trips that were commended during the mentioned period ? I am unsure as to what it refers to  when it says all trips that 'happened'
+- [2025-01-25] [r:1] @user For week1, should we delete the VM we configured or will we be using it down the line?
+- [2025-01-25] [r:8] @user The videos show python version 3.9, do we need to use the latest or 3.9 only?
+- [2025-01-25] [r:3] @user video 1.4.1 is optional right? I can just use my local set up?
+- [2025-01-25] [r:6] Hello! Can anyone please explain me how the author formatted the code so quickly here https://youtu.be/B1WwATwf-vY?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&amp;t=513 What shortcuts should I use? ChatGPT wasn't really useful
+- [2025-01-25] [r:2] I have question about the repo of the homework must be contain script file and docker file this is all or I forgot something?
+- [2025-01-25] [r:3] How can I resolve this ?
+- [2025-01-25] [r:3] @user what am I supposed to include on my github?
+- [2025-01-26] [r:3] @user is github codespaces optional for the course?
+- [2025-01-26] [r:2] can anybody help me please regarding the above situation?
+- [2025-01-26] [r:1] I have a Docker / vscode question. When I first started and launched dockers vscode would automatically forward the ports for me. Now it does not so I have to manually do.  Has anybody else faced this? Any suggestions how to go back to automatically doing so?
+- [2025-01-26] [r:1] @user how I know the grade of my homework when after submited?
+- [2025-01-26] [r:1] @user what should I do if after executing the dockerized data ingestion script I can only download the data but fail to ingest it into the db? The output spills out the following: psycopg2.OperationalError: could not translate host name "pg-database" to address: Name or service not known sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "pg-database" to add ...
+- [2025-01-26] [r:0] Is it just me or is the csv data set not using any data from 2019?  I get 0 hits for the homework questions 3-6  select * from public.nytaxidata where tpep_pickup_datetime between '2019-01-01 00:00:00'and '2019-12-31 23:59:59' order by tpep_pickup_datetime
+- [2025-01-26] [r:1] @user what Python version should I use for stability?
+- [2025-01-26] [r:1] does this URL work for anyone?  https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2021-01.csv  its from https://youtu.be/B1WwATwf-vY?si=k95jF3aeHzMtlTX5&amp;t=593
+- [2025-01-26] [r:3] This action couldn’t be completed. Try again later. [OR_BACR2_34] what should i do to sign up gcp? @user
+- [2025-01-26] [r:1] @user Does the $300 need to be in the account to register for the free $300 on Google Cloud?
+- [2025-01-27] [r:7] @user, I observed that for yellow trip data in some case, same record exist in more than 1 csv file, for instance same trip exists in Jan 2019 and Feb 2019. What should be the ideal approach in that case? What I did was to add file name to the unique key combination  ```UPDATE {{render(vars.staging_table)}}           SET              unique_row_id = md5(               '{{render(vars.file)}}' ||    ...
+- [2025-01-27] [r:3] Hey guys, does anyone know when season 2 is?
+- [2025-01-27] [r:7] @user    @user      hi,I have no access to GCP ,Can I use others ways?and which?
+- [2025-01-27] [r:0] Can you please not tag the course team in your messages? We check slack periodically and will see your message - and if we can help, we will.   Also please don't contact the course team in DM unless it's really necessary (e.g. you want to report something). Instead please ask questions in the course channel.  Before asking a question, first check FAQ and then check this channel if someone has aske ...
+- [2025-01-27] [r:1] Hello! I had a question regarding one of the homework questions, specifically question 4. Are we supposed to find the trip with the longest *distance* or longest *duration*? the question says to use the pickup time for calculations which is confusing me.
+- [2025-01-27] [r:1] @user should we push homework 1 to repository git? or just answer tests?
+- [2025-01-27] [r:1] should i complete the homework to get the certification ?
+- [2025-01-27] [r:0] Anyone having same issue while querying the data?
+- [2025-01-27] [r:2] Hi everyone, just wanted to check.. is the homework mandatory? :new_moon_with_face:
+- [2025-01-27] [r:1] Just wanted to confirm is it okay if i share the README.md file in my repo with the code blocks for the homework submission?
+- [2025-01-28] [r:3] 1. @user For the homework of week 2 I have slighty different numbers for the questions that are about number of rows in the taxi data. Should we select the closest match or should we get the same exact number?For example in question 3: How many rows are there for the `Yellow` Taxi data for the year 2020? I receive 20 rows less than the closest match in the given answers.
+- [2025-01-28] [r:2] @user which is the url for homework number 1?
+- [2025-01-28] [r:3] @user when we can see the result of the homework revision?
+- [2025-01-28] [r:1] Hello, can we start with week 3 material? Is it updated?
+- [2025-01-28] [r:4] Should the SQL Query commands used to solve question 3-6 also be added to GitHub for submission?
+- [2025-01-28] [r:2] I joined only today, can I still attempt week 1 ?
+- [2025-01-28] [r:4] @user Why does it take so long to inject the data in chucks?
+- [2025-01-28] [r:3] Is this https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/03-data-warehouse where we start the 3rd module, and when is the homework for module 3 due? @user
+- [2025-01-28] [r:2] Has week 3 started yet? It seems the homework wasn't updated in the repo and the module submission is closed.
+- [2025-01-29] [r:3] where can i check the score for my homework?
+- [2025-01-29] [r:1] Hi, will the scoring for all homeworks happen together or will we get homework 1 scores in a few days?
+- [2025-01-29] [r:3] Hi @user,  I forgot the submission date and just realised it was yesterday. What can I do now?
+- [2025-01-29] [r:2] Can someone explain what this step is doing in the transform step. It uses list comprehension concept and picks the default two column names from input. `for product in data["products"]` basically looping through each and every json data record ? ``` filtered_data = [           {column: product.get(column, "N/A") for column in columns_to_keep}           for product in data["products"]       ]```
+- [2025-01-30] [r:3] could someone point me to the video/document where it is shown/described how the taxi zone data is loaded to the database please?
+- [2025-01-30] [r:3] hi, sadly I didn't finish the first week yet so I couldn't do the homework yet, but now after the home work is being corrected does that mean I can't do it or receive marks for doing it ?
+- [2025-01-30] [r:2] I have a question, what happens if I have recently joined and I did not have enough time to submit module 1?
+- [2025-01-30] [r:4] @user im curious about when we want to copy dataset into staging table why we use `{{render(vars.data)}}` on `from:` rather than use `{{render(vars.file}}`?
+- [2025-01-30] [r:4] what are essential files that you add to .gitignore for your repositories?
+- [2025-01-30] [r:1] @user to follow along do I fork the original repository? because i finished week1 without forking
+- [2025-01-30] [r:5] Hi Guys, for homework 3, we are not supposed to use the orchestration tool correct? So do we download the parquet files in our local machine then upload to storage bucket and create external table in big Query?
+- [2025-01-30] [r:1] hello, I am just completing my first homework. Can I continue with the course as I see I that they have been graded?
+- [2025-01-30] [r:2] @user Difference between variables and labels ?  I see that labels use type (plugin) but variables doesn't. Can we call labels within variables ?
+- [2025-01-31] [r:7] greetings, data people. how you al been doing?  does anyone have a template for a resume to apply to data related jobs?
+- [2025-01-31] [r:2] Hey everyone! I just discovered the *Datatalks Data Engineering course repo*, and it looks super interesting. Do you have any recommendations on how to navigate the course effectively? I want to follow the concepts in the right order to ensure I learn them properly and get the most out of it.
+- [2025-01-31] [r:1] @user while trying to import the data in chunk using the -  " while True:     t_start = time()     df = next(df_iter)      df.tpep_pickup_datetime = pd.to (http://pd.to)_datetime(df.tpep_pickup_datetime)     df.tpep_dropoff_datetime = pd.to (http://pd.to)_datetime(df.tpep_dropoff_datetime)      df.to (http://df.to)_sql(name = 'yellow_taxi_data', con=engine, if_exists='append')      t_end = time()  ...
+- [2025-01-31] [r:0] for yellow trip data, do we have any column combinations that created as unique_id? tried a few options but still see some duplicates.
+- [2025-01-31] [r:1] am i understanding correctly that you should actually start from 1.4.1 to have a working environment, and then go back and start from the beginning?
+- [2025-01-31] [r:12] Hi @user , I'm following your tutorial and have a question regarding the backfill process. In the tutorial, you mentioned that when performing a backfill, we need to create a staging table for each month. ```variables:   file: "{{inputs.taxi}}_tripdata_{{trigger.date | date('yyyy-MM')}}.csv"   staging_table: "public.{{inputs.taxi}}_tripdata_staging"   table: "public.{{inputs.taxi}}_tripdata"   dat ...
+- [2025-02-01] [r:9] :alert: Oh no, our ZoomcampQABot is broken :sad_cat:  UPDATE: Because somebody messed up our FAQ ! I already asked on Jan 22nd to be careful!  Who did brake it 3h ago?  > There was an error: list index out of range  https://datatalks-club.slack.com/archives/C01FABYF2RG/p1738392317379189?thread_ts=1738392315.247179&channel=C01FABYF2RG&message_ts=1738392317.379189
+- [2025-02-01] [r:18] @user How are you doing today?
+- [2025-02-01] [r:5] I wonder to know why is it required to call a python docker image when running a python script in tasks in keatra?
+- [2025-02-01] [r:5] Hey I am a new registered member and I missed first docker assignment. Can I submit it later ?
+- [2025-02-01] [r:1] Hello everyone, I have a question. After finishing this course, can everyone suggest me some keywords to learn or another course to help me improve my skills and possibly get a full-time job?  Thank you everyone :heart:
+- [2025-02-01] [r:2] Is there any way to download and upload the CSV directly to GCS instead of passing it through the local machine?
+- [2025-02-01] [r:1] I installed gcloud CLI, but am not able to use the gcloud command. but when I use it like in the below screenshot it works. What did I do wrong?
+- [2025-02-02] [r:1] What is the answer for 3rd question in 2nd week homework?
+- [2025-02-02] [r:2] hi , will we start mod 3 first or the workshop? cuz i don't know what I should do plz
+- [2025-02-02] [r:5] Hi, I see that week-3 homework is still in draft, Is there any timeline when it will be available? Or I am looking at the wrong folder ... I am looking here (https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2025/03-data-warehouse/homework.md) :eyes:
+- [2025-02-02] [r:7] how can i solve this error
+- [2025-02-02] [r:21] Hi Guys, has anyone got this error?  every time I run a command in  _*ingest-data.py*_  I get this error             Traceback (most recent call last):               _*File "/app/ingest_data.py", line 80, in &lt;module&gt;*_                     _*main(args)*_              _*~~~~^^^^^^*_           its always _*main(args)*_
+- [2025-02-02] [r:3] Hello Team, Quick question regarding the change in schedule for module 2. If Module 2 now ends on Wednesday would HW2 deadline be moved or it’s still tomorrow?
+- [2025-02-02] [r:3] hi all, is there an issue if I signed up for DEZoomcamp using a separate email from the one that I am using to complete the homework?
+- [2025-02-02] [r:7] @user I'm a little confused about what data I need to download in module2. Do I only need the 2021 green and yellow data or more years? In the previous exercise, I only used green_trip_data_2019_10
+- [2025-02-03] [r:15] In week 2 homework it says that we processed 2019 and 2020 data till now, but in fact we only processed 2019, should I also back fill 2020 and 2021, or just 2021?
+- [2025-02-03] [r:4] for hw I dont need to submit files right except the readme?
+- [2025-02-04] [r:8] @user how can i get a working card to register for gcp. all nigerian cards are not working, any alternative?
+- [2025-02-04] [r:9] @user does anyone got slightly different rows count for all the questions? Somehow mine is different, slightly tho.
+- [2025-02-04] [r:3] Hello All, what's the best way to study week2?
+- [2025-02-04] [r:1] Hello, i have like 2 weeks of break, i would love to progress faster, are homeworks pre written or are they written every week?
+- [2025-02-04] [r:3] Hello @user thanks for all the videos and explanations! I have a question regarding the 02_postgres_taxi.yaml (https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/02-workflow-orchestration/flows/02_postgres_taxi.yaml) file. When you build the table, if the taxi is green, including the staging tables, you use `lpep_pickup_datetime`, whereas if the taxi is yellow, you use `tpep_pick ...
+- [2025-02-04] [r:2] Hello everyone, I'm new to cloud computing and just starting to learn about it. Why do we use VMs? Can't we create the data pipeline in container, install all the required programs in containers as well, and go with the model PaaS instead?
+- [2025-02-04] [r:0] For 3.1.1 are the links to the csv files to be updated? Or are we meant to link to our csv buckets we downloaded from week 2? https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/03-data-warehouse/big_query.sql
+- [2025-02-04] [r:6] @user is there a course how to create such good QAbot?:smirk:
+- [2025-02-04] [r:3] Hi guys, I see that there is no link to add answers for homework 3. Did anyone find it?
+- [2025-02-04] [r:5] I'm looking at the Homework for Module #3, Questions 6 and 7: > Question 6: >  > Write a query to retrieve the distinct VendorIDs between `tpep_dropoff_timedate` 03/01/2024 and 03/15/2024 (`inclusive`) > Use the materialized table you created earlier in your from clause and note the estimated bytes. Now change the table in the from clause to the partitioned table you created for `question 4` and n ...
+- [2025-02-04] [r:5] @user when is homework 2 due?
+- [2025-02-04] [r:9] @user For week 2, "Load Data to GCP with backfill"  what are the datasets to be loaded in GCP bucket?
+- [2025-02-04] [r:1] @user in 05_gcp_setup how do I pass the json file location to GCP_CREDS? Does it take environment variable?
+- [2025-02-05] [r:5] 2025-02-05 11:35:01.664namespacezoomcamp (http://localhost:8080/ui/flows?namespace=zoomcamp)flowIdpostgres_taxi (http://localhost:8080/ui/flows/edit/zoomcamp/postgres_taxi)taskIdgreen_create_tableexecutionId454xBUPTi38823uv18zWfG (http://localhost:8080/ui/executions/zoomcamp/postgres_taxi/454xBUPTi38823uv18zWfG) Cannot invoke "java.sql.Connection.rollback()" because "connection" is null ERROR 2025 ...
+- [2025-02-05] [r:2] Hey guys! Still facing this error, anyone know how to fix this?
+- [2025-02-05] [r:18] Are previous classes available any where ?
+- [2025-02-05] [r:12] Docker Installation issue in MacOS. % docker ps Cannot connect to the Docker daemon at unix:///Users/joye/.docker/run/docker.sock. Is the docker daemon running?
+- [2025-02-05] [r:3] Hi everyone, I'm trying to get started on module 4 while I wait for the workshop. It says something about the pre-requisites include having ingested fhv data. This is the first time I hear about it. What is it?
+- [2025-02-05] [r:5] Hello where is the homework for the workshop1?
+- [2025-02-05] [r:2] Hi All, How are you?  How can I start ? I'm stuck in how to start in the correct way :disappointed:
+- [2025-02-05] [r:3] Help me which key should i put in KEYS ,
+- [2025-02-05] [r:2] Hi All, I just binge watched alle the videos from Module 3, which were quite theoretical.. Now after the videos I am a bit confused what I am supposed to do. Can anybody point me in the right direction for Module 3? What is the first thing I should do?
+- [2025-02-06] [r:5] In homework 3 its says to create an external table for the yellow taxi trip data, should I create only one table or 6? since theres 6 parquet files in the bucket
+- [2025-02-06] [r:3] Did anyone else get a value '1' when trying to query the count of distinct PULocationIDs from question 2 in the homework? I am using the following query: ```SELECT COUNT(DISTINCT('PULocationID')) AS column_count FROM `xxxxxx-xxxxxx-xxxxxx-g3.ny_yellow_taxis.yellow_taxis` LIMIT 100```
+- [2025-02-06] [r:2] Hi everyone, I have the following question: I have already finished week 2 of the course. What should I do next, week 3 or the Data Ingestion Workshop?
+- [2025-02-06] [r:1] Does anyone have any ideas ways gain real experience building pipelines? The best ideas I've seen are to build something for a local non-profit or build something to solve a problem you have yourself.
+- [2025-02-07] [r:2] @user how to complete my homework #3 without google cloud platform?
+- [2025-02-07] [r:3] @user I am confused by “BIG QUERY SETUP” section of the “03-data-warehouse” homework. We are instructed to create both an “external table” of the parquet files and also a “regular/materialized” table of the parquet files. I believe that I have done that. My tables are called `all` and `all_external`  I can answer question 1 querying `select count(*) from all` . The number or rows matches one of th ...
+- [2025-02-07] [r:7] I am getting an error when setting up GCP
+- [2025-02-08] [r:1] @user, how does one add community notes to the DE-Zoomcamp repo ?
+- [2025-02-08] [r:1] Were you able to solve that problem my man?
+- [2025-02-08] [r:4] Im stuck still in setting up the VM from GCP, also tried Github Codespaces, not able to set up one or the other. Anyone else in the same situation? Any other rookie stuck in this? Lets join
+- [2025-02-08] [r:4] where do u start?
+- [2025-02-09] [r:1] @user where is the json file?
+- [2025-02-09] [r:2] @user When is Ingestion with dlt starting ?
+- [2025-02-10] [r:4] 'm working with a dataset that contains missing values in some columns. Would it be better to use `dropna()` to remove incomplete rows, or should I use `fillna()` to replace missing values with reasonable defaults? What are the best practices for handling missing data?
+- [2025-02-10] [r:1] Hi everyone, I'm on the 2.2.3 w2 ETL Pipelines, do we actually have notes of scripts shared somewhere ? to help save time in typing and finding typos,it is really hard to read all the lines in the video.
+- [2025-02-10] [r:4] @user in homework3 how can i run load_yellow_tax_data ? it getting error when i running a code there is missing modules
+- [2025-02-11] [r:3] is there any reason why we should stop uploading files to gcs with orchestrator tools in homework 3? @user
+- [2025-02-11] [r:3] Hello everyone. I have some questions regarding flow of creating external table and table itself 1. Are we supposed to upload them like in 2nd module where we upload from bucket to ext table (that created for each month) and from there merge into main table or we supposed to create only 1 external table and upload the data in it directly into table? 2. Are we supposed to create unique_id and file_ ...
+- [2025-02-11] [r:2] @user How do I load the data for homework 3 ?
+- [2025-02-11] [r:6] does a career in database administration feed into and results in a career in data engineering? or are they not related?
+- [2025-02-11] [r:3] @user, could you please summarize the learning objectives for Module 3? I'm finding the module a bit confusing and want to ensure I'm focusing on the key takeaways. Will completing the homework assignments adequately cover all of the learning objectives?
+- [2025-02-12] [r:15] I tried to use dlt in jupyter notebook but I can’t import the dlt.sources module. Has anyone else had the same problem?
+- [2025-02-12] [r:3] There is a question in hw3 regarding external table and materialized table, can somebody explain the difference as it is not explicitly covered in the videos?  Also, it is asked "from the table (not the external table)" in another one. These terms are not so clear to me. Kindly somebody shed some light on this topic PS: i have also seen FAQ on unchecking cached results
+- [2025-02-12] [r:1] @user Can I include in the FAQ contribution a question asked by someone else, because it was my question and it was solved? :sweat_smile:
+- [2025-02-13] [r:13] @user do you know why I cannot request the API from the workshop with my browser or with running the notebook locally with Jupyter?  When I try to open this URL, I only get a connection refused error. https://us-central1-dlthub-analytics.cloudfunctions.net/data_engineering_zoomcamp_api?page=1  Only with using Google Collab, I can connect to the API :grin: I'm just curios for the reason behind this ...
+- [2025-02-13] [r:4] In Module 3 big_query.sql, I saw the code to create a partitioned table from an external table. If I ran it against an internal table it worked as well. I wonder if there is difference between the two ways (create a table from external vs internal table)? Thanks in advance
+- [2025-02-14] [r:1] did week 4 start?
+- [2025-02-14] [r:2] Could you clarify is dlt homework (week 3) mandatory or optional?
+- [2025-02-14] [r:9] Hi Everyone :wave::skin-tone-2: I have no idea how to solve this problem below.  ```import pandas as pd from sqlalchemy import create_engine  df_iter = pd.read_csv('yellow_tripdata_2021-01.csv', iterator=True, chunksize=100000) df = next(df_iter)  engine = create_engine('<postgresql://root:root@localhost:5432/ny_taxi>') engine.connect()  print(pd.io.sql.get_schema(df, name='yellow_taxi_data', con= ...
+- [2025-02-15] [r:4] I want to ask about automatic normalization in the dlt pipeline that when the table separation between the main table and the child table is determined when what? because what I understand here is that when running `dlt.pipeline` then suddenly there is a separation between tables and my question is why that can happen? based on what dlt will automatically separate the child table from the main tab ...
+- [2025-02-15] [r:1] @user, do we need to install mysql and MS visual studio to do the course ?
+- [2025-02-15] [r:1] @user, I am getting this error `Parquet column 'passenger_count' has type INT64 which does not match the target cpp_type DOUBLE.` after creating an external table on the ny taxi yellow trip data in parquet format for data from 2019-2020. How should I resolve this?
+- [2025-02-16] [r:0] Hi, for the analytics engineering module. For the deployment lecture followed the prod dataset example. And I am getting errors of prod dataset not found    Do I need to have the hello and green trip data in the prod folder ???
+- [2025-02-16] [r:1] Hello team, is the homework 4 finalized yet? I saw it’s still draft
+- [2025-02-17] [r:5] hello guys, i found this homework question and would like to know what it is actually refering to - *Question 2: Define &amp; Run the Pipeline (NYC Taxi API)* _*Use dlt to extract all pages of data from the API.*_ Steps: Does this mean all the data from 2009 - 2024. Is this what is required of us in the workshop home work?
+- [2025-02-17] [r:4] Hey There ! I’m on the data engineering zoomcamp and i was wondering if there’s homework for Module 4 ?
+- [2025-02-17] [r:7] I have a question about the SQL setup for the homework 4. It is related to the usual ambiguity on dates. In order to classify data and aggregate per time spans (like total revenue for 2020), how must we consider the trips that crosses the boundaries? I. e. a trip that starts on 2019 and finished on 2020. Given that the questions are related to the revenue and payments, I will consider the drop off ...
+- [2025-02-17] [r:3] Hi, I have a question. How can I run the python pipeline in GCP instead of my local environment?
+- [2025-02-18] [r:2] Hey everyone,  Do we know if either of the last 2 weeks of videos are going to be updated, or are they staying the same?
+- [2025-02-18] [r:37] Has anyone managed to solve Question 7 from HW4? None of my answers match the expected results. For example, for Newark Airport, my second largest 90th percentile trip duration came out as "NV" with a p90_trip_duration of 9265, while the East Village was ranked 53rd with a p90_trip_duration of 3804.
+- [2025-02-19] [r:13] Hi all :slightly_smiling_face:. Im on the github repo and the slides are sending the 2022 classes if I'm not mistaken. Anyway I could get my hand on the new one ?
+- [2025-02-19] [r:2] @user When is the next assignment  due?
+- [2025-02-19] [r:1] where is the homework for week 4?
+- [2025-02-19] [r:1] hello while doing the home work, i grouped by year_quarterly to see the quarterly revenue and i saw years such 2033 and 2001 and many more years that are not 2020 2019, but the number of record per table is correct, is that normal?
+- [2025-02-20] [r:6] I'm grateful to be part of this bootcamp! In a short time, I've learned a lot—it's full of positive energy and support :white_check_mark: :first_place_medal:  :pray:  . But I feel my progress is a bit slow. Maybe it's my marketing background or my approach? Any tips?":bricks:
+- [2025-02-20] [r:1] Hello, anybody know the difference between naming a file .yml or .yaml? A quick internet search suggests that .yaml is the recommended extension but it seems like .yml is broadly used. Is there some system behind this?
+- [2025-02-20] [r:10] @user  for homework 4 question 7, is the options correct? I found when pickup zone is SoHo, the answer should be Greenwich Village South, the Chinatown is the 3rd..
+- [2025-02-20] [r:3] Has anyone find the question 7 for homework4, there is no correct option? I mean when pick up zone is SoHo, did anyone think the answer should be Greenwich Village South? China town is actually 3rd, not 2nd....
+- [2025-02-21] [r:3] anyone getting all nulls when loading fhv data, for the two id columns?
+- [2025-02-21] [r:10] For the Homework Week4, question 6: Did you get the exact percentage values for both Yellow and Green services? My values for yellow are ok, but for the Green ones, very different, and I am lost...
+- [2025-02-21] [r:0] can anyone help me when loading fhv the PU AND DO LocationID columns with the sr_flag are all nulls
+- [2025-02-21] [r:16] For Homework 4 Question 5, are the e.g. values given true to the data we have or just general examples? ```3. Compute the Quarterly YoY (Year-over-Year) revenue growth    * e.g.: In 2020/Q1, Green Taxi had -12.34% revenue growth compared to 2019/Q1   * e.g.: In 2020/Q4, Yellow Taxi had +34.56% revenue growth compared to 2019/Q4```
+- [2025-02-21] [r:4] For Homework 4, we must take into account the rows that have Vendor ID = null ?   Victoria's staging model has this line: "where vendorid is not null" which results in the yellow dataset with 107,991,349 records and the green dataset with 6,835,902 records instead of 109,047,518 records and 7,778,101 records
+- [2025-02-21] [r:14] I am currently following *_DE Zoomcamp 4.5.1 - Visualising the data with Google Data Studio (Alternative A)_; and I noticed that my Record Count (*61,608,208) *is around 28000 less than what the instructor has in her Scorecard chart (*61,636,714)*. Can I just proceed, or is this a problem for later?* :fearful:
+- [2025-02-22] [r:2] hello for homework 4 question 7 fct_fhv_monthly_zone_traveltime_p90.sq is this correct? please check the thread
+- [2025-02-22] [r:1] @user how copy homework to GitHub?
+- [2025-02-22] [r:2] Is it me or question 6 and 7 are just way harder than anything we took thus far, and require alot more sql than what previously is needed, yet my problem is with actually understanding the question itself, for example in question 7, it wants the 2nd largest p90 for multiple drop off zones? Any tips when dealing with such a question
+- [2025-02-22] [r:1] Did anyone get the exact count in batch homework question 3? I'm getting something close, but not exact
+- [2025-02-22] [r:4] @user how can dlt help me load huge csv files to GCS? We learned that it helps with REST APIs with pagination etc. to load data in chunks but how do we use the same logic for big csv file transfers that are bigger than the memory?
+- [2025-02-22] [r:1] @user how can dlt help me load huge parquet files to GCS?
+- [2025-02-23] [r:1] @user how can dlt help me overwrite parquet file as table in GCS?
+- [2025-02-23] [r:2] Hey data loonatics :slightly_smiling_face: Having huge problem here reproducing  any of the possible options for a correct answer on Q6 (Percentiles) of Analytics Engineering HW. Anyone esle facing similar discrpancy in percentile values? @user
+- [2025-02-23] [r:7] (EDIT: This is resolved. I didn't remember to delete the pre-built models when trying out different answers). -- for HW4 Q3, do we need to assume that fct_taxi_monthly_zone_revenue.sql is not located inside the core folder? I was not able to find an answer when it was in the core folder, only when I put it out of the core folder. So curious if that assumption is needed or I am missing something. T ...
+- [2025-02-23] [r:12] Hi everyone, I'm having an issue with the week4 assignment in the Zoom-Camp Data Management course. After running the hack-load-data.sql script, I noticed that the row counts for the tables differ from what’s mentioned in the "Before you start" section. Specifically, for the Green Taxi table, it should have 7,778,101 rows, but my table shows 8,035,139 rows. Similarly, for the Yellow Taxi table, th ...
+- [2025-02-23] [r:7] @user What is the file example for environment variables when using dlt?
+- [2025-02-23] [r:5] How to solve this mismatch in expected schema and the schema of one of the resource files? My code and the error message is in the comments.
+- [2025-02-23] [r:1] Can we get an extension on the submission date for Module 4 homework? There is a lot to digest in the module...
+- [2025-02-24] [r:8] hey guys, i am actually new here can anyone share me week wise material  ?
+- [2025-02-24] [r:3] what key am i putting here when adding my gcp json credentials in the New key
+- [2025-02-24] [r:9] 2025-02-24 13:24:22.888no JSON input found. Why do i keep getting this error?
+- [2025-02-24] [r:0] Does this mean that we have a three-day extension on the due date for the homework of module 4?
+- [2025-02-24] [r:0] A sanity check on question 5 of Module 4 homework: is everybody getting all negative YoY growth numbers? I am and it makes perfect sense to me, because COVID-19 had just barely hit the US in December 2019. There is no evidence that there was any infection at all in NYC in 2019. But it became a thing in Q1 2020.  Lots of staying at home in 2020 — thank God we got past that!
+- [2025-02-24] [r:4] @user when is the due date for the homework of module 4?
+- [2025-02-24] [r:9] For Module 4 homework Que 6 P97/P95/P90 Taxi Monthly Fare,  I got different values for green compared with a .5 difference for yellow, anyone else has the same experience?
+- [2025-02-24] [r:4] Hello everyone, I'm not great at writing SQL queries, has anybody had difficulties extracting the year and month from the pickup_time? I get values for years that don't make sense. I've tried several approaches, none seem to work. Here is my current approach: ```format_date('%Y',date_trunc(pickup_datetime, YEAR))``` If anyone with better SQL skills could point me in the right direction I would rea ...
+- [2025-02-24] [r:1] @user It is correct that in the yellow and green travel tables there are dates greater and less than 2019 and 2020?
+- [2025-02-24] [r:24] Could anyone give me the number of rows `fact_trips` should have? Thank you!
+- [2025-02-24] [r:14] Could anyone help with when running fact_trips with this error  02:26:28   Database Error in model fact_trips (models/core/fact_trips.sql)   Error while reading table: charged-scholar-446408-g1.trips_data_all.yellow_tripdata, error message: Parquet column 'passenger_count' has type INT64 which does not match the target cpp_type DOUBLE. File: <gs://de-zoomcamp--zoomcamp-bucket/yellow/yellow_tripdat ...
+- [2025-02-24] [r:6] when is the course end?
+- [2025-02-24] [r:1] @user In question 5 of week 4, should we filter total amounts greater than 0 or that are of a particular payment type?
+- [2025-02-24] [r:1] @user Only the total_amount column should be considered to calculate the Taxi Quarterly Revenue Growth. Or tips and toll payments should be considered??
+- [2025-02-25] [r:4] hi All, I'm struggling with the Serious SQL part of homework4,  when I  try to get the distinct years from the green_tripdata i got the following years: is this normal? has it happen to anyone?
+- [2025-02-25] [r:4] I am struggling with every single question of the Homework 4. How should I go with question 3 for example? The lineage, names of the models are different from what we built with the videos or the github repo… @user
+- [2025-02-26] [r:4] @user Hi, team, I couldn't find the link for the Week 4 homework. Has anyone managed to locate it?
+- [2025-02-26] [r:3] Hi, following the video 5.3.1, we should use 04_pyspark notebook. Do we obviously need to decompress fhvhv file? Can’t we use it in csv.gz format as we did in module 1? When I run !gzip -dc … command, my laptop become too busy for a long time @user
+- [2025-02-26] [r:1] @user Can you please tell me the timeline of this zoomcamp?
+- [2025-02-26] [r:14] I think the videos on 04-analytics engineering isnt enough to be able complete the homework. for example, env_var wasnt covered(if it was, please let me know), can you guys recommend any extra materials to know these things?
+- [2025-02-27] [r:9] when I run park.createDataFrame(df_pandas).schema, I get the error of AttributeError: 'DataFrame' object has no attribute 'iteritems'. Dose anyone know how to fix this ?
+- [2025-02-27] [r:1] @user,  I made a mistake and changed some inputs in profiles.yml, then was a big mess, . should I delete ptofiles.yml and start again from scratch ?
+- [2025-02-27] [r:19] is anyone sure that question 6 regarding the percentile_cont in module 4 has the accurate answers in the choices ?
+- [2025-02-27] [r:20] can someone spot what I am doing wrong ? as an answer to the final question of homework module 4 ``` with tbl as (     select *, timestamp_diff(drop_off_datetime, pickup_datetime, second) as trip_duration      from {{ref("dim_fhv_trips")}} ), perc as (     select distinct dropoff_zone, pickup_zone,     PERCENTILE_CONT(trip_duration, 0.9 ) over(partition by yr, mth, p_ulocation_id, d_olocation_id ) ...
+- [2025-02-28] [r:21] I am seeing two models regarding "fhv" in lineage graph, do we have 1 or 2 tables regarding it? https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2025/04-analytics-engineering/homework_q2.png @user
+- [2025-02-28] [r:3] @user when can we start submitting the project?
+- [2025-02-28] [r:4] in week4, in green_tripdata and yellow_tripdata, years range from 2008 to 2090, is it correct way?
+- [2025-02-28] [r:4] Hi could i check for homework 5 question 3 am i supposed to get the nearest ans? I am unable to get any of the given ans. My sql: ```Select count(*) from yellow where date(yellow.tpep_pickup_datetime) = '2024-10-15'```
+- [2025-02-28] [r:1] Hey @user, which is better for Module 5 batch processing—GitHub Codespaces or Google Colab?
+- [2025-03-01] [r:7] Hi everyone, I'm trying to run function and got anr IndexError  Someone know how to fix it?
+- [2025-03-01] [r:3] *Does anyone want a practice partner for SQL?*  I've been doing some leetcode and also thinking about using other resources: -> [*leetcode -* mediums & SQL 50?] [*Mode]* [SQL Police Department] [SQL Murder Mystery]
+- [2025-03-01] [r:3] What happened to Bruno?
+- [2025-03-01] [r:3] Would we have one week for learning Module 6 and completing HW6? Currently it shows the deadline for HW5 is March 6 and March 10 for HW6. Just want to plan ahead if that is the case
+- [2025-03-02] [r:2] Does anyone use Git Bash with tabs, like Alexey? How did you do it?
+- [2025-03-02] [r:3] Hi, mentors. HW5, Q3. I have result about 3000 more than mentioned in your possible answers. And I saw 3 more students with the same result. Is it possible, that you haven't updated the answers correctly after 2024?
+- [2025-03-02] [r:3] @user  When using `trigger.date` vars inside a variable in my Python script, will it return a list of values if the trigger runs over a date range? For example, if I set the trigger to run from `2019-01-01` to `2020-12-31`, will `trigger.date | date('yyyy')` produce a list of years `[2019, 2020]`, or will it only return a single year corresponding to each execution?
+- [2025-03-03] [r:1] @user Why is this query returning an empty table in Postgresql?  ```select * from {{ ref('fact_taxi_trips') }} where pickup_datetime >= CURRENT_DATE - INTERVAL '{{ var('days_back', env_var('DAYS_BACK', '30') }}' DAY``` I know the question is to choose the correct answer for development and production. But does your queries returns any result?
+- [2025-03-03] [r:3] Good day, in my answer for Homework 5 Q4 I found the longest trip in hours but it is nowhere near any of the choices provided.  Am I reading the question wrongly?
+- [2025-03-03] [r:3] Hi @user. I'm trying to ingest the fhv_trip in GCP using pyarrow to transform the dataframe to parquet. I'm facing the error for the file from 2020-01 (the others are OK) ```--------------------------------------------------------------------------- ArrowInvalid                              Traceback (most recent call last) ~\AppData\Local\Temp/ipykernel_15336/2801540999.py in &lt;module&gt; ----& ...
+- [2025-03-03] [r:0] does anybody knows which are the best yet written notes for module 5?
+- [2025-03-03] [r:2] @user Has anyone encountered the same problem as me? I calculated 128741 for the question3 of hm5. Can someone help me why I get an answer out of the listed choice:face_with_spiral_eyes:
+- [2025-03-04] [r:1] Hi, I have a question about homework 5 Question 3, do we still use Yellow 2024-10 data or other years? There are 3833771 row count if I use yellow_tripdata_2024-10.parquet. Am I using the correct dataset? Thanks!
+- [2025-03-04] [r:2] Is the deadline for HW gonna be pushed? I don't think I will make it on time. :disappointed:
+- [2025-03-04] [r:2] question 3 in module 5 homework doesn't give me any of the possible answers, is that the same case for anybody? or am I doing something wrong?
+- [2025-03-04] [r:1] @user Is it just me who doesn't have the field `payment_type_description` ?  ```payment_type_description in ('Cash', 'Credit card')```
+- [2025-03-05] [r:0] I want to follow along with the pyflink video but the files arent there anyone got them?
+- [2025-03-05] [r:1] @user 2025 deadlines and calendar ?
+- [2025-03-05] [r:1] @user For module 6, should we cover all the theory videos before going into the practical part done in the livestream?
+- [2025-03-05] [r:2] Hi guys! Part 6. Looks like now Confluent Cloud doesn’t allow creating a cluster without inputting a bank card. Did someone manage to create a cluster without card?
+- [2025-03-05] [r:3] Is anybody else getting not any of the provided answers for week 5 question 3, but pretty close to one of them? I wonder what I did wrong — it seems so straightforward…
+- [2025-03-06] [r:4] @user in question 3 of the task of week 5. Should I consider it only at the close of the start of the trip, should I filter by another field to be sure that the trip actually starts and has not been cancelled?
+- [2025-03-07] [r:2] @user what different between external table and he Materialized Table in course 3 dataware house  ?
+- [2025-03-07] [r:3] Would it make sense to have separate channels for each module? I’ve noticed that since everyone moves at their own pace, discussions here cover a wide range of topics, which can make it tricky to find relevant info for the module I’m currently working on. Just wondering if a more this setup might help
+- [2025-03-07] [r:1] @user hi can you give me the github link for project 1 like what should be done and all?
+- [2025-03-08] [r:3] @user Is there no longer a way to start for free in confluent without entering credit card info?
+- [2025-03-08] [r:0] Anyone caught what the issue was in the code from Zach's lecture?  It looks like the code is slightly different in the repo, but mostly out of curiosity I wonder if someone caught the error while he was presenting
+- [2025-03-08] [r:1] @user In the code provided for module 6, pyflink. There is a job called `aggregation_job` In it, a watermark is used in various spots. When creating the source table, a watermark is defined. Then in the log_aggregation function of the code, there is a `watermark_strategy` variable set up, which is then not passed to any function anywhere. Finally, the watermark is used in the insert into part of t ...
+- [2025-03-08] [r:1] @user, has this error been seen before in this chat? If so, how was it solved ?  Unable to find `outputFiles` used in the expression `{{outputs.download_csv.outputFiles[0]}}` at line 1
+- [2025-03-09] [r:7] For module 6 homework, when it says to upload the taxi data, it says we only need a few columns:  ```    selected_columns = ['lpep_pickup_datetime',                         'lpep_dropoff_datetime',                         'PULocationID',                         'DOLocationID',                         'passenger_count',                         'trip_distance',                         'tip_amount'   ...
+- [2025-03-10] [r:5] does anyone has written notes for the module 6 new content?
+- [2025-03-10] [r:3] Hi all, I keep getting `ModuleNotFoundError: No module named 'pyflink'` when trying to import pyflink and run `session_job.py`. However, pyflink is installed correctly in the python package (the location is `/home/[username]/anaconda3/lib/python3.12/site-packages)`. Does anyone know why?
+- [2025-03-12] [r:0] Does anyone is was able to create an sketch of Zacks architecture?
+- [2025-03-12] [r:1] Why is the project due in 24 th of March . Just one week after homework 6 @user
+- [2025-03-12] [r:6] How long is the project duration is expected ? two weeks or one week? @user
+- [2025-03-12] [r:5] Hello, I just came across this zoomcamp and i am interested to work on it, is there another session that will start soon?
+- [2025-03-12] [r:3] im just curious why there is 2 sources on the same data from FHV dataset 2019 like `raw_nyc_tlc_record_data.ext_fhvhv`  and `raw_nyc_tlc_record_data.ext_fhv` what is the difference between that? @user
+- [2025-03-13] [r:5] Hello,  I have a question regarding Question 6 of PyFlink and want to clarify the criteria we need to consider. I might be overthinking this, so I’d like to confirm which of the following interpretations is correct:  Case 1:  A trip starts from A to B, and within 5 minutes, another trip starts from A to B. This pattern continues for a total of 3 trips before a gap of more than 5 minutes occurs bef ...
+- [2025-03-13] [r:2] I’m analyzing the NYC Yellow Taxi trip data for 2019 and 2020, and I noticed that some rows in the `total_amount` column have negative values. Does anyone know if this is expected behavior — maybe indicating cancellations, refunds, or data errors — or if this is something unusual that needs to be cleaned up? @user
+- [2025-03-13] [r:0] For HW6 Q1, it asks to copy the entire version. The output I got using rpk had 8 lines, including version, Git ref (both short version and full commit hash for node-1), etc. Which format should I paste here? Would version + Git ref (short version) be sufficient here?
+- [2025-03-14] [r:3] @user Is there a source, pointer or guide how should we make our project work and what should it contain?
+- [2025-03-15] [r:2] For HW6, it says at the beginning of homework.md to run this query ```CREATE TABLE processed_events_aggregated (     event_hour TIMESTAMP,     test_data INTEGER,     num_hits INTEGER  );``` Are we expected to run this query as-is or modify it to the taxi data schema? When I work on Q5 I keep getting an error: ERROR: column "pulocationid" of relation "processed_events_aggregated" does not exist
+- [2025-03-15] [r:1] @user for week6 what does the longest streak of trips mean? Is it supposed to be just the number of trips within that session window by pickup and dropoff location?
+- [2025-03-15] [r:7] Hi guys, I hope you're doing well. I'm following Zach's tutorial step by step, and around minute 35, he demonstrates how replicating the `start_job.py` process causes data duplication in the PostgreSQL table. However, in my case, this doesn't happen. It's not that I want it to happen, but I'm curious to understand the reason. Did any of you experience the same thing?
+- [2025-03-16] [r:2] @user what are requirements for final projects?
+- [2025-03-16] [r:1] @user for question no 6 in homework 6 can the pickup and dropoff location be same?
+- [2025-03-17] [r:1] Good morning,  A question about the course: are we supposed to do exactly the same thing as in the videos, or are these just for information?  Thanks already
+- [2025-03-17] [r:8] why i cant get the right answer for question 3 homework in module 5 that my answer for counting all trips in 15th october 2024 is `128893` ? @user
+- [2025-03-17] [r:1] @user would it count If orchestration is done in a DIY manner, like scheduling a cloud function as well as using pub/sub or is it better to use a dedicated tool to fullfil the orchestration requirement ?
+- [2025-03-18] [r:4] @user when do we start evaluating projects?
+- [2025-03-18] [r:3] Hello, do we have a size concern of the project data? Mine is 79.7MB, is that too small?
+- [2025-03-19] [r:1] For converting JSON file to PARQUET, does anyone know how to convert the 'timestamp' type? I transferred the timestamp into the string and wondered if there was a better way
+- [2025-03-19] [r:2] When are we suppose to start working on our project?
+- [2025-03-23] [r:1] I am getting this error when submitting my project, is that a bug ?
+- [2025-03-24] [r:2] By when do we need to have reviewed 3 other projects?
+- [2025-03-25] [r:4] Hey guys. Why my two final homeworks aren't scored yet?
+- [2025-03-26] [r:1] @user I somehow cannot activate my Anaconda in the VM. Sudo bash Anaconda3-2024.10-1-Linux-x86_64.sh -u command successfully installs it. But then base is not reactivated when I login again. Also `conda` command is still unknown. What is the fix here?
+- [2025-03-28] [r:4] I don't have access to the solutions of homework 4 and homework 6 (the last question) maybe somebody wants to contribute their solution to the repo?
+- [2025-03-28] [r:1] I know this might be the question one of the "weirder" ones, butI had a problem finding the account page for the course (I had it saved somewhere in my bookmarks, but I reinstalled the system recenlty and forgot to export them), google helped, but I wonder - why it is not linked on the main page https://datatalks.club ? :slightly_smiling_face: there is link for registration but not to login.  @use ...
+- [2025-03-28] [r:2] I remember needing to grade 3 student projects to be able to obtain the certification is there a link to that? @user
+- [2025-03-31] [r:1] @user Ok, so i got some list of project attempts from other course takers… where do i review them though?
+- [2025-03-31] [r:3] is it ok if we do the project with taxi trip data that we used in lectures? @user
+- [2025-03-31] [r:7] Hi @user, how long is the evaluation week is ? from 1st april to ?
+- [2025-04-01] [r:2] anyone knows what this could be happening?this is looker, I'm seeing it from my secondary email, i want to make it public and I'm worry that the person that asses my project won't be able to see my dash :____( help!
+- [2025-04-03] [r:1] When the deadline for evaluated other projects? @user
+- [2025-04-03] [r:3] When did I can see the result of my project @user
+- [2025-04-05] [r:5] I want to ask about the pipeline process (in general). In README.MD it says: &gt; Data Pipeline &gt;  &gt; The pipeline could be stream or batch: this is the first thing you'll need to decide &gt; • Stream: If you want to consume data in real-time and put them to data lake &gt; • Batch: If you want to run things periodically (e.g. hourly/daily) I want to go with batch processing, and in this I dow ...
+- [2025-04-05] [r:0] How can I learn all about this if I'm late to registered please kindly help Me thanks
+- [2025-04-07] [r:8] is it normal to find data engineering much harder than machine learning and mlops?
+- [2025-04-07] [r:0] When are the Final Projects scored?
+- [2025-04-08] [r:7] hey! I’m late to the party by three months. can I start taking the course now?
+- [2025-04-09] [r:1] hey @user, so when is the pontuation of the project coming out  :stuck_out_tongue: ?
+- [2025-04-09] [r:6] Greatt!! congratulations to all that passed!  @user how we get the certification now?
+- [2025-04-09] [r:1] @user link to submit project?
+- [2025-04-11] [r:1] I am so scared i wont make it to the second round anyone struggling like me?
+- [2025-04-11] [r:8] It seems like course has started on January? Are we good to start today?
+- [2025-04-13] [r:2] @user Was wondering if for the trigger.date it could be year? I'm working with a dataset that only does year and it's kind of annoying to have to select through the dates when all I need is just years. Weird use case I know, but was wondering if it was possible to save a couple of clicks
+- [2025-04-14] [r:0] Hi everyone. I submitted my project yesterday - yaaaaay! Now, I'm wondering how to leverage this to get an entry-level position in data engineering. Of course, I'll add it to my portfolio and post it on Linkedin, but did anyone do something different with it? Did you add it to your CV? I'm an experienced Data Analyst making a move towards Data Engineering.
+- [2025-04-14] [r:5] @user is the due date changed to 19th April?
+- [2025-04-15] [r:1] @user How many course modules should I complete to get the knowledge to submit the current project? I think the first project?
+- [2025-04-15] [r:4] Hello @user can I use one of these datasets or they are too short? https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023 https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+- [2025-04-18] [r:3] how to make those pictures to show the workflow of the project? @user
+- [2025-04-18] [r:0] how many hours we have left?
+- [2025-04-18] [r:1] @user when will the second submission be reviewed?
+- [2025-04-18] [r:0] We can evaulate others project after submissions are closed, right?
+- [2025-04-19] [r:2] I accidentally pushed some sensitive information to the Git repository yesterday in my rush to submit. If I add those files to `.gitignore` and push again, will that disqualify me?
+- [2025-04-22] [r:2] @user When results of second project submission will be available?
+- [2025-04-23] [r:1] Any Data Engineer, Data Scientist or ML Engineer or Enthusiasts in the UK here specifically Manchester? Let’s connect!
+- [2025-04-23] [r:3] Anyone have any ideas about forming or joining an interdisciplinary group to work together on a real projects? Something like grouping Data Analysts and Data Engineers/SWE to split responsibilities and build something a non-profit organization would use.  The idea came from the end of the talk with  (https://youtu.be/ekG5zJioyFs?t=3338)*Lavanya Gupta (https://youtu.be/ekG5zJioyFs?t=3338)* where sh ...
+- [2025-04-23] [r:1] @user Why do I get this error in DLT: `PageNumberPaginator.__init__() got an unexpected keyword argument 'start_value'`  Has `start_value` been removed from the paginator parameters in newer versions? What's the correct way to set the starting page now?
+- [2025-04-24] [r:1] @user I've completed the project evaluations. What should I do now? my project still shows up as in "review" when I look at my submission
+- [2025-04-25] [r:3] approximately when we gonna get the results for submitting in 2nd attempt?
+- [2025-04-28] [r:3] Hello, my country (Portugal) doesn’t have electricity. Is it a general outage or just in my country? :sob:
+- [2025-04-28] [r:6] :wave: Hello, team!  I'm new here. I got to know about this through Chatgpt. I just started Data engineering zoom camp. Any beginners?
+- [2025-05-06] [r:6] Hi everyone! Does anyone know where the 2022 cohort for learning Airlflow is?  Cheers!
+- [2025-05-13] [r:1] Guys can I follow the video on data engineering and get certified ? Even though, the cohort has been closed.
+- [2025-05-14] [r:4] Hello all. I find the Data Engineering bootcamp these days and I have a doubt: Can I start it and get the certification or the program has been over to new students? thx @user
+- [2025-05-16] [r:1] Hi everybody, im following the data engineering course but im having trouble with jupyter, when i run the jupyter notebook and try to run the python file, i cant find the module `pandas` or any other module that i have installed before? Any idea? Thank you in advance
+- [2025-05-16] [r:0] Hi guys, could you guys please help me this issue ? I cant find my table in PG ADMIN. Thank you in advance.
+- [2025-05-29] [r:2] Hi, does anyone have all the queries used in *DE Zoomcamp 1.2.6 - SQL Refreshser ?*
+- [2025-06-01] [r:3] I'm trying to find and start the course. Can someone please guide me? New to github and everything. Thank you and have a great day. :))
+- [2025-06-02] [r:2] Hey folks! Is there new date for the course?
+- [2025-06-03] [r:1] do you mean the llm course?
+- [2025-06-03] [r:4] @user do you have the url download address for the zone pickup file?
+- [2025-06-07] [r:5] @user do you have the download link for the ny_taxi data?
+- [2025-06-08] [r:1] @user where do i find the variable.tf (http://variable.tf) and main.tf (http://main.tf) files on the github repo?
+- [2025-06-17] [r:3] Hi All, Comfortable with Command Line is a pre-requisite for this course. I've never used this before. Anywhere where I can get up to speed with this, quickly?
+- [2025-06-18] [r:2] Hey y’all, Can I ask fellow students of this project and the instructors if we should train on interview questions in Leetcode or other similar websites? If so, which topics and languages are best to start with? Thank you!
+- [2025-06-23] [r:2] Hey! Quick question. Does anyone know where I can find the material to study data engineering? Does DataTalks have a public repo or something with everything in one place? I already checked the GitHub repo, but it doesn’t really have the full content. I found this doc: https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?tab=t.0#heading=h.edeyusfgl4b7  but I’m not s ...
+- [2025-07-04] [r:1] @user how do I install docker on mac?
+- [2025-07-07] [r:0] Hello everyone, I have just started the data engineering course on zoomcamp, the unit one seems to be bouncing on top of my head I’m not able to retain any information. It’s too overwhelming! I wanna learn this is there any other approach I should follow? I do not come from tech background.
+- [2025-07-11] [r:6] Hello, where could we see the solutions to Module 4 Homework for 2025? I didn't find it in the repo.
+- [2025-07-12] [r:0] &gt; Hello, I need some help with question 1 of module 2 homework. The correct answer is 128.3 MiB, but in my GCP storage bucket, the file size is 134.5 MiB. I tried checking the output size in the extract task, but it doesn't show anything. Any idea what might be going wrong? I'd really appreciate your help.
+- [2025-07-13] [r:0] &gt; Hi everyone, &gt; I hope you’re all doing well. &gt; I’m currently working on the Data Engineering Zoomcamp, but I feel a bit confused when using the GitHub repo of the course. &gt; I don’t fully understand how to navigate it or set up the files correctly on my local machine. &gt; Could anyone please share a detailed tutorial, video, or guide about using the Zoomcamp GitHub repo step by step? ...
+- [2025-07-13] [r:1] @user How do I install docer on Mac?
+- [2025-07-15] [r:17] I finished week3 - data warehousing in a day's time. even completed 2024 and 2025 homework. am I missing something or is the week3 course material actually this light?
+- [2025-07-15] [r:7] Hi everyone, I just started this course, but I didn’t fully understand what the instructor did in the first video because I don’t have any background in Docker. Do you think I should learn Docker basics before continuing? If yes, what level of Docker knowledge is needed to follow along properly? Thanks a lot for any advice!
+- [2025-07-23] [r:3] Hello,  @user, do you plan to add Databricks to feature courses ? or have you done any workshop or previous courses on databricks ? I see it very often mentionned in DE positions
+- [2025-07-26] [r:7] Hello team,  I'm thinking to start off the course today is there anyone who can help me?
+- [2025-07-28] [r:2] Hi I am starting as well, is there any subgroup where discussions going on amongst active participants of the this zoomcamp? Would love to join if any , if not maybe let's make a one
+- [2025-07-29] [r:1] @user Is the 2025 DE zoomcamp abandoned? The videos linked to each section are a couple years old, or is this meant for reuse?
+- [2025-08-06] [r:6] I have one question. Why it's not run? If i precise exact the path of one file parquet, it's run
+- [2025-08-11] [r:2] hi, glad to join this big community. anychance if theres a demo video walk us through the steps and how navigate to project?
+- [2025-08-17] [r:0] Well, I haven't started yet, I come from a data analysis background and even that is scantily. Data engineering to me seems like a field that heavily relies on experience. Are personal projects valued in your experience in the data engineering space?
+- [2025-08-24] [r:4] Hello guys, clarification needed. So for people who are learning the course when the actual class is not going on, they do not have the homework option? @user I think I gathered from the initial videos that when it's official course time is when you put homework access?
+- [2025-10-07] [r:3] Hello, I will be taking the course in January 2026, in the meanwhile I wanted to get started with the 2025 course. How do I get to that?
+- [2025-10-19] [r:6] ```I finished the course in January. Can I get a job? If I go to work, can I apply for an intern or Fresher position?```
+- [2025-10-29] [r:0] Before the new cohort kicks off in *January 2026*, let’s get to know each other a bit :point_down: • Where are you joining from? • What do you hope to get out of this course? • Any questions or worries before you start (e.g., coding, math, time commitment)?
+- [2025-10-30] [r:3] What level of coding do u expect of your student before doing the bootcamps
+- [2025-11-02] [r:1] Hi this is Krishna, completely begiginner but want to build my skills in field of data science/analysis, TIPS?????
+- [2025-11-17] [r:1] Are there any requirements for the course such as  setup the  environment or anything else ? Also should i listen to any playlists ?
+- [2025-11-20] [r:5] Hello! I'm a beginner looking for a course that would help me in the prerequisites listed:  The only requirements are: • Comfort with the command line (basic navigation and file operations) • Basic SQL knowledge (SELECT, WHERE, JOIN statements) • Python experience is helpful but not required Any suggestions on what courses in like datacamp or etc. you'd recommend? I have decision fatigue with the  ...
+- [2025-11-22] [r:3] Hi Everyone! I signed up to the Data Engineering Zoomcamp 2026. Looking forward to the course! I have 2 questions: 1. will an 8gb ram laptop be enough for the course? 2. What is the recommended weekly time investment for the course?
+- [2025-11-22] [r:2] how is the 2026 edition will be differnt from 2025?
+- [2025-11-25] [r:2] I started the data engineering zoomcamp course today. I'm on the first module and I'm watching the videos in the order that they appear in the github repository but didn't see how to set up docker in the videos that I watched so far. Do any of the videos in the course go over setting up our environment for the course or do we have to do that on our own? @user
+- [2025-11-26] [r:2] Hey, it's H (Harshvardhan)— a young and inspired data engineer still in collage 3rd year who wants to achieve big goals in life. I want to ask a few things: 1.What exactly is included in the Data Engineering Zoomcamp? 2.For freshers, is the Zoomcamp necessary or helpful? 3.What skills are currently required for data engineering jobs? I await your guidance on this.
+- [2025-11-26] [r:1] Hi I have just started AI Dev Tools Zoomcamp And I have a question: is it possible to use Base44 instead of Bolt/Lovable ?
+- [2025-11-27] [r:2] Are we going to get an invite by email with a url for the bootcamp?
+- [2025-12-04] [r:2] Hello everyone  I would like to join the data engineering zoomcamp cohort 2026 How many hours do I need to dedicate weekly on average to be able to follow along and finish it ? Thanks :pray:
+- [2025-12-04] [r:1] Hello everyone. When will DE zoomcamp 2026 be held? I'm now start learning DE
+- [2025-12-04] [r:3] The advice is to create a virtual environment with linux. Where do I that? On GCP or my local machine?
+- [2025-12-07] [r:1] Hello, I'm unable to find the 2025 courses for data engineering? When i open the github repo, its a lot of videos from 2022/2023. I'm wondering where all the 2025 data engineering courses are? It's not just six courses right? i thought the course was 9 weeks https://www.youtube.com/watch?v=X8cEEwi8DTM&amp;list=PL3MmuxUbc_hJZdpLpRHp7dg6EOx828q6y
+- [2025-12-15] [r:1] Hii can anyone tell me how to prepare for data engineering final interview with hiring manager and director?
+- [2025-12-15] [r:5] As in, what would be the format like?
+- [2025-12-15] [r:8] Hello everyone, I'm new to the course and was wondering what time will the lectures be held because I'm a uni student and have in person classes during Jan-Apr? Thanks!
+- [2025-12-16] [r:0] at what date will this be starting?
+- [2025-12-18] [r:5] which internship are you talking about ?
+- [2025-12-18] [r:3] @user What are some good tools people use for creating animated visualizations for their data pipeline for READMEs?
+- [2025-12-25] [r:0] will we have zoom to learn the data courses or how is the format ?
+- [2025-12-28] [r:3] Hello everyone, excited to start the Data Engineering Zoomcamp 2026!! Are we waiting for the kickstart, or has the course been released already?
+- [2025-12-28] [r:1] Hello everyone, does anybody know what times the live sessions will be held each week?
+- [2025-12-29] [r:3] The zoomcamp 2026 starts January 12, will we have some call/meeting this day?
+- [2025-12-29] [r:2] I have a question - I watched the Popular YouTube Videos on ML (1.1 - 1.10) and now I wonder if I'm in the right place.  I did up thru Masters degree then 30 years as a business/finance/logistics programmer/analyst without ever needing to learn linear algebra.  Am I going to be able to be an AI Data Engineer without that?  Should I pursue a different area of AI?
+- [2025-12-31] [r:0] Eu acabei de chegar. Perdi alguma coisa?
+- [2026-01-04] [r:8] Hello everyone! :wave:  Happy to join the 2026 cohort!  Maybe I should not put it here, but I was working on that _almost_ all holidays :joy: Before the course even started, I had an opportunity to complete a technical assignment for the fintech project on Data Engineer position :github: data-engineer-skill-test (https://github.com/vsokoltsov/data-engineer-skill-test) I think it looks good, howeve ...
+- [2026-01-05] [r:1] hey everyone, is this course free?  thank you :pray:
+- [2026-01-06] [r:1] Is it mandatory to have GCP?
+- [2026-01-06] [r:0] Hi everyone. Is there anyone who speaks Spanish to work together on this course?
+- [2026-01-06] [r:2] Hi everyone, I have a doubt. If this is a course that starts on Jan 12th, Why do we have the content available already? how this works? Thanks in advanced!
+- [2026-01-06] [r:2] Hi, anyone planning to build their project on healthcare domain? Let’s connect!
+- [2026-01-07] [r:3] Hi all, does the course officially start on the 12th or the 15th?
+- [2026-01-07] [r:1] @user what setup or installations do I need to do ahead of the zoomcamp?
+- [2026-01-08] [r:16] Should we Nigerians either home or abroad create a Whatsapp group to rub minds and guide each other during the course of this zoomcamp or we are all fine flying solo cos of privacy?  #ng_dataengineering_community
+- [2026-01-08] [r:1] hello Course started already?
+- [2026-01-08] [r:6] Hi,will we need to use paid services like Google cloud etc...?
+- [2026-01-08] [r:0] Everyone is reading it  https://www.instagram.com/p/DTHv0SrE_Vu/?igsh=azAxa2FmcDVuMXp4 (https://www.instagram.com/p/DTHv0SrE_Vu/?igsh=azAxa2FmcDVuMXp4)
+- [2026-01-08] [r:2] Hey, this is Nishant. Can anyone confirm the timgs of the bootcamp?
+- [2026-01-08] [r:2] does we need to complete first the git hub link the given? then we need to start with bootcamp? https://github.com/DataTalksClub/data-engineering-zoomcamp
+- [2026-01-09] [r:0] Hello all! really excited about the course. Should we start cloning the repo? Or there are going to be more updates?
+- [2026-01-09] [r:1] Hi Everyone! It's Gabriela from Poland. Question about the first course and its homework. Where should we expect the homework form to become available? January 12th?
+- [2026-01-09] [r:1] @user where is the FAQ? I don't see it at the top of the channel.
+- [2026-01-09] [r:3] Hello everyone, could someone please guide me on how to get started with the data engineering course? Also, I’d appreciate it if anyone could explain how to use Google Cloud, since it doesn’t seem to be completely free
+- [2026-01-09] [r:0] Hello everyone  From Monday this course will start right !?
+- [2026-01-09] [r:3] Hii Everyone!! I am working as a Business Analyst, wanted to switch in DE but can anyone help me in python resources?
+- [2026-01-10] [r:0] The course is in YT?
+- [2026-01-10] [r:1] Hello Team - I’m taking this course from Chicago. How would you know that you are officially part of the cohort 2026?
+- [2026-01-10] [r:2] how do you get around this error:
+- [2026-01-10] [r:1] Hey, the course starts Jan 12 right ?
+- [2026-01-10] [r:2] Why r we using Jupyter notebooks? Couldn't we run data straight from python?
+- [2026-01-11] [r:3] Hello everyone, does the course start tomorrow? I didn't receive any emails about the deadlines and course time until now
+- [2026-01-11] [r:4] Hi everyone :wave: I’m on a macbook 2017, and docker desktop has been a pain, newer versions don’t work well, older ones keep hanging. So I am thinking to moved to colima, and docker works fine from the terminal but I’m a beginner and struggling a bit because I don’t have a visual way to see what’s actually happening (containers, networks, logs, etc.). I’m thinking of using Portainer with colima t ...
+- [2026-01-11] [r:1] Hi everyone. I'm the only one who can't wati for this course to start? :smiley:
+- [2026-01-11] [r:2] Hello everyone! I'm transitioning into Data engineering from Compliance and security! So I'm a sort of  newbie at this! What tools do I need to have on my computer? I already have vs code, sql workbench, python, Ubuntu VM, that's pretty much it.
+- [2026-01-11] [r:2] Hi guys,is the course launched already? Haven't received a link
+- [2026-01-11] [r:1] Hello everyone! :wave:  How many projects (midterm / capstone) are planned for the course? As far as I understood from the lending page (https://datatalks.club/blog/data-engineering-zoomcamp.html), there will be one project, right?  Best regards
+- [2026-01-11] [r:0] anybody started on week 1 homework in advance?
+- [2026-01-11] [r:1] when will we start tomorrow
+- [2026-01-11] [r:0] Hi, is anyone have link for tomorrow course? Im new here
+- [2026-01-11] [r:0] Are we ready for Tomorrow ?
+- [2026-01-11] [r:0] Or we just follow the prerecorded videos from the repo link?
+- [2026-01-11] [r:1] Hello team. Do we have the first course today? I dont see the Course Navigation Section on today's sheet.
+- [2026-01-11] [r:0] Hi! Happy to join! Btw, is the live class for data engineering weekly or daily?
+- [2026-01-11] [r:2] will the course be live on yt or some other platform, does anyone know?
+- [2026-01-12] [r:0] Is there a constant time of the day for each classes ?
+- [2026-01-12] [r:0] Hello, please what time is the zoomcamp starting?
+- [2026-01-12] [r:0] hii everyone , i'm TUSHAR , what time does the zoomcamp start?
+- [2026-01-12] [r:0] Hello friends, has anyone received this message? "When the cohort starts, you’ll receive an email with the full schedule and instructions"
+- [2026-01-12] [r:1] I’m really looking forward to watching the YouTube stream later, but the time difference is a bit tricky since it will be midnight here. Is there any chance the stream will be available to watch later on or will it be taken down?
+- [2026-01-12] [r:1] Where are we gonna see the course link?
+- [2026-01-12] [r:0] https://www.youtube.com/watch?v=JgspdlKXS-w
+- [2026-01-12] [r:0] https://www.youtube.com/watch?v=JgspdlKXS-w
+- [2026-01-12] [r:2] @user is there deadlines for each module?
+- [2026-01-12] [r:2] What is the schedule of the live sessions for each of the module ?
+- [2026-01-12] [r:3] Where will i find the pre recorded lectures for the zoomcamp ?
+- [2026-01-12] [r:1] hey guys, Where do you find the resources for the modules? I checked the key resources on https://datatalks.club/docs/courses/data-engineering-zoomcamp/resources/, but they point to Page not found
+- [2026-01-12] [r:0] https://datatalks.club/blog/data-engineering-zoomcamp.html https://github.com/DataTalksClub/data-engineering-zoomcamp?tab=readme-ov-file
+- [2026-01-12] [r:4] I wasn't able to stay in the stream for long. Can anyone give me a TLDR of it?
+- [2026-01-12] [r:2] Hello guys, my friend wants to join the course, is the form still open?
+- [2026-01-12] [r:0] Hello hello guys, are there any data science students from Morocco?
+- [2026-01-12] [r:1] Yeah quick question, are we suppose to complete each “unit” every week?
+- [2026-01-12] [r:1] @user - Live Session - https://www.youtube.com/live/JgspdlKXS-w?si=dl6BmBuYyjUgcNtH
+- [2026-01-12] [r:9] hi guys, how to turn it off? i have asked AI and other resources but still cannot add key
+- [2026-01-12] [r:7] Could we get by without watching the videos? I prefer following textual tutorials
+- [2026-01-13] [r:2] Hi, where can I see the due date for the homework?
+- [2026-01-13] [r:11] hey everyone, its day 2 but i am not seeing any new video or course material other than homework.md. Any idea when will new course video will be available in cohort 2026 github page?
+- [2026-01-13] [r:7] Hey folks! Any *LatAm students* around? I'm looking to connect with people in similar time zones to share resources and help each other out. Drop a comment or DM me if you're interested!
+- [2026-01-13] [r:6] Hi all, just want to ask if anyone knows where can i find these old videos?  I was watching them few weeks ago and seems like the github repo has updated recently and I cannot find them anymore
+- [2026-01-13] [r:1] Dear @user, I started the homework, and I notice this: The questions are about taxi data from 2025.  The files at https://github.com/DataTalksClub/nyc-tlc-data/releases only go up to 2021.  Should we get the data from the parquet files on the original NY taxi website, or is this a typo in the homework?  Thanks!
+- [2026-01-13] [r:4] Hello, I would like to ask, should I submit this assignment as a PDF file or should I make a video on my device and then provide a link?
+- [2026-01-13] [r:2] Hello guys, is it advisable to start this zoomcamp when I haven't fully mastered python? Cos I can see the first homework is about docker and I haven't gotten there yet in my learning journey
+- [2026-01-14] [r:1] For someone who is only able to check out the program contents today: all we have to do is read the documentation and do the homework, correct?
+- [2026-01-14] [r:4] Hey everyone. I hope are well. I have recently joined the Data Engineering Zoomcamp and I have a question with regards to considering taking the course. I am currently enrolled in a coding bootcamp and I intend to choose Data Engineering as my elective about five months from now. I would greatly appreciate any advise with regards to whether or not will I be able to work with both commitments?Becau ...
+- [2026-01-14] [r:1] Hello, guys, can we ask questions about module 1 here or is there a certain place to do it?
+- [2026-01-14] [r:11] Hi all! I’m a research analyst in NYC and completely new to the engineering side of data. I’m a visual learner so I created these slides to help myself understand what we are doing at each step in the Docker video. This is mixed in with notes and summaries for myself, but I’m sharing incase anyone else finds these visuals helpful. I left the option to comment on the slides incase anyone wants to p ...
+- [2026-01-14] [r:5] can someone guide me on this please
+- [2026-01-15] [r:2] hello guys, i need help for my problem. my mac version to old for new version docker, when i searching for mac version is 4.24.0 and can't download. what should i do? thk
+- [2026-01-15] [r:2] How many attempts do we have for the homeworks?
+- [2026-01-15] [r:2] hi guys, i wonder that should we you pandas in reality project? which is better? pandas or using bash operator?
+- [2026-01-15] [r:3] Guys how this can be true? My understanding about Image and Container that the *Container is the snapshot for image* not the vice versa. And in some special cases we can take snap shot from the container to create an image Is i am right :eyes:
+- [2026-01-15] [r:6] Hi everyone, I have a question about the best way to approach the course when I get stuck on something that isn’t fully explained in the videos (like specific Python, Git, or Docker commands). If a video uses some commands or tools without much explanation, should I: Treat them as a black box for now and focus mainly on understanding the core concepts, or Pause and look for external resources/vide ...
+- [2026-01-16] [r:1] hello team ,is there a deadline for homeworks?
+- [2026-01-16] [r:4] Hello! For the homework in module 1, I'm trying to find the relationship between the Zones and Green Taxi datasets and I found the LocationId, but I'm not sure the difference between PULocationID and DOLocationID in Green Taxi. Does anyone know or am I missing something?
+- [2026-01-16] [r:2] Hey guys can I ask which module are we supposed to be one this week?
+- [2026-01-16] [r:1] Hello, I am on the dockerizing-pipeline chapter. I have a question. I understand docker container already provide dependency isolation. In that case, why should we create a venv inside a docker container?
+- [2026-01-17] [r:2] Hello team, could anyone please tell me the deadline for HW1? Thanks in advance.
+- [2026-01-18] [r:2] Hi team, I'm trying to sing up for google cloud but I don't see my country listed in the billing country options.Is there a recommended workaround? Thanks
+- [2026-01-18] [r:2] Hi everyone! In our call on Monday Alexey showed a page with some scoring points, what to do in order to get all points possible. I cannot find it at the moment, Does anyone have the link?
+- [2026-01-18] [r:5] hello @user  I’m trying to run `pipeline.py` in the Docker container using the provided Dockerfile. The container sets up the environment with `uv`, but doesn’t run the script because it’s not copied in the Dockerfile. Could you please advise the correct way to run the script without modifying the Dockerfile?
+- [2026-01-18] [r:0] :bar_chart: *Data Engineering Zoomcamp – Module 1 Check-in*  Hey everyone! :wave:  Who has completed *Module 1* of the *Data Engineering Zoomcamp*?  Please react to this message to let us know :point_down:  :white_check_mark: :+1: — *I’ve completed Module 1*  :hourglass_flowing_sand: :eyes: — *I haven’t completed Module 1 yet*  Let’s see our progress! :rocket::muscle:
+- [2026-01-18] [r:8] Hi everyone, just a small question, when we initialize a project using `uv` , is it scoped only to that folder? For example, right now I'm working in `/my-repo/pipeline` directory but if I were to make a different directory `/my-repo/newfolder`  do I need to initialize `uv`  again in this new folder?
+- [2026-01-18] [r:4] Hello Team, I noticed in module 1 we're chunking the ny_taxi data and ingesting it in batches since it's a big file. In the real world, is batching generally a better solution if we do not know the volume of data we'll ingest? I expect there would be some tradeoffs here in terms of the code complexity and the ingestion speed (or some other metric, I don't really know)?
+- [2026-01-18] [r:4] Why we cant see Data Engineering ZoomCamp in the LinkedIn Education so we can put it in our LinkedIn?
+- [2026-01-19] [r:2] Hello everyone, I’m joining the live cohort for the course. As I understand it, the only thing we need to do to follow the live cohort is to submit all the assignments for each module, right? Many thanks :slightly_smiling_face::rocket:
+- [2026-01-19] [r:1] hello everyone how can i get into course?
+- [2026-01-19] [r:3] Hello everyone, I just got here.   Please what have I missed? Where do I catch on from?
+- [2026-01-19] [r:0] Anyone managed to have the correct pipeline.py file for the data we want for the homework ? Something is going wrong with mine
+- [2026-01-19] [r:4] Are the homeworks for the other modules (most importantly module 2) "ready to go" or are they waiting for the 2026 updates? Just so happens I have more free time this week than I expect to have in the following ones...
+- [2026-01-19] [r:0] One thing I notice is that Alexei's Juypter notebook settings/integrations seems to have more features than my bare-bones one.  Anyone have any resources to setup the jupyter enviornment?
+- [2026-01-19] [r:1] We are supposed to follow the course material at github right? I mean that's what I have been working with + googling and course site (not homework). Also is it OK to just follow one (like github)? @user or anyone?
+- [2026-01-19] [r:5] why we only stop at loading filed into bucket in homework 3?
+- [2026-01-20] [r:6] I'm stuck at Homework Question 3, I have ingested data from 2025 Nov parquet file, it counted total 4181444 rows and my query &lt;1 miles is 989009, appreciate anyone could point out what's wrong
+- [2026-01-20] [r:4] Unpopular opinion - This video (https://www.youtube.com/watch?v=-JLnp-iLins) has to be the best intro to workflow orchestration!!!  I loved the way he used Music to explain the term :smiling_face_with_3_hearts:  Shout out to Will, If he's also on the channel!!!
+- [2026-01-20] [r:3] Quick question, when committing to git should the uv.lock file be added?
+- [2026-01-20] [r:0] Does the new policy of GCP entitle individual users 150 hours free quota every month?
+- [2026-01-21] [r:3] We fully start from here?
+- [2026-01-21] [r:1] for homework 1 question 4: `Which was the pick up day with the longest trip distance? Only consider trips with trip_distance less than 100 miles` Is this asking for: • the day with the _single_ longest trip OR  • the day that had on aggregate the longest trip distance when all trips on that day are considered?
+- [2026-01-21] [r:1] Hello, Is anyone experiencing the same issue as me? For Homework Question 5, the pickup zone I got is “Flushing”, but that option isn’t available.
+- [2026-01-21] [r:1] Hey everyone! :wave:  Have a question about model retraining pipeline in production As far as I understood, this cli script for training model, that is one of the criteria for ML Zoomcamp course projects, is basically the way how the model will be retrained in production pipeline? Therefore, it should be up-to-date with notebook, that is used for experimenting and local training If so, from your e ...
+- [2026-01-22] [r:0] Did anyone have this issue when converting the dataframe to a SQL engine "UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte"?
+- [2026-01-22] [r:2] last time asking the same question but in a different way: 1. What you folks did about the cloud thing ( I mean which cloud service you choose and why)? 2. How many of you are going locally.
+- [2026-01-22] [r:3] hello, I just had one question: in GCP we can use Cloud Shell and the IDE to run and write code. Any reason why codespaces from Github is preferred?
+- [2026-01-22] [r:3] Hi, quick question here. In the docker youtube, there's a part that Alexey clean up the notebook converted python script to add parameters like pg_xxx and others. When he go to where the value is eg. engine = create_engine('<postgresql://root:root@localhost:5432/ny_taxi>').  The code is automatically updated to use the parameterized value with f string.  How to do that ?
+- [2026-01-22] [r:5] For those who are finished with HW1, can HW2 be opened up for submission?
+- [2026-01-22] [r:2] hello anyone, When loading the January 2025 dataset, I noticed some pickup and drop-off timestamps outside of that month; is this normal, and should we filter out those records to keep only the specific month's data?
+- [2026-01-23] [r:11] I have a wuestion about the Hw1. Where should i make the SQL queries ? In vs or at google cloud or somewhere else??  And how i find the url of the solutions of the HW1 ??? :thinking_face::thinking_face::thinking_face:
+- [2026-01-23] [r:3] hi all , when is module 2 course video ?
+- [2026-01-24] [r:3] Hi everyone, Can anyone guide me how to download serive-account-keys.json file for a project in GCP? I am unable to modify the managed policy under Organisation policies because the "Edit policy" option for my project is disabled. Thank you
+- [2026-01-24] [r:3] Hi, I'm now doing the 'dockerizing pipeline' now and so far seems like I'm following the steps without actually understanding how things are working. Is there any tip for a complete beginner like me? I'm using LLM as assistant whenever I'm stuck with problems or unfamiliar concepts.
+- [2026-01-24] [r:2] @user I just finished week 2 a week in advance, for week 3 should I be doing the workshop 1 or module 3?
+- [2026-01-25] [r:1] @user   I just came across this course, can I still be a part of the zoomcamp ??
+- [2026-01-25] [r:3] Can somebody tell me if i have some deadline to do my homeworks and the course in a general mode? Im feeling a bit confused with with The rythm of it... Is there any conference i have to be watchful or is it selfpaced?
+- [2026-01-25] [r:1] Hi Guys, Is anyone facing issue in autosuggest in Jupyter notebooks? the IntelliSense works perfectly in python files in workspace but doesn't work in UI of Jupyter.
+- [2026-01-25] [r:1] @userFor Homework 1, when we containerize the ingestion script, do we need to bundle the data files inside the Docker image, or should the script download them at runtime?
+- [2026-01-25] [r:1] I am trying to get started with the homework but I can't find the instruction regarding the dataset to use. can anyone help out?
+- [2026-01-25] [r:2] Hi Team, Regarding the homework for Module 1. I'm not sure if I'm using the correct dataset for 11/2025. I'm not getting the answers from the multiple choice. Can someone please confirm if we are using the Yellow_taxi_trip_records for November 2025 for the homework? I'm seeing total count = 4181444. Is this correct?
+- [2026-01-25] [r:1] @user Hi Will! Thank so much for high quality videos! Did you recorded live walkthrough on the code from scratch like Alexey did on module 1?
+- [2026-01-26] [r:1] Hey u guys think claude &gt; chatgpt ?
+- [2026-01-26] [r:1] hello, the module 2 hw is just ingesting 2021 taxi data ?
+- [2026-01-26] [r:1] Is there going to be live session for module 2 ?  If yes, then when
+- [2026-01-26] [r:3] do you encountered the same issue ?  Unable to find `trigger` used in the expression `{{inputs.taxi}}_tripdata_{{trigger.date | date(‘yyyy-MM’)}}.csv`
+- [2026-01-26] [r:3] Hi. Due to work I'm struggling to keep up with the pace of the course (nothing wrong with the course itself I'm just moving a bit slow). Is it fine for me to progress slower than others?
+- [2026-01-26] [r:2] I have a question about the project review: can we choose who reviews our work, or is it assigned randomly? Thank you ! @user
+- [2026-01-26] [r:0] When executing two backfills at the same time (e.g. yellow taxi backfill first, then immediately the green taxi backfill), do you guys get a Page not found error as soon as you submit the second backfill?
+- [2026-01-26] [r:0] When will the submission or editing be closed for module 01?
+- [2026-01-27] [r:2] hey lovely people, Has somebody already finished module 2 and would like to share the time you spent on finishing it? Would be helpful to know for my time management in order to have a rough estimate! Thank you:pray::skin-tone-2:
+- [2026-01-27] [r:1] Hi myself Sai Abhinav, I am interested in learning about data engineering but due to university commitments i was not able to attend the first module and complete it, so for the second module I just wanted to know that when the live session would be conducted and how will I be able to join it, is it fine if I start now?
+- [2026-01-27] [r:0] How much time does it take for you to backfill 1 month of yellow data?
+- [2026-01-27] [r:2] Please, where are we to get the 2025 data?  Question 5. Which was the pickup zone with the largest total_amount (sum of all trips) on November 18th, 2025? Because how am I able to do the first homework
+- [2026-01-27] [r:2] Hi, if I fall back currently? Could I still get credits for the past-due homework if I accomplish it? Thanks!
+- [2026-01-27] [r:2] @user I think I've seen a "template" for Social Media posting (LinkedIn/Twitter) somewhere, although I can't seem to remember where. Please help out with that link? Thanks.
+- [2026-01-27] [r:2] Is there a place to share some of the errors I encountered and how I resolved them with others? I am sure it might help somebody.
+- [2026-01-28] [r:8] And another question for the module 4, the requirement for this module is all data from January 2019 to December 2020 ? Thank you !!
+- [2026-01-28] [r:7] I am getting this error after opening VS code..2026-01-28 09:31:57.665 *[error]* [Window] GH_SPENDING_LIMIT: *Error*: GH_SPENDING_LIMIT     _at iLt.uninstallExtensions (<vscode-file://vscode-app/c:/Users/annap/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3881:53004>)  Can Anyone please help!_
+- [2026-01-28] [r:0] When will we see the score for homework 1? Thank you
+- [2026-01-28] [r:2] Hello! Do we need to build upon the repository from Module 1 in order to complete Module 2, or should we create a new repository for each module?  Thank you!
+- [2026-01-28] [r:8] I keep getting the error below when trying to use the example flow #8 to work on the homework. I didn't touch the variables section of the flow and I think I've set-up the kv pairs as shown in the youtube video so I'm not really sure exactly why I'm getting this "json" error. Any tips?  Thanks!
+- [2026-01-28] [r:1] Hi Team, I exceeded my monthly limit in github codespaces. Is it OK to work on my local desktop?
+- [2026-01-28] [r:1] I have submitted the homework1 on 28/01/2026, but due date is 27/01/2026. Will it be considered?
+- [2026-01-29] [r:2] Question on Module 3: Even though it hasn’t officially started, it looks like a few people in this channel have finished going through the videos. Is it okay to open the Module 3 homework so we can start work on it? I think I saw someone mention the module homework might be updated so I’ve held off starting, but would like to as soon as it’s ready to work on.
+- [2026-01-29] [r:2] Did anyone have issues with extracting the January 2020 yellow taxi data specifically? I was trying to answer Q3 of the homework, but this month specifically always fails with the error shown below. I've been able to extract any other month from the yellow or green taxi data, only with this month specifically I'm having issues...  I've tried deleting a lot of the other tables in the dataset inside ...
+- [2026-01-29] [r:2] hi all, as we all know - we got our week 1 results. For question 4, my answer was marked *incorrect*. But I don't understand why its wrong. I am attaching my query as well for reference. Could anyone please guide or correct me?  select DATE(g.lpep_pickup_datetime) as datee, SUM(g.trip_distance) as distance from green_taxi_data g where g.trip_distance &lt; 100 GROUP BY DATE(g.lpep_pickup_datetime)  ...
+- [2026-01-30] [r:3] Hi everyone,  I can start the course from the second module? I try to access the homework 1 form but I can't send anymore.  I'm asking because is my first time in communities like this and I really don't know what to do.  Thanks!
+- [2026-01-30] [r:2] In the dialog for triggering a backfill, what's the difference between the button *Backfill* and the button *Execute Backfill*?
+- [2026-01-30] [r:1] can anyone simplify how we will submit the homework_m2 what is the expected to do here, i am running the shared workflow and adjust it to get the about but i feel that i am doing somthing wrong, so can anyone give me hints, please ?
+- [2026-01-30] [r:2] Did I miss the ingestion part for zones table? I believe there is some assumption going on here. Wish there were some instructions regarding updating the ingestion script to include other tables for SQL.
+- [2026-01-31] [r:1] do we have to delete everything we did at module 1 in order to procced to module 2 ?? because in the last part it says to remove every docker network/image/volume. Is it necessary to do that in order to proceed ??
+- [2026-01-31] [r:1] Hi everyone,  Unsure if it's just me having issue putting the JSON into secret.. I've followed the video for the secrets and using the method of the .env and making new file of .env_encoded, but seem to keep getting the error when trying to execute to get the private_key_id.. Unless i am doing this completely wrong.. Has anyone else had issue secrets?
+- [2026-01-31] [r:1] i am doing homework 2, is the csv too large? as i always got error when i trying to upload to gcs
+- [2026-01-31] [r:0] Hi there!!! Can someone explain render() function, not its purpose, but why it exists at all? I mean, why auto-rendering is disabled for variables? Thanks.
+- [2026-01-31] [r:2] I'm a bit behind, I've finished half of module 1 and didn't start 2 yet so i dont think i can finish the assignment in time. contents wise can I jump straight to module 3 and continue from there or do I need a deep understanding of everything in 1 and 2? I've done the docker and sql portion of module 1. Any help will be appreciated
+- [2026-01-31] [r:1] anyone encounter this error? this happened when i trying to upload yellow cab. 2021 march data
+- [2026-01-31] [r:0] hey everyone, i would like to know if it is possible to start now, i missed the past two weeks, can i binge the content and move right to module 3 homework ?
+- [2026-02-01] [r:0] is this correct? this is my key location in my macbook
+- [2026-02-01] [r:2] can someone please help me figure out what I am doing wrong?
+- [2026-02-01] [r:3] @user  where can we get the correct answers for module 1 homework?
+- [2026-02-01] [r:1] Hello all, why do we get a slightly different numbers in homework 2 for question 3 and 4? Any idea? I have filtered the tpep pickup time and drop off time.
+- [2026-02-01] [r:1] Is there any possibility of extension for Module 2 homework ?
+- [2026-02-02] [r:1] @user I just discovered this course. Can I join now?
+- [2026-02-02] [r:1] Wait the homework for module 3 is not ready yet?
+- [2026-02-02] [r:2] @user the task for module 2 says we should extend existing workflows to ingest data for 2021: My question is what existing workflows are we extending because we used the green taxi data for Nov 2025 for module 1 or I'm I missing something? Thanks in advance
+- [2026-02-02] [r:1] Hey @user! I will unfortunately be on vacation from 28feb-13march but would be thankful if I could access the homework assignments etc so I can finish them off before leaving. Would that be possible? I also don't mind working on any assignments afterwards if thats necessary and I get the opportunity
+- [2026-02-02] [r:1] @user Are the homework questions for module 2 correct, why are they referencing 2020, when the instructions said to backfill for 2021?
+- [2026-02-02] [r:1] Can I still continue on the course, or should I drop out since I missed the homework time?
+- [2026-02-03] [r:1] @user where can I find working solutions for the homework?
+- [2026-02-03] [r:3] @user is there a smaller package install available for google-cloud-sdk with all of the dependencies needed for this course? It appears to be 30K+ files being installed. My laptop has limited space :slightly_smiling_face:
+- [2026-02-04] [r:2] hello everyone, I joined last but sadly i wasnt able to anything i rejoined this yr, but idk from to start is there a roadmap i can start with ? i think i missed some deadlines already
+- [2026-02-04] [r:1] Hello All, Joined today!! Any links for the past ?
+- [2026-02-04] [r:1] @user what are the requirements for a valid data engineering zoomcamp capstone project?
+- [2026-02-04] [r:7] hey all, I was thinking if anyone had figured out how to do this? Homework 2 please share. thanks in advance!
+- [2026-02-05] [r:4] How to stop being lazy and finally start the course? :neutral_face:
+- [2026-02-05] [r:1] Hi all, quick question about HW4, Q6: I got 43,244,693 records for FHV 2019, but the answer choices show 43,244,696. Did I miss something, or are the choices incorrect?
+- [2026-02-06] [r:12] @user for homework of module 2 the answer for the, Question 3. How many rows are there for the Yellow Taxi data for all CSV files in the year 2020?  my answer coming is 24648299 but the closest option given is 24,648,499.   What did I did wrong?
+- [2026-02-06] [r:1] hey everyone! when can we expect our Week 2 - homework to be evaluated? for me - it still shows *Submitted* with no score as Week 1. thanks!
+- [2026-02-06] [r:2] Hello everyone! :wave:  About capstone project(s): what folder structure could you recommend? For ML projects there is Cookiecutter Data Science (https://cookiecutter-data-science.drivendata.org/), but what about Data Engineering projects?  Best regards
+- [2026-02-06] [r:6] The correct answer for 1st question in HW2 is first option - 128.3, but I got 134.5, below is screenshot from gcs. Did I look the wrong file?
+- [2026-02-06] [r:1] Hello all,  Does anyone have the link to the live session that happened  few days ago? I believe it was related to Module 3.
+- [2026-02-06] [r:0] Has anybody read Dremel article from w3? I mean I'm spending a day on it ))))
+- [2026-02-06] [r:3] Just a quick question: Are the 2026 MLOps and ML cohorts undecided? @user
+- [2026-02-07] [r:2] Hello everyone. "Make sure that all 6 files show in your GCS bucket before beginning." what are the 6 files mentioned here in the homework.md? thanks @user
+- [2026-02-07] [r:2] Hi @user, what to do next if I already submitted a faq and the faq bot in github action already categorized it as NEW and commented "please review and approve changes"? the issue is still open. Should I close it manually or let the github repo owner close the issue? faq bot github action already created a PR with the linked issue
+- [2026-02-07] [r:0] Hello, Im facing this error "Action unsuccessful This action couldn’t be completed. [OR_BACR2_44]" when i try to get free 300$ on my CGP account ?
+- [2026-02-07] [r:2] @user maybe you have some references to project's structure? :pray:
+- [2026-02-08] [r:2] Hello everyone.., please for the module 3 homework, do we have to create the bucket first in the google console before running the python script or just declare the bucket name from the script and it will be created?
+- [2026-02-08] [r:2] Hello all, the GCP web interface is very very slow for me, any idea on how to fix this or have a faster experience? It 's so nerve wracking
+- [2026-02-08] [r:2] Hello from Serbia, how often do you have Data Engineer course? When will it be available again?
+- [2026-02-08] [r:0] Hey guys, I am working on Module 3, there is a Python script provided on GitHub, I made use of it and achieved what it is supposed to do, I am a beginner in Python, Should I spend some time practicing writing production code like that or else, Are there any  templates already available in the internet that we will make use while writing production code, when working on especially ingestion scripts ...
+- [2026-02-08] [r:6] @user for homework 3 question 1, is it asking for number of rows in 2024 yellow taxi or 2024 (jan-june) yellow taxi?
+- [2026-02-08] [r:1] @user, does the homework mandatory for certification?
+- [2026-02-09] [r:5] the web_to_gcs.py script in module 3 to load the yellow-tripdata for year 2024 to gcs is failing when i run the script, its outputs not a gzip file, pls how did you guys handled this?
+- [2026-02-09] [r:3] hi All, new to the course where can I start?
+- [2026-02-09] [r:2] Last year I signed up to GCP last year and I did not complete the course. This year how can I get free GCP? @user
+- [2026-02-09] [r:5] github is having some failures, does anybody has a copy of the hw questionary md file?
+- [2026-02-09] [r:1] *Login failed* There was an issue connecting to the authentication provider. This could be due to: • • Network connectivity issues • • Temporary provider unavailability • • Account access restrictions does anybody have this issue? it was fine before..
+- [2026-02-09] [r:1] Hi everyone. Github service, as mentioned above, remains heavily unreliable at this stage. May we have one day added to the HW submission deadline to compensate for this issue? Cheers.
+- [2026-02-09] [r:4] I am stuck at this stage in module 1 where we added parameters in ingest_data @user
+- [2026-02-09] [r:1] where is module 3 vidoes i dont find any
+- [2026-02-09] [r:1] Releases · DataTalksClub/nyc-tlc-data (https://github.com/DataTalksClub/nyc-tlc-data/releases) how to upload files to gcp bucket ?
+- [2026-02-09] [r:3] Subject: Can't Complete Google Cloud Console Signup - Getting OR_BACR2_44 Error I'm trying to set up a new Google account to use with Google Cloud Console (`https://console.cloud.google.com/`), but I’m stuck at the payment verification step. Error message: "Action unsuccessful. This action couldn’t be completed. [OR_BACR2_44]" What I’ve tried: • Used a Visa card with correct credentials • Attempte ...
+- [2026-02-09] [r:1] is anyone having issues with the 2024 yellow taxi data in Big Query?
+- [2026-02-10] [r:0] Hello again! For module 3 we must create a new python script in our existing pipeline folder in vs code ?? am i correct ?
+- [2026-02-10] [r:2] Hello again! For module 3 we must create a new python script in our existing pipeline folder in vs code ?? am i correct ?
+- [2026-02-10] [r:2] Hello All ,l want to know when extracting yellow taxi data to gcs bucket , Did you guys get space error ? I can upload green taxi data but when uploading yellow taxi data for January 2019 it gives me std space error ? What can be solution for this, Thank you
+- [2026-02-10] [r:1] @user Will we be covering unstructured data later in the course, or are there specific topics around it we should be exploring on our own?
+- [2026-02-10] [r:0] there  is 2024 yellow taxi data ?
+- [2026-02-10] [r:0] where is it to answer module 3
+- [2026-02-10] [r:2] Releases · DataTalksClub/nyc-tlc-data (https://github.com/DataTalksClub/nyc-tlc-data/releases/) has no 2024 data right ?
+- [2026-02-10] [r:1] Hi @user, something is wrong with faq bot because all opened faq issues produce exit code 1, might wanna check into it. maybe it has something to do with the latest github downtime?
+- [2026-02-11] [r:0] Hey guys, I currently have a replica of my source data set and im trying to build an immutable bronze layer from it, is the best approach to snapshot all tables with changing rows and appending events (with a time stamp) or is it better to have a log with operations like insert, delete, update and the current state of that row after the operation? I have always been a little confused on the best w ...
+- [2026-02-11] [r:4] hi guys, just wondering if wsl2 still works flawlessly for this course? I just started and am still on week 1
+- [2026-02-11] [r:2] Is it important to study first video in week 4 that named (Introduction to Analytics Engineering) @user
+- [2026-02-11] [r:4] ya module 4  any video ?
+- [2026-02-11] [r:0] 1. Expand the `nytaxi` dataset - you should see tables: 2. `green_tripdata` 3. `yellow_tripdata`  how to create these table inside nytaxi dataset ?
+- [2026-02-11] [r:2] Hello everyone! I’m currently trying to move into the data field and I’ve been preparing sincerely for data analyst roles since my 2nd year, mostly on my own without a mentor. Since many of you have more experience, I wanted to ask: is this Zoomcamp enough to start in data engineering, or should I go deeper into these tools or learn additional things beyond the course? I’d really appreciate any gu ...
+- [2026-02-11] [r:2] Hi all, I am doing homework 4, but I am confused regarding how to handle duplicate. I do see there are trips with the same vendor id, pick up location, drop off location, service type (green or yellow), but with different payment type. Should I remove one of it (EX: payment type = No charge)? Is the business logic only care about the positive total amount? Thank you.
+- [2026-02-11] [r:1] Hi all in Homework for module 3:  Question 2. What is the estimated amount of data that will be read when this query is executed on the External Table and the Table? (1 point) 18.82 MB for the External Table and 47.60 MB for the Materialized Table 0 MB for the External Table and 155.12 MB for the Materialized Table 2.14 GB for the External Table and 0MB for the Materialized Table 0 MB for the Exte ...
+- [2026-02-11] [r:0] question about the module 5: in trips.py in the ingestion folder, how to deal with the column casting. since the configuration on the top asked for all the collums info with medadata... are these columns er for setting schema for the table?
+- [2026-02-12] [r:16] What is going on
+- [2026-02-12] [r:2] here in module 4 setup it says create tables in bigquety , so what is sql command to create the tables ?
+- [2026-02-13] [r:5] Hi everyone, I'm on module 1. I'm not able to connect to Jupyter kernel using uv. I use command "uv run jupyter notebook", Jupyter load well and I create new notebook. But nothing work in it, and kernel status is always "connecting".  Dependencies  Jupyter and ipykernel added to --dev section at pyproject.toml. Does anyone deal with that problem?
+- [2026-02-13] [r:0] Hey all, if anyone here wanted to revise some fundamentals like real quick you can go here, https://youtube.com/@beau?si=pvSpWrvNgxBjw6Cl  For SQL(in 14 min full SQL): https://youtu.be/roGOgrPvNNY?si=VW-8j0DmXA6hOPtT For Python(in 25 min all Python syntax): https://youtu.be/PNSIWjWAA7o?si=H_4pOz4-iZJ8ilLQ Thanks. :kite:
+- [2026-02-13] [r:4] In question 6 of task 4, what was meant was most likely to find out the number of rows that are NOT equal to Null?
+- [2026-02-13] [r:4] @user can you provide the link of the video to setup our GCP bucket to use in the 2.4.2 - Setup Google Cloud Platform video?
+- [2026-02-13] [r:3] hey guys, I'm in module 3 - create a non-partitioned table. I first created an external table but got the schema mismatch issue when creating the non-partitioned table saying 'Parquet column 'passenger_count' has type DOUBLE which does not match the target cpp_type INT64. File: <gs://zoomcamp-2026/yellow/yellow_tripdata_2019-12.parquet>'. Talked and tried many ways with Gemini including CAST colum ...
+- [2026-02-13] [r:0] are every one able to union tellow,green taxi data and create a g/int_trips_unioned.sql file ?
+- [2026-02-13] [r:17] also, for question 3 on homework 4, does anyone have a very close answer to the four listed but not one of the four? :sweat_smile:
+- [2026-02-14] [r:4] Hello everyone, I did the local setup for Week 4, and for the homework questions 3 and 4. But when I was building the models, I  keep getting 'out of memory' error. Has anyone had this problem and, if so, do you have any tips?
+- [2026-02-15] [r:5] Hw4. Q3. Can someone confirm if we are counting with FHV data included? HW is not explicit about it.
+- [2026-02-15] [r:3] Hello all, in the homework to check the table fct_monthly_zone_revenue values, we are supposed to do it in Big Query right?
+- [2026-02-15] [r:4] can anyone that have done homework 4 confirm that the yellow and green trip data that was load from Homework 2  has the SAME record as data in Homework 4 ? Since the instructions say "Download the data from the DataTalksClub NYC TLC Data repository (https://github.com/DataTalksClub/nyc-tlc-data/releases), not from the official NYC TLC website. The official site has been retroactively updated over  ...
+- [2026-02-15] [r:4] hi i read through the int_trips.sql in Module 4 ```-- Deduplicate: if multiple trips match (same vendor, second, location, service), keep first qualify row_number() over(     partition by vendor_id, pickup_datetime, pickup_location_id, service_type     order by dropoff_datetime ) = 1``` could I change the logic of defining a unique trip? ```am i tolk it right that  a unique trip means that if same ...
+- [2026-02-16] [r:5] Hello, For the Question 6. Build a Staging Model for FHV Data. Should I delete the yellow and green data from the buckdb (and folder data in taxi_rides_ny directory) and then load the FHV Data to build a staging  Model?
+- [2026-02-16] [r:10] Hello all, Is there anyone who get "unexpected key "freshness" "loaded_at_field" errors? I still couldn't start the homework. Stucked here :sweat_smile:
+- [2026-02-17] [r:4] Hello team, I skipped Module 3, so could you please clarify where I should upload the data to my warehouse for Module 4?
+- [2026-02-17] [r:1] Please has the session started? I am yet to see it live on YouTube
+- [2026-02-18] [r:9] how long does the ingestion take using the ```https://us-central1-dlthub-analytics.cloudfunctions.net/data_engineering_zoomcamp_api``` on dlt? I had over 900k records waiting like 30 minutes but then I stopped it.
+- [2026-02-19] [r:2] is there a way to get access to the previous cohorts repo to get certain codes from there? I can see the previous videos but getting that repo would be great
+- [2026-02-19] [r:7] Hi all, Working on Module 5. I understand that we don't need MCP and we can write our own code but was anyone successful in installing it on VSCode? TIA
+- [2026-02-19] [r:2] Bruins video.... why the sims music? :smile:
+- [2026-02-19] [r:0] Hi everyone, I am in module 4, writing a sql file but no autocomplete function for the table/column suggestion. I've talked to Gemini for the whole day, still cannot get it. Any ideas? Thanks!
+- [2026-02-19] [r:4] Hey! I'm working with a dataset which comes as zip file, upon unziping it reveals a newline delimited json . txt file. Some of the columns are nested. My question is which file counts as my raw dataset to store in my datalake? I'm guessing it's not .zip file since I can't unzip it on the fly. So is it the .txt file or should I explode, repartition and then save it in my datalake?
+- [2026-02-20] [r:3] Hi friends, I am running a Mac which comes with python 3.8 preinstalled. I have tried extensively to override the default python to 3.13 as described in this stack overflow question, but `brew install --cask gcloud-cli` specifically keeps finding 3.8. Can anyone find out what I am missing? https://stackoverflow.com/questions/79893047/why-is-gcloud-finding-an-old-version-of-python
+- [2026-02-20] [r:4] @user can u confirm that the hw6 and hw7 questions are final? Last time i checked they were drafts for the 2026 cohort
+- [2026-02-20] [r:1] Hi, @user is it possible to do this course with codespaces and github pro? without incurring in further costs?
+- [2026-02-22] [r:4] Hi everyone! I just wanted to share that I pushed through a personal snag and pulled a two-day marathon with no sleep to finish Module 4. I submitted a bit late and saw a score of 0 on the board. I know the official rules, but I'm just proud I didn't give up! Does anyone know if there's any flexibility for late submissions this week ?
+- [2026-02-22] [r:1] Module 5 deadline :Due date: 28 February 2026 23:59 (local time) is this germany's time? is it on Saturday? @user
+- [2026-02-22] [r:2] @user Last question from module 6 has more than one correct answers listed as options, do we choose any one of them?
+- [2026-02-23] [r:8] Is there any video before sql refresher(*DE Zoomcamp 1.2.6 - SQL Refreshser)*?? because i don't see zone table in video of docker module
+- [2026-02-24] [r:4] @user is it possible to start the course project early?
+- [2026-02-25] [r:1] Hi guys, I have just started learning skills to get into data engineering. I just started learning sql and python. Could anyone recommend me some resources to learn and how should I proceed further learning skills for data engineer roles ??
+- [2026-02-26] [r:2] Do we have a github for data engineering just like for ML and MLOps? Would love to get access to that if it exists.
+- [2026-02-27] [r:2] , Is the courses.datatalks club portal is up ? as i am not able access or submit the quizes
+- [2026-02-27] [r:1] Who is else is having issues with accessing the dashboard?
+- [2026-02-28] [r:8] @user `taxi_pipeline_rest_api_source` function's base url is https://us-central1-dlthub-analytics.cloudfunctions.net/data_engineering_zoomcamp_api. what are the resource endpoints that we can add ?
+- [2026-02-28] [r:0] Hi everyone, has anyone managed to complete the Workshop 1 assignment? The Taxi_pipeline.py code has been running for about 19 hours and currently has around 36,800,000 records. Is it the same for you? I'm starting to doubt whether I'm progressing correctly. Could anyone who has finished please share their average time and the number of records they completed?
+- [2026-03-02] [r:5] Hey everyone. I am working with a dataset which has facts and dimensional values(not just the key but some of the attributes of the dimension). Is it a good practice to drop the attributes in my intermediate models?
+- [2026-03-03] [r:0] Hello Guys.  Is there a mistake in question 3 of the Module 6 assignment? I'm filtering the trips made on November 15th, but the result I'm finding isn't among the options. Have you experienced anything like this for Q3?
+- [2026-03-03] [r:2] hope no member of this zoomcamp is currently stuck in the middle east hope everyone is safe and cooking data in peace?
+- [2026-03-03] [r:1] Dumb question: If I'm already on Linux with python3.13 and Docker 29, do i need to use codespaces?
+- [2026-03-03] [r:2] Hello team,Working on the dlt homework for NYC taxi data. My pipeline has been running for a while and has loaded 159k records at ~168 records/sec. Still going.  Is the dataset this big? Should I let it finish or limit it?  Thanks!
+- [2026-03-03] [r:0] in 06-batch module , for ./download_data.sh what is file path to download data ?
+- [2026-03-04] [r:6] When the new data engineering course starts in this year?
+- [2026-03-04] [r:2] Also, the co-hort seems to started on january. I there  a new wave ?
+- [2026-03-05] [r:1] What week are we on right now?
+- [2026-03-06] [r:1] Hi all,  I noticed that this program is ending in a few days. Will a new cohort start after this, or is there only one cohort each year?
+- [2026-03-06] [r:6] in Module 6 Homework, the file we are downloading is already in parquet `wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-11.parquet` do we still have to define the datatype, please what is the flow like for those that have done it?
+- [2026-03-07] [r:1] @user is there a solution available for module 4 homework?
+- [2026-03-07] [r:4] when is module 7 going to be accessible :pensive: @user
+- [2026-03-09] [r:0] Hello All, I am just starting on this course. Can I still take part in this ?
+- [2026-03-09] [r:1] I'm on week 4 of the course. Do I need to watch the videos that aren't on GitHub? Are they something like old versions of the course?
+- [2026-03-09] [r:0] Hi@user, the link provided to submit Assignment 7 seems to redirect to the Assignment 6 form. Could you please check?
+- [2026-03-10] [r:6] Hi @user,  Assignments 5 and 6 and the workshop haven't been scored yet and Assignment 7 doesn't appear to be open yet. Is this normal?
+- [2026-03-11] [r:1] hello when we are going to have the homework for module 7 ready? I'm seeing is still in draft.
+- [2026-03-11] [r:1] Hi @user I've prepared Assignment 7, but I can't submit it because it still shows as closed on the assignment submission screen. Could you please check it?
+- [2026-03-12] [r:11] For question 5 of week 7 homework, has anyone run into any issues? The results I got were different from the answers.
+- [2026-03-13] [r:3] Hello everyone, does someone know if we could use local csv as data source for data ingestion ? Kind of difficult to have real API access for my project. Thank you very much :heart:
+- [2026-03-14] [r:0] Are there any resources in the course for the dashboard part of the project?
+- [2026-03-15] [r:5] hi for hw7 Q2, I think options maybe are from older versions? last year was 2019 CSV (~476k rows) because the parquet file is small (~49k rows) and for me it takes way less time than these options.
+- [2026-03-15] [r:4] Hello all :slightly_smiling_face: Did anyone finish the homework for module 7? For question 2, I have send the data in 3.28 second. But options are not even close :sweat_smile: Is there anyone have similar output?
+- [2026-03-16] [r:2] I was wondering if it’s possible to receive the certification for this cohort?
+- [2026-03-16] [r:10] Module 7 homework question 5. The value I'm getting is far higher than the available option. The results look fairly reasonable too. Did anyone have similar issues?
+- [2026-03-16] [r:3] For Module 7, Question 2, is there a specific correct answer? I saw someone mention it took them 3.28 seconds, while it took 632 seconds for me, which is about twice as long as the highest time listed in the answer choices.
+- [2026-03-16] [r:2] Hi everyone, I have a question regarding data clearing: if a row contains a null value for a specific field, like passenger_count or trip_distance, is it better to drop the entire row or just fill the missing value with 0? What is the best practice here?
+- [2026-03-17] [r:3] &gt; Hello everyone, I just got here now. I saw that the training starts on January which is already passed. Is their next phase or can I even start now?
+- [2026-03-17] [r:2] Hi there.Can we have Slawomir's linkedin?
+- [2026-03-19] [r:1] Hi guys, what tech stack are you using for the project?
+- [2026-03-21] [r:8] what is happening with last two homework assessments @user
+- [2026-03-22] [r:2] Hello everyone, Do i need to complete both Projects to get a certification?
+- [2026-03-23] [r:4] Hi there!!! Is it okay to use dataset with relatively small size, e.g. 200 kb, it's dataset for learning from kaggle, or I should try to find more realistic data?
+- [2026-03-29] [r:4] Hola buena tarde, soy de Chile y recién acabo de enterarme de esta gran ayuda, le quiero consultar ¿Puedo comenzar en esta fecha el curso y obtener su certificado si completo el programa?
+- [2026-03-29] [r:1] @user Hi, could you please confirm the deadline for me? Is it *until March 29 at 12:00 a.m.*, or *until the end of March 30*?
+- [2026-03-29] [r:1] @user Do I have to complete both projects to get certified ?
+- [2026-03-29] [r:1] @user When is the final deadline for the peer reviews?
+- [2026-03-30] [r:1] @user I did not finish my project yet, can I just finish and present on the second dead line? even If I did not present in the one? It's ok? :slightly_smiling_face:
+- [2026-03-31] [r:1] Hi all, peer reviewing is open? would u send an email or so announcing it?  Thanks!
+- [2026-03-31] [r:1] Hello guys, I have a question about data-engineer-zoomcamp project, Can I submit first attempt with locally tools, and the second attend send the same project (same problem, and data) but with cloud tools?
+- [2026-03-31] [r:2] can I submit my project over here? my github is not public and it was flagged and I submitted a ticket to support and I created another github and it was suspended
+- [2026-03-31] [r:5] This is my project https://gitlab.com/walimoh/london-bikes-pipeline Is it acceptable like this?
+- [2026-03-31] [r:2] Hi everyone! I want to post my course project to slack #project chanel to participate in competition. How can I do that?
+- [2026-04-01] [r:4] Dear @user Alexey, everyone has already described their project here, was it really necessary to explain yours?
+- [2026-04-01] [r:4] Hey team! :wave:  Have a question about homework 7 1. Question 1: How should I put version of Redpanda? `v25.3.9` is wrong? 2. Question 2: When I ran it in my local machine, it took about 600 seconds to proceed all the data (I used the same code as in example, just remove the `limit` statement; it is crucial for the next question) Best regards
+- [2026-04-01] [r:1] Hi Alexey, my project has passed the review stage. Does that mean it's been assigned to someone? Do I need to check it myself by April 9th?
+- [2026-04-02] [r:2] Curious :eyes:  which module took you more time to learn? for me, was definitely the first module!
+- [2026-04-04] [r:2] When reviewing peer projects how can we catch those who used AI to do their projects? Is there a way to figure out if they did by themselves or used Ai and if you discover that what shall we do? @user
+- [2026-04-06] [r:2] Hello, @user Thanks for good tutorials. I have a couple of questions about `--full-refresh` option.  *Question 1:* It seems similar with `create+replace` strategy. I feel like I need to dig deeper into the core concepts, but just to confirm: Is the underlying process for `--full-refresh` the same as running a `create+replace`logic?  *Question 2:* Is it safe to use `--full-refresh` as a default opt ...
+- [2026-04-06] [r:3] Hello! I started the course last month, can I still submit my project?
+- [2026-04-07] [r:5] Hi, does anyone know when will we get the results of Project 1?  @user
+- [2026-04-07] [r:2] Hi, I am building a data engineering pipeline using a dataset from my own previously published research. To ensure I maintain academic and professional integrity, what is the best way to document this reuse to avoid any concerns of self-plagiarism? Additionally, are there specific technical or hosting limitations I should consider when scraping data from a formal publication site? @user @user
+- [2026-04-07] [r:1] @user Is the upcoming 2026 Zoomcamp schedule comprised of these two: LLM and ML?
+- [2026-04-09] [r:4] Hi, @user Have our project evaluations been completed? When will we know if we were successful?
+- [2026-04-09] [r:3] Hello all, I have a problem with the collection of my dataset. It seems I can either use an  API limited to 20 000 results max , or use a URL to get full files but that URL uses some unknown (random?) code so I cannot loop automatically on different dates it seems - unless there s another way...  do you think I should change dataset? I understood that if I want to do scheduling I need at least to  ...
+- [2026-04-11] [r:0] how to know I  succeed or not ?
+- [2026-04-11] [r:1] Hi guys, I am currently learning Module 6 batch processing, To practise along the module,  Can we work on a local setup or working on a VM in Google cloud is mandatory? @user
+- [2026-04-12] [r:2] Hi everyone, I’ve just started the  Data Engineering course and I’m trying to sign up for Google Cloud. I’m getting this error: *OR_BACR2_44* during signup. Here’s what I’ve tried so far: • Used my personal Gmail account • Tried different browsers • Checked my card details for billing Is this a common issue?  Any suggestions on how to fix it? Thanks in advance!
+- [2026-04-14] [r:1] Hi @user   Anyone have idea where I can find previous data engineering bootcamp material from Data talk club??
+- [2026-04-15] [r:3] Hello guys I hope you are doing fine. I have a little question about the course. When is the next course going to be? Is there any news about it?
+- [2026-04-15] [r:1] Hello @user i have submitted my project, how will i know when I get assigned to project that I need to review?
+- [2026-04-15] [r:1] hi can we still submit project 1 and 2 ?
+- [2026-04-15] [r:1] @user do we need to do 2 projects or just 1 but there are 2 chances?
+- [2026-04-16] [r:1] Hi @user  how to get started with zoomcamp? Not able to follow it.
+- [2026-04-17] [r:2] @user how to know if I pass or not ?
+- [2026-04-19] [r:0] Good morning everyone, I’d like some advice on data engineering frameworks for handling data pipelines. To provide more context, I come from an AI research background and spend a lot of time building synthetic data pipelines. However, what I’m currently using becomes difficult to manage as the pipeline grows and becomes more complex. I typically generate data using LLMs and then apply multiple val ...
+- [2026-04-19] [r:5] @user how to submit my project?
+- [2026-04-19] [r:6] Hi, I had previously gone through the Zoomcamp materials before joining the current cohort, and I built a project back then. I’m considering submitting that project. Would that be acceptable, or should I create a completely new one for this cohort? Thanks! @user
+- [2026-04-20] [r:0] Hi, I have submitted my project what is the next step? Do i need to submit anywhere else to get the review? Can anyone please help me out in this.
+- [2026-04-20] [r:0] https://www.linkedin.com/posts/lakshya-kukreja-a263b8282_project-explaination-activity-7452083880175566848-IPwv?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAAETCOr4Bc6_ZtaLyJ5-4QMDXPukmKZI8Mik (https://www.linkedin.com/posts/lakshya-kukreja-a263b8282_project-explaination-activity-7452083880175566848-IPwv?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAAETCOr4Bc6_ZtaLyJ5-4Q ...
+- [2026-04-20] [r:3] Can i submit my ongoing github repo but its partial
+- [2026-04-21] [r:0] Hello everyone! Could you tell me whether we'll receive the peer projects to review by email or in another way? Thanks!
+- [2026-04-21] [r:3] @user If I pushed commit after submitting my project 2, will it affect my submission?
+- [2026-04-21] [r:1] @user where is link to see project that have been assigned to me for review?
+- [2026-04-21] [r:11] @user @user @all - how do I know which project have been assigned to me?
+- [2026-04-21] [r:0] What then is the need for due dates if they would not be followed? @user
+- [2026-04-22] [r:1] what happen to deadline, does the submission still open or what @user?
+- [2026-04-22] [r:9] @user Hello Alexey, Thank you for this beautiful cohort. Now I have submited 2 different projects and I have updated my cv. Could you have a chance to review my cv and give your opinions about what should I build next to get a junior data engineer role?
+- [2026-04-22] [r:1] @user hello i havent submitted my project 1 yet can i srill submit ?
+- [2026-04-23] [r:2] Can I get a chance to sneak peek data engineer code that's in production inside a real company? I know it's proprietary and I might be asking too much, I have been looking at past and current projects assignments, can't find projects that are REAL enough for me
+- [2026-04-24] [r:1] @user I have some doubts about project I am reviewing Can I connect with project owner for clarification? Also they have not added real name to project submission so what is the right way to get to them? Is broadcast here makes sense?
+- [2026-04-26] [r:1] When shall we have the final result of project 2 and the certificates @user
+- [2026-04-26] [r:1] Hi @user Any ongoing or upcoming zoomcamps? I missed the data engineering zoomcamp
+- [2026-04-26] [r:3] hello guys, what about the MLOps Zoomcamp ?
+- [2026-04-26] [r:0] Hey everyone! Just finished the first project and the main course content.   Transitioning over from MarTech and currently diving into Fundamentals of Data Engineering (Reis/Beaulieu). ​I’ve got a Medallion + Kimball ETL project ready for some eyes, if anyone is down for a peer-review swap, let me know!  ​Also, quick market check for the PL region: are you guys seeing GCP/Databricks as a hard requ ...
+- [2026-04-27] [r:2] @user I noticed that I can evaluate more than 3 of projects I've been assigned. Is it against the rules if I choose to evaluate more than 3 projects?
+- [2026-04-30] [r:0] My project was rated 30 points. But I'm so sorry, it was marked as failed because I didn't rate three other participants' projects. Is there any chance I can fix this? @user

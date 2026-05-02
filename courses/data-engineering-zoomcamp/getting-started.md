@@ -8,44 +8,52 @@ has_children: false
 
 # Getting Started
 
-Your First Steps
+For the cross-course onboarding (registration, account setup, calendar, newsletter), read [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}) first.
 
-## 1. Star the GitHub Repository
+This page covers the Data Engineering Zoomcamp specifics.
 
-Visit [github.com/DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) and star the repo. This helps others discover the course.
+## Star the GitHub repository
 
-Everything you need is here:
+[github.com/DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
-- Video lessons
-- Homework questions
-- Module content
-- Cohort-specific materials
+Star it so you can find it later. All course material is here. See [Resources]({{ '/courses/data-engineering-zoomcamp/resources/' | relative_url }}) for the repo structure.
 
-## 2. Join Telegram (Optional but Recommended)
+## Join the DE Slack channel
 
-Join the [Data Engineering Zoomcamp Telegram channel](https://t.me/dezoomcamp) for course announcements and updates.
+After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack), find:
 
-This is optional but very helpful because all course announcements are published here (and automatically reposted to Slack). Telegram ensures you never miss important updates, as Slack can be busy and announcements may get lost there.
+[`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG)
 
-## 3. Join the Slack Workspace
+This is where DE-specific announcements, homework discussions, project Q+A, and the live-session links go. Use threads when replying.
 
-The [DataTalks.Club Slack](https://datatalks.club/slack) is where the community interacts.
+## Subscribe to DE Telegram (optional, recommended)
 
-1. Join the workspace
-2. Browse channels and join [#course-data-engineering](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG)
-3. Use threads when replying to keep conversations organized
+[t.me/dezoomcamp](https://t.me/dezoomcamp) - announcement-only channel. Telegram is the most reliable place to catch important updates because Slack is busy.
 
-For a complete list of Slack channels and their purposes, see the [Slack community guide]({{ '/general/slack/' | relative_url }}).
+Telegram announcements are auto-reposted to Slack, so you do not strictly need it.
 
-## 4. Subscribe to YouTube
+## Subscribe to YouTube
 
-Pre-recorded videos are available on the [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub). Subscribe and check out the [main course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb). See the [Resources section](resources/) for all playlists.
+Pre-recorded module lectures and live session recordings live on the [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub). For all DE playlists (main + cohort-specific), see [Resources]({{ '/courses/data-engineering-zoomcamp/resources/' | relative_url }}).
 
-## 5. Set Up GCP Account
+## Set up your environment
 
-Google Cloud Platform offers $300 free credits for new accounts.
-Using Cloud is not mandatory, but very helpful. 
+The DE Zoomcamp uses Docker, Terraform, GCP, and Python. See [Environment Setup]({{ '/courses/data-engineering-zoomcamp/environment-setup/' | relative_url }}) for the choices you need to make (local vs Codespaces vs GCP VM, GCP signup, OS-specific notes).
 
-## 6. Start Module 1
+You can start before the cohort begins to get setup out of the way.
 
-Begin with [Docker, PostgreSQL, and Terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform). This module gets two weeks because environment setup can be challenging.
+## Start Module 1
+
+Begin with [Docker, Postgres, and Terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform). Module 1 gets two weeks because environment setup can be challenging.
+
+For what each module covers, see [Curriculum]({{ '/courses/data-engineering-zoomcamp/curriculum/' | relative_url }}).
+
+## Where to look next
+
+- [Prerequisites]({{ '/courses/data-engineering-zoomcamp/prerequisites/' | relative_url }}) - what you need to know before starting.
+- [Curriculum]({{ '/courses/data-engineering-zoomcamp/curriculum/' | relative_url }}) - the modules.
+- [Environment Setup]({{ '/courses/data-engineering-zoomcamp/environment-setup/' | relative_url }}) - GCP, Docker, OS notes.
+- [Project]({{ '/courses/data-engineering-zoomcamp/project/' | relative_url }}) - the final project rubric.
+- [Resources]({{ '/courses/data-engineering-zoomcamp/resources/' | relative_url }}) - all DE-specific links in one place.
+- [Q+A]({{ '/courses/data-engineering-zoomcamp/qa/' | relative_url }}) - DE-specific frequently asked questions.
+- [Learning in Public]({{ '/courses/zoomcamp-logistics/learning-in-public/' | relative_url }}) - hashtag for DE is `#dezoomcamp`.
