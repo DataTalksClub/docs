@@ -1,22 +1,20 @@
-RUSTKYLL ?= ../rustkyl/target/debug/rustkyll
-
-.PHONY: help install serve serve-livereload build clean
+.PHONY: help install serve build clean
 
 help: ## Show this help message
 	@echo "Available targets:"
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "  %-15s %s\n", $$1, $$2}'
 
-install: ## Build local Rustkyll from ../rustkyl
-	cd ../rustkyl && cargo build
+install: ## Install dependencies
+	bundle install
 
 serve: ## Start the development server (http://localhost:4000)
-	$(RUSTKYLL) serve --source . --port 4000 --no-browser --no-livereload
+	bundle exec jekyll serve
 
 serve-livereload: ## Start the development server with live reload
-	$(RUSTKYLL) serve --source . --port 4000 --no-browser --livereload
+	bundle exec jekyll serve --livereload
 
 build: ## Build the site for production
-	$(RUSTKYLL) build --source . --destination _site --force
+	bundle exec jekyll build
 
 clean: ## Remove generated site and caches
-	rm -rf _site .sass-cache
+	bundle exec jekyll clean
