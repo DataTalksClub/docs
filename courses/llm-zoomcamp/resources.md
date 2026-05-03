@@ -81,7 +81,6 @@ Optional but recommended: the [Build Your Own Search Engine](https://github.com/
 
 ## Related courses
 
-- [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp) - runs alongside LLM Zoomcamp. Covers running, deploying, and fine-tuning open-weight LLMs. Separate certification.
 - [Machine Learning Zoomcamp]({{ '/courses/ml-zoomcamp/' | relative_url }}) - classical machine learning with deployment focus.
 - [Data Engineering Zoomcamp]({{ '/courses/data-engineering-zoomcamp/' | relative_url }}) - end-to-end data pipelines.
 

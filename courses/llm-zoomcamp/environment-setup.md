@@ -70,7 +70,7 @@ The course is free. The only spend you may incur:
 - A few dollars on OpenAI credit, if you choose OpenAI. Most participants spend $1 to $5 across the whole cohort.
 - $0 if you use Groq or Ollama.
 
-There is no required cloud spend. The previous cohort had an open-source LLMs module that benefited from a cloud GPU; that material has moved to the [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp).
+There is no required cloud spend.
 
 ## AI tools (Cursor, ChatGPT, Claude)
 

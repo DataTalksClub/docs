@@ -14,7 +14,7 @@ Notable changes for the current cohort. Older changes are folded into the curric
 
 Course structure
 
-- The open-source LLMs module from previous cohorts has been removed and turned into a standalone [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp), which runs in parallel and covers running, deploying, and fine-tuning open-weight models in more depth.
+- The open-source LLMs module from previous cohorts has been removed.
 - Evaluation and monitoring, which used to be one module, are now two separate modules. Module 3 (Evaluation) focuses on offline metrics for retrieval and for the full RAG flow; Module 4 (Monitoring) focuses on online metrics for a deployed system.
 - The orchestration module from previous cohorts has been removed. The 2026 cohort focuses on RAG fundamentals; orchestration may return in a future cohort.
 

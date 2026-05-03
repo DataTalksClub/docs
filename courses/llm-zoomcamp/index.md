@@ -13,7 +13,7 @@ The LLM Zoomcamp is a free, hands-on course on building real-world applications 
 
 The 2026 edition runs from June through the end of summer. About 10 weeks: roughly two weeks for module 1 and one week each for the remaining modules, plus three weeks for the final project.
 
-LLMs themselves are treated as black boxes here. The course is for people who want to build with LLMs rather than train them. If you want to run, deploy, or fine-tune open-source LLMs, see the separate [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp) which runs alongside this course.
+LLMs themselves are treated as black boxes here. The course is for people who want to build with LLMs rather than train them.
 
 ## How to Use These Docs
 

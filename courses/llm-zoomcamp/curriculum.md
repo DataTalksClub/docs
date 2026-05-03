@@ -60,7 +60,7 @@ Workshops
 
 To keep the course focused, several adjacent topics are intentionally out of scope. They are covered elsewhere or planned for future cohorts:
 
-- Open-source LLMs (running, deploying, fine-tuning): covered in the separate [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp).
+- Open-source LLMs (running, deploying, fine-tuning).
 - Agents, agentic workflows, and MCP: ecosystem is still moving fast; possibly added in a future cohort and may appear in standalone workshops.
 - Image generation, multimodal embeddings, prompt engineering as a deep topic, guardrails, distributed training: not in this course.
 - Workflow orchestration of LLM applications: previous cohorts had this; removed for 2026 to focus on fundamentals.

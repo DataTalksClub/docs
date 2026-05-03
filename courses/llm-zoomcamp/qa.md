@@ -30,7 +30,7 @@ LangChain is the one exception - it has shown up in the best-practices module be
 
 This course is about LLM engineering, not LLM internals. LLMs are treated as black boxes you call through an API.
 
-For running, deploying, or fine-tuning open-weight LLMs, see the [Open Source LLM Zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp), which runs alongside this course. Building your own LLM from scratch is not on the roadmap and there are already strong courses on that elsewhere.
+Building your own LLM from scratch is not on the roadmap and there are already strong courses on that elsewhere.
 
 ## How is this different from the ML Zoomcamp?
 
@@ -44,7 +44,7 @@ MLOps Zoomcamp covers the operational lifecycle of ML models: experiment trackin
 
 ## Should I retake the course if I did it last year?
 
-The application focus is the same (RAG), but tooling and modules have changed: the open-source module has split off, evaluation and monitoring are now two modules, monitoring uses Phoenix instead of Grafana, the vector database is updated. There will also be a new competition. Worth retaking if you want to refresh and re-implement with current tools.
+The application focus is the same (RAG), but tooling and modules have changed: the open-source LLMs module is gone, evaluation and monitoring are now two modules, monitoring uses Phoenix instead of Grafana, the vector database is updated. There will also be a new competition. Worth retaking if you want to refresh and re-implement with current tools.
 
 ## I have a strong background in RAG already. Will I learn anything new?
 
