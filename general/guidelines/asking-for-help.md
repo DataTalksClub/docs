@@ -30,6 +30,10 @@ When something doesn't work and you need help figuring it out, we'll be happy to
 - Copy-paste text, don't screenshot. Don't take screenshots of your code or terminal output. Instead, copy-paste the error message and code as text. Use code blocks (three backticks) to format your code. Text is searchable, easier to read, and allows helpers to copy your code if needed.
 - Never photograph your screen. Don't take pictures of your code with a phone. It's even harder to read than screenshots. Always copy-paste text. In rare cases when you need to show what happens on your screen visually (like a UI issue), a screenshot is acceptable, but code and errors should always be text.
 
+## Don't tag instructors
+
+Don't tag the cohort lead or other instructors in your question. They have notifications enabled and will see questions in the course channel without being tagged. Tagging an instructor signals that the question is for them specifically, which makes other participants less likely to jump in - and other participants are often the fastest source of an answer. Posting in the course channel without a tag is the right move.
+
 ## Homework help
 
 We're generally happy to help with your homework, provided that you show genuine effort from your side and are transparent about the source of your question.

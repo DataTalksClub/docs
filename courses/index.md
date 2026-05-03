@@ -14,11 +14,11 @@ Welcome to the DataTalks.Club courses section. Here you'll find comprehensive no
 
 ## Available Courses
 
-- **Machine Learning Zoomcamp** - Learn ML engineering with deployment focus
-- **Data Engineering Zoomcamp** - Complete data engineering bootcamp
-- **MLOps Zoomcamp** - Production ML systems & best practices
-- **LLM Zoomcamp** - Large Language Models course
-- **AI Dev Tools Zoomcamp** - Modern AI development tools and workflows
+- [Machine Learning Zoomcamp]({{ '/courses/ml-zoomcamp/' | relative_url }}) - Learn ML engineering with deployment focus
+- [Data Engineering Zoomcamp]({{ '/courses/data-engineering-zoomcamp/' | relative_url }}) - Complete data engineering bootcamp
+- MLOps Zoomcamp - Production ML systems and best practices
+- [LLM Zoomcamp]({{ '/courses/llm-zoomcamp/' | relative_url }}) - Build RAG and AI applications with hosted LLMs
+- AI Dev Tools Zoomcamp - Modern AI development tools and workflows
 
 ## Course Resources
 
