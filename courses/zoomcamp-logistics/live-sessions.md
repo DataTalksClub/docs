@@ -23,7 +23,6 @@ Two kinds of live sessions happen during a cohort:
 
 ## Time zones
 
-- Live session times appear on the course platform.
 - Most live sessions are at 17:00 Berlin time (CET / CEST). Occasionally 12:00 noon Berlin time.
 - US time zones: typically morning. Asia-Pacific: typically evening or night.
 

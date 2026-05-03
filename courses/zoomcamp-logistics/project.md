@@ -74,10 +74,14 @@ Once the form is closed, no more updates are accepted. A typo in a link or a wro
 
 ## Dataset
 
-Generally any dataset works:
+Generally any dataset works, with one rule that applies to every zoomcamp:
+
+- You cannot use a dataset that the course itself uses in lectures or homework. The point of the project is to apply your skills to something new, not to redo the course example.
+- Each course's project page lists the specific datasets that are off-limits for that course.
+
+Beyond that:
 
 - Pick something you find interesting; you will work with it for weeks.
-- Course-specific rubrics often say not to reuse course material data (for example, "do not use NYC taxi data").
 - Large enough to make the engineering meaningful, but does not have to be huge. A few hundred MB is fine.
 - Public datasets (Kaggle, government open data, public APIs) are common.
 - Private or proprietary data is not recommended because peer reviewers must be able to reproduce.

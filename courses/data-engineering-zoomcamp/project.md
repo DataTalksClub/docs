@@ -35,6 +35,10 @@ You decide:
 
 You are not restricted to the technologies covered in the course. If the course used GCP and you want to use AWS, that is fine. Document everything in detail so peer reviewers can understand your choices.
 
+## Datasets you cannot use
+
+The NYC taxi dataset is used throughout the course modules and homework. You cannot use it for your project. Pick any other dataset.
+
 ## Dashboard
 
 Create a dashboard with at least two visualizations. You can use Looker Studio, Streamlit, Metabase, Superset, or any BI tool of your choice.

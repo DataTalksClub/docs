@@ -56,6 +56,17 @@ You choose the dataset. It should:
 
 Avoid datasets that are too clean (Titanic, Iris) - they do not let you demonstrate the data engineering and feature engineering skills the rubric looks for.
 
+## Datasets you cannot use
+
+You cannot use any dataset that the course itself uses in lectures or homework. The point of the project is to apply your skills to something new. Datasets used in the course include:
+
+- Car price prediction (Module 2 / Linear Regression).
+- Customer churn / Telco (Module 3 / Binary Classification).
+- Loan default (Module 6 / Tree-Based Models).
+- Datasets used in the deep learning, serverless, and Kubernetes modules.
+
+For the canonical list, see the project rubric in the course repo.
+
 ## Evaluation criteria
 
 Each course defines its own rubric. The platform shows the exact criteria when you review or are reviewed. Common criteria:
