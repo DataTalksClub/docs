@@ -236,3 +236,51 @@
     }
   }
 }
+
+// Previous and next page navigation
+
+.page-navigation {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: $sp-3;
+  padding-top: $sp-5;
+  margin-top: $sp-6;
+  border-top: $border $border-color;
+
+  @include mq(sm) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.page-navigation-link {
+  display: block;
+  min-height: $sp-8;
+  padding: $sp-3;
+  text-decoration: none;
+  border: $border $border-color;
+  border-radius: $border-radius;
+
+  &:hover {
+    background-color: $feedback-color;
+  }
+}
+
+.page-navigation-next {
+  text-align: right;
+}
+
+.page-navigation-label {
+  display: block;
+  margin-bottom: $sp-1;
+  color: $grey-dk-100;
+  text-transform: uppercase;
+  @include fs-2;
+}
+
+.page-navigation-title {
+  display: block;
+  color: $link-color;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+  @include fs-4;
+}

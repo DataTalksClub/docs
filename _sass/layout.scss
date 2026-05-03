@@ -1,16 +1,22 @@
 // The basic two column layout
 
 .side-bar {
-  z-index: 0;
+  position: sticky;
+  top: 0;
+  z-index: 10;
   display: flex;
   flex-wrap: wrap;
   background-color: $sidebar-color;
+  border-bottom: $border $border-color;
 
   @include mq(md) {
     flex-flow: column nowrap;
     position: fixed;
+    top: auto;
+    z-index: 0;
     width: $nav-width-md;
     height: 100%;
+    border-bottom: 0;
     border-right: $border $border-color;
     align-items: flex-end;
   }
@@ -102,13 +108,20 @@
 
   &.nav-open {
     display: block;
+    max-height: calc(100vh - #{$header-height});
+    overflow-y: auto;
+    border-top: $border $border-color;
+    box-shadow: 0 $sp-2 $sp-3 rgba($grey-dk-300, 0.08);
   }
 
   @include mq(md) {
     display: block;
+    max-height: none;
     padding-top: $sp-8;
     padding-bottom: $gutter-spacing-sm;
     overflow-y: auto;
+    border-top: 0;
+    box-shadow: none;
     flex: 1 1 auto;
   }
 }

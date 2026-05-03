@@ -51,4 +51,27 @@ test.describe('Mobile Navigation', () => {
     const count = await navLinks.count();
     expect(count).toBeGreaterThan(0);
   });
+
+  test('should keep mobile menu available after scrolling', async ({ page }) => {
+    await page.goto('/general/slack/');
+
+    const menuButton = page.locator('#menu-button');
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight / 2));
+
+    await expect(menuButton).toBeVisible();
+    await menuButton.click();
+
+    const siteNav = page.locator('#site-nav');
+    await expect(siteNav).toHaveClass(/nav-open/);
+    await expect(siteNav).toBeVisible();
+  });
+
+  test('should show previous and next links on course pages', async ({ page }) => {
+    await page.goto('/courses/data-engineering-zoomcamp/');
+
+    const pageNavigation = page.locator('.page-navigation');
+    await expect(pageNavigation).toBeVisible();
+    await expect(pageNavigation.locator('.page-navigation-previous')).toContainText('Machine Learning Zoomcamp');
+    await expect(pageNavigation.locator('.page-navigation-next')).toContainText('Prerequisites');
+  });
 });

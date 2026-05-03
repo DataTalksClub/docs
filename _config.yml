@@ -1,12 +1,7 @@
-# Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your whole site, values
 # which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
+# yourself editing these this file very often, consider using data files
 # feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Theme
 theme: just-the-docs
@@ -20,7 +15,7 @@ title: DataTalks.Club Documentation
 description: A collection of notes and resources for the DataTalks.Club Zoomcamps, our free courses.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datatalks.club" # the base hostname & protocol for your site, e.g. http://example.com
-repository: DataTalksClub/docs # for github-metadata
+repository: DataTalksClub/docs
 
 permalink: pretty
 
@@ -33,26 +28,14 @@ defaults:
 
 
 exclude:
-  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
   - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
   # specific to the theme website:
   - bin/
   - lib/
-  - "*.gemspec"
-  - "*.gem"
   - LICENSE.txt
   - package.json
   - package-lock.json
-  - Rakefile
   - README.md
   - CODE_OF_CONDUCT.md
   - docker-compose.yml
@@ -191,12 +174,6 @@ callouts:
 # Note: the main Just the Docs site does *not* use Google Analytics.
 # ga_tracking: UA-2709176-10,G-5FG1HLH3XQ
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jekyll-sitemap
 
 kramdown:
   syntax_highlighter_opts:

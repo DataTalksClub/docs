@@ -1,0 +1,82 @@
+{%- comment -%}
+  Include as: {%- include components/page_navigation.html -%}
+  Depends on: page, site.
+  Results in: HTML for previous and next page links.
+  Includes: components/nav/sorted.html.
+  Overwrites:
+    page_nav_pages, page_nav_siblings, page_nav_parent_candidates,
+    page_nav_parent, page_nav_children, page_nav_previous, page_nav_next,
+    page_nav_node, page_nav_found_current, nav_sorted.
+{%- endcomment -%}
+
+{%- assign page_nav_pages = site[page.collection] | default: site.html_pages
+      | where_exp: "item", "item.title != nil"
+      | where_exp: "item", "item.nav_exclude != true" -%}
+
+{%- assign page_nav_previous = nil -%}
+{%- assign page_nav_next = nil -%}
+{%- assign page_nav_parent = nil -%}
+
+{%- if page.parent -%}
+  {%- assign page_nav_parent_candidates = page_nav_pages | where: "title", page.parent -%}
+  {%- if page.grand_parent -%}
+    {%- assign page_nav_parent_candidates = page_nav_parent_candidates | where: "parent", page.grand_parent -%}
+  {%- endif -%}
+  {%- assign page_nav_parent = page_nav_parent_candidates | first -%}
+{%- endif -%}
+
+{%- assign page_nav_children = page_nav_pages | where: "parent", page.title -%}
+{%- if page_nav_children.size >= 1 -%}
+  {%- include components/nav/sorted.html pages=page_nav_children -%}
+  {%- assign page_nav_children = nav_sorted -%}
+  {%- if page.child_nav_order == 'desc' or page.child_nav_order == 'reversed' -%}
+    {%- assign page_nav_children = page_nav_children | reverse -%}
+  {%- endif -%}
+  {%- assign page_nav_next = page_nav_children | first -%}
+{%- endif -%}
+
+{%- assign page_nav_siblings = page_nav_pages | where: "parent", page.parent -%}
+{%- if page.grand_parent -%}
+  {%- assign page_nav_siblings = page_nav_siblings | where: "grand_parent", page.grand_parent -%}
+{%- endif -%}
+
+{%- include components/nav/sorted.html pages=page_nav_siblings -%}
+{%- assign page_nav_siblings = nav_sorted -%}
+{%- if page_nav_parent.child_nav_order == 'desc' or page_nav_parent.child_nav_order == 'reversed' -%}
+  {%- assign page_nav_siblings = page_nav_siblings | reverse -%}
+{%- endif -%}
+
+{%- assign page_nav_found_current = false -%}
+{%- for page_nav_node in page_nav_siblings -%}
+  {%- if page_nav_node.url == page.url -%}
+    {%- assign page_nav_found_current = true -%}
+  {%- elsif page_nav_found_current and page_nav_next == nil -%}
+    {%- assign page_nav_next = page_nav_node -%}
+    {%- break -%}
+  {%- elsif page_nav_found_current == false -%}
+    {%- assign page_nav_previous = page_nav_node -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- if page_nav_previous == nil and page_nav_parent -%}
+  {%- assign page_nav_previous = page_nav_parent -%}
+{%- endif -%}
+
+{%- if page_nav_previous or page_nav_next -%}
+<nav class="page-navigation" aria-label="Page navigation">
+  {%- if page_nav_previous -%}
+    <a class="page-navigation-link page-navigation-previous" href="{{ page_nav_previous.url | relative_url }}">
+      <span class="page-navigation-label">Previous</span>
+      <span class="page-navigation-title">{{ page_nav_previous.title }}</span>
+    </a>
+  {%- else -%}
+    <span></span>
+  {%- endif -%}
+  {%- if page_nav_next -%}
+    <a class="page-navigation-link page-navigation-next" href="{{ page_nav_next.url | relative_url }}">
+      <span class="page-navigation-label">Next</span>
+      <span class="page-navigation-title">{{ page_nav_next.title }}</span>
+    </a>
+  {%- endif -%}
+</nav>
+{%- endif -%}
