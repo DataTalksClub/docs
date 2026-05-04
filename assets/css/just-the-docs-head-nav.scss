@@ -1,0 +1,22 @@
+---
+---
+{% if site.color_scheme and site.color_scheme != "nil" %}
+  {% assign color_scheme = site.color_scheme %}
+{% else %}
+  {% assign color_scheme = "light" %}
+{% endif %}
+
+{% if color_scheme == "dark" %}
+$head-nav-feedback-color: darken(#27262b, 3%);
+{% else %}
+$head-nav-feedback-color: darken(#f5f6fa, 3%);
+{% endif %}
+
+.site-nav ul li a {
+  background-image: linear-gradient(
+    -90deg,
+    rgba($head-nav-feedback-color, 1) 0%,
+    rgba($head-nav-feedback-color, 0.8) 80%,
+    rgba($head-nav-feedback-color, 0) 100%
+  );
+}

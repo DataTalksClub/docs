@@ -241,15 +241,11 @@
 
 .page-navigation {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: $sp-3;
   padding-top: $sp-5;
   margin-top: $sp-6;
   border-top: $border $border-color;
-
-  @include mq(sm) {
-    grid-template-columns: 1fr 1fr;
-  }
 }
 
 .page-navigation-link {

@@ -73,5 +73,12 @@ test.describe('Mobile Navigation', () => {
     await expect(pageNavigation).toBeVisible();
     await expect(pageNavigation.locator('.page-navigation-previous')).toContainText('Machine Learning Zoomcamp');
     await expect(pageNavigation.locator('.page-navigation-next')).toContainText('Prerequisites');
+
+    const previousBox = await pageNavigation.locator('.page-navigation-previous').boundingBox();
+    const nextBox = await pageNavigation.locator('.page-navigation-next').boundingBox();
+
+    expect(previousBox).not.toBeNull();
+    expect(nextBox).not.toBeNull();
+    expect(previousBox.y).toBeCloseTo(nextBox.y, 0);
   });
 });

@@ -78,7 +78,7 @@
       EXTERNALS = nav_list nav_list_item+ nav_list_end
 
       COLLECTION = nav_list (nav_list_item PAGES?)* nav_list_end
-                 | nav_category_list 
+                 or nav_category_list
                      nav_list_item nav_list (nav_list_item PAGES?)* nav_list_end
                    nav_list_end
     
