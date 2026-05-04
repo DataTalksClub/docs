@@ -1,5 +1,7 @@
-RUSTKYLL ?= rustkyll
-RUSTKYLL_REV ?= 636818031d70529a3ad6261771d91ce896e1771f
+RUSTKYLL_VERSION ?= v0.4.6
+RUSTKYLL_ASSET ?= rustkyll-linux-amd64
+RUSTKYLL_INSTALL_DIR ?= .bin
+RUSTKYLL ?= $(RUSTKYLL_INSTALL_DIR)/rustkyll
 RUSTKYLL_BUILD_FLAGS ?=
 RUSTKYLL_SERVE_FLAGS ?=
 
@@ -10,7 +12,9 @@ help: ## Show this help message
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "  %-15s %s\n", $$1, $$2}'
 
 install: ## Install dependencies
-	cargo install --git https://github.com/alexeygrigorev/rustkyll.git --rev $(RUSTKYLL_REV) --locked rustkyll
+	mkdir -p $(RUSTKYLL_INSTALL_DIR)
+	curl -fsSL -o $(RUSTKYLL) https://github.com/alexeygrigorev/rustkyll/releases/download/$(RUSTKYLL_VERSION)/$(RUSTKYLL_ASSET)
+	chmod +x $(RUSTKYLL)
 
 serve: ## Start the development server (http://localhost:4000)
 	$(RUSTKYLL) serve $(RUSTKYLL_SERVE_FLAGS)

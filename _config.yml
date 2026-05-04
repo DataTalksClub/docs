@@ -63,6 +63,7 @@ exclude:
   - CLAUDE.md
   - AGENTS.md
   - Makefile
+  - .bin/
   - .claude/
   - .rustkyll/
   - playwright.config.js

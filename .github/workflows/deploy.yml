@@ -7,7 +7,8 @@
 name: Deploy docs site to Pages
 
 env:
-  RUSTKYLL_REV: 636818031d70529a3ad6261771d91ce896e1771f
+  RUSTKYLL_VERSION: v0.4.6
+  RUSTKYLL_LINUX_AMD64_SHA256: 8a8d05b5056cb34bd59a76f7952be48e7d6cb93782821c4a688f13a7908185f5
 
 on:
   push:
@@ -34,30 +35,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Checkout Rustkyll
-        uses: actions/checkout@v6
-        with:
-          repository: alexeygrigorev/rustkyll
-          ref: ${{ env.RUSTKYLL_REV }}
-          path: .rustkyll
-      - name: Install Rust stable
-        uses: dtolnay/rust-toolchain@stable
-      - name: Cache cargo registry and target
-        uses: actions/cache@v5
-        with:
-          path: |
-            ~/.cargo/registry
-            ~/.cargo/git
-            .rustkyll/target
-          key: rustkyll-${{ env.RUSTKYLL_REV }}-${{ runner.os }}-${{ hashFiles('.rustkyll/Cargo.lock') }}
-      - name: Build Rustkyll
-        run: cargo build --release --manifest-path .rustkyll/Cargo.toml
+      - name: Install Rustkyll
+        run: |
+          mkdir -p .bin
+          curl -fsSL \
+            "https://github.com/alexeygrigorev/rustkyll/releases/download/${RUSTKYLL_VERSION}/rustkyll-linux-amd64" \
+            -o .bin/rustkyll
+          echo "${RUSTKYLL_LINUX_AMD64_SHA256}  .bin/rustkyll" | sha256sum -c -
+          chmod +x .bin/rustkyll
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
       - name: Build with Rustkyll
         # Outputs to the './_site' directory by default
-        run: .rustkyll/target/release/rustkyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: .bin/rustkyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
       - name: Verify Pages base path

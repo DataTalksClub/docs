@@ -36,7 +36,7 @@ make serve     # Start the development server at http://localhost:4000
 
 Available make targets:
 - `make help` - Show all available targets
-- `make install` - Install the pinned Rustkyll version
+- `make install` - Download the pinned Rustkyll release binary
 - `make serve` - Start the Rustkyll development server
 - `make serve-livereload` - Start server with live reload
 - `make build` - Build the site for production
@@ -45,8 +45,10 @@ Available make targets:
 ### Manual commands
 
 ```bash
-cargo install --git https://github.com/alexeygrigorev/rustkyll.git --rev 636818031d70529a3ad6261771d91ce896e1771f --locked rustkyll
-rustkyll serve
+mkdir -p .bin
+curl -fsSL -o .bin/rustkyll https://github.com/alexeygrigorev/rustkyll/releases/download/v0.4.6/rustkyll-linux-amd64
+chmod +x .bin/rustkyll
+.bin/rustkyll serve
 ```
 
 ## What's in this Repository
