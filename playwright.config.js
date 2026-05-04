@@ -20,7 +20,7 @@ module.exports = defineConfig({
   ],
 
   webServer: {
-    command: 'bundle exec jekyll serve --port 4000',
+    command: 'make serve RUSTKYLL_SERVE_FLAGS="--port 4000 --no-watch --no-livereload"',
     url: 'http://localhost:4000',
     reuseExistingServer: !process.env.CI,
     timeout: 120 * 1000,

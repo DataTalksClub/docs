@@ -25,7 +25,7 @@ This website is currently under development and contains community-contributed n
 
 ## Running Locally
 
-This site is built with [Jekyll](https://jekyllrb.com/). To run it locally:
+This site is built with [Rustkyll](https://github.com/alexeygrigorev/rustkyll). To run it locally:
 
 ### Using Make (recommended)
 
@@ -36,8 +36,8 @@ make serve     # Start the development server at http://localhost:4000
 
 Available make targets:
 - `make help` - Show all available targets
-- `make install` - Install Ruby dependencies via Bundler
-- `make serve` - Start Jekyll development server
+- `make install` - Install the pinned Rustkyll version
+- `make serve` - Start the Rustkyll development server
 - `make serve-livereload` - Start server with live reload
 - `make build` - Build the site for production
 - `make clean` - Remove generated files and caches
@@ -45,8 +45,8 @@ Available make targets:
 ### Manual commands
 
 ```bash
-bundle install
-bundle exec jekyll serve
+cargo install --git https://github.com/alexeygrigorev/rustkyll.git --rev 636818031d70529a3ad6261771d91ce896e1771f --locked rustkyll
+rustkyll serve
 ```
 
 ## What's in this Repository

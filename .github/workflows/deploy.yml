@@ -3,8 +3,11 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+# Sample workflow for building and deploying a static site to GitHub Pages
+name: Deploy docs site to Pages
+
+env:
+  RUSTKYLL_REV: 636818031d70529a3ad6261771d91ce896e1771f
 
 on:
   push:
@@ -31,20 +34,39 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Checkout Rustkyll
+        uses: actions/checkout@v6
         with:
-          ruby-version: "3.4"
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+          repository: alexeygrigorev/rustkyll
+          ref: ${{ env.RUSTKYLL_REV }}
+          path: .rustkyll
+      - name: Install Rust stable
+        uses: dtolnay/rust-toolchain@stable
+      - name: Cache cargo registry and target
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            .rustkyll/target
+          key: rustkyll-${{ env.RUSTKYLL_REV }}-${{ runner.os }}-${{ hashFiles('.rustkyll/Cargo.lock') }}
+      - name: Build Rustkyll
+        run: cargo build --release --manifest-path .rustkyll/Cargo.toml
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
-      - name: Build with Jekyll
+      - name: Build with Rustkyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: .rustkyll/target/release/rustkyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Verify Pages base path
+        run: |
+          base_path="${{ steps.pages.outputs.base_path }}"
+          if [ -n "$base_path" ]; then
+            grep -q "href=\"$base_path/assets/css/just-the-docs-default.css\"" _site/index.html
+            grep -q "src=\"$base_path/assets/js/vendor/lunr.min.js\"" _site/index.html
+          fi
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v5

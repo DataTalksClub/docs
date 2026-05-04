@@ -64,6 +64,12 @@ exclude:
   - AGENTS.md
   - Makefile
   - .claude/
+  - .rustkyll/
+  - playwright.config.js
+  - playwright-report/
+  - test-results/
+  - tests/
+  - scripts/
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "assets/images/dtc-logo.png"
