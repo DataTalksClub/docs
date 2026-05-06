@@ -23,11 +23,14 @@ When making a post, make sure you select the right channel:
 - Job must be relevant and specific ([see relevant jobs]({{ '/general/jobs/relevant-jobs/' | relative_url }}))
 - Clearly specify if you're an agency
 - No agencies for [`#job-search`](https://app.slack.com/client/T01ATQK62F8/C06A1QBFJ94)
-- Jobs should be posted with a link to a public job description, company, or a public person/profile
+- Jobs should be posted with a clear link to the public job description on the website where the job is listed
+- Jobs where you ask people to DM you for details will most likely be removed
 - Please limit your posts to one post per week
 - Please read our full [community guidelines](https://datatalks.club/slack/guidelines.html)
 
 We prefer job positions that are submitted by people who are actually hiring for their own teams. If you are hiring for your team, you probably do not have more than one job to post. If you are a recruiter, or for some reason you are hiring for many positions, select one and do not post more than once per week.
+
+Jobs without a link to the website where the job is listed look suspicious. Such postings may be deleted to keep the quality of job offers in our channel high and reduce the chances of fraudulent job postings.
 
 ## Low-quality job postings
 
@@ -37,6 +40,7 @@ Examples of low-quality job offers:
 
 - Jobs that have nothing to do with data, AI engineering, ML engineering, data analysis, or backend-related services
 - AI editors, video editors, people who need to speak something for AI, people who need to correct things for AI, and similar roles
+- Data entry specialists. These are considered low-quality jobs and will be removed, even if you brand them as AI roles
 
 In order of preference:
 
