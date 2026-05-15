@@ -52,6 +52,8 @@ Additionally, if we determine that a job posting is low quality, we can delete i
 
 Users who repeatedly violate these guidelines and whose posts have been repeatedly removed will be banned. Their account will be deactivated.
 
+Users who violated these guidelines, whose posts were removed because of that, and who otherwise don't contribute anything to the discussion and to the community, will be removed.
+
 ## Templates
 
 ### For [`#jobs`](https://app.slack.com/client/T01ATQK62F8/C01BFQBRB5Z):
