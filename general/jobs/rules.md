@@ -50,6 +50,8 @@ In order of preference:
 
 Additionally, if we determine that a job posting is low quality, we can delete it.
 
+Users who repeatedly violate these guidelines and whose posts have been repeatedly removed will be banned. Their account will be deactivated.
+
 ## Templates
 
 ### For [`#jobs`](https://app.slack.com/client/T01ATQK62F8/C01BFQBRB5Z):
