@@ -36,7 +36,7 @@ If you'd like to take part, email Alexey at [alexey@datatalks.club](mailto:alexe
 - Help select giveaway winners randomly if you prefer not to choose them yourself
 - Send a calendar invite to remind you to answer questions
 
-DataTalks.Club has a mailing list with 100k subscribers and an average open rate of 30%, so more than 30,000 people can see the book announcement. The Slack community has 60,000 registered members, and more than 3,000 people are in the `#book-of-the-week` channel.
+DataTalks.Club has a mailing list with 120k subscribers and an average open rate of 30%, so more than 36,000 people can see the book announcement. The Slack community has 90,000 registered members, and more than 3,000 people are in the `#book-of-the-week` channel.
 
 On average, authors get 10-20 questions per week.
 
