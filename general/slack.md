@@ -14,6 +14,8 @@ Join the [DataTalks.Club Slack](https://datatalks.club/slack.html) to connect wi
 
 This is a curated list of popular channels. The Slack workspace has many more channels covering various topics. To browse and join additional channels, use Slack's channel browser.
 
+Watch this short video to see how to join channels in Slack: [How to Join Slack Channels](https://www.loom.com/share/7e0808d7cc78431ab96129ff19bf0695).
+
 Learn more about joining channels in [Slack's official guide](https://slack.com/help/articles/205239967-Join-a-channel).
 
 ## General Channels
