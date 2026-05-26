@@ -52,7 +52,7 @@ Every LLM Zoomcamp project must include:
 - An end-to-end evaluation of the full RAG flow.
 - Some form of interface that a reviewer can use, even if it is just a Python script or a notebook. A web UI (Streamlit, Gradio, Flask) is welcome but not required.
 
-Monitoring (Phoenix or another tool) and a deployed live system are nice-to-haves but the rubric does not require them.
+Monitoring with Grafana, PostgreSQL, or another tool, and a deployed live system are nice-to-haves but the rubric does not require them.
 
 ## Frameworks
 

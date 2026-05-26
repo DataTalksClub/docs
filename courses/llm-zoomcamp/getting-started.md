@@ -16,7 +16,7 @@ This page covers the LLM Zoomcamp specifics.
 
 [github.com/DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 
-Star it so you can find it later. All course materials are here, with each module having its own folder. Cohort-specific homework, deadlines, and the launch-stream link are under `cohorts/2026/`.
+Star it so you can find it later. All course materials are here, with each module having its own folder. Cohort-specific homework, deadlines, and launch-stream links are added under `cohorts/` when published.
 
 If a lot of new participants star the repo around launch time, the repo can surface on GitHub Trending and pull more people into the cohort. It is the easiest way to support the course.
 
@@ -36,7 +36,7 @@ This is your primary support and Q+A channel for the course. Use threads when re
 
 The lectures are pre-recorded and live in two playlists on the [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub):
 
-- LLM Zoomcamp main playlist: the canonical pre-recorded module videos, reused across cohorts.
+- LLM Zoomcamp main playlist: the canonical pre-recorded module videos.
 - LLM Zoomcamp 2026: cohort-specific recordings (launch stream, pre-course Q+A, office hours).
 
 For all the playlist links, see [Resources]({{ '/courses/llm-zoomcamp/resources/' | relative_url }}).
@@ -74,7 +74,7 @@ The course's RAG pipeline is built on top of search. Last cohort recorded a [Bui
 
 ## Start Module 1
 
-Begin with [Module 1: Introduction to LLMs and RAG](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-intro). Module 1 covers what LLMs are, what RAG is, and walks you through your first end-to-end RAG implementation. For what each module covers, see [Curriculum]({{ '/courses/llm-zoomcamp/curriculum/' | relative_url }}).
+Begin with [Module 1: RAG and Vector Search](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-rag). Module 1 covers what LLMs are, what RAG is, and walks you through a FAQ assistant with keyword search and vector search. For what each module covers, see [Curriculum]({{ '/courses/llm-zoomcamp/curriculum/' | relative_url }}).
 
 ## Where to look next
 

@@ -22,23 +22,24 @@ How to use it:
 2. Read the README in that folder for an overview and the list of videos.
 3. Follow the links to the video lectures.
 4. Complete the homework assignment.
-5. Check the cohort folder under `cohorts/2026/` for cohort-specific homework, deadlines, and the launch-stream link.
+5. Check the `cohorts/` folder for cohort-specific homework, deadlines, and launch-stream links when they are published.
 
-Repository structure (roughly one folder per module):
+Repository structure:
 
-- `01-intro/` - Introduction to LLMs and RAG.
-- `02-vector-search/` - Vector search and embeddings.
-- `03-evaluation/` - Offline evaluation of retrieval and RAG.
-- `04-monitoring/` - Online monitoring with Phoenix.
-- `05-best-practices/` - Prompt patterns, re-ranking, query rewriting.
-- `cohorts/2026/` - the active cohort's homework and deadlines.
-- `cohorts/2024/` - last year's homework, useful as practice if you want to try ahead.
+- `01-rag/` - RAG and vector search.
+- `02-agents/` - agents, function calling, and the agentic loop.
+- `03-orchestration/` - AI orchestration with Kestra.
+- `04-evaluation/` - offline evaluation of retrieval, RAG, and agent behavior.
+- `05-monitoring/` - online monitoring with PostgreSQL and Grafana.
+- `06-best-practices/` - hybrid search, re-ranking, LangChain, and other improvements.
+- `07-project-example/` - end-to-end project example.
+- `cohorts/` - cohort-specific homework, deadlines, launch links, and older materials.
 
 ## YouTube
 
 There are two relevant playlists on the [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub):
 
-- LLM Zoomcamp main playlist: the canonical pre-recorded module videos. Reused across cohorts.
+- LLM Zoomcamp main playlist: the canonical pre-recorded module videos.
 - LLM Zoomcamp 2026: cohort-specific recordings (launch stream, pre-course Q+A, office hours, workshops).
 
 The 2024 cohort playlist is also still relevant - it contains the previous launch stream, office hours, and a [Build Your Own Search Engine](https://github.com/alexeygrigorev/build-your-own-search-engine) workshop whose code is reused later in the course.

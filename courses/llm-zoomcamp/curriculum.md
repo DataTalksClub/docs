@@ -8,47 +8,54 @@ has_children: false
 
 # Curriculum
 
-The LLM Zoomcamp covers five content modules plus a final project. Each module has video lectures, code, and a homework assignment. The course is built around one central application of LLMs: RAG (retrieval-augmented generation), where you combine a knowledge base, a search engine, and an LLM to answer grounded questions.
+The LLM Zoomcamp covers the core flow for building LLM applications: RAG, agents, orchestration, evaluation, monitoring, best practices, and a final project. Each module has video lectures, code, and a homework assignment. The course is built around a practical FAQ assistant that starts as a simple RAG system and grows into a more production-style application.
 
 For the canonical curriculum (videos, code, exact homework questions), see the [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp).
 
 ## Modules
 
-[Module 1: Introduction to LLMs and RAG](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-intro)
+[Module 1: RAG and Vector Search](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-rag)
 
-- What LLMs are, how to use them through APIs, and what RAG is.
-- A first end-to-end RAG implementation in Python.
-- Module 1 gets two weeks because it doubles as setup and as the conceptual foundation for everything else.
+- What LLMs and RAG are.
+- A simple FAQ RAG pipeline with keyword search.
+- Vector search with embeddings, minsearch, sqlitesearch, and pgvector.
+- The FAQ dataset comes directly from the DataTalks.Club FAQ website.
 
-[Module 2: Vector Search](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/02-vector-search)
+[Module 2: Agents](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/02-agents)
 
-- Embeddings and how vector search works.
-- Indexing your knowledge base with a vector database.
-- Comparison with keyword (text) search and hybrid search.
-- The exact tooling for this module depends on the cohort sponsor; in 2026 the vector database is Quadrant.
+- How agents differ from a fixed RAG pipeline.
+- Function calling with the OpenAI Responses API.
+- Building the agentic loop from scratch.
+- Agent frameworks and how they relate to the course implementation.
 
-[Module 3: Evaluation](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/03-evaluation)
+[Module 3: Orchestration](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/03-orchestration)
 
-- Offline evaluation of retrieval quality with classical IR metrics (hit rate, mean reciprocal rank, etc.).
-- Offline evaluation of the full RAG flow using LLM-as-a-judge.
-- Comparing search strategies (vector, text, hybrid) on the same dataset.
+- AI workflow orchestration with Kestra.
+- Turning the application flow into repeatable, scheduled workflows.
 
-[Module 4: Monitoring](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/04-monitoring)
+[Module 4: Evaluation](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/04-evaluation)
+
+- Offline evaluation of retrieval quality with classical IR metrics.
+- Offline evaluation of the full RAG flow using cosine similarity and LLM-as-a-judge.
+- The module is still centered on RAG evaluation, with some agent evaluation material.
+
+[Module 5: Monitoring](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/05-monitoring)
 
 - Online monitoring of a deployed RAG system.
 - Tracking request and response volumes, latency, and cost.
 - User-feedback signals.
-- The 2026 cohort uses Phoenix (open source, from Arize) instead of Grafana.
+- PostgreSQL for storing conversations and feedback.
+- Grafana for monitoring dashboards.
 
-[Module 5: Best Practices](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/05-best-practices)
+[Module 6: Best Practices](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/06-best-practices)
 
-- Prompt patterns, document re-ranking, query rewriting, and other techniques for making a RAG system more accurate.
+- Hybrid search, document re-ranking, LangChain, and other techniques for making a RAG system more accurate.
 - The exact subset of techniques is updated each cohort.
 
-Workshops
+[Module 7: End-to-End Project Example](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/07-project-example)
 
-- One or more workshops are run alongside the modules, with their own homework. In 2026 there is a workshop with dlthub on data ingestion for LLMs.
-- For workshop logistics see [Workshops]({{ '/courses/zoomcamp-logistics/workshops/' | relative_url }}).
+- A complete example application.
+- Retrieval, evaluation, interface, monitoring, and containerization in one project.
 
 [Final Project](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/project)
 
@@ -61,9 +68,8 @@ Workshops
 To keep the course focused, several adjacent topics are intentionally out of scope. They are covered elsewhere or planned for future cohorts:
 
 - Open-source LLMs (running, deploying, fine-tuning).
-- Agents, agentic workflows, and MCP: ecosystem is still moving fast; possibly added in a future cohort and may appear in standalone workshops.
+- MCP and deeper agentic frameworks: the course covers agents from first principles, but not every current framework.
 - Image generation, multimodal embeddings, prompt engineering as a deep topic, guardrails, distributed training: not in this course.
-- Workflow orchestration of LLM applications: previous cohorts had this; removed for 2026 to focus on fundamentals.
 
 ## Pace
 

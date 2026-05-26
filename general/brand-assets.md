@@ -64,10 +64,6 @@ Use this page when you need DataTalks.Club logos or a short description of the c
   }
 </style>
 
-## Logos
-
-Download the logo files below, or use [the DataTalks.Club logo folder](https://drive.google.com/file/d/1O8ybh9-dwXx5juE2WnQW4v4gi_q-UEo1/view?usp=drive_link) as the source.
-
 ## Wordmark Logos
 
 Use these when there is enough horizontal space for the full DataTalks.Club name.

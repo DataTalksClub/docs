@@ -8,7 +8,7 @@ has_children: false
 
 # Environment Setup
 
-The LLM Zoomcamp uses Python, Docker, Jupyter notebooks, and a hosted LLM provider. This page covers the high-level setup decisions. For step-by-step setup, follow the videos in [Module 1](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-intro).
+The LLM Zoomcamp uses Python, Docker, Jupyter notebooks, and a hosted LLM provider. This page covers the high-level setup decisions. For step-by-step setup, follow the videos in [Module 1](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-rag).
 
 ## Where the work runs
 

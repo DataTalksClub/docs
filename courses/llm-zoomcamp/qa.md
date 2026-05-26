@@ -10,19 +10,17 @@ has_children: false
 
 LLM-specific questions about course scope and philosophy. For general zoomcamp logistics (joining, deadlines, certificate, project flow), see [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}). For module-specific and technical issues, check the [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html).
 
-## Why is there no agents module?
+## Why is there an agents module now?
 
-Agent tooling is moving too fast to record stable course content. The same wait-and-see approach was used before launching the original LLM Zoomcamp - LLMs themselves had to stabilise before the course made sense. Agents will likely show up in a future cohort once the ecosystem is more settled.
-
-In the meantime, expect occasional standalone workshops on agentic workflows. A separate AI Dev Tools Zoomcamp will cover building agents as part of its curriculum.
+The 2026 course includes agents because the basic patterns are now stable enough to teach. Module 2 still builds from first principles: it starts with the RAG pipeline, then adds function calling, tool use, and the agentic loop.
 
 ## Why is RAG still the focus in 2026?
 
 A year ago RAG was the most common LLM application in the wild. Today many providers offer RAG out of the box, but it remains the strongest illustrative use case for teaching the underlying concepts: how to combine retrieval, prompting, and evaluation in a real system. Skills you build for RAG transfer to most other LLM applications.
 
-## Why no MCP, no LangGraph, no agentic frameworks?
+## Why no deep MCP or LangGraph module?
 
-Same reason as agents: the surface area is changing weekly. The course teaches RAG without any framework so that you understand the mechanics. Once you do, picking up MCP or LangGraph or whatever the framework of the month is takes a fraction of the time it would otherwise.
+The surface area is still changing quickly. The course teaches agents without depending on a large framework so that you understand the mechanics. Once you do, picking up MCP, LangGraph, or another framework takes less time.
 
 LangChain is the one exception - it has shown up in the best-practices module before (for document re-ranking) and may again, depending on the instructor's choice for the cohort.
 
@@ -44,7 +42,7 @@ MLOps Zoomcamp covers the operational lifecycle of ML models: experiment trackin
 
 ## Should I retake the course if I did it last year?
 
-The application focus is the same (RAG), but tooling and modules have changed: the open-source LLMs module is gone, evaluation and monitoring are now two modules, monitoring uses Phoenix instead of Grafana, the vector database is updated. There will also be a new competition. Worth retaking if you want to refresh and re-implement with current tools.
+The simple FAQ example and RAG focus are still there, but all core modules have been re-recorded. The course now uses the OpenAI Responses API, newer OpenAI models, an FAQ dataset from the DataTalks.Club FAQ website, agents, Kestra for orchestration, and PostgreSQL plus Grafana for monitoring. Worth retaking if you want to refresh and re-implement with current tools.
 
 ## I have a strong background in RAG already. Will I learn anything new?
 
