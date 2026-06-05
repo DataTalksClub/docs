@@ -8,17 +8,18 @@ has_children: false
 
 # Environment Setup
 
-The LLM Zoomcamp uses Python, Docker, Jupyter notebooks, and a hosted LLM provider. This page covers the high-level setup decisions. For step-by-step setup, follow the videos in [Module 1](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-rag).
+The LLM Zoomcamp uses modern Python, `uv`, Docker, Jupyter notebooks, and a hosted LLM provider. This page covers the high-level setup decisions. For step-by-step setup, follow the videos in [Module 1](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-agentic-rag).
 
 ## Where the work runs
 
 The course is designed to run on your own laptop. You do not need a GPU. You do not need a paid cloud account. You do need:
 
-- Python 3.10 or newer.
+- A modern Python version. Python 3.10 or newer works; use Python 3.11 or 3.12 if you are setting up a new environment.
+- `uv` for Python dependency management.
 - Docker (for the supporting services like the search engine and the monitoring stack).
 - An LLM provider API key.
 
-You can also run the course in GitHub Codespaces or on a cloud VM if your laptop is constrained. The choice does not affect the course content.
+You can also run the course in GitHub Codespaces or on a cloud VM if your laptop is constrained. Choose an environment where you can run Docker.
 
 ## Choosing an LLM provider
 
@@ -35,13 +36,15 @@ If you want to learn the OpenAI ecosystem on the way (because most paid roles to
 
 ## Python and dependency management
 
-The course recommends `uv` for Python dependency management. It is faster than pip/conda and handles virtual environments cleanly. See the [uv documentation](https://docs.astral.sh/uv/) for installation.
+The course recommends `uv` for Python dependency management. It is faster than pip or conda and handles virtual environments cleanly. See the [uv documentation](https://docs.astral.sh/uv/) for installation.
 
 Anaconda or plain `pip + venv` also work. The choice does not affect the course content.
 
 ## Notebooks
 
-Most of the course is written in Jupyter notebooks. You can run them locally, in VS Code (with the Python and Jupyter extensions), in Google Colab, or in any Jupyter-compatible environment. Module 1 covers installing Jupyter.
+Some course materials use Jupyter notebooks. You can run them locally, in VS Code with the Python and Jupyter extensions, or in any Jupyter-compatible environment that can also reach the services you run with Docker.
+
+Google Colab is not recommended as the main course environment. It can work for isolated notebooks, but many modules need Docker services such as PostgreSQL, PGVector, the monitoring stack, or local containers.
 
 ## Docker
 

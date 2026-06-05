@@ -12,7 +12,7 @@ LLM-specific questions about course scope and philosophy. For general zoomcamp l
 
 ## Why is there an agents module now?
 
-The 2026 course includes agents because the basic patterns are now stable enough to teach. Module 2 still builds from first principles: it starts with the RAG pipeline, then adds function calling, tool use, and the agentic loop.
+The 2026 course includes agents because the basic patterns are now stable enough to teach. Agents are part of Module 1: Agentic RAG. The module still builds from first principles: it starts with a RAG pipeline, then adds function calling, tool use, and the agentic loop.
 
 ## Why is RAG still the focus in 2026?
 
@@ -22,7 +22,7 @@ A year ago RAG was the most common LLM application in the wild. Today many provi
 
 The surface area is still changing quickly. The course teaches agents without depending on a large framework so that you understand the mechanics. Once you do, picking up MCP, LangGraph, or another framework takes less time.
 
-LangChain is the one exception - it has shown up in the best-practices module before (for document re-ranking) and may again, depending on the instructor's choice for the cohort.
+LangChain is the one exception - it appears in the optional best-practices module for hybrid search and document reranking.
 
 ## Why no fine-tuning, distributed training, or building our own LLM?
 
@@ -42,7 +42,7 @@ MLOps Zoomcamp covers the operational lifecycle of ML models: experiment trackin
 
 ## Should I retake the course if I did it last year?
 
-The simple FAQ example and RAG focus are still there, but all core modules have been re-recorded. The course now uses the OpenAI Responses API, newer OpenAI models, an FAQ dataset from the DataTalks.Club FAQ website, agents, Kestra for orchestration, and PostgreSQL plus Grafana for monitoring. Worth retaking if you want to refresh and re-implement with current tools.
+The RAG focus is still there, but the 2026 flow is different from 2025. Module 1 is now Agentic RAG, agents are no longer a separate Module A, Module 3 covers orchestration with Kestra, evaluation now includes agent evaluation basics, and monitoring is a full module with PostgreSQL, Streamlit, and Grafana. Worth retaking if you want to refresh and re-implement with the current course structure.
 
 ## I have a strong background in RAG already. Will I learn anything new?
 
@@ -64,7 +64,7 @@ Possible, with effort. The course assumes you can program. If you can, the LLM-s
 
 LLM engineering is mostly the engineering you already know, with a few new patterns layered on. Pick a problem you find interesting, build something end to end, and share what you learn.
 
-- Ask questions in Slack (after checking the FAQ first).
+- Ask questions in [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J) after checking the FAQ first.
 - Learn in public.
 - Help your peers.
 - Do not get stuck on one tool. The point is the patterns, not the brand names.
