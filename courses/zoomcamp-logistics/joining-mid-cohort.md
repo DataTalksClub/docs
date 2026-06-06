@@ -2,7 +2,8 @@
 title: "Joining Mid-Cohort"
 layout: default
 nav_order: 3
-parent: Zoomcamp Logistics
+parent: Start Here
+grand_parent: Zoomcamp Logistics
 ---
 
 # Joining Mid-Cohort

@@ -1,8 +1,9 @@
 ---
 title: "Workshops"
 layout: default
-nav_order: 8
-parent: Zoomcamp Logistics
+nav_order: 3
+parent: Course Work
+grand_parent: Zoomcamp Logistics
 ---
 
 # Workshops

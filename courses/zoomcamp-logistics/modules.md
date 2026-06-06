@@ -1,8 +1,9 @@
 ---
 title: "Working Through the Modules"
 layout: default
-nav_order: 6
-parent: Zoomcamp Logistics
+nav_order: 1
+parent: Course Work
+grand_parent: Zoomcamp Logistics
 ---
 
 # Working Through the Modules

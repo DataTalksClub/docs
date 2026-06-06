@@ -1,8 +1,9 @@
 ---
 title: "Homework"
 layout: default
-nav_order: 7
-parent: Zoomcamp Logistics
+nav_order: 2
+parent: Course Work
+grand_parent: Zoomcamp Logistics
 ---
 
 # Homework

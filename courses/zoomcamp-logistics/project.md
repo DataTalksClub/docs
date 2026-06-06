@@ -1,8 +1,9 @@
 ---
 title: "Final Project"
 layout: default
-nav_order: 11
-parent: Zoomcamp Logistics
+nav_order: 1
+parent: Project and Certificate
+grand_parent: Zoomcamp Logistics
 ---
 
 # Final Project

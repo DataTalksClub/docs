@@ -2,7 +2,8 @@
 title: "Joining a Cohort"
 layout: default
 nav_order: 2
-parent: Zoomcamp Logistics
+parent: Start Here
+grand_parent: Zoomcamp Logistics
 ---
 
 # Joining a Cohort

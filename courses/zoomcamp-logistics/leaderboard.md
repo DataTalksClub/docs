@@ -1,8 +1,9 @@
 ---
 title: "Leaderboard"
 layout: default
-nav_order: 10
-parent: Zoomcamp Logistics
+nav_order: 2
+parent: Progress and Recognition
+grand_parent: Zoomcamp Logistics
 ---
 
 # Leaderboard

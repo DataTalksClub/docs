@@ -1,8 +1,9 @@
 ---
 title: "Learning in Public"
 layout: default
-nav_order: 9
-parent: Zoomcamp Logistics
+nav_order: 1
+parent: Progress and Recognition
+grand_parent: Zoomcamp Logistics
 ---
 
 # Learning in Public

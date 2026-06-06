@@ -2,7 +2,8 @@
 title: "Before You Start"
 layout: default
 nav_order: 1
-parent: Zoomcamp Logistics
+parent: Start Here
+grand_parent: Zoomcamp Logistics
 ---
 
 # Before You Start
@@ -14,6 +15,16 @@ DataTalks.Club zoomcamps are free, multi-week, cohort-based online courses. Each
 Free to register, free to take, free to receive the certificate.
 
 You may incur small third-party costs if a course uses a paid cloud service. Most cloud providers offer free tiers or trial credits that cover the course material. See the course-specific environment-setup pages.
+
+Before using any paid cloud, API, or AI tool:
+
+- Check whether the course has a recommended free tier, trial credit, or low-cost setup.
+- Set a budget alert if the provider supports it.
+- Stop or delete cloud resources when you are done working for the day.
+- Remove unused disks, databases, buckets, clusters, and API keys after a module or project is finished.
+- Ask in Slack before spending money if you are unsure whether a paid resource is required.
+
+The exact tools differ by course. For example, Data Engineering Zoomcamp uses GCP in the main flow, Machine Learning Zoomcamp uses AWS in later modules, and LLM Zoomcamp may use a few dollars of LLM API credits. Always check the course-specific environment setup page.
 
 ## Cohort schedule
 

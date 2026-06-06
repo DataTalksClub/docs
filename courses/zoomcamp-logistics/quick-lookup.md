@@ -1,7 +1,7 @@
 ---
 title: "Quick Lookup"
 layout: default
-nav_order: 16
+nav_order: 6
 parent: Zoomcamp Logistics
 description: "Where to look for the answer to common DataTalks.Club zoomcamp questions."
 ---

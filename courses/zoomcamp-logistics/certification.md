@@ -1,8 +1,9 @@
 ---
 title: "Certification"
 layout: default
-nav_order: 13
-parent: Zoomcamp Logistics
+nav_order: 3
+parent: Project and Certificate
+grand_parent: Zoomcamp Logistics
 ---
 
 # Certification

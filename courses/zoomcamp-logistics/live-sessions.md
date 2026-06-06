@@ -1,8 +1,9 @@
 ---
 title: "Live Sessions and Recordings"
 layout: default
-nav_order: 5
-parent: Zoomcamp Logistics
+nav_order: 2
+parent: Communication
+grand_parent: Zoomcamp Logistics
 ---
 
 # Live Sessions and Recordings

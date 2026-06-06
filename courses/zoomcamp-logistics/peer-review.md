@@ -1,8 +1,9 @@
 ---
 title: "Peer Review"
 layout: default
-nav_order: 12
-parent: Zoomcamp Logistics
+nav_order: 2
+parent: Project and Certificate
+grand_parent: Zoomcamp Logistics
 ---
 
 # Peer Review

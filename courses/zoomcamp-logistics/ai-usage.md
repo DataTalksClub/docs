@@ -1,8 +1,9 @@
 ---
 title: "AI Usage Policy"
 layout: default
-nav_order: 14
-parent: Zoomcamp Logistics
+nav_order: 4
+parent: Course Work
+grand_parent: Zoomcamp Logistics
 ---
 
 # AI Usage Policy
