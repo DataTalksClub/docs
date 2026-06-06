@@ -490,6 +490,48 @@ function searchLoaded(index, docs) {
 
 // Switch theme
 
+jtd.themeStorageKey = 'jtd-theme';
+
+jtd.syncThemeClass = function(theme) {
+  var isDark = theme == 'dark';
+  document.documentElement.classList.toggle('dark', isDark);
+  document.documentElement.classList.toggle('light', !isDark);
+
+  if (document.body) {
+    document.body.classList.toggle('dark', isDark);
+    document.body.classList.toggle('light', !isDark);
+  }
+
+  var toggles = document.querySelectorAll('.theme-toggle');
+  toggles.forEach(function(toggle) {
+    var label = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+    toggle.setAttribute('aria-label', label);
+    toggle.setAttribute('title', label);
+    toggle.setAttribute('aria-pressed', isDark);
+  });
+}
+
+jtd.storedTheme = function() {
+  try {
+    return localStorage.getItem(jtd.themeStorageKey);
+  } catch(e) {
+    return null;
+  }
+}
+
+jtd.preferredTheme = function() {
+  var storedTheme = jtd.storedTheme();
+  if (storedTheme == 'dark' || storedTheme == 'light') {
+    return storedTheme == 'light' ? 'default' : storedTheme;
+  }
+
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    return 'dark';
+  }
+
+  return 'default';
+}
+
 jtd.getTheme = function() {
   var cssFileHref = document.querySelector('[rel="stylesheet"]').getAttribute('href');
   return cssFileHref.substring(cssFileHref.lastIndexOf('-') + 1, cssFileHref.length - 4);
@@ -497,8 +539,36 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '{{ "assets/css/just-the-docs-" | relative_url }}' + theme + '.css');
+  theme = theme == 'datatalks' ? 'default' : theme;
+  cssFile.setAttribute('href', '{{ "/assets/css/just-the-docs-" | relative_url }}' + theme + '.css');
+  jtd.syncThemeClass(theme);
 }
+
+jtd.saveTheme = function(theme) {
+  try {
+    localStorage.setItem(jtd.themeStorageKey, theme);
+  } catch(e) {
+  }
+}
+
+jtd.toggleTheme = function() {
+  var theme = jtd.getTheme() == 'dark' ? 'default' : 'dark';
+  jtd.setTheme(theme);
+  jtd.saveTheme(theme == 'default' ? 'light' : theme);
+}
+
+jtd.setTheme(jtd.preferredTheme());
+
+jtd.onReady(function(){
+  jtd.syncThemeClass(jtd.getTheme());
+
+  var toggles = document.querySelectorAll('.theme-toggle');
+  toggles.forEach(function(toggle) {
+    jtd.addEvent(toggle, 'click', function(){
+      jtd.toggleTheme();
+    });
+  });
+});
 
 // Note: pathname can have a trailing slash on a local jekyll server
 // and not have the slash on GitHub Pages

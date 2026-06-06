@@ -14,7 +14,27 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
-  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
+  <script>
+    (function() {
+      var theme = 'default';
+      try {
+        var storedTheme = localStorage.getItem('jtd-theme');
+        if (storedTheme == 'dark') {
+          theme = 'dark';
+        } else if (storedTheme != 'light' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          theme = 'dark';
+        }
+      } catch(e) {
+      }
+
+      document.documentElement.classList.toggle('dark', theme == 'dark');
+      document.documentElement.classList.toggle('light', theme != 'dark');
+      document.write('<link rel="stylesheet" href="{{ "/assets/css/just-the-docs-" | relative_url }}' + theme + '.css">');
+    })();
+  </script>
+  <noscript>
+    <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
+  </noscript>
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-head-nav.css' | relative_url }}" id="jtd-head-nav-stylesheet">
 

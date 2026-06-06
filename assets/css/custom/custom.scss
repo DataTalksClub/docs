@@ -1,5 +1,59 @@
-// Import the datatalks color scheme to access its variables
-@import "color_schemes/datatalks";
+// DataTalks.Club brand colors for custom components
+$datatalks-blue: #2563eb !default;
+$datatalks-orange: #f97316 !default;
+$datatalks-dark-blue: #1e40af !default;
+$datatalks-light-blue: #dbeafe !default;
+
+// Theme toggle
+.theme-toggle {
+  justify-content: center;
+  min-width: 3.5rem;
+  color: $link-color;
+  cursor: pointer;
+}
+
+.theme-toggle-icon {
+  display: block;
+  width: 1.35rem;
+  height: 1.35rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.theme-toggle-icon-dark {
+  display: none;
+}
+
+.dark .theme-toggle-icon-light {
+  display: none;
+}
+
+.dark .theme-toggle-icon-dark {
+  display: block;
+}
+
+.theme-toggle:hover {
+  color: $link-color;
+  background-color: $feedback-color;
+}
+
+@include mq(md) {
+  .site-header .theme-toggle-sidebar {
+    display: none;
+  }
+}
+
+// Code blocks
+div.highlighter-rouge,
+div.listingblock > div.content,
+figure.highlight {
+  border: $border $border-color;
+  border-radius: $border-radius;
+  overflow: hidden;
+}
 
 // Vocabulary term cards styling
 .term-card {
