@@ -19,10 +19,11 @@ Discovering a zoomcamp after the cohort has already started is the most common s
 
 ## Catch-up steps
 
-1. Open the course's GitHub repo and find the `cohorts/<year>/` folder - the canonical schedule and homework list.
-2. Register for email updates if you want them (see [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }})).
-3. Watch the videos for the modules you missed.
-4. Catch up on the homework even if a deadline has passed. It solidifies the material and you can include it in your portfolio.
+1. Open the course on the [course management platform](https://courses.datatalks.club/) - it has the current schedule and deadlines.
+2. Open the course's GitHub repo and find the `cohorts/<year>/` folder - it has the homework files and cohort-specific materials.
+3. Register for email updates if you want them (see [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }})).
+4. Watch the videos for the modules you missed.
+5. Catch up on the homework even if a deadline has passed. It solidifies the material and you can include it in your portfolio.
 
 ## How far behind is too far behind
 

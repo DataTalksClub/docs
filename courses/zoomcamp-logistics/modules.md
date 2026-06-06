@@ -34,7 +34,8 @@ The course's GitHub repository has the canonical link to the right playlist for 
 
 Most modules use the same video set across cohorts. Differences between cohorts:
 
-- The cohort folder under `cohorts/<year>/` has the homework, deadlines, and any cohort-specific changes.
+- The cohort folder under `cohorts/<year>/` has the homework and any cohort-specific changes.
+- The course management platform has the current schedule and deadlines.
 - Tools are sometimes swapped (in the Data Engineering Zoomcamp, Mage replaced Prefect, then Kestra replaced Mage).
 
 When in doubt, follow the current cohort folder and the current README. If a video references an old tool or path, check the current cohort folder for the updated version.

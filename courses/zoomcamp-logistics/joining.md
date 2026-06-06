@@ -29,7 +29,8 @@ For the platform UI, see [Course Management Platform]({{ '/courses/course-manage
 - All course materials live in a public GitHub repository (one per course).
 - Star the repo so you can find it later.
 - Module folders contain the lectures, code, and reading.
-- The `cohorts/<year>/` folder holds the active cohort's homework and deadlines.
+- The `cohorts/<year>/` folder holds the active cohort's homework and cohort-specific materials.
+- The course management platform shows the current schedule and deadlines.
 - Pre-recorded lectures live on the [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub) - one playlist per course.
 
 ## Communication channels
@@ -49,5 +50,6 @@ For the course-specific bootstrap (which exact repo, channel, Telegram, and envi
 
 - [Data Engineering Zoomcamp: Getting Started]({{ '/courses/data-engineering-zoomcamp/getting-started/' | relative_url }})
 - [Machine Learning Zoomcamp: Getting Started]({{ '/courses/ml-zoomcamp/getting-started/' | relative_url }})
+- [LLM Zoomcamp: Getting Started]({{ '/courses/llm-zoomcamp/getting-started/' | relative_url }})
 
 If the cohort has already started, see [Joining Mid-Cohort]({{ '/courses/zoomcamp-logistics/joining-mid-cohort/' | relative_url }}). You do not need to attend live sessions to be in the live cohort - submitting homework on time is what matters.

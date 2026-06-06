@@ -14,7 +14,7 @@ Examples from past cohorts include the "Ingestion with dlt" workshop in the Data
 
 ## Schedule
 
-Workshops are inserted between modules in the cohort schedule. The exact week varies per cohort and is announced when the cohort schedule is published. The [course management platform](https://courses.datatalks.club/) shows when each workshop runs alongside the modules. The cohort folder in the GitHub repo (`cohorts/<year>/`) lists workshops with their own deadlines.
+Workshops are inserted between modules in the cohort schedule. The exact week varies per cohort and is announced when the cohort schedule is published. The [course management platform](https://courses.datatalks.club/) shows when each workshop runs alongside the modules and shows the deadlines. The cohort folder in the GitHub repo (`cohorts/<year>/`) has the workshop materials.
 
 ## Optional, like homework
 

@@ -37,7 +37,7 @@ This is your primary support and Q+A channel for the course. Use threads when re
 The lectures are pre-recorded and live in two playlists on the [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub):
 
 - LLM Zoomcamp main playlist: the canonical pre-recorded module videos.
-- LLM Zoomcamp 2026: cohort-specific recordings (launch stream, pre-course Q+A, office hours).
+- LLM Zoomcamp 2026: cohort-specific recordings (launch stream, office hours).
 
 For all the playlist links, see [Resources]({{ '/courses/llm-zoomcamp/resources/' | relative_url }}).
 
@@ -67,10 +67,6 @@ The course uses Python with Docker for the supporting services (search engines, 
 - An LLM provider account (OpenAI key, Groq key, or both).
 
 For the choices you need to make, see [Environment Setup]({{ '/courses/llm-zoomcamp/environment-setup/' | relative_url }}).
-
-## Optional: pre-course search engine workshop
-
-The course's RAG pipeline is built on top of search. Last cohort recorded a [Build Your Own Search Engine](https://github.com/alexeygrigorev/build-your-own-search-engine) workshop that walks through how a small in-memory search engine works. It is not required for module 1, but the implementation it produces is reused later in the course. Worth one or two evenings if you have time before the cohort starts.
 
 ## Start Module 1
 

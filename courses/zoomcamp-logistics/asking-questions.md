@@ -1,7 +1,7 @@
 ---
 title: "Asking Questions"
 layout: default
-nav_order: 1
+nav_order: 5
 parent: Communication
 grand_parent: Zoomcamp Logistics
 description: "How to ask for help in DataTalks.Club zoomcamp Slack channels."
