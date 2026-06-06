@@ -1,7 +1,7 @@
 ---
 title: "Quick Lookup"
 layout: default
-nav_order: 14
+nav_order: 16
 parent: Zoomcamp Logistics
 description: "Where to look for the answer to common DataTalks.Club zoomcamp questions."
 ---
@@ -16,6 +16,7 @@ Topic and where to look:
 - When the next cohort starts, how often the course runs: [Before You Start]({{ '/courses/zoomcamp-logistics/before-you-start/' | relative_url }}).
 - How to register, what email to use, missing confirmation email: [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}).
 - The course already started, can I still join: [Joining Mid-Cohort]({{ '/courses/zoomcamp-logistics/joining-mid-cohort/' | relative_url }}).
+- Slack vs Telegram vs YouTube vs email, where announcements happen: [Communication Channels]({{ '/courses/zoomcamp-logistics/communication/' | relative_url }}).
 - Live session timing, where to watch, recordings: [Live Sessions and Recordings]({{ '/courses/zoomcamp-logistics/live-sessions/' | relative_url }}).
 - Module cadence, this cohort's playlist, working ahead or behind: [Working Through the Modules]({{ '/courses/zoomcamp-logistics/modules/' | relative_url }}).
 - Homework deadlines, where to submit, late submissions: [Homework]({{ '/courses/zoomcamp-logistics/homework/' | relative_url }}). Platform UI in [Course Management Platform: Homework]({{ '/courses/course-management-platform/homework/' | relative_url }}).
@@ -26,5 +27,6 @@ Topic and where to look:
 - Peer review, assignments, what to do with 404 repos: [Peer Review]({{ '/courses/zoomcamp-logistics/peer-review/' | relative_url }}). Platform UI in [Course Management Platform: Peer Review]({{ '/courses/course-management-platform/peer-review/' | relative_url }}).
 - Certificate, when issued, LinkedIn, what's next: [Certification]({{ '/courses/zoomcamp-logistics/certification/' | relative_url }}).
 - Using AI tools (ChatGPT, Cursor, Claude) for homework, project, or peer review: [AI Usage Policy]({{ '/courses/zoomcamp-logistics/ai-usage/' | relative_url }}).
-- Slack channels, asking questions, code of conduct: [Community Guidelines]({{ '/general/guidelines/' | relative_url }}) and [Slack channels]({{ '/general/slack/' | relative_url }}).
+- Asking questions in Slack, formatting errors, threads, troubleshooting: [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}).
+- Slack channels and code of conduct: [Community Guidelines]({{ '/general/guidelines/' | relative_url }}) and [Slack channels]({{ '/general/slack/' | relative_url }}).
 - Using a different cloud (AWS, Azure) or different tools than the course teaches: the course-specific environment-setup page ([DE]({{ '/courses/data-engineering-zoomcamp/environment-setup/' | relative_url }}), [ML]({{ '/courses/ml-zoomcamp/environment-setup/' | relative_url }})).

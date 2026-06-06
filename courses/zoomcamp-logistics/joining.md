@@ -29,15 +29,16 @@ For the platform UI, see [Course Management Platform]({{ '/courses/course-manage
 - The `cohorts/<year>/` folder holds the active cohort's homework and deadlines.
 - Pre-recorded lectures live on the [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub) - one playlist per course.
 
-## Slack and Telegram
+## Communication channels
 
-- Join the [DataTalks.Club Slack workspace](https://datatalks.club/slack).
-- Find the course-specific channel (`#course-data-engineering`, `#course-ml-zoomcamp`, etc.). See the [Slack guide]({{ '/general/slack/' | relative_url }}) for the full list.
-- Subscribe to the course's Telegram channel for announcements (recommended). Telegram is one-way, but it is the most reliable place to catch important updates because Slack gets noisy.
+Join the course communication channels early:
 
-## Newsletter
+- Slack for questions, discussion, and help.
+- Telegram for announcements.
+- YouTube for live streams and recordings.
+- Email and the newsletter for cohort reminders.
 
-The [DataTalks.Club newsletter](https://datatalks.club/newsletter.html) goes out every Monday with course announcements and community updates. Everyone who signs up for a cohort is automatically subscribed. If you are not receiving the newsletter, you have probably unsubscribed at some point - re-subscribe via the [newsletter page](https://datatalks.club/newsletter.html).
+For details, see [Communication Channels]({{ '/courses/zoomcamp-logistics/communication/' | relative_url }}).
 
 ## Next step
 

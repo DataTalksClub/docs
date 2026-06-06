@@ -1,7 +1,7 @@
 ---
 title: "Live Sessions and Recordings"
 layout: default
-nav_order: 4
+nav_order: 5
 parent: Zoomcamp Logistics
 ---
 
@@ -20,6 +20,8 @@ Two kinds of live sessions happen during a cohort:
 - Recordings are added to the cohort-specific YouTube playlist as they happen.
 - The link to each live stream is announced shortly before in the course Slack channel and on the course Telegram channel.
 - No Zoom link, no separate webinar tool, no signup. Just open YouTube at the scheduled time.
+
+For how Slack, Telegram, YouTube, email, and the course platform fit together, see [Communication Channels]({{ '/courses/zoomcamp-logistics/communication/' | relative_url }}).
 
 ## Time zones
 
@@ -41,4 +43,3 @@ If your question is not answered live, post it in the course Slack channel after
 - Added to the cohort's YouTube playlist.
 
 You do not need to attend live to be in the live cohort. Watching the recording later does not change your cohort status.
-

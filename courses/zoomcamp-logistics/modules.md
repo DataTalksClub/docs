@@ -1,7 +1,7 @@
 ---
 title: "Working Through the Modules"
 layout: default
-nav_order: 5
+nav_order: 6
 parent: Zoomcamp Logistics
 ---
 
