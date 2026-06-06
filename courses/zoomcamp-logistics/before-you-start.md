@@ -12,7 +12,7 @@ DataTalks.Club zoomcamps are free, multi-week, cohort-based online courses. Each
 
 ## Cost
 
-Free to register, free to take, free to receive the certificate.
+Free to take, free to receive the certificate. Optional registration for course updates is also free.
 
 You may incur small third-party costs if a course uses a paid cloud service. Most cloud providers offer free tiers or trial credits that cover the course material. See the course-specific environment-setup pages.
 
@@ -37,7 +37,7 @@ Each course runs once a year as a live cohort. Approximate windows:
 - AI Dev Tools Zoomcamp: dates announced separately.
 - Stocks Analytics Zoomcamp: dates announced separately.
 
-For the exact start date, check the course landing page on [datatalks.club](https://datatalks.club). Sign up early to receive cohort announcements by email.
+For the exact start date, check the course GitHub page. Register there if you want to receive cohort announcements by email.
 
 ## Format
 

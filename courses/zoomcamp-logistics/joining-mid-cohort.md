@@ -12,15 +12,15 @@ Discovering a zoomcamp after the cohort has already started is the most common s
 
 ## You can still join
 
-- Registration stays open the whole cohort.
+- Optional registration for course updates usually stays open the whole cohort.
 - Past homework deadlines are missed (no individual extensions).
 - The project window is at the end of the cohort - that determines the certificate.
 - Homework is not required for certification.
 
 ## Catch-up steps
 
-1. Register for the cohort if you have not already (see [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }})).
-2. Open the course's GitHub repo and find the `cohorts/<year>/` folder - the canonical schedule and homework list.
+1. Open the course's GitHub repo and find the `cohorts/<year>/` folder - the canonical schedule and homework list.
+2. Register for email updates if you want them (see [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }})).
 3. Watch the videos for the modules you missed.
 4. Catch up on the homework even if a deadline has passed. It solidifies the material and you can include it in your portfolio.
 

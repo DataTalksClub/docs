@@ -12,13 +12,15 @@ The general flow is the same regardless of which course you take. The course-spe
 
 ## Registration
 
-- Register on the course landing page on [datatalks.club](https://datatalks.club). Free, stays open the whole cohort.
-- Registration only signs you up for cohort updates by email. It does not create your platform account.
-- You receive an email with the cohort schedule when the cohort kicks off. Far-away cohorts: the email arrives closer to the start date.
+- Registration is optional. You only need it if you want to receive email updates about the course.
+- The registration link is on the course GitHub page. It is free and usually stays open for the whole cohort.
+- Registration does not create your platform account.
+- If you register, you receive an email with the cohort schedule when the cohort kicks off. Far-away cohorts: the email arrives closer to the start date.
+- If you do not want email updates, you do not need to register. Just show up when the course starts and be ready to work through the materials.
 
 ## Course platform account
 
-The [course management platform](https://courses.datatalks.club/) is a separate account, used to submit homework, track your score, see deadlines, and submit your project. Sign up with any email - it does not have to match the email you used to register for cohort updates.
+The [course management platform](https://courses.datatalks.club/) is the only course account you need. Use it to submit homework, track your score, see deadlines, and submit your project. Sign up with any email - it does not have to match the email you used for optional cohort updates.
 
 For the platform UI, see [Course Management Platform]({{ '/courses/course-management-platform/' | relative_url }}).
 
