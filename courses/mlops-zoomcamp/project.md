@@ -34,4 +34,4 @@ The [07-project folder](https://github.com/DataTalksClub/mlops-zoomcamp/tree/mai
 
 ## Certificate
 
-Completing the project during a live cohort is how you earn the certificate. Since there is no live 2026 cohort, the project is currently for self-assessment and portfolio building. See [Certificate]({{ '/courses/mlops-zoomcamp/certificate/' | relative_url }}) for how the certificate is issued and how to add it to LinkedIn, and [Certification]({{ '/courses/zoomcamp-logistics/certification/' | relative_url }}) for the cross-course rules.
+Completing the project during a live cohort is how you earn the certificate. Since there is no live 2026 cohort, the project is currently for self-assessment and portfolio building. See [Certification]({{ '/courses/zoomcamp-logistics/certification/' | relative_url }}) for how the certificate is issued, the cross-course rules, and how to add it to LinkedIn.

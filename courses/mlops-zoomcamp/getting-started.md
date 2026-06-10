@@ -54,4 +54,4 @@ Module 1 walks through environment setup, including Python, Docker, and an optio
 
 ## Getting your certificate
 
-Completing the final project during a live cohort earns you the certificate. See [Certificate]({{ '/courses/mlops-zoomcamp/certificate/' | relative_url }}) for how it is issued and how to add it to LinkedIn.
+Completing the final project during a live cohort earns you the certificate. See [Certification]({{ '/courses/zoomcamp-logistics/certification/' | relative_url }}) for how it is issued and how to add it to LinkedIn.
