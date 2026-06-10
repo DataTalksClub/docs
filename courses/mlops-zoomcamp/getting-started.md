@@ -26,6 +26,15 @@ After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack)
 
 Before asking questions, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) and the [community guidelines](https://datatalks.club/slack/guidelines.html).
 
+## Follow the announcements
+
+So you don't miss anything:
+
+- Join the [course Telegram channel with announcements](https://t.me/dtc_courses).
+- Subscribe to the [DataTalks.Club YouTube channel](https://www.youtube.com/c/DataTalksClub) and check the [course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK).
+
+Course announcements, including when certificates are ready, go out in Slack and Telegram.
+
 ## Watch the course videos
 
 All lectures are on the [course YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK). The repository README and each module folder link to the relevant videos in order.
@@ -42,3 +51,7 @@ Module 1 walks through environment setup, including Python, Docker, and an optio
 4. Complete the homework assignment.
 5. Check the cohort folder for cohort-specific materials and deadlines.
 6. Finish with the final project, which ties the modules together.
+
+## Getting your certificate
+
+Completing the final project during a live cohort earns you the certificate. See [Certificate]({{ '/courses/mlops-zoomcamp/certificate/' | relative_url }}) for how it is issued and how to add it to LinkedIn.
