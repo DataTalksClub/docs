@@ -18,9 +18,9 @@ Current course pages:
 
 - [Machine Learning Zoomcamp]({{ '/courses/ml-zoomcamp/' | relative_url }}) - Learn ML engineering with deployment focus
 - [Data Engineering Zoomcamp]({{ '/courses/data-engineering-zoomcamp/' | relative_url }}) - Complete data engineering bootcamp
-- MLOps Zoomcamp - Production ML systems and best practices
+- [MLOps Zoomcamp]({{ '/courses/mlops-zoomcamp/' | relative_url }}) - Production ML systems and best practices
 - [LLM Zoomcamp]({{ '/courses/llm-zoomcamp/' | relative_url }}) - Build RAG and AI applications with hosted LLMs
-- AI Dev Tools Zoomcamp - Modern AI development tools and workflows
+- [AI Dev Tools Zoomcamp]({{ '/courses/ai-dev-tools-zoomcamp/' | relative_url }}) - Modern AI development tools and workflows
 
 ## Course Resources
 
