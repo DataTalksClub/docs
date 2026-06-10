@@ -14,12 +14,14 @@ The DataTalks.Club FAQ contains answers to frequently asked questions from the c
 
 ## Available Course FAQs
 
+Available FAQ pages:
+
 - [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html)
 - [Machine Learning Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html)
 - [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp.html)
 - [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html)
 
-## What's Inside
+## Contents
 
 Each course FAQ is organized by:
 
@@ -33,7 +35,9 @@ Each course FAQ is organized by:
 
 The FAQ is maintained by the community. If you have a question that isn't answered, you can contribute it.
 
-### How to Propose an Entry
+## Proposing an Entry
+
+To propose an entry:
 
 1. Go to the [FAQ Proposal form](https://github.com/DataTalksClub/faq/issues/new?template=faq-proposal.yml)
 2. Fill out the form:
@@ -42,13 +46,15 @@ The FAQ is maintained by the community. If you have a question that isn't answer
    - Your answer (with examples if possible)
 3. Submit
 
-An automated FAQ bot will:
+The automated FAQ bot will:
 - Analyze your proposal
 - Compare it with existing FAQs
 - Create a new entry or update an existing one
 - Submit a pull request automatically
 
-### Writing Good FAQ Entries
+## Writing Good FAQ Entries
+
+Good entries follow these guidelines:
 
 - Be specific and clear in your question
 - Use words students might search for

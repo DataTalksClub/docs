@@ -18,13 +18,17 @@ Key principles:
 
 ## Thread best practices
 
+Use these practices for Slack threads:
+
 - Put everything in one message. Don't break your question into multiple messages. This makes it easier for others to understand the full context at once.
 - Use threads for long content. For long questions, write a few sentences in the first message to provide context, then put the rest in a thread. This keeps the main channel readable and scannable.
 - Put code in threads. If there's a code snippet (more than 5 lines of code), put it inside the thread. This prevents long code blocks from cluttering the main channel.
-- Use "also send to channel" sparingly. Avoid using this feature unless it's really necessary. Most thread replies don't need to appear in the main channel.
+- Use "also send to channel" sparingly. Avoid using this feature unless it's necessary. Most thread replies don't need to appear in the main channel.
 - Separate multiple questions. If your question contains multiple distinct questions, break them into separate messages so each can be answered in its own thread.
 
 ## Additional tips
+
+These tips keep discussions useful:
 
 - Provide context when sharing links. Don't just share a link and expect others to jump in. Share your thoughts, explain why it's interesting or relevant, and include a clear question in your message. "Any thoughts on this?" is not a clear question - be specific about what you'd like to discuss.
 - Be concise. While it's important to provide context, try to be concise in your questions when possible. Not everyone has time to read lengthy messages. If you need to provide extensive background, use the thread approach mentioned above.

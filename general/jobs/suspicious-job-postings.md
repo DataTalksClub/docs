@@ -8,15 +8,19 @@ grand_parent: General
 
 # Suspicious job postings
 
-If something about a job posting or recruiter feels off, trust your instinct. Stop the conversation and report it to Alexey Grigorev.
+If something about a job posting or recruiter feels off, trust your instinct. Stop the conversation and report it to the DataTalks.Club team.
 
 ## Red flags in the job posting
+
+Watch for these signs:
 
 - No company name or website
 - Vague job description with no specific responsibilities
 - Unrealistic salary for the role or experience level
 
 ## Red flags during the hiring process
+
+Watch for these signs:
 
 - You're asked to download and install software (e.g. a "special app" for the interview)
 - The recruiter won't share basic details about the role or the company
@@ -28,7 +32,7 @@ If something about a job posting or recruiter feels off, trust your instinct. St
 
 ## Freelancing account scam
 
-Someone claims to be from a country like Japan, Russia, China, or elsewhere. They say that freelancers in their region get lower hourly rates on platforms like Upwork, Fiverr, or Freelancer, while accounts registered in the US, Canada, or Europe get higher-paying clients.
+Someone claims to be from a country like Japan, Russia, China, or elsewhere. They say that freelancers in their region get lower hourly rates on platforms like Upwork or Fiverr. They also claim that accounts registered in the US, Canada, or Europe get higher-paying clients.
 
 What they ask you to do:
 

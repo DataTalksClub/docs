@@ -40,7 +40,7 @@ The lectures are pre-recorded:
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-youtube.png' | relative_url }}" alt="ML Zoomcamp YouTube playlist" width="80%">
 </div>
 
-The course is mostly self-paced; only a kickoff and occasional updates are streamed live. If new videos are added or workshops are scheduled, they are announced in Slack and Telegram.
+The course is mostly self-paced. Only a kickoff and occasional updates are streamed live. If new videos are added or workshops are scheduled, they are announced in Slack and Telegram.
 
 ## Course Platform
 
@@ -64,7 +64,7 @@ Use this channel for all ML-specific questions, homework discussion, and project
 
 ## Telegram
 
-ML announcements channel: [t.me/mlzoomcamp](https://t.me/mlzoomcamp). Announcement-only; questions are not monitored there.
+ML announcements channel: [t.me/mlzoomcamp](https://t.me/mlzoomcamp). It is announcement-only, so questions are not monitored there.
 
 <div align="center">
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-telegram.png' | relative_url }}" alt="ML Zoomcamp Telegram channel" width="80%">

@@ -81,10 +81,10 @@ A typical week:
 - Code along and experiment (3 to 5 hours).
 - Complete the homework (2 to 5 hours).
 
-Plan for 10 to 15 hours per week. Module 4 (model evaluation) is harder; allocate more time.
+Plan for 10 to 15 hours per week. Module 4 (model evaluation) is harder, so allocate more time.
 
 For the project blocks (midterm and capstone), plan 2 to 3 weeks of focused work each.
 
-## What changes between cohorts
+## Cohort changes
 
 For changes specific to the current cohort, see [What's New]({{ '/courses/ml-zoomcamp/whats-new/' | relative_url }}).

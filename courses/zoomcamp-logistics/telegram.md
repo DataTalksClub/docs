@@ -9,7 +9,9 @@ description: "How DataTalks.Club zoomcamp Telegram channels are used during a co
 
 # Telegram
 
-Each course has a Telegram channel. Telegram is for announcements:
+Each course has a Telegram channel. Telegram is for announcements.
+
+Common announcements include:
 
 - Course launch and pre-course stream links.
 - Live-session and workshop links.

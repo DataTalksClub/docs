@@ -8,11 +8,11 @@ has_children: false
 
 # Final Project
 
-For the cross-course logistics (attempts, deadlines, peer review, certification mechanics), see [Final Project (Zoomcamp Logistics)]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}).
+For the cross-course logistics, see [Final Project (Zoomcamp Logistics)]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}). That page covers attempts, deadlines, peer review, and certification mechanics.
 
 This page covers what is specific to the Data Engineering Zoomcamp project.
 
-## What you build
+## Project scope
 
 Build an end-to-end data pipeline with a dashboard using any dataset, tools, and cloud provider you choose.
 
@@ -41,7 +41,7 @@ The NYC taxi dataset is used throughout the course modules and homework. You can
 
 ## Dashboard
 
-Create a dashboard with at least two visualizations. You can use Looker Studio, Streamlit, Metabase, Superset, or any BI tool of your choice.
+Create a dashboard with at least two visualizations using any BI tool. Common choices include Looker Studio, Streamlit, Metabase, and Superset.
 
 If your dashboard is private, include a screenshot in the README. A live link is preferred where possible.
 
@@ -75,6 +75,8 @@ For when the certificate is issued and how to add it to LinkedIn, see [Certifica
 
 ## Past projects for inspiration
 
+Use these examples to calibrate scope:
+
 - [2025 cohort projects](https://courses.datatalks.club/de-zoomcamp-2025/projects)
 - [2024 cohort projects](https://courses.datatalks.club/de-zoomcamp-2024/projects)
 - [Community projects gallery](https://datatalksclub-projects.streamlit.app/)
@@ -82,6 +84,8 @@ For when the certificate is issued and how to add it to LinkedIn, see [Certifica
 - [2022 examples](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2022/project.md)
 
 ## Resources on GitHub
+
+Project resources:
 
 - [Project guidelines](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/projects)
 - [Full README and rubric](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/projects/README.md)

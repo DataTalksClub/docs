@@ -12,11 +12,13 @@ The course management platform is open source. Contributions are welcome from th
 
 ## GitHub Repository
 
+The platform code is public:
+
 - [Course Management Platform on GitHub](https://github.com/DataTalksClub/course-management-platform)
 
-## How to Contribute
+## Contributing
 
-### Reporting Issues
+## Reporting Issues
 
 If you find a bug or have a suggestion:
 
@@ -27,7 +29,9 @@ If you find a bug or have a suggestion:
    - Expected behavior
    - Screenshots if applicable
 
-### Areas to Contribute
+## Areas to Contribute
+
+Useful contribution areas include:
 
 - Bug fixes
 - Feature suggestions
@@ -41,4 +45,3 @@ For questions about contributing:
 
 - Join the [`#course-management-platform`](https://app.slack.com/client/T01ATQK62F8/C06EKF95CQ3) channel on Slack (see [Slack guide]({{ '/general/slack/' | relative_url }}))
 - Discuss your ideas before making major changes
-

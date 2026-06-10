@@ -19,6 +19,8 @@ When making a post, make sure you select the right channel:
 
 ## Rules
 
+Follow these rules:
+
 - Follow the template
 - Job must be relevant and specific ([see relevant jobs]({{ '/general/jobs/relevant-jobs/' | relative_url }}))
 - Clearly specify if you're an agency
@@ -28,9 +30,9 @@ When making a post, make sure you select the right channel:
 - Please limit your posts to one post per week
 - Please read our full [community guidelines](https://datatalks.club/slack/guidelines.html)
 
-We prefer job positions that are submitted by people who are actually hiring for their own teams. If you are hiring for your team, you probably do not have more than one job to post. If you are a recruiter, or for some reason you are hiring for many positions, select one and do not post more than once per week.
+We prefer job positions submitted by people who are hiring for their own teams. If you are hiring for your team, you probably do not have more than one job to post. If you are a recruiter, select one position and do not post more than once per week.
 
-Jobs without a link to the website where the job is listed look suspicious. Such postings may be deleted to keep the quality of job offers in our channel high and reduce the chances of fraudulent job postings.
+Jobs without a link to the website where the job is listed look suspicious. Such postings may be deleted to keep the quality of job offers high. This also reduces the chance of fraudulent job postings.
 
 ## Low-quality job postings
 
@@ -48,42 +50,45 @@ In order of preference:
 - It is okay to post software engineering roles, though full-stack engineering roles are borderline and could be deleted
 - Everything else, such as financial analysts for AI, AI text editors, and similar roles, can be deleted by moderators
 
-Additionally, if we determine that a job posting is low quality, we can delete it.
+We can delete a job posting if we determine that it is low quality.
 
 Users who repeatedly violate these guidelines and whose posts have been repeatedly removed will be banned. Their account will be deactivated.
 
-Users who violated these guidelines, whose posts were removed because of that, and who otherwise don't contribute anything to the discussion and to the community, will be removed.
+Users may be removed if they keep violating these guidelines and do not otherwise contribute to the community.
 
 ## Templates
 
-### For [`#jobs`](https://app.slack.com/client/T01ATQK62F8/C01BFQBRB5Z):
+## Template for [`#jobs`](https://app.slack.com/client/T01ATQK62F8/C01BFQBRB5Z)
 
-> &lt;Short description of who you want&gt;
->
-> **Company:** &lt;company name&gt;<br>
-> **Position:** &lt;position&gt;<br>
-> **Type:** full-time, part-time, freelance (optional)<br>
-> **Location:** &lt;City, Country&gt; or remote within &lt;Country/Countries&gt; or remote anywhere<br>
-> **Salary:** &lt;range&gt; (optional)
->
-> &lt;Link to the page with more information&gt;
->
-> &lt;Best way to contact you&gt;
->
-> &lt;Anything else you want to add&gt;
+Include:
+
+- Short description of who you want
+- Company
+- Position
+- Type
+- Location
+- Salary range
+- Link to the page with more information
+- Best way to contact you
+- Anything else you want to add
 
 How to use it
 
-- Replace the &lt;placeholders&gt; with your content
-- Feel free to skip the optional parts
-- Make sure it's not too long. If it's long, give the most important information in one message, and put the rest in the thread
-- Don't copy-paste the entire job description. Just share the link - it's sufficient in most cases
-- Try to keep the formatting (e.g. bold fonts)
-- Don't be sloppy and follow the punctuation rules:
-    - Use ":", not ";"
-    - There should be no space before ":" and a space after ":"
+Use the template like this:
 
-### For [`#job-search`](https://app.slack.com/client/T01ATQK62F8/C06A1QBFJ94):
+- Replace `<placeholders>` with your content
+- Feel free to skip the optional parts
+- Make sure it's not too long
+- Put the rest in a thread if the message is long
+- Don't copy-paste the entire job description
+- Share the link because it is sufficient in most cases
+- Try to keep the formatting
+- Use ":" rather than semicolon
+- Use no space before ":" and one space after ":"
+
+## Template for [`#job-search`](https://app.slack.com/client/T01ATQK62F8/C06A1QBFJ94)
+
+Guidance:
 
 - Currently no template
 - Make sure the message isn't too long (doesn't exceed one mobile screen)

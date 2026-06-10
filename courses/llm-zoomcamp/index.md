@@ -9,13 +9,13 @@ has_children: true
 
 # LLM Zoomcamp
 
-The LLM Zoomcamp is a free, hands-on course on building real-world applications with Large Language Models. Each cohort runs once a year and focuses on AI engineering: using hosted LLMs (OpenAI, Groq, and others) to build production-style RAG (retrieval-augmented generation) systems, evaluate them, and monitor them in production.
+The LLM Zoomcamp is a free, hands-on course on building real-world applications with Large Language Models. Each cohort runs once a year and focuses on AI engineering. You use hosted LLMs such as OpenAI and Groq to build, evaluate, and monitor production-style RAG systems.
 
-The 2026 edition runs from June through the end of summer. About 10 weeks: roughly two weeks for module 1 and one week each for the remaining modules, plus three weeks for the final project.
+The 2026 edition runs from June through the end of summer. It lasts about 10 weeks. Module 1 takes roughly two weeks. The remaining modules take about one week each. The final project takes three weeks.
 
 LLMs themselves are treated as black boxes here. The course is for people who want to build with LLMs rather than train them.
 
-## How to Use These Docs
+## Docs order
 
 Read in this order:
 

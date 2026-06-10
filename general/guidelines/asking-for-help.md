@@ -8,7 +8,7 @@ grand_parent: General
 
 # Asking for help
 
-If you get stuck, our Slack community is the right place to ask for help. Our members are generally happy to assist, but following these guidelines will make it much easier for others to help you effectively.
+If you get stuck, our Slack community is the right place to ask for help. Our members are generally happy to assist. Following these guidelines will make it much easier for others to help you effectively.
 
 ## Avoid meta questions
 
@@ -24,7 +24,9 @@ Examples of meta questions to avoid:
 
 ## Code problems and errors
 
-When something doesn't work and you need help figuring it out, we'll be happy to help. To get the best assistance quickly, please follow these recommendations:
+When something doesn't work and you need help figuring it out, we'll be happy to help.
+
+To get the best assistance quickly, follow these recommendations:
 
 - Use threads for errors. First describe the problem briefly in the main channel, then put the actual error message and code in a thread.
 - Copy-paste text, don't screenshot. Don't take screenshots of your code or terminal output. Instead, copy-paste the error message and code as text. Use code blocks (three backticks) to format your code. Text is searchable, easier to read, and allows helpers to copy your code if needed.
@@ -32,11 +34,11 @@ When something doesn't work and you need help figuring it out, we'll be happy to
 
 ## Don't tag instructors
 
-Don't tag the cohort lead or other instructors in your question. They have notifications enabled and will see questions in the course channel without being tagged. Tagging an instructor signals that the question is for them specifically, which makes other participants less likely to jump in - and other participants are often the fastest source of an answer. Posting in the course channel without a tag is the right move.
+Don't tag the cohort lead or other instructors in your question. They have notifications enabled and will see questions in the course channel without being tagged. Tagging an instructor signals that the question is for them specifically. That makes other participants less likely to jump in, even though they are often the fastest source of an answer. Posting in the course channel without a tag is the right move.
 
 ## Homework help
 
-We're generally happy to help with your homework, provided that you show genuine effort from your side and are transparent about the source of your question.
+We're generally happy to help with your homework. Show genuine effort from your side and be transparent about the source of your question.
 
 - Show your work. Don't just copy-paste an exercise and expect others to solve it for you. Share what you've tried, what you understand, and where you're stuck.
 - Be transparent. Clearly state that it's a homework assignment. This helps people provide appropriate guidance (teaching concepts rather than just giving answers).

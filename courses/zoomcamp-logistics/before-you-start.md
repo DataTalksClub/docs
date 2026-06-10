@@ -24,11 +24,21 @@ Before using any paid cloud, API, or AI tool:
 - Remove unused disks, databases, buckets, clusters, and API keys after a module or project is finished.
 - Ask in Slack before spending money if you are unsure whether a paid resource is required.
 
-The exact tools differ by course. For example, Data Engineering Zoomcamp uses GCP in the main flow, Machine Learning Zoomcamp uses AWS in later modules, and LLM Zoomcamp may use a few dollars of LLM API credits. Always check the course-specific environment setup page.
+The exact tools differ by course.
+
+For example:
+
+- Data Engineering Zoomcamp uses GCP in the main flow.
+- Machine Learning Zoomcamp uses AWS in later modules.
+- LLM Zoomcamp may use a few dollars of LLM API credits.
+
+Always check the course-specific environment setup page.
 
 ## Cohort schedule
 
-Each course runs once a year as a live cohort. Approximate windows:
+Each course runs once a year as a live cohort.
+
+Approximate windows:
 
 - Data Engineering Zoomcamp: starts in mid-January.
 - Machine Learning Zoomcamp: starts in mid-September.
@@ -41,16 +51,20 @@ For the exact start date, check the course GitHub page. Register there if you wa
 
 ## Format
 
-A live cohort runs for 7 to 10 weeks, depending on the course. The structure is:
+A live cohort runs for 7 to 10 weeks, depending on the course.
+
+The structure is:
 
 - Weekly modules with pre-recorded lectures, reading material, and a homework assignment per module.
 - Occasional live sessions, streamed on YouTube and recorded.
 - A final project at the end (some courses also have a midterm project).
 - Optional workshops between modules.
 
-Between cohorts you can watch all the videos and work through the materials self-paced, but homework forms close after each deadline and the leaderboard is tied to the live cohort. Certificates are only issued during the live project window.
+Between cohorts you can watch all the videos and work through the materials self-paced. Homework forms close after each deadline, and the leaderboard is tied to the live cohort. Certificates are only issued during the live project window.
 
 ## Time commitment
+
+Plan for:
 
 - 10 to 15 hours per week during the cohort.
 - 2 to 3 weeks of focused work for the final project.
@@ -64,16 +78,18 @@ Most courses assume:
 - Basic SQL.
 - Basic Git.
 
-The Data Engineering and Machine Learning Zoomcamps are designed for beginners in their respective fields, but they assume general programming literacy. The course-specific prerequisites pages have the exact list.
+The Data Engineering and Machine Learning Zoomcamps are designed for beginners in their respective fields. They still assume general programming literacy. The course-specific prerequisites pages have the exact list.
 
 ## Certification
 
-The certificate is project-based, not exam-based. Rules vary per course (one project for some, two of three for others), but in all cases you must:
+The certificate is project-based, not exam-based. Rules vary per course.
+
+In all cases, you must:
 
 - Submit the project (or projects) by the deadline.
 - Complete peer reviews of other students' projects.
 
-Both are required. Skipping the peer reviews means no certificate, even if your project itself passed.
+Both are required. Skipping the peer reviews means no certificate, even if your project passed.
 
 For details, see [Certification]({{ '/courses/zoomcamp-logistics/certification/' | relative_url }}) and the course-specific project page.
 

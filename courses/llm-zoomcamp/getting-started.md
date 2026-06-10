@@ -8,7 +8,7 @@ has_children: false
 
 # Getting Started
 
-For the cross-course onboarding (registration, account setup, calendar, newsletter), read [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}) first.
+For cross-course onboarding, read [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}) first. It covers registration, platform account setup, calendar, and newsletter updates.
 
 This page covers the LLM Zoomcamp specifics.
 
@@ -16,9 +16,9 @@ This page covers the LLM Zoomcamp specifics.
 
 [github.com/DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 
-Star it so you can find it later. All course materials are here, with each module having its own folder. Cohort-specific homework, deadlines, and launch-stream links are added under `cohorts/` when published.
+Star the repo so you can find it later. All course materials are there, and each module has its own folder. The course team adds cohort-specific homework, deadlines, and launch-stream links under `cohorts/` when published.
 
-If a lot of new participants star the repo around launch time, the repo can surface on GitHub Trending and pull more people into the cohort. It is the easiest way to support the course.
+When many new participants star the repo around launch time, GitHub may surface it on Trending. That pulls more people into the cohort.
 
 ## Join the LLM Zoomcamp Slack channel
 
@@ -45,11 +45,13 @@ For all the playlist links, see [Resources]({{ '/courses/llm-zoomcamp/resources/
 
 The [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html) collects answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
 
-There is also a community-built bot that answers questions using the FAQ and Slack history; the link is pinned in the course Slack channel.
+There is also a community-built bot that answers questions using the FAQ and Slack history. The link is saved in the course Slack channel.
 
 ## Pick your LLM provider
 
-The course uses OpenAI in its examples. You are free to use any provider for your own work and project. Practical options:
+The course uses OpenAI in its examples. You are free to use any provider for your own work and project.
+
+Practical options:
 
 - OpenAI: the default. A few dollars of credit covers the whole course.
 - Groq: free tier is generous enough to complete the course end to end.
@@ -59,7 +61,9 @@ For tradeoffs and the recommended setup, see [Environment Setup]({{ '/courses/ll
 
 ## Set up your environment
 
-The course uses Python with Docker for the supporting services (search engines, monitoring), and notebooks for most of the work. You will install:
+The course uses Python with Docker for the supporting services. Most lessons use notebooks.
+
+You will install:
 
 - Python (3.10 or newer).
 - Docker.
@@ -70,9 +74,11 @@ For the choices you need to make, see [Environment Setup]({{ '/courses/llm-zoomc
 
 ## Start Module 1
 
-Begin with [Module 1: RAG and Vector Search](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-rag). Module 1 covers what LLMs are, what RAG is, and walks you through a FAQ assistant with keyword search and vector search. For what each module covers, see [Curriculum]({{ '/courses/llm-zoomcamp/curriculum/' | relative_url }}).
+Begin with [Module 1: RAG and Vector Search](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-rag). Module 1 covers LLMs, RAG, and a FAQ assistant with keyword search and vector search. For the full module list, see [Curriculum]({{ '/courses/llm-zoomcamp/curriculum/' | relative_url }}).
 
-## Where to look next
+## Next pages
+
+Use these pages next:
 
 - [Prerequisites]({{ '/courses/llm-zoomcamp/prerequisites/' | relative_url }}) - what you need to know before starting.
 - [Curriculum]({{ '/courses/llm-zoomcamp/curriculum/' | relative_url }}) - the modules.

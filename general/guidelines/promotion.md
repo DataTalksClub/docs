@@ -8,9 +8,9 @@ grand_parent: General
 
 # Promotion
 
-Promoting your work is welcome - for both companies and individuals. We believe that sharing valuable content, events, and tools benefits our entire community. However, to keep our workspace organized and ensure promotions add value rather than create noise, we have specific channels and guidelines for this.
+Promoting your work is welcome for both companies and individuals. Sharing valuable content, events, and tools benefits our entire community. To keep our workspace organized, use the right channels and follow these guidelines.
 
-## Where to promote
+## Promotion channels
 
 We have four dedicated channels for promotions:
 
@@ -19,9 +19,11 @@ We have four dedicated channels for promotions:
 - [`#shameless-social`](https://app.slack.com/client/T01ATQK62F8/C02MS2K0ACF) - for all social links: Twitter, LinkedIn, etc.
 - [`#shameless-promotion`](https://app.slack.com/client/T01ATQK62F8/C01F53D373M) - for everything else
 
-If you want to share a job, use [`#jobs`](https://app.slack.com/client/T01ATQK62F8/C01BFQBRB5Z). If you're looking for a job, use [`#job-search`](https://app.slack.com/client/T01ATQK62F8/C06A1QBFJ94). See [job posting rules]({{ '/general/jobs/' | relative_url }}).
+If you want to share a job, use [`#jobs`](https://app.slack.com/client/T01ATQK62F8/C01BFQBRB5Z). If you're looking for a job, use [`#job-search`](https://app.slack.com/client/T01ATQK62F8/C06A1QBFJ94) and see [job posting rules]({{ '/general/jobs/' | relative_url }}).
 
 ## Rules
+
+Follow these rules:
 
 - Posts in the shameless channels should follow the template (see below)
 - Posting the same content in multiple channels is not allowed
@@ -35,7 +37,7 @@ If you want to share a job, use [`#jobs`](https://app.slack.com/client/T01ATQK62
 - Remove the previews, if there's more than one
 - Don't make your `#welcome` message a pitch. Introduce yourself as a person, not your tool or agency
 - The content must be in English
-- Think of the reader: why is it relevant for them? Why should they actually click on your link?
+- Think of the reader. Explain why it is relevant and why they should click the link.
 
 Messages that don't follow these rules will be deleted.
 
@@ -45,62 +47,59 @@ We ask that your posts in the shameless channels follow a template.
 
 How to use it:
 
-- Replace the &lt;placeholders&gt; with your content
-- Try to keep the formatting (e.g. bold fonts)
-- Don't be sloppy and follow the punctuation rules:
-    - Use ":", not ";"
-    - There should be no space before ":" and a space after ":"
+- Replace `<placeholders>` with your content
+- Try to keep the formatting
+- Follow the punctuation rules:
+- Use ":" rather than semicolon
+- Use no space before ":" and one space after ":"
 - Don't use "everyone" for the "who is it for" part
 
-### For [`#events`](https://app.slack.com/client/T01ATQK62F8/C01BDQVAS5P):
+## Template for [`#events`](https://app.slack.com/client/T01ATQK62F8/C01BDQVAS5P)
 
-> &lt;Title of the event&gt;
->
-> **Date:** &lt;date and time, don't forget the time zones&gt;<br>
-> **Who is it for:** &lt;data scientists, data engineers, ML engineers, managers, etc&gt;<br>
-> **Why is it relevant:** &lt;describe what's in there for the attendees&gt;<br>
-> **Price:** &lt;free or price&gt;
->
-> &lt;Anything else you'd want to add&gt;
->
-> **Registration link:** &lt;link&gt;
+Include:
+
+- Title of the event
+- Date with time zones
+- Who it is for
+- Why it is relevant
+- Price
+- Anything else you want to add
+- Registration link
 
 Example:
 
 <img src="{{ '/assets/images/guidelines/example-events.png' | relative_url }}" alt="Example of a good events post" width="80%">
 
-### For [`#interesting-content`](https://app.slack.com/client/T01ATQK62F8/C02N6N3S1FV):
+## Template for [`#interesting-content`](https://app.slack.com/client/T01ATQK62F8/C02N6N3S1FV)
 
-> &lt;Title of the content&gt; (&lt;content type: video, blog, podcast, etc&gt;)
->
-> **Who is it for:** &lt;data scientists, data engineers, ML engineers, managers, etc&gt;<br>
-> **Why is it relevant:** &lt;describe what's in there for the readers/listeners/etc&gt;
->
-> &lt;Anything else you'd want to add&gt;
->
-> &lt;link&gt;
+Include:
 
-### For [`#shameless-social`](https://app.slack.com/client/T01ATQK62F8/C02MS2K0ACF):
+- Title of the content
+- Content type
+- Who it is for
+- Why it is relevant
+- Anything else you want to add
+- Link
 
-> &lt;What is it?&gt;
->
-> **Who is it for:** &lt;data scientists, data engineers, ML engineers, managers, etc&gt;<br>
-> **Why is it relevant:** &lt;describe what's in there for the readers/listeners/etc&gt;
->
-> &lt;Anything else you'd want to add&gt;
->
-> &lt;link&gt;
+## Template for [`#shameless-social`](https://app.slack.com/client/T01ATQK62F8/C02MS2K0ACF)
 
-### For [`#shameless-promotion`](https://app.slack.com/client/T01ATQK62F8/C01F53D373M):
+Include:
 
-> &lt;What is it?&gt;
->
-> **Who is it for:** &lt;data scientists, data engineers, ML engineers, managers, etc&gt;<br>
-> **Why is it relevant:** &lt;describe what's in there for the readers/listeners/etc&gt;
->
-> &lt;Anything else you'd want to add&gt;
->
-> &lt;link&gt;
+- What it is
+- Who it is for
+- Why it is relevant
+- Anything else you want to add
+- Link
+
+## Template for [`#shameless-promotion`](https://app.slack.com/client/T01ATQK62F8/C01F53D373M)
+
+Include:
+
+- What it is
+- Who it is for
+- Why it is relevant
+- Anything else you want to add
+- Link
 
 Example:
 
@@ -108,7 +107,9 @@ Example:
 
 ## Surveys, product discovery, and feedback requests
 
-Messages that ask the community for feedback on your product, service, or tool are considered promotional and should be posted in [`#shameless-promotion`](https://app.slack.com/client/T01ATQK62F8/C01F53D373M). This includes:
+Messages that ask the community for feedback on your product, service, or tool are considered promotional. Post them in [`#shameless-promotion`](https://app.slack.com/client/T01ATQK62F8/C01F53D373M).
+
+This includes:
 
 - Surveys and research: any requests to fill out surveys or participate in research
 - Product feedback: requests for feedback on products, tools, or services
@@ -117,24 +118,24 @@ Messages that ask the community for feedback on your product, service, or tool a
 
 Examples of promotional feedback requests:
 
-- "We're conducting a survey to better understand how people use ____."
+- "We're conducting a survey to better understand how people use <topic>."
 - "We'd like to show you our product and get some feedback from you."
-- "We're working on ____ and would like to talk to data scientists and ML engineers to understand their pain points."
-- "We're working on a tool to do ____ and we're wondering if it's useful."
+- "We're working on <topic> and would like to talk to data scientists and ML engineers."
+- "We're working on a tool to do <task> and we're wondering if it's useful."
 
-User research, product discovery, and feedback requests are all considered promotional content and must follow the same guidelines as other promotions.
+User research, product discovery requests, and feedback requests are promotional content. They must follow the same guidelines as other promotions.
 
 ## Rules for vendors and company representatives
 
-If you represent a company and suggest using your services or products when answering questions in the community, you must clearly indicate your affiliation. Transparency is essential - community members deserve to know when recommendations come from someone with a commercial interest.
+If you represent a company and suggest using your services or products when answering questions, clearly indicate your affiliation. Transparency is essential. Community members deserve to know when recommendations come from someone with a commercial interest.
 
-For example, if someone asks about ML monitoring tools and you work for a company that provides such tools, you can recommend it, but you must clearly state your affiliation (e.g., "I work at [Company Name], and we offer [product] which might help...").
+For example, you can recommend your company's tool when someone asks about ML monitoring tools. State your affiliation clearly, such as "I work at [Company Name], and we offer [product] which might help..."
 
 ## Unsolicited promotions in DMs
 
 We do not welcome unsolicited promotional messages in DMs. Violating this rule will result in a ban.
 
-Unsolicited DMs feel invasive and spammy. They violate people's privacy and create a negative experience. If someone wants to learn about your product or service, they'll reach out to you after seeing your post in the appropriate channel.
+Promotional DMs feel invasive and spammy when they are unsolicited. They violate people's privacy and create a negative experience. People who are interested will reach out after seeing your post.
 
 What counts as unsolicited promotion:
 
@@ -145,11 +146,11 @@ What counts as unsolicited promotion:
 
 If you want to collaborate with someone, first engage with them in public channels before reaching out via DM. This ensures the interaction is welcome and builds on an existing relationship.
 
-If you receive unsolicited promotional DMs, please report it to Alexey Grigorev. We take this seriously and will take action to protect the community.
+If you receive unsolicited promotional DMs, report them to the DataTalks.Club team. We take this seriously and will take action to protect the community.
 
 ## Non-relevant promotions
 
-The promotional content must be relevant to our data science community. It should be related to data science, machine learning, data engineering, analytics, or closely related fields. If it's not relevant, don't post it.
+Promotional content must be relevant to our data science community. It should be related to data science, machine learning, or data engineering. Analytics and closely related fields are also fine. If it's not relevant, don't post it.
 
 Examples of content not relevant for this community:
 
@@ -161,4 +162,4 @@ Examples of content not relevant for this community:
 - Wellness apps unrelated to data science
 - General business services with no data science connection
 
-Such messages will be removed without a warning. Repeated posting of irrelevant content may result in a ban.
+Such messages will be removed without a warning. If you repeatedly post irrelevant content, you may be banned.

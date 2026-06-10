@@ -8,7 +8,17 @@ grand_parent: Zoomcamp Logistics
 
 # AI Usage Policy
 
-DataTalks.Club zoomcamps allow AI tools (ChatGPT, Claude, Gemini, Cursor, GitHub Copilot, and similar) for homework, projects, and peer reviews. This page explains what is expected and what is counterproductive.
+You can use AI tools for homework, projects, and peer reviews.
+
+Common tools include:
+
+- ChatGPT
+- Claude
+- Gemini
+- Cursor
+- GitHub Copilot
+
+Follow these rules to use AI productively.
 
 ## The policy
 
@@ -35,21 +45,25 @@ What we ask:
 - Document your AI usage in the README if AI shaped major decisions. This is good practice and helps reviewers.
 - The project should reflect your understanding, not just AI output. A project where everything was clearly generated without engagement is unlikely to teach you anything and will not strengthen your portfolio.
 
-We cannot enforce this. Some people will still ask AI to implement everything end to end. The "vibe coding" approach is technically possible. The cost is yours - you do not get the learning benefit, and the result is a portfolio piece you cannot defend in an interview.
+We cannot enforce this. Some people will still ask AI to implement everything end to end. The "vibe coding" approach is technically possible.
+
+The cost is yours. You do not get the learning benefit. You end up with a portfolio piece you cannot defend in an interview.
 
 ## In peer review
 
-AI is allowed for drafting reviews. But if you let the LLM do the whole thing without actually looking at the project, you lose the main reason peer review exists - reading other people's code is one of the best learning opportunities in the course.
+AI is allowed for drafting reviews. But do not let the LLM do the whole thing without looking at the project. Reading other people's code is one of the best learning opportunities in the course.
 
-If you suspect a project you are reviewing was AI-generated end to end and you do not feel like reproducing everything, do not feel obligated to. Score against the rubric (does the README cover the criteria, is the data warehouse used correctly, etc.) and move on. You do not have to grade harder because you suspect AI use - just review what is in front of you.
+If you suspect a project was AI-generated end to end, do not feel obligated to reproduce everything. Score against the rubric and move on. You do not have to grade harder because you suspect AI use. Review what is in front of you.
 
 ## Disclosing AI usage
 
-You are not required to disclose AI usage. There is no special form, no honor code to sign. We trust participants to use AI in a way that helps them learn.
+You are not required to disclose AI usage. There is no special form or honor code to sign. We trust participants to use AI in a way that helps them learn.
 
 If your project README mentions "I used Cursor and Claude during development", that is helpful for reviewers but not required.
 
-## What good AI usage looks like
+## Helpful AI usage
+
+Helpful AI usage includes:
 
 - Asking AI to explain a concept you found confusing in the lecture.
 - Using a coding assistant to write boilerplate (Dockerfiles, Terraform stubs, dbt model skeletons).
@@ -57,7 +71,9 @@ If your project README mentions "I used Cursor and Claude during development", t
 - Using AI to draft your README and then editing it.
 - Asking AI to suggest improvements to your project, then evaluating which suggestions to apply.
 
-## What counterproductive AI usage looks like
+## Counterproductive AI usage
+
+Counterproductive AI usage includes:
 
 - Asking AI to do the project end to end, then submitting without reading the code.
 - Asking AI to write your peer review without looking at the project.

@@ -23,25 +23,29 @@ Homework is still worth doing:
 
 ## Release
 
-Each module's homework is published when the module starts. You find it in the course's GitHub repo at `cohorts/<year>/<module>/homework.md` (path varies slightly per course).
+The course team adds homework when it opens each module. You find it in the course's GitHub repo at `cohorts/<year>/<module>/homework.md` (path varies slightly per course).
 
 The submission form on the [course platform](https://courses.datatalks.club/) opens when the homework is officially released. Until then, even if you can read the questions in the repo, the form is not yet active.
 
 ## Deadlines
 
-- Strict deadlines, announced on the course platform and in Slack and Telegram.
+Deadlines work like this:
+
+- Strict deadlines, announced on the course platform, Slack, and Telegram.
 - Typically one week to ten days after release.
 - Exact deadline (with time and time zone) is on the course platform.
 - Most platform deadlines are shown in your local time zone.
 
 ## After the deadline
 
+After the deadline:
+
 - The course team closes the submission form. Submitting is no longer possible after that.
 - You can no longer submit for leaderboard points.
 - Existing submissions stay.
 - You can still do the homework on your own and push it to your repo.
 
-There are no individual extensions. In rare cases (server outage, bug in the questions) the cohort lead may extend the deadline for everyone, announced in Slack.
+There are no individual extensions. In rare cases, the cohort lead may extend the deadline for everyone. This can happen after a server outage or a bug in the questions. The extension is announced in Slack.
 
 ## Submission
 
@@ -53,9 +57,11 @@ The form on the course platform asks for:
 
 For the platform UI, see [Course Management Platform: Homework]({{ '/courses/course-management-platform/homework/' | relative_url }}).
 
-## What goes in your repository
+## Repository contents
 
-The form mostly checks your answers, not your code. Your repo should:
+The form mostly checks your answers, not your code.
+
+Your repo should:
 
 - Be public so peer reviewers and graders can see it.
 - Contain the code or queries you used to arrive at your answers.
@@ -66,21 +72,25 @@ Whether to include screenshots, SQL queries, or notebooks depends on the questio
 
 You can use a single repository for all homework (one folder per module) or one repository per module. Either works.
 
-## When your answer does not match
+## Answer mismatch
 
-If your numerical answer is close to one of the options, pick the closest. Small differences usually come from:
+If your numerical answer is close to one of the options, pick the closest.
+
+Small differences usually come from:
 
 - Slightly different filtering (inclusive vs exclusive date boundaries).
 - Different versions of the dataset.
 - Floating-point or rounding differences.
 
-If your answer is far from any option, double-check the question (they often specify a precise filter) and the dataset version. Ask in the course Slack thread if you are stuck. Other students often have the same issue and the cohort lead may clarify.
+If your answer is far from any option, double-check the question and the dataset version. Homework questions often specify a precise filter. Ask in the course Slack thread if you are stuck. Other students often have the same issue, and the cohort lead may clarify.
 
 ## Solutions
 
-Solutions are usually published in the course repository after the deadline closes, under `cohorts/<year>/<module>/`. If you do not see them, ask in Slack - they may not be published yet, or community contributions to the FAQ have the breakdown.
+Solutions are usually published in the course repository after the deadline closes, under `cohorts/<year>/<module>/`. If you do not see them, ask in Slack. They may not be published yet, or community contributions to the FAQ may have the breakdown.
 
 ## Quizzes vs free-form answers
+
+Homework format varies:
 
 - Multiple-choice quizzes in some courses.
 - Free-form answers in others.
@@ -88,7 +98,7 @@ Solutions are usually published in the course repository after the deadline clos
 
 The format is described in each module's homework page in the repo. All formats use the same submission flow on the course platform.
 
-## Where to keep your homework code
+## Homework code location
 
 Create a separate personal repo for your homework code. Do not work directly inside the course repository.
 

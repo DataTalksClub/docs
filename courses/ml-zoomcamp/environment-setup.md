@@ -22,7 +22,7 @@ Plain `pip + venv` works too. The choice does not affect the course content.
 
 The course uses Jupyter notebooks throughout. You can run them locally, in Google Colab, or in any Jupyter-compatible environment.
 
-VS Code with the Python and Jupyter extensions is a popular choice and gives you both notebook and full IDE features.
+VS Code with the Python and Jupyter extensions is a popular choice. It gives you notebook support and full IDE features.
 
 ## Cloud (AWS)
 
@@ -34,18 +34,18 @@ You can complete the course without AWS:
 - Module 9 (serverless) can be done with the free Lambda tier or skipped.
 - Module 10 (Kubernetes) can be done locally with `kind` or `minikube` instead of EKS.
 
-For your project, you can use any cloud provider (AWS, GCP, Azure) or stay local. Document your choices for peer reviewers.
+For your project, you can use any cloud provider or stay local. AWS, GCP, and Azure all work. Document your choices for peer reviewers.
 
 ## AI tools (Cursor, ChatGPT, etc.)
 
-The course welcomes AI tools like Cursor, ChatGPT, and Claude. You will get more out of the course if you understand the concepts well enough to debug AI-generated code, maintain control over your implementations, and build custom solutions when AI tools fall short.
+The course welcomes AI tools like Cursor, ChatGPT, and Claude. You will get more out of the course if you understand the concepts well enough to debug AI-generated code. Keep control over your implementations and build custom solutions when AI tools fall short.
 
 ## Operating system notes
 
 Mac (Apple Silicon, M1/M2/M3):
 
 - Most ML libraries now have native ARM builds.
-- Docker Desktop sometimes shows "Malware Blocked" warnings on installation; allow it in System Settings if needed.
+- Docker Desktop sometimes shows "Malware Blocked" warnings on installation. Allow it in System Settings if needed.
 
 Windows:
 

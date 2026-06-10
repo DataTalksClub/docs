@@ -8,7 +8,7 @@ has_children: false
 
 # Curriculum
 
-The LLM Zoomcamp covers the core flow for building LLM applications: RAG, agents, vector search, orchestration, evaluation, monitoring, best practices, and a capstone project. Each module has video lectures, code, and usually a homework assignment. The course is built around practical assistants that start from simple RAG and grow into more production-style applications.
+The LLM Zoomcamp covers the core flow for building LLM applications. You work with RAG, agents, vector search, and orchestration. You also work with evaluation and monitoring. The course covers production practices and a capstone project. Each module has video lectures, code, and usually a homework assignment.
 
 For the canonical curriculum (videos, code, exact homework questions), see the [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp).
 
@@ -40,7 +40,7 @@ For the canonical curriculum (videos, code, exact homework questions), see the [
 - RAG workflows, agentic workflows, and multi-agent systems.
 - Production considerations: cost, security, observability, and when to use each approach.
 
-[Workshop: Data Ingestion](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2026/workshops/dlt.md)
+[Data Ingestion Workshop](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2026/workshops/dlt.md)
 
 - Pulling LLM traces from a monitoring service.
 - Preparing trace data for analytics with dlt.
@@ -87,9 +87,11 @@ For the canonical curriculum (videos, code, exact homework questions), see the [
 - Implement retrieval, answer generation, evaluation, a user-facing interface, and monitoring or feedback loops.
 - See the [Project page]({{ '/courses/llm-zoomcamp/project/' | relative_url }}).
 
-## What is not covered
+## Out of scope
 
-To keep the course focused, several adjacent topics are intentionally out of scope. They are covered elsewhere or planned for future cohorts:
+To keep the course focused, several adjacent topics are intentionally out of scope.
+
+They are covered elsewhere or planned for future cohorts:
 
 - Open-source LLMs (running, deploying, fine-tuning).
 - MCP and deeper agentic frameworks: the course covers agents from first principles, but not every current framework.
@@ -107,6 +109,6 @@ Plan for around 10 hours per week. Module 1 takes longer (two weeks), and the ve
 
 For the capstone project, plan two weeks of focused work plus one week of peer review.
 
-## What changes between cohorts
+## Cohort changes
 
 For changes specific to the current cohort, see [What's New]({{ '/courses/llm-zoomcamp/whats-new/' | relative_url }}).

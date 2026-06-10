@@ -17,4 +17,4 @@ If you register, you may receive:
 - Links to the course platform, repository, Slack, and announcements.
 - Important deadline or project reminders.
 
-The [DataTalks.Club newsletter](https://datatalks.club/newsletter.html) goes out weekly with course and community updates. If you stop receiving it, you may have unsubscribed before; re-subscribe from the newsletter page.
+The [DataTalks.Club newsletter](https://datatalks.club/newsletter.html) goes out weekly with course and community updates. If you stop receiving it, you may have unsubscribed before. Re-subscribe from the newsletter page.

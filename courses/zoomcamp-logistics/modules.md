@@ -8,31 +8,35 @@ grand_parent: Zoomcamp Logistics
 
 # Working Through the Modules
 
-How a zoomcamp's content rolls out during a live cohort, where to find the videos, and what flexibility you have in pacing. For the technical material (what each module teaches, how to install tools), see the course-specific pages.
+Use this page to understand how modules are released during a live cohort. It also covers where to find videos and how much pacing flexibility you have. See the course-specific pages for technical material.
 
 ## Module cadence
 
-Modules are released on a fixed schedule, typically one per week during a live cohort. Each module includes:
+Modules are released on a fixed schedule, typically one per week during a live cohort.
+
+Each module includes:
 
 - Pre-recorded lecture videos in the course's YouTube playlist.
 - Reading material and code in the course's GitHub repository.
 - A homework assignment due at the end of the module's window.
 - For some courses, a live session that walks through the module or answers questions.
 
-## Where to find this cohort's videos
+## Cohort videos
 
 Two sources to be aware of:
 
 - Main course playlist: pre-recorded module videos. Reused across cohorts unless a module was rewritten.
 - Cohort-specific playlist (for example, "Data Engineering Zoomcamp 2026"): live session recordings and any new videos released during the current cohort.
 
-If the cohort-specific playlist only has a few videos at the start, that is expected - new live recordings are added each week. The pre-recorded module material is in the main playlist.
+If the cohort-specific playlist only has a few videos at the start, that is expected. New live recordings are added each week. The pre-recorded module material is in the main playlist.
 
-The course's GitHub repository has the canonical link to the right playlist for each module - check the README in each module folder.
+The course's GitHub repository has the canonical link to the right playlist for each module. Check the README in each module folder.
 
 ## Previous-cohort videos
 
-Most modules use the same video set across cohorts. Differences between cohorts:
+Most modules use the same video set across cohorts.
+
+Differences between cohorts:
 
 - The cohort folder under `cohorts/<year>/` has the homework and any cohort-specific changes.
 - The course management platform has the current schedule and deadlines.
@@ -58,21 +62,25 @@ For catching up after joining late, see [Joining Mid-Cohort]({{ '/courses/zoomca
 
 ## Tracking the cohort's pace
 
+Use these channels to track the current cohort:
+
 - Course platform: shows the active module and upcoming deadlines.
-- Slack and Telegram: announcements when each module starts.
+- Slack and Telegram: the course team announces each module there.
 
 ## Modules vs project
 
-Strictly for certification:
+For certification, the requirements are simple:
 
 - Required: project (or required projects) and peer reviews.
 - Optional: homework. Recommended for understanding the material.
 
-The project draws on material from many modules. Skipping modules makes the project harder. Treat the modules as your preparation for the project.
+The project draws on material from many modules, so skipping modules makes the project harder. Treat the modules as your preparation for the project.
 
 ## Self-paced after the cohort
 
-Materials remain available. What changes:
+Materials remain available.
+
+What changes:
 
 - Homework submission forms close. You can do the homework but cannot submit for points.
 - The leaderboard freezes for that cohort.

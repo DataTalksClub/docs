@@ -12,7 +12,7 @@ Our community is built on mutual respect, kindness, and a shared passion for dat
 
 While we don't have our own separate code of conduct, we follow the [Python Software Foundation's Code of Conduct](https://www.python.org/psf/conduct/). Please read the "Inappropriate Behavior" section to understand what we consider unacceptable.
 
-In addition to the behaviors outlined in the Python Software Foundation's code, here are specific examples of inappropriate behavior in our community:
+In addition to the behaviors outlined in the Python Software Foundation's code, these examples are inappropriate in our community:
 
 - Judging the question or the person asking the question ("this is a stupid question and everyone who can read docs knows the answer")
 - Soliciting any kind of personal information (such as marital status, sexual orientation, phone number, address, income, etc)

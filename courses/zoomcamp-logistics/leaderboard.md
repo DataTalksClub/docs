@@ -26,7 +26,9 @@ Exact values vary slightly per course, but the categories are the same:
 
 See your course's leaderboard page on the course platform for the exact point breakdown.
 
-## When points appear
+## Point timing
+
+Points usually appear this way:
 
 - Homework: immediately after submission, after the form auto-grades.
 - Learning in public: usually within a day of submission, after moderation.
@@ -34,18 +36,20 @@ See your course's leaderboard page on the course platform for the exact point br
 - Project: after the peer-review window closes and scores are aggregated.
 - Peer reviews: as you complete each one.
 
-## When points are missing
+## Missing points
 
 Common reasons:
 
 - The homework was not actually submitted. Check your submission history on the course platform.
 - A learning-in-public link did not pass moderation (most common: link is not your own post, or not about the course).
 
-If you believe your points are wrong, post in the course Slack channel with the homework or link details so the cohort lead can check.
+If you believe your points are wrong, post in the course Slack channel. Include the homework or link details so the cohort lead can check.
 
 ## Anonymous by default
 
-Your leaderboard entry uses an auto-generated name by default. To make yourself visible:
+Your leaderboard entry uses an auto-generated name by default.
+
+To make yourself visible:
 
 - Use your real name.
 - Add links to LinkedIn, GitHub, or your personal site.

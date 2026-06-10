@@ -9,9 +9,9 @@ has_children: true
 
 # Machine Learning Zoomcamp
 
-Welcome to the 5th edition of the Machine Learning Zoomcamp, a completely free, hands-on course that attracts thousands of participants each year.
+Welcome to the 5th edition of the Machine Learning Zoomcamp. It is a completely free, hands-on course that attracts thousands of participants each year.
 
-## How to Use These Docs
+## Docs order
 
 Read in this order:
 

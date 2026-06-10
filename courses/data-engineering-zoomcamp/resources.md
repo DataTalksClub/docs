@@ -58,14 +58,14 @@ Main playlist (pre-recorded lectures, the core curriculum):
 
 - [Data Engineering Zoomcamp main playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 
-Cohort playlists (live kickoffs, office hours, homework reviews, guest lectures, replaced/outdated content):
+Cohort playlists include live sessions and extra material:
 
 - [2025 cohort](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJZdpLpRHp7dg6EOx828q6y)
 - [2024 cohort](https://www.youtube.com/playlist?list=PL3MmuxUbc_hKihpnNQ9qtTmWYy26bPrSb)
 - [2023 cohort](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJjEePXIdE-LVUx_1ZZjYGW)
 - [2022 cohort](https://www.youtube.com/playlist?list=PL3MmuxUbc_hKVX8VnwWCPaWlIHf1qmg8s)
 
-Cohort playlists are supplementary. Focus on the main playlist first; explore the cohort playlist for extra insights.
+Cohort playlists are supplementary, so focus on the main playlist first. Explore the cohort playlist for extra insights.
 
 ## Course Platform
 
@@ -83,7 +83,7 @@ Use this channel for all DE-specific questions, homework discussion, and project
 
 ## Telegram
 
-DE announcements channel: [t.me/dezoomcamp](https://t.me/dezoomcamp). Announcement-only; questions are not monitored there.
+DE announcements channel: [t.me/dezoomcamp](https://t.me/dezoomcamp). It is announcement-only, so questions are not monitored there.
 
 <img src="{{ '/assets/images/data-engineering-zoomcamp/telegram.png' | relative_url }}" alt="Telegram channel" width="80%">
 
@@ -116,4 +116,4 @@ Data format:
 - Historical data (2019-2021): CSV files in the [DataTalksClub mirror repository](https://github.com/DataTalksClub/nyc-tlc-data). The course uses these for some modules to demonstrate CSV-to-Parquet conversion.
 - Recent data (2025+): Parquet files directly from the [official NYC TLC Trip Record Data page](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
-If you get a 403 Forbidden error when wgetting from the original `s3.amazonaws.com/nyc-tlc/...` URLs, the source has been retroactively changed by NYC TLC. Use the DataTalksClub mirror or the official NYC TLC parquet files instead.
+If you get a 403 Forbidden error when using the original `s3.amazonaws.com/nyc-tlc/...` URLs, NYC TLC has changed the source. Use the DataTalksClub mirror or the official NYC TLC parquet files instead.

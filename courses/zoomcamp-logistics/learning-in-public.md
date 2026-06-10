@@ -14,9 +14,9 @@ For platform mechanics (link submission UI, link limits per submission type, mis
 
 For where learning-in-public points fit on the leaderboard, see [Leaderboard]({{ '/courses/zoomcamp-logistics/leaderboard/' | relative_url }}).
 
-## Why share publicly
+## Benefits
 
-As Alexey Grigorev explains in his [Substack post](https://alexeyondata.substack.com/p/benefits-of-learning-in-public), sharing publicly brings:
+Sharing publicly helps you in several ways:
 
 - Reinforcement: explaining to others helps you internalize the material.
 - Accountability: public commitment keeps you consistent.
@@ -25,9 +25,9 @@ As Alexey Grigorev explains in his [Substack post](https://alexeyondata.substack
 - Portfolio: build a visible track record.
 - Opportunities: jobs and collaborations can find you.
 
-Past graduates have used learning in public to land roles at major companies and to negotiate raises. One Data Engineering Zoomcamp participant, Michael, shared his homework on LinkedIn for learning-in-public credit and the result was an 11% raise.
+Past graduates have used learning in public to land roles at major companies and to negotiate raises. One Data Engineering Zoomcamp participant shared homework on LinkedIn for learning-in-public credit and later got an 11% raise.
 
-## How it works
+## Process
 
 After completing a unit, module, homework, or project:
 
@@ -38,7 +38,9 @@ After completing a unit, module, homework, or project:
 
 Each accepted link earns 1 leaderboard point.
 
-## What to share
+## Post ideas
+
+Good post topics include:
 
 - Your project work: architecture, dashboard, deployed model, screenshots.
 - Insights from each module: what you learned, how it changed your thinking.
@@ -80,7 +82,9 @@ Each course's homework folder includes example posts you can use as starting tem
 
 ## Real examples
 
-Actual learning-in-public posts from Alexey's Agents Crash Course (different course, same approach):
+These examples are from an Agents Crash Course. It is a different course, but the same approach.
+
+Example posts:
 
 - Day 1: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7376554326648995840/) and [X](https://x.com/Al_Grigor/status/1970790075064570049)
 - Day 2: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7376956251169247232/) and [X](https://x.com/Al_Grigor/status/1971136756071399871)

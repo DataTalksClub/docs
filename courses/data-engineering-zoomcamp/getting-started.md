@@ -8,7 +8,7 @@ has_children: false
 
 # Getting Started
 
-For the cross-course onboarding (registration, account setup, calendar, newsletter), read [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}) first.
+For the cross-course onboarding, read [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}) first. It covers registration, account setup, calendar, and newsletter updates.
 
 This page covers the Data Engineering Zoomcamp specifics.
 
@@ -16,7 +16,7 @@ This page covers the Data Engineering Zoomcamp specifics.
 
 [github.com/DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
-Star it so you can find it later. All course material is here. See [Resources]({{ '/courses/data-engineering-zoomcamp/resources/' | relative_url }}) for the repo structure.
+Star the repo so you can find it later and access all course material. See [Resources]({{ '/courses/data-engineering-zoomcamp/resources/' | relative_url }}) for the repo structure.
 
 ## Join the DE Slack channel
 
@@ -34,7 +34,7 @@ Telegram announcements are auto-reposted to Slack, so you do not strictly need i
 
 ## Subscribe to YouTube
 
-Pre-recorded module lectures and live session recordings live on the [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub). For all DE playlists (main + cohort-specific), see [Resources]({{ '/courses/data-engineering-zoomcamp/resources/' | relative_url }}).
+The [DataTalks.Club YouTube channel](https://www.youtube.com/@DataTalksClub) has pre-recorded module lectures and live session recordings. For all DE playlists, see [Resources]({{ '/courses/data-engineering-zoomcamp/resources/' | relative_url }}).
 
 ## Set up your environment
 
@@ -48,7 +48,9 @@ Begin with [Docker, Postgres, and Terraform](https://github.com/DataTalksClub/da
 
 For what each module covers, see [Curriculum]({{ '/courses/data-engineering-zoomcamp/curriculum/' | relative_url }}).
 
-## Where to look next
+## Next pages
+
+Useful next pages:
 
 - [Prerequisites]({{ '/courses/data-engineering-zoomcamp/prerequisites/' | relative_url }}) - what you need to know before starting.
 - [Curriculum]({{ '/courses/data-engineering-zoomcamp/curriculum/' | relative_url }}) - the modules.

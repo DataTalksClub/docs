@@ -8,9 +8,9 @@ grand_parent: Zoomcamp Logistics
 
 # Workshops
 
-Workshops are one-time deep-dive sessions on a specific tool or topic, usually delivered by a guest instructor or a partner company. They are scheduled between regular modules and have their own homework.
+Workshops are one-time deep-dive sessions on a specific tool or topic. A guest instructor or a partner company usually delivers them. They are scheduled between regular modules and have their own homework.
 
-Examples from past cohorts include the "Ingestion with dlt" workshop in the Data Engineering Zoomcamp, and tool-specific workshops on Mage, Kestra, and Bruin.
+One example from past cohorts is the "Ingestion with dlt" workshop in the Data Engineering Zoomcamp.
 
 ## Schedule
 
@@ -20,9 +20,13 @@ Workshops are inserted between modules in the cohort schedule. The exact week va
 
 Workshops are part of the cohort but, like homework, they are not required for certification. They earn leaderboard points if you submit the workshop homework on time.
 
-You may want to do them anyway because they cover real-world tools that are useful but not in the main curriculum, the workshop homework counts toward leaderboard points, and they are often a good portfolio addition.
+They are still worth doing:
 
-## Where to find the content
+- They cover real-world tools that are useful but not in the main curriculum.
+- Workshop homework counts toward leaderboard points.
+- Workshop work is often a good portfolio addition.
+
+## Workshop materials
 
 Each workshop has its own folder in the course repository, similar to a module. Look for a folder named after the workshop (for example, `workshops/dlt/`) under the cohort folder.
 

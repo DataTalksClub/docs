@@ -27,7 +27,7 @@ For the canonical curriculum (videos, code, exact homework questions), see the [
 - Building data pipelines that schedule, retry, and backfill.
 - Loading data to Google Cloud Storage and BigQuery.
 
-Workshop: Data Ingestion with dlt
+Data Ingestion with dlt Workshop
 
 - Slotted between modules. Hands-on workshop on the dlt library for ingestion.
 - Has its own homework. See [Workshops]({{ '/courses/zoomcamp-logistics/workshops/' | relative_url }}) for the workshop logistics.
@@ -63,15 +63,17 @@ Workshop: Data Ingestion with dlt
 - Build an end-to-end pipeline of your choice.
 - See the [Project page]({{ '/courses/data-engineering-zoomcamp/project/' | relative_url }}).
 
-## What changes between cohorts
+## Cohort changes
 
-Most modules are stable across cohorts. Notable past changes:
+Most modules are stable across cohorts.
+
+Notable past changes:
 
 - 2023: Mage replaced Prefect as the workflow orchestrator.
 - 2025: Kestra replaced Mage.
-- 2026: New workshop on dlt continues; some modules use updated tooling.
+- 2026: New workshop on dlt continues. Some modules use updated tooling.
 
-If a video references a tool you do not see in the current code, check the cohort folder ([cohorts/2026/](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2026)) for the current version.
+If a video references a tool you do not see in the current code, check the cohort folder. The [cohorts/2026/](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2026) folder has the current version.
 
 ## Pace
 

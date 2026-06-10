@@ -49,7 +49,7 @@ For how live sessions work in general (timing, where to watch, recordings), see 
 
 ## Course Platform
 
-The [LLM Zoomcamp 2026 course page](https://courses.datatalks.club/llm-zoomcamp-2026/) on the course management platform is where you submit homework, track your progress, and submit your project.
+Use the [LLM Zoomcamp 2026 course page](https://courses.datatalks.club/llm-zoomcamp-2026/) on the course management platform. There you submit homework, track progress, and submit your project.
 
 For the platform UI in detail, see [Course Management Platform]({{ '/courses/course-management-platform/' | relative_url }}).
 
@@ -59,11 +59,11 @@ To register for the live cohort, use the [LLM Zoomcamp signup form](https://airt
 
 LLM-specific channel: [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J) in the [DataTalks.Club Slack workspace](https://datatalks.club/slack.html).
 
-Use this channel for all LLM-specific questions, homework discussion, and project Q+A. Use threads when replying. Don't tag instructors. For all DTC Slack channels, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
+Use this channel for LLM-specific questions, homework discussion, and project Q+A. Use threads when replying. Do not tag instructors. For all DTC Slack channels, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## Telegram
 
-LLM announcements channel: [t.me/llm_zoomcamp](https://t.me/llm_zoomcamp). Announcement-only; questions are not monitored there. Telegram messages are auto-reposted to Slack.
+Use [t.me/llm_zoomcamp](https://t.me/llm_zoomcamp) for LLM announcements. It is announcement-only, so questions are not monitored there and Telegram messages are auto-reposted to Slack.
 
 ## Newsletter
 

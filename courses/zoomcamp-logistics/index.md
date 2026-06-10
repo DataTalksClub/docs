@@ -9,11 +9,13 @@ description: "How DataTalks.Club zoomcamps work - schedule, joining, modules, pr
 
 # Zoomcamp Logistics
 
-How DataTalks.Club zoomcamps work end to end. The mechanics described here are shared across all our zoomcamps (Data Engineering, Machine Learning, MLOps, LLM, AI Dev Tools, Stocks Analytics).
+How DataTalks.Club zoomcamps work end to end. The mechanics described here are shared across all our zoomcamps.
 
 If you are looking for a specific answer, see [Quick Lookup]({{ '/courses/zoomcamp-logistics/quick-lookup/' | relative_url }}).
 
 ## Sections
+
+Use these sections to find the right logistics page:
 
 - [Start Here]({{ '/courses/zoomcamp-logistics/start-here/' | relative_url }}) - cost, schedule, registration, and joining mid-cohort.
 - [Communication]({{ '/courses/zoomcamp-logistics/communication/' | relative_url }}) - Slack, Telegram, YouTube, email, live sessions, and asking questions.

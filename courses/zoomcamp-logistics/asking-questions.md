@@ -9,7 +9,7 @@ description: "How to ask for help in DataTalks.Club zoomcamp Slack channels."
 
 # Asking Questions
 
-If you have a course question, ask it in the course-specific Slack channel. Use the course FAQ first, then post in Slack if you still need help. Do not ask technical questions in Telegram; Telegram is for announcements.
+If you have a course question, ask it in the course-specific Slack channel. Use the course FAQ first, then post in Slack if you still need help. Do not ask technical questions in Telegram. Telegram is for announcements.
 
 Course channels and FAQs:
 
@@ -24,7 +24,7 @@ For Slack norms that apply across all DataTalks.Club channels, see [Community Gu
 
 ## Before Asking
 
-Try to narrow the problem first. You do not need to solve it alone, but a few minutes of investigation makes it much easier for others to help.
+Try to narrow the problem first. You do not need to solve it alone. A few minutes of investigation makes it much easier for others to help.
 
 1. Read the error message carefully. Check whether it names a file, line number, missing dependency, missing environment variable, port conflict, or permission problem.
 2. Check the course FAQ and the module README.
@@ -36,7 +36,7 @@ Try to narrow the problem first. You do not need to solve it alone, but a few mi
 
 It is normal for technical problems to take time. If you are stuck after trying the steps above, ask in Slack.
 
-## How to Ask in Slack
+## Asking in Slack
 
 Start a new message in the course channel with a short problem summary. Then put details in a thread so the main channel stays readable.
 

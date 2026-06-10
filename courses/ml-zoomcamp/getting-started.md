@@ -8,7 +8,7 @@ has_children: false
 
 # Getting Started
 
-For the cross-course onboarding (registration, account setup, calendar, newsletter), read [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}) first.
+For the cross-course onboarding, read [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}) first. It covers registration, account setup, calendar, and newsletter updates.
 
 This page covers the Machine Learning Zoomcamp specifics.
 
@@ -46,7 +46,7 @@ This is your primary support and Q+A channel for the course.
 
 ## Subscribe to YouTube
 
-The lectures are pre-recorded and available in the [ML Zoomcamp YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR). The course is largely self-paced; live sessions are limited to a kickoff and occasional updates.
+The lectures are pre-recorded and available in the [ML Zoomcamp YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR). The course is largely self-paced. Live sessions are limited to a kickoff and occasional updates.
 
 <div align="center">
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-youtube.png' | relative_url }}" alt="ML Zoomcamp YouTube playlist" width="80%">
@@ -68,7 +68,9 @@ The course uses Python with scikit-learn, FastAPI for deployment, and AWS for cl
 
 Begin with [Module 1: Introduction](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro). For what each module covers, see [Curriculum]({{ '/courses/ml-zoomcamp/curriculum/' | relative_url }}).
 
-## Where to look next
+## Next pages
+
+Useful next pages:
 
 - [Prerequisites]({{ '/courses/ml-zoomcamp/prerequisites/' | relative_url }}) - what you need to know before starting.
 - [Curriculum]({{ '/courses/ml-zoomcamp/curriculum/' | relative_url }}) - the modules.

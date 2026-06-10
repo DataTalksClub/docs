@@ -19,7 +19,7 @@ See the [GitHub repository](https://github.com/DataTalksClub/data-engineering-zo
 
 No previous data engineering experience required. Join thousands of students learning data engineering together.
 
-## How to Use These Docs
+## Docs order
 
 Read in this order:
 

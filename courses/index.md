@@ -14,6 +14,8 @@ Welcome to the DataTalks.Club courses section. Here you'll find comprehensive no
 
 ## Available Courses
 
+Current course pages:
+
 - [Machine Learning Zoomcamp]({{ '/courses/ml-zoomcamp/' | relative_url }}) - Learn ML engineering with deployment focus
 - [Data Engineering Zoomcamp]({{ '/courses/data-engineering-zoomcamp/' | relative_url }}) - Complete data engineering bootcamp
 - MLOps Zoomcamp - Production ML systems and best practices

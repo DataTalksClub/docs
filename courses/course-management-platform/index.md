@@ -24,7 +24,7 @@ The platform hosts multiple zoomcamps:
 - MLOps Zoomcamp - Advanced ML Engineering course
 - LLM Zoomcamp - AI Engineering course
 
-## Need Help?
+## Getting Help
 
 If you encounter any issues with the platform:
 

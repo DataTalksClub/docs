@@ -9,7 +9,9 @@ description: "Where DataTalks.Club zoomcamp announcements, questions, live strea
 
 # Communication
 
-Zoomcamps use several channels, and each one has a different purpose. The short version:
+Zoomcamps use several channels, and each one has a different purpose.
+
+The short version:
 
 - Slack is for questions, discussion, help, and peer support.
 - Telegram is for announcements. Do not use Telegram for questions.

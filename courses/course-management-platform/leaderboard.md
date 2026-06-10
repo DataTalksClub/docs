@@ -10,7 +10,7 @@ has_children: false
 
 This page covers the platform UI for the leaderboard. For what counts toward points and the misuse policy, see [Leaderboard and Learning in Public]({{ '/courses/zoomcamp-logistics/leaderboard/' | relative_url }}).
 
-## Where to find the leaderboard
+## Leaderboard page
 
 Each cohort has its own leaderboard page on the platform.
 
@@ -21,7 +21,7 @@ Direct links per cohort:
 - [ML Zoomcamp 2025 leaderboard](https://courses.datatalks.club/ml-zoomcamp-2025/leaderboard)
 - [Data Engineering Zoomcamp 2026 leaderboard](https://courses.datatalks.club/de-zoomcamp-2026/leaderboard)
 
-## What the leaderboard shows
+## Leaderboard contents
 
 For each participant in the cohort:
 
@@ -40,6 +40,8 @@ The platform awards points as follows:
 - Project completion: variable, based on peer-review scoring.
 
 ## See also
+
+Related pages:
 
 - [Leaderboard and Learning in Public]({{ '/courses/zoomcamp-logistics/leaderboard/' | relative_url }}) for what counts and the misuse policy.
 - [Learning in Public]({{ '/courses/course-management-platform/learning-in-public/' | relative_url }}) for the platform UI for submitting links.

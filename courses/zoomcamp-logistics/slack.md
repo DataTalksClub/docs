@@ -23,6 +23,8 @@ Slack gets busy during live cohorts, so use threads. For how to ask well, see [A
 
 ## Course channels
 
+Use these Slack channels for course-specific questions:
+
 - Data Engineering Zoomcamp: [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG).
 - Machine Learning Zoomcamp: [`#course-ml-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA).
 - MLOps Zoomcamp: [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9).

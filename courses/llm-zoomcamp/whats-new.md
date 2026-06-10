@@ -6,7 +6,7 @@ parent: LLM Zoomcamp
 has_children: false
 ---
 
-# What's New
+# Changes
 
 Notable changes for the current cohort. The previous version of the course page described the 2025 flow, so this page focuses on what changed for 2026.
 
@@ -20,7 +20,7 @@ Course structure
 - Module 3 is a new Orchestration module with Kestra. It covers context engineering, AI Copilot, RAG workflows, agentic workflows, multi-agent systems, and production considerations.
 - The dlt workshop remains in the 2026 course, now focused on pulling LLM traces from a monitoring service and preparing them for analytics.
 - Evaluation moved from Module 3 in 2025 to Module 4 in 2026. It now covers search evaluation, RAG answer evaluation, and the basics of agent evaluation.
-- Monitoring is now a full Module 5. In 2025, the main course page ended after evaluation; in 2026, monitoring is part of the main sequence.
+- Monitoring is now a full Module 5. In 2025, the main course page ended after evaluation. In 2026, monitoring is part of the main sequence.
 - Best Practices is Module 6 and End-to-End Project Example is Module 7. These are optional modules based on older material, but they are included in the 2026 syllabus as useful follow-up content.
 - The capstone project remains the final requirement for certificate eligibility.
 

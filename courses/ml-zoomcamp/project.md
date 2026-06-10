@@ -8,13 +8,19 @@ has_children: false
 
 # Project
 
-For the cross-course logistics (attempts, deadlines, peer review, certification mechanics), see [Final Project (Zoomcamp Logistics)]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}).
+For the cross-course logistics, see [Final Project (Zoomcamp Logistics)]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}). That page covers attempts, deadlines, peer review, and certification mechanics.
 
 This page covers what is specific to the Machine Learning Zoomcamp.
 
 ## Project structure
 
-The ML Zoomcamp has three project slots: midterm, capstone, and a second capstone. To earn the certificate, you must complete two of three:
+The ML Zoomcamp has three project slots:
+
+- Midterm
+- Capstone
+- Second capstone
+
+To earn the certificate, complete two of three:
 
 - Midterm + capstone, or
 - Capstone + second capstone.
@@ -28,7 +34,7 @@ You complete 3 peer reviews per project you submit.
 
 ## Required: deployed model
 
-Every ML Zoomcamp project must include a working deployed model. You cannot just train a model in a notebook - you need to make it accessible through deployment, demonstrating real-world ML engineering skills.
+Every ML Zoomcamp project must include a working deployed model. You cannot just train a model in a notebook. Make it accessible through deployment to demonstrate real-world ML engineering skills.
 
 Options for deployment:
 
@@ -37,28 +43,34 @@ Options for deployment:
 - Streamlit, Gradio, or similar interactive demos that wrap your model.
 - Kubernetes (EKS, kind, or minikube).
 
-Document the deployment in your README so peer reviewers can either run it themselves or evaluate the deployment from screenshots and code.
+Document the deployment in your README. Peer reviewers should be able to run it themselves or evaluate the deployment from screenshots and code.
 
 ## Tech stack flexibility
 
-You are not restricted to the technologies covered in the course. Use any framework, model architecture, or cloud provider. However:
+You are not restricted to the technologies covered in the course. Use any framework, model architecture, or cloud provider.
+
+Make sure to:
 
 - Document your choices clearly. Your reviewers need full context to evaluate technologies they may not know.
 - Make the project reproducible. If a reviewer cannot run it (or at least understand how it would run), you will lose reproducibility points.
 
 ## Dataset
 
-You choose the dataset. It should:
+You choose the dataset.
+
+It should:
 
 - Have at least 100 rows for meaningful model development.
 - Be public (so peer reviewers can verify).
 - Reflect a problem worth solving.
 
-Avoid datasets that are too clean (Titanic, Iris) - they do not let you demonstrate the data engineering and feature engineering skills the rubric looks for.
+Avoid datasets that are too clean, such as Titanic or Iris. They do not let you demonstrate the data engineering and feature engineering skills the rubric looks for.
 
 ## Datasets you cannot use
 
-You cannot use any dataset that the course itself uses in lectures or homework. The point of the project is to apply your skills to something new. Datasets used in the course include:
+You cannot use any dataset that the course uses in lectures or homework. Choose something new so the project shows your own work.
+
+Datasets used in the course include:
 
 - Car price prediction (Module 2 / Linear Regression).
 - Customer churn / Telco (Module 3 / Binary Classification).
@@ -69,7 +81,9 @@ For the canonical list, see the project rubric in the course repo.
 
 ## Evaluation criteria
 
-Each course defines its own rubric. The platform shows the exact criteria when you review or are reviewed. Common criteria:
+Each course defines its own rubric. The platform shows the exact criteria when you review or are reviewed.
+
+Common criteria:
 
 - Problem description and motivation.
 - Data preparation and exploratory analysis.
@@ -94,9 +108,11 @@ The earliest you can receive your certificate is after the final project's peer-
 
 ## Past projects for inspiration
 
+Use these examples to calibrate scope:
+
 - [ML Zoomcamp 2025 projects](https://courses.datatalks.club/ml-zoomcamp-2025/projects)
 - Browse past cohorts on the [course platform](https://courses.datatalks.club/).
 
 ## Portfolio focus
 
-Treat every project as a portfolio piece. Use meaningful repository names (`telecom-churn-prediction-xgboost`, not `homework3`). Include comprehensive setup instructions. Past graduates have used these projects to land roles at companies like Meta and to secure ML internships.
+Treat every project as a portfolio piece with a meaningful repository name such as `telecom-churn-prediction-xgboost`, not `homework3`. Include comprehensive setup instructions. Past graduates have used these projects to land roles at companies like Meta and to secure ML internships.

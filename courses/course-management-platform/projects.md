@@ -8,13 +8,11 @@ has_children: false
 
 # Project Submission
 
-This page covers the platform UI for submitting your project. For project structure, attempts logic, dataset choice, and tech stack flexibility, see [Final Project]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}).
+This page covers the platform UI for submitting your project. For project structure and logistics, see [Final Project]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}). That page covers attempts, dataset choice, and tech stack flexibility.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://www.loom.com/embed/8f99d25893de4fb8aaa95c0395c740b6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+[Project submission walkthrough](https://www.loom.com/share/8f99d25893de4fb8aaa95c0395c740b6)
 
-## Where to find the project page
+## Project page
 
 Log in to your course platform and open the project page. You will see the active project window, the deadline, and the submission form when it is open.
 
@@ -38,15 +36,15 @@ Your certificate name and display name are separate:
 - Display name appears on the leaderboard. You can keep it anonymous if you prefer.
 - Certificate name is what gets printed on your certificate.
 
-Set your certificate name before submitting; otherwise you may end up with a placeholder.
+Set your certificate name before submitting. Otherwise you may end up with a placeholder.
 
 ## Commit ID and updating it
 
-If you keep committing after submission, update the commit ID in the form so reviewers see what you intended them to review. Reviewers will look at the repo at the commit ID you submitted, not the latest version.
+If you keep committing after submission, update the commit ID in the form. Reviewers should see what you intended them to review. They will look at the repo at the commit ID you submitted, not the latest version.
 
 To check a specific commit on GitHub, use:
 
-```
+```text
 https://github.com/user/repo/tree/COMMIT_ID
 ```
 
@@ -65,6 +63,8 @@ Browse past projects for inspiration:
 - [Data Engineering Zoomcamp 2024 projects](https://courses.datatalks.club/de-zoomcamp-2024/projects)
 
 ## See also
+
+Related pages:
 
 - [Final Project]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}) for general project logistics (rubric, attempts, dataset, tech stack).
 - [Peer Review]({{ '/courses/course-management-platform/peer-review/' | relative_url }}) for the platform UI for reviewing other students' projects.

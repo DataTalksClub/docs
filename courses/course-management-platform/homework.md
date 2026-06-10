@@ -10,7 +10,7 @@ has_children: false
 
 This page covers the platform UI for submitting homework. For when homework is released, deadline policy, and what should be in your repository, see [Homework]({{ '/courses/zoomcamp-logistics/homework/' | relative_url }}).
 
-## Where to find homework on the platform
+## Homework on the platform
 
 Log in to your course platform and open the course page. All homework assignments for the cohort are listed there with their deadlines and your submission status.
 
@@ -41,9 +41,11 @@ The form includes:
 
 You receive immediate feedback and points after submitting. The platform shows which questions were correct and your running score.
 
-You can resubmit before the deadline; only your last submission counts.
+You can resubmit before the deadline. Only your last submission counts.
 
 ## See also
+
+Related pages:
 
 - [Homework]({{ '/courses/zoomcamp-logistics/homework/' | relative_url }}) for general logistics (when released, deadlines, what to put in your repo).
 - [Leaderboard]({{ '/courses/course-management-platform/leaderboard/' | relative_url }}) for how points are calculated.

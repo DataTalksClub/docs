@@ -14,15 +14,19 @@ For general expectations about zoomcamp time commitment, see [Before You Start](
 
 ## Required skills
 
+You need these basics:
+
 - Command line basics. Comfortable running commands in a terminal (Linux, Mac, Git Bash, or WSL).
 - Basic programming concepts. Variables, functions, loops, conditionals.
 - Python knowledge. Basic Python or the ability to pick it up quickly. The course uses Python heavily for ingestion scripts.
 - SQL fundamentals. SELECT, WHERE, JOIN, GROUP BY. You will write more complex SQL during the course (window functions, CTEs, partitioning queries).
 - Git basics. Cloning repositories, making commits, pushing.
 
-If you are weak on any of these, the course is still doable, but you will spend extra time on the fundamentals in the first weeks. The course is beginner-friendly for data engineering, not for programming.
+If you are weak on any of these, the course is still doable. You will spend extra time on the fundamentals in the first weeks. The course is beginner-friendly for data engineering, not for programming.
 
 ## Tools you will install
+
+Install these tools before or during module 1:
 
 - Docker (Docker Desktop on Mac/Windows, Docker Engine on Linux).
 - Python (3.10+ recommended).
@@ -34,6 +38,8 @@ For the setup choices, see [Environment Setup]({{ '/courses/data-engineering-zoo
 
 ## Time commitment
 
+Plan around this schedule:
+
 - Two weeks for Module 1 (longer to allow for environment setup).
 - One week each for modules 2 to 6.
 - Two to three weeks for the final project.
@@ -41,6 +47,8 @@ For the setup choices, see [Environment Setup]({{ '/courses/data-engineering-zoo
 Plan for 10 to 15 hours per week. Past cohorts' actual time data is visible on the [2024](https://courses.datatalks.club/de-zoomcamp-2024/dashboard) and [2025](https://courses.datatalks.club/de-zoomcamp-2025/dashboard) dashboards.
 
 ## You do not need
+
+You do not need these before starting:
 
 - A degree.
 - Prior data engineering jobs.

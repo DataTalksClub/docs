@@ -8,9 +8,9 @@ has_children: false
 
 # Peer Review
 
-This page covers the platform UI for peer review. For why peer review exists, how many you do, what to do with 404 repos, and tips for writing good reviews, see [Peer Review]({{ '/courses/zoomcamp-logistics/peer-review/' | relative_url }}).
+This page covers the platform UI for peer review. For the process behind peer review, see [Peer Review]({{ '/courses/zoomcamp-logistics/peer-review/' | relative_url }}). That page covers why peer review exists, how many reviews you do, 404 repos, and tips for writing good reviews.
 
-## Where to find your assigned projects
+## Assigned projects
 
 After the project submission deadline, your assigned projects appear on the platform. Open the project page for the cohort and look for "Projects to Review".
 
@@ -32,7 +32,7 @@ The author submitted a specific commit ID. Review the project as it was at that 
 
 GitHub URL pattern to view a specific commit:
 
-```
+```text
 https://github.com/user/repo/tree/COMMIT_ID
 ```
 
@@ -42,7 +42,7 @@ You can browse the project on GitHub at this URL without downloading anything. I
 
 Reproducing projects you review (running them locally, deploying them) is good learning when you have time.
 
-Sometimes full reproduction is not possible - you may need cloud credentials you do not have, or the setup may take longer than the review window allows. Use your judgment. You can evaluate all the criteria from reading the code and the README without running it.
+Sometimes full reproduction is not possible. You may need cloud credentials you do not have, or the setup may take longer than the review window allows. Use your judgment. You can evaluate all the criteria from reading the code and the README without running it.
 
 ## Plagiarism
 
@@ -55,6 +55,8 @@ Self-plagiarism rules:
 - If you failed attempt one, you can improve and resubmit for attempt two.
 
 ## See also
+
+Related pages:
 
 - [Peer Review (logistics)]({{ '/courses/zoomcamp-logistics/peer-review/' | relative_url }}) for general logistics.
 - [Project Submission]({{ '/courses/course-management-platform/projects/' | relative_url }}) for the platform UI when submitting your own project.

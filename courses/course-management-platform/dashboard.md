@@ -18,7 +18,7 @@ This is not your personal progress page. It shows aggregate statistics for every
 
 The dashboard tracks how students are engaging with the course material:
 
-### Homework Statistics
+## Homework Statistics
 
 A table for each homework assignment showing:
 
@@ -28,7 +28,7 @@ A table for each homework assignment showing:
 - Average total time invested
 - Score to pass (minimum correct answers needed)
 
-### Project Statistics
+## Project Statistics
 
 Overall capstone project participation:
 
@@ -37,7 +37,9 @@ Overall capstone project participation:
 - Number of students passed and failed
 - Average project score
 
-### Cohort Overview
+## Cohort Overview
+
+The cohort overview summarizes registration:
 
 - Total enrollments - Number of students registered for the course
 

@@ -10,7 +10,7 @@ has_children: false
 
 The Data Engineering Zoomcamp uses Docker, Terraform, Google Cloud Platform (GCP), and Python. This page covers the high-level setup decisions. For detailed step-by-step setup, follow the videos in [Module 1](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform).
 
-## Where to run the code
+## Runtime environment
 
 You have three options. Pick one and stick with it for the cohort.
 
@@ -22,7 +22,7 @@ Local machine:
 GitHub Codespaces:
 
 - Pros: pre-configured Linux environment, no local setup.
-- Cons: free tier has monthly hour limits; you may run out near the end of the cohort. GitHub Pro increases the quota.
+- Cons: free tier has monthly hour limits. You may run out near the end of the cohort. GitHub Pro increases the quota.
 
 GCP VM (Compute Engine):
 
@@ -33,15 +33,15 @@ GCP VM (Compute Engine):
 
 The course uses GCP for storage (GCS), data warehouse (BigQuery), and (optionally) compute (Compute Engine, Dataproc).
 
-New GCP accounts get $300 in free credits. This is enough for the entire course if you use the resources only when needed and stop them when you do not.
+New GCP accounts get $300 in free credits. This is enough for the entire course if you stop resources when you do not need them.
 
 Common signup issues:
 
 - Country availability: GCP free trial is not available in every country. Check the [free trial eligibility list](https://cloud.google.com/free/docs/free-cloud-features#country-restrictions).
-- Card rejection (`OR_BACR2_34` or `OR_BACR2_44` errors): try a different card; Visa typically works better than Mastercard for some regions; some prepaid cards do not work.
+- Card rejection (`OR_BACR2_34` or `OR_BACR2_44` errors): try a different card. Visa typically works better than Mastercard for some regions. Some prepaid cards do not work.
 - Account already used: the $300 credits are one-time per Google account. If you used it before, create a new Google account.
 
-If GCP signup is impossible for you, you can complete the course locally using Postgres and DuckDB, or use AWS / Azure (see "Other clouds" below).
+If GCP signup is impossible for you, you can complete the course locally using Postgres and DuckDB. You can also use AWS or Azure. See "Other clouds" below.
 
 ## Service account credentials
 
@@ -55,7 +55,9 @@ Never commit the JSON key to a public Git repository. Add it to `.gitignore` bef
 
 ## Other clouds (AWS, Azure, Oracle)
 
-You can complete the course on AWS or Azure if GCP is not available to you. The videos use GCP, so you will need to translate concepts:
+You can complete the course on AWS or Azure if GCP is not available to you. The videos use GCP, so you will need to translate concepts.
+
+Common equivalents:
 
 - GCS bucket → S3 bucket / Azure Blob.
 - BigQuery → Athena, Redshift, Snowflake, or Synapse.
@@ -71,8 +73,8 @@ You can complete the project on any cloud regardless of what you used for the mo
 
 Mac (Apple Silicon, M1/M2/M3):
 
-- Docker Desktop sometimes shows "Malware Blocked" warnings on installation; allow it in System Settings if needed.
-- Some images do not have ARM builds; use `--platform linux/amd64` if you hit "no matching manifest" errors.
+- Docker Desktop sometimes shows "Malware Blocked" warnings on installation. Allow it in System Settings if needed.
+- Some images do not have ARM builds. Use `--platform linux/amd64` if you hit "no matching manifest" errors.
 - Colima is a lighter alternative to Docker Desktop and works fine for the course.
 
 Windows:
@@ -97,4 +99,4 @@ If you are using GitHub Codespaces and run into the monthly quota:
 - Stop your codespace when you are not actively using it (Codespaces bills by the hour).
 - GitHub Pro (paid) increases the free quota.
 - Switch to a local setup or a GCP VM for the rest of the cohort.
-- Existing code is preserved when a codespace is stopped or paused; you do not lose work.
+- Existing code is preserved when a codespace is stopped or paused. You do not lose work.

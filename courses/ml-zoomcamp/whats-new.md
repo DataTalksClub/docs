@@ -6,11 +6,13 @@ parent: Machine Learning Zoomcamp
 has_children: false
 ---
 
-# What's New
+# Changes
 
 Notable changes for the current cohort. Older changes are folded into the curriculum.
 
 ## 2025
+
+Main changes:
 
 - FastAPI replaces Flask in the deployment modules. FastAPI is now the industry default for new Python APIs.
 - PyTorch materials added alongside Keras. Both major deep learning frameworks are now covered.
