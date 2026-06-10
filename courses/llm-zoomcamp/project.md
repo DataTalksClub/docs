@@ -111,3 +111,11 @@ The earliest you can receive your certificate is after the peer-review deadline.
 ## Portfolio focus
 
 Treat the project as a portfolio piece with a meaningful repository name such as `recipes-rag-assistant`, not `homework-final`. Include a clear README. Past graduates have used these projects in job applications and interviews.
+
+A few habits make the difference between finishing the course and building something employers notice:
+
+- **Start building from day one.** Do not wait for the project window to open. Read the project guidelines at the start, decide what you want to build, and apply each module to your own project as you learn it. Putting concepts into practice immediately beats going through the material passively.
+- **Build more than one project.** Everyone finishes the course with a RAG app on the same course dataset, so that alone does not stand out. Build several projects on data and problems you chose yourself. A small portfolio of varied projects (a RAG app, an agent, something in a different domain) is far stronger than a single one.
+- **Make them your own.** The strongest projects solve a problem you actually have, on data you picked, cleaned, and structured yourself. That work is what shows your skills.
+
+For project ideas, the [AI Engineering Field Guide]({{ '/courses/llm-zoomcamp/resources/#ai-engineering-field-guide' | relative_url }}) collects take-home assignments from 100+ companies. You can also look at what companies you want to work for tend to ask, and build something in that direction.

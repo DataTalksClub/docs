@@ -74,3 +74,13 @@ The [DataTalks.Club newsletter](https://datatalks.club/newsletter.html) goes out
 The [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html) collects answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
 
 The course repo also has an [asking questions guide](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/asking-questions.md) with tips for posting useful questions in Slack.
+
+## AI Engineering Field Guide
+
+The [AI Engineering Field Guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) is a companion resource by the course instructor. It is a data-driven guide to AI engineering roles, skills, and interviews, built from analyzing thousands of real job descriptions, interview experiences, and practitioner stories.
+
+It is useful both during and after the course:
+
+- **Project ideas.** The [home-assignments section](https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/interview/questions/06-home-assignments.md) collects take-home assignments from 100+ company GitHub repos. Pick one that resonates and build it as your capstone project.
+- **Interview preparation.** Theory, coding, project deep-dive, system design, and behavioral questions consolidated from 100+ sources, plus company-by-company interview process data.
+- **Career direction.** Role and skills analysis, real-world use cases, and learning paths for moving into AI engineering from data engineering, data science, or other backgrounds.
