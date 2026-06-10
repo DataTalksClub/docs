@@ -20,6 +20,8 @@ Available FAQ pages:
 - [Machine Learning Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html)
 - [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp.html)
 - [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html)
+- [AI Dev Tools Zoomcamp FAQ](https://datatalks.club/faq/ai-dev-tools-zoomcamp.html)
+- [Stock Markets Analytics Zoomcamp FAQ](https://datatalks.club/faq/stock-markets-analytics-zoomcamp.html)
 
 ## Contents
 
