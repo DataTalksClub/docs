@@ -45,9 +45,3 @@ Questions and discussion happen in the `#course-mlops-zoomcamp` channel on [Data
 - [Docker](https://www.docker.com/) - containerization.
 - [Terraform](https://www.terraform.io/) - Infrastructure as Code.
 - [AWS](https://aws.amazon.com/) - cloud deployment (Kinesis, Lambda).
-
-## Instructors
-
-- [Cristian Martinez](https://www.linkedin.com/in/cristian-javier-martinez-09bb7031/)
-- [Alexey Grigorev](https://www.linkedin.com/in/agrigorev/)
-- [Emeli Dral](https://www.linkedin.com/in/emelidral/)

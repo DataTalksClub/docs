@@ -34,9 +34,3 @@ Questions and discussion happen in the `#course-ai-dev-tools-zoomcamp` channel o
 - [Model-Context Protocol](https://modelcontextprotocol.io/) and Context7 for up-to-date documentation.
 - Python with [uv](https://docs.astral.sh/uv/), Docker, FastAPI, and Django.
 - [n8n](https://n8n.io/) for low-code automation.
-
-## Instructors
-
-- [Alexey Grigorev](https://linkedin.com/in/agrigorev)
-- [Bhavani Ravi](https://www.linkedin.com/in/bhavanicodes)
-- [Moein Foroughi](https://www.linkedin.com/in/moein-foroughi-ce/)
