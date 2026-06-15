@@ -49,7 +49,7 @@ How to use it:
 
 - Replace `<placeholders>` with your content
 - Try to keep the formatting
-- Follow the punctuation rules:
+- Follow the punctuation rules
 - Use ":" rather than semicolon
 - Use no space before ":" and one space after ":"
 - Don't use "everyone" for the "who is it for" part
@@ -66,6 +66,19 @@ Include:
 - Anything else you want to add
 - Registration link
 
+Template:
+
+> &lt;Title of the event&gt;
+>
+> Date: &lt;date and time, don't forget the time zones&gt;<br>
+> Who is it for: &lt;data scientists, data engineers, ML engineers, managers, etc&gt;<br>
+> Why is it relevant: &lt;describe what's in there for the attendees&gt;<br>
+> Price: &lt;free or price&gt;
+>
+> &lt;Anything else you'd want to add&gt;
+>
+> Registration link: &lt;link&gt;
+
 Example:
 
 <img src="{{ '/assets/images/guidelines/example-events.png' | relative_url }}" alt="Example of a good events post" width="80%">
@@ -81,6 +94,17 @@ Include:
 - Anything else you want to add
 - Link
 
+Template:
+
+> &lt;Title of the content&gt; (&lt;content type: video, blog, podcast, etc&gt;)
+>
+> Who is it for: &lt;data scientists, data engineers, ML engineers, managers, etc&gt;<br>
+> Why is it relevant: &lt;describe what's in there for the readers, listeners, etc&gt;
+>
+> &lt;Anything else you'd want to add&gt;
+>
+> Link: &lt;link&gt;
+
 ## Template for [`#shameless-social`](https://app.slack.com/client/T01ATQK62F8/C02MS2K0ACF)
 
 Include:
@@ -91,6 +115,17 @@ Include:
 - Anything else you want to add
 - Link
 
+Template:
+
+> What is it: &lt;describe what you are sharing&gt;
+>
+> Who is it for: &lt;data scientists, data engineers, ML engineers, managers, etc&gt;<br>
+> Why is it relevant: &lt;describe what's in there for the readers, listeners, etc&gt;
+>
+> &lt;Anything else you'd want to add&gt;
+>
+> Link: &lt;link&gt;
+
 ## Template for [`#shameless-promotion`](https://app.slack.com/client/T01ATQK62F8/C01F53D373M)
 
 Include:
@@ -100,6 +135,17 @@ Include:
 - Why it is relevant
 - Anything else you want to add
 - Link
+
+Template:
+
+> What is it: &lt;describe what you are promoting&gt;
+>
+> Who is it for: &lt;data scientists, data engineers, ML engineers, managers, etc&gt;<br>
+> Why is it relevant: &lt;describe what's in there for the readers, listeners, etc&gt;
+>
+> &lt;Anything else you'd want to add&gt;
+>
+> Link: &lt;link&gt;
 
 Example:
 
@@ -118,10 +164,10 @@ This includes:
 
 Examples of promotional feedback requests:
 
-- "We're conducting a survey to better understand how people use <topic>."
+- "We're conducting a survey to better understand how people use &lt;topic&gt;."
 - "We'd like to show you our product and get some feedback from you."
-- "We're working on <topic> and would like to talk to data scientists and ML engineers."
-- "We're working on a tool to do <task> and we're wondering if it's useful."
+- "We're working on &lt;topic&gt; and would like to talk to data scientists and ML engineers."
+- "We're working on a tool to do &lt;task&gt; and we're wondering if it's useful."
 
 User research, product discovery requests, and feedback requests are promotional content. They must follow the same guidelines as other promotions.
 
