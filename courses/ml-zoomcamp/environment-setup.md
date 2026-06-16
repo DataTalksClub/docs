@@ -8,7 +8,7 @@ has_children: false
 
 # Environment Setup
 
-The Machine Learning Zoomcamp uses Python with scikit-learn, FastAPI, Docker, and AWS for cloud examples. This page covers the high-level setup decisions. For step-by-step setup, follow the videos in [Module 1](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro).
+The Machine Learning Zoomcamp uses Python with scikit-learn, FastAPI, Docker, and AWS for cloud examples. This page covers the high-level setup decisions. For step-by-step setup, follow the videos in [Module 1](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/01-intro).
 
 ## Python and dependency management
 

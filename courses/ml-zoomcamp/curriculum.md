@@ -14,30 +14,30 @@ For the canonical curriculum (videos, code, exact homework questions), see the [
 
 ## Modules
 
-[Module 1: Introduction](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro)
+[Module 1: Introduction](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/01-intro)
 
 - Setup, basic Python and pandas, basic linear algebra refresher.
 
-[Module 2: Linear Regression](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/02-regression)
+[Module 2: Linear Regression](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/02-regression)
 
 - Predicting car prices.
 - Feature engineering, training, evaluation.
 
-[Module 3: Binary Classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/03-classification)
+[Module 3: Binary Classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/03-classification)
 
 - Customer churn prediction.
 
-[Module 4: Model Evaluation](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/04-evaluation)
+[Module 4: Model Evaluation](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/04-evaluation)
 
 - ROC curves, precision-recall, cross-validation.
 - Often the most challenging module conceptually.
 
-[Module 5: Model Deployment](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/05-deployment)
+[Module 5: Model Deployment](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/05-deployment)
 
 - FastAPI for serving models.
 - Docker for packaging.
 
-[Module 6: Tree-Based Models](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/06-trees)
+[Module 6: Tree-Based Models](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/06-trees)
 
 - Decision trees, random forests, gradient boosting.
 - Loan default prediction.
@@ -47,19 +47,19 @@ Module 7: Midterm Project
 - Three weeks of independent work.
 - Apply what you have learned through Module 6.
 
-[Module 8: Neural Networks and Deep Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/08-deep-learning)
+[Module 8: Neural Networks and Deep Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/08-deep-learning)
 
 - PyTorch fundamentals.
 
-[Module 9: Serverless Deployment](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/09-serverless)
+[Module 9: Serverless Deployment](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/09-serverless)
 
 - AWS Lambda with ONNX runtime.
 
-[Module 10: Kubernetes](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/10-kubernetes)
+[Module 10: Kubernetes](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/10-kubernetes)
 
 - Deploying ML services on Kubernetes.
 
-[Module 11: KServe](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/11-kserve)
+[Module 11: KServe](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/11-kserve)
 
 - Optional and potentially outdated. Focus on Kubernetes (Module 10) instead.
 

@@ -66,7 +66,7 @@ The course uses Python with scikit-learn, FastAPI for deployment, and AWS for cl
 
 ## Start Module 1
 
-Begin with [Module 1: Introduction](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro). For what each module covers, see [Curriculum]({{ '/courses/ml-zoomcamp/curriculum/' | relative_url }}).
+Begin with [Module 1: Introduction](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/01-intro). For what each module covers, see [Curriculum]({{ '/courses/ml-zoomcamp/curriculum/' | relative_url }}).
 
 ## Next pages
 
