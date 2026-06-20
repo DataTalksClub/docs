@@ -18,3 +18,11 @@ If you register, you may receive:
 - Important deadline or project reminders.
 
 The [DataTalks.Club newsletter](https://datatalks.club/newsletter.html) goes out weekly with course and community updates. If you stop receiving it, you may have unsubscribed before. Re-subscribe from the newsletter page.
+
+## Homework submission confirmations
+
+When you submit homework on the course platform, you receive a confirmation email from `courses@dtcdev.click` summarizing what you submitted:
+
+<img src="{{ '/assets/images/zoomcamp-logistics/homework-submission-email.jpg' | relative_url }}" alt="Homework submission confirmation email" width="80%">
+
+These confirmation emails often land in **Spam**. After submitting, check your spam folder, and if you find one there, mark it as **Not Spam** so future confirmations reach your inbox. Getting the confirmation is a quick way to verify your submission went through.
