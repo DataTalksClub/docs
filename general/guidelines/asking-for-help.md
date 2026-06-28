@@ -26,11 +26,40 @@ Examples of meta questions to avoid:
 
 When something doesn't work and you need help figuring it out, we'll be happy to help.
 
+Before posting, try to narrow the problem. You do not need to solve it alone, but helpers need enough information to understand where you are stuck.
+
+Check:
+
+- The exact error message.
+- The command, query, notebook cell, or action that produced it.
+- The last step that worked.
+- The first step that failed.
+- What you expected to happen.
+- What actually happened.
+- What changed recently: code, data, dependency versions, environment variables, Docker image, credentials, cloud resource, or operating system.
+
+If you do not know where the problem is, say that clearly and share what you already checked. A useful question can start with: "I do not know which part is failing yet. The last step that worked was ..., and the first failing command is ..."
+
 To get the best assistance quickly, follow these recommendations:
 
 - Use threads for errors. First describe the problem briefly in the main channel, then put the actual error message and code in a thread.
 - Copy-paste text, don't screenshot. Don't take screenshots of your code or terminal output. Instead, copy-paste the error message and code as text. Use code blocks (three backticks) to format your code. Text is searchable, easier to read, and allows helpers to copy your code if needed.
 - Never photograph your screen. Don't take pictures of your code with a phone. It's even harder to read than screenshots. Always copy-paste text. In rare cases when you need to show what happens on your screen visually (like a UI issue), a screenshot is acceptable, but code and errors should always be text.
+
+Include:
+
+- What you are trying to do.
+- The relevant context: course, project, tool, dataset, operating system, or service.
+- The exact command or action you tried.
+- The full error message as text.
+- The smallest relevant code snippet or a link to the repository when the issue depends on your code.
+- What you already tried and what happened.
+
+Use triple backticks for commands, code, and error output:
+
+<pre><code>```
+paste the error here
+```</code></pre>
 
 ## Don't tag instructors
 

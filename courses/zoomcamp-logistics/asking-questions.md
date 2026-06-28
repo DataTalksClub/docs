@@ -36,6 +36,26 @@ Try to narrow the problem first. You do not need to solve it alone. A few minute
 
 It is normal for technical problems to take time. If you are stuck after trying the steps above, ask in Slack.
 
+## If You Cannot Find the Problem
+
+Sometimes the hard part is not fixing the problem. The hard part is figuring out where it starts. In that case, write down what you know:
+
+- The last step that worked.
+- The first step that failed.
+- What you expected to happen.
+- What actually happened.
+- What changed since it last worked: code, data, dependency versions, environment variables, Docker image, notebook kernel, cloud resource, or operating system.
+
+Then try to make the problem smaller:
+
+1. Run the command again from a clean terminal and copy the full output.
+2. Remove unrelated code or steps until you have the smallest example that still fails.
+3. Check whether the problem happens in the course example code or only in your own code.
+4. Check whether the problem happens after restarting the service, container, notebook kernel, or machine.
+5. Compare your command, file path, environment variables, and versions with the lesson instructions.
+
+If you still cannot identify the cause, say that in your question. "I do not know where the problem is yet, but this is the last step that worked and this is the first failing command" is a useful starting point.
+
 ## Asking in Slack
 
 Start a new message in the course channel with a short problem summary. Then put details in a thread so the main channel stays readable.
