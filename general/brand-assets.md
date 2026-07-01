@@ -10,27 +10,33 @@ has_children: false
 
 Use this page when you need DataTalks.Club logos or a short description of the community.
 
+<style>
+  .brand-preview { padding: 1rem; border-radius: 8px; display: inline-block; }
+  .brand-preview-dark { background-color: #1f2933; }
+  .brand-preview-light { background-color: #f1f3f5; }
+</style>
+
 ## Wordmark Logos
 
 Use these when there is enough horizontal space for the full DataTalks.Club name.
 
 Main logo
 
-<img src="{{ '/assets/images/brand-assets/png/logo_main@3x.png' | relative_url }}" alt="DataTalks.Club main logo" width="60%">
+<img class="brand-preview brand-preview-light" src="{{ '/assets/images/brand-assets/png/logo_main@3x.png' | relative_url }}" alt="DataTalks.Club main logo" width="60%">
 
 - [PNG]({{ '/assets/images/brand-assets/png/logo_main@3x.png' | relative_url }})
 - [SVG]({{ '/assets/images/brand-assets/svg/logo_main.svg' | relative_url }})
 
 Black logo
 
-<img src="{{ '/assets/images/brand-assets/png/logo_black@3x.png' | relative_url }}" alt="DataTalks.Club black logo" width="60%">
+<img class="brand-preview brand-preview-light" src="{{ '/assets/images/brand-assets/png/logo_black@3x.png' | relative_url }}" alt="DataTalks.Club black logo" width="60%">
 
 - [PNG]({{ '/assets/images/brand-assets/png/logo_black@3x.png' | relative_url }})
 - [SVG]({{ '/assets/images/brand-assets/svg/logo_black.svg' | relative_url }})
 
 White logo
 
-<img src="{{ '/assets/images/brand-assets/png/logo_white@3x.png' | relative_url }}" alt="DataTalks.Club white logo" width="60%">
+<img class="brand-preview brand-preview-dark" src="{{ '/assets/images/brand-assets/png/logo_white@3x.png' | relative_url }}" alt="DataTalks.Club white logo" width="60%">
 
 - [PNG]({{ '/assets/images/brand-assets/png/logo_white@3x.png' | relative_url }})
 - [SVG]({{ '/assets/images/brand-assets/svg/logo_white.svg' | relative_url }})
@@ -51,21 +57,21 @@ Use these for small placements, favicons, or places where the full wordmark woul
 
 Main icon
 
-<img src="{{ '/assets/images/brand-assets/png/favicon_main@3x.png' | relative_url }}" alt="DataTalks.Club main icon" width="25%">
+<img class="brand-preview brand-preview-light" src="{{ '/assets/images/brand-assets/png/favicon_main@3x.png' | relative_url }}" alt="DataTalks.Club main icon" width="25%">
 
 - [PNG]({{ '/assets/images/brand-assets/png/favicon_main@3x.png' | relative_url }})
 - [SVG]({{ '/assets/images/brand-assets/svg/favicon_main.svg' | relative_url }})
 
 Black icon
 
-<img src="{{ '/assets/images/brand-assets/png/favicon_black@3x.png' | relative_url }}" alt="DataTalks.Club black icon" width="25%">
+<img class="brand-preview brand-preview-light" src="{{ '/assets/images/brand-assets/png/favicon_black@3x.png' | relative_url }}" alt="DataTalks.Club black icon" width="25%">
 
 - [PNG]({{ '/assets/images/brand-assets/png/favicon_black@3x.png' | relative_url }})
 - [SVG]({{ '/assets/images/brand-assets/svg/favicon_black.svg' | relative_url }})
 
 White icon
 
-<img src="{{ '/assets/images/brand-assets/png/favicon_white@3x.png' | relative_url }}" alt="DataTalks.Club white icon" width="25%">
+<img class="brand-preview brand-preview-dark" src="{{ '/assets/images/brand-assets/png/favicon_white@3x.png' | relative_url }}" alt="DataTalks.Club white icon" width="25%">
 
 - [PNG]({{ '/assets/images/brand-assets/png/favicon_white@3x.png' | relative_url }})
 - [SVG]({{ '/assets/images/brand-assets/svg/favicon_white.svg' | relative_url }})
