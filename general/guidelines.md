@@ -16,6 +16,7 @@ DataTalks.Club is a place to talk, learn, discuss, and share. To ensure our disc
 - [Discussions]({{ '/general/guidelines/discussions/' | relative_url }}) - how to communicate effectively, use threads, and keep channels organized
 - [Asking for help]({{ '/general/guidelines/asking-for-help/' | relative_url }}) - how to ask questions, share errors, and get homework help
 - [Promotion]({{ '/general/guidelines/promotion/' | relative_url }}) - where and how to promote your work, events, and content
+- [AI usage]({{ '/general/guidelines/ai-usage/' | relative_url }}) - how to use AI tools and be transparent about it
 
 ## Channels
 
