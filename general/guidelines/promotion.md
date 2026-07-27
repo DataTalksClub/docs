@@ -33,13 +33,27 @@ Follow these rules:
 - Non-relevant topics aren't allowed
 - If what you promote isn't free, you should mention the price
 - Don't share files like docx documents or pdf, use these channels only for sharing links
-- Don't make the post too long (if it doesn't fit one phone screen, it's too long)
+- The post must fit one mobile phone screen (see below)
 - Remove the previews, if there's more than one
 - Don't make your `#welcome` message a pitch. Introduce yourself as a person, not your tool or agency
 - The content must be in English
 - Think of the reader. Explain why it is relevant and why they should click the link.
 
 Messages that don't follow these rules will be deleted.
+
+## Post length
+
+Your post should not take more than one screen of a mobile phone. This is the target. If it's longer than that, it will be deleted.
+
+Most people read Slack on their phone. A post that takes several screens is skipped, not read. If you can't say it in one screen, put the details behind the link.
+
+How to keep it short:
+
+- Follow the template and don't add extra sections
+- One or two sentences per line of the template
+- Don't paste the whole article or announcement into Slack
+- Don't add long lists of features, agenda items, or speakers
+- Cut anything that doesn't help the reader decide whether to click the link
 
 ## Templates
 
