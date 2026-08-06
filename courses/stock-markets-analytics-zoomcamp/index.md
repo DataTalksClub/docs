@@ -11,7 +11,7 @@ has_children: true
 
 Welcome to the Stock Market Analytics Zoomcamp. It is a completely free, hands-on course that takes you from financial data sources to a predictive model, a trading strategy, and an automated workflow that runs on its own.
 
-The course is run together with [PythonInvest](https://pythoninvest.com/course). Ivan Brigida, a business intelligence analyst and retail investor, is the instructor; Alexey Grigorev organizes it.
+The course is run together with [PythonInvest](https://pythoninvest.com/course). Ivan Brigida, a business intelligence analyst and retail investor, is the instructor.
 
 ## Disclaimer
 
