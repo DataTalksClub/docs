@@ -35,7 +35,7 @@ Channels dedicated to specific DataTalks.Club zoomcamp courses. Join your course
 - [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9) - MLOps Zoomcamp
 - [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J) - LLM Zoomcamp
 - [`#course-ai-dev-tools-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C09HWT76L95) - AI Dev Tools Zoomcamp
-- [`#course-stocks-analytics-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06L1RTF10F) - Stocks Analytics course
+- [`#course-stocks-analytics-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06L1RTF10F) - Stock Market Analytics course
 - [`#course-ai-hero`](https://app.slack.com/client/T01ATQK62F8/C0A3L8BC6F8) - AI Hero course
 - [`#course-management-platform`](https://app.slack.com/client/T01ATQK62F8/C06EKF95CQ3) - Course management platform development
 

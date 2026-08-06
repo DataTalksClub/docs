@@ -30,4 +30,4 @@ Use these Slack channels for course-specific questions:
 - MLOps Zoomcamp: [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9).
 - LLM Zoomcamp: [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J).
 - AI Dev Tools Zoomcamp: [`#course-ai-dev-tools-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C09HWT76L95).
-- Stocks Analytics Zoomcamp: [`#course-stocks-analytics-zoomcamp`](https://datatalks-club.slack.com/archives/C06L1RTF10F).
+- Stock Market Analytics Zoomcamp: [`#course-stocks-analytics-zoomcamp`](https://datatalks-club.slack.com/archives/C06L1RTF10F).

@@ -18,7 +18,7 @@ Course channels and FAQs:
 - MLOps Zoomcamp: [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9), [FAQ](https://datatalks.club/faq/mlops-zoomcamp.html).
 - LLM Zoomcamp: [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J), [FAQ](https://datatalks.club/faq/llm-zoomcamp.html).
 - AI Dev Tools Zoomcamp: [`#course-ai-dev-tools-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C09HWT76L95).
-- Stocks Analytics Zoomcamp: [`#course-stocks-analytics-zoomcamp`](https://datatalks-club.slack.com/archives/C06L1RTF10F).
+- Stock Market Analytics Zoomcamp: [`#course-stocks-analytics-zoomcamp`](https://datatalks-club.slack.com/archives/C06L1RTF10F).
 
 For Slack norms that apply across all DataTalks.Club channels, see [Community Guidelines]({{ '/general/guidelines/' | relative_url }}) and [Slack channels]({{ '/general/slack/' | relative_url }}). For which channel to use for what, see [Communication Channels]({{ '/courses/zoomcamp-logistics/communication/' | relative_url }}).
 

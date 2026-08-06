@@ -21,6 +21,7 @@ Current course pages:
 - [MLOps Zoomcamp]({{ '/courses/mlops-zoomcamp/' | relative_url }}) - Production ML systems and best practices
 - [LLM Zoomcamp]({{ '/courses/llm-zoomcamp/' | relative_url }}) - Build RAG and AI applications with hosted LLMs
 - [AI Dev Tools Zoomcamp]({{ '/courses/ai-dev-tools-zoomcamp/' | relative_url }}) - Modern AI development tools and workflows
+- [Stock Market Analytics Zoomcamp]({{ '/courses/stock-markets-analytics-zoomcamp/' | relative_url }}) - Financial data analysis, predictive modeling, and trading strategies
 
 ## Course Resources
 

@@ -45,7 +45,7 @@ Approximate windows:
 - MLOps Zoomcamp: discontinued for now.
 - LLM Zoomcamp: starts in June.
 - AI Dev Tools Zoomcamp: dates announced separately.
-- Stocks Analytics Zoomcamp: dates announced separately.
+- Stock Market Analytics Zoomcamp: dates announced separately.
 
 For the exact start date, check the course GitHub page. Register there if you want to receive cohort announcements by email.
 
