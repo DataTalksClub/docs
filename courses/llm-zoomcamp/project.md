@@ -71,8 +71,8 @@ The Field Guide is especially useful if you want the project to support your job
 
 These write-ups show examples of finished AI engineering and agentic projects. Use them for scope, architecture ideas, and problem framing:
 
-- [9 Real-Life AI Projects from AI Engineering Buildcamp Graduates](https://alexeyondata.substack.com/p/9-real-life-ai-projects-from-ai-engineering)
-- [5 ideas for AI agents and OpenAI's hidden skills](https://alexeyondata.substack.com/p/5-ideas-for-ai-agents-and-openais)
+- [9 Real-Life AI Projects from AI Engineering Buildcamp Graduates](https://aishippingblog.com/p/9-real-life-ai-projects-from-ai-engineering)
+- [5 ideas for AI agents and OpenAI's hidden skills](https://aishippingblog.com/p/5-ideas-for-ai-agents-and-openais)
 
 ## Knowledge base / dataset
 
