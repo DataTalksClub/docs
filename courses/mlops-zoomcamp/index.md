@@ -24,4 +24,4 @@ For platform mechanics (where to click on the submission form, how the leaderboa
 
 ## Current status
 
-The MLOps Zoomcamp is currently available for self-paced study. We don't plan to run a live cohort in 2026. [Register here](https://airtable.com/shrCb8y6eTbPKwSTL) if you'd like to be notified in case we run it again.
+The MLOps Zoomcamp is currently available for self-paced study. We don't plan to run a live cohort in 2026. [Register here](https://courses.datatalks.club/register/mlops-zoomcamp/) if you'd like to be notified in case we run it again.

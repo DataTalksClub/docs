@@ -53,7 +53,7 @@ Use the [LLM Zoomcamp 2026 course page](https://courses.datatalks.club/llm-zoomc
 
 For the platform UI in detail, see [Course Management Platform]({{ '/courses/course-management-platform/' | relative_url }}).
 
-To register for the live cohort, use the [LLM Zoomcamp signup form](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q).
+To register for the live cohort, use the [LLM Zoomcamp signup form](https://courses.datatalks.club/register/llm-zoomcamp/).
 
 ## Slack
 

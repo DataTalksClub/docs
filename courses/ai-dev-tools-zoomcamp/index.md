@@ -22,4 +22,4 @@ Read in this order:
 
 ## Current status
 
-The first cohort ran in November 2025. A 2026 cohort is planned (date to be announced), and all materials are available for self-paced study in the meantime. [Register here](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG) to be notified about the next cohort.
+The first cohort ran in November 2025. A 2026 cohort is planned (date to be announced), and all materials are available for self-paced study in the meantime. [Register here](https://courses.datatalks.club/register/ai-dev-tools/) to be notified about the next cohort.

@@ -2560,7 +2560,7 @@ A: yes, it will be. we can also see the passed recorded live session as well.
 
 Q: Hello everyone, I want to register to the 2025 DE-Zoom camp, how can I do so?
 
-A: https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD
+A: https://courses.datatalks.club/register/de-zoomcamp/
 
 ### [2025-01-13] Willy Dongmo (replies: 1)
 
