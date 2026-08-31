@@ -8,32 +8,28 @@ has_children: false
 
 # Environment Setup
 
-The course is tool-agnostic: you can follow along with whichever AI coding tools you prefer. This page covers the high-level choices.
+You can follow the course with whichever AI coding tools you prefer. Use this page to choose your tools and development environment.
 
 ## AI coding tools
 
-You'll use one or more of:
+You can use one or more of:
 
 - Chat assistants: ChatGPT, Claude, Gemini, DeepSeek.
 - Coding assistants / IDEs: Claude Code, GitHub Copilot, Cursor, Antigravity, Gemini CLI.
-- Project bootstrappers: Bolt, Lovable.
+- Project bootstrappers: Bolt, Lovable, and similar tools.
 
-Use whatever you're comfortable with. Codex, Gemini CLI, and Antigravity are good free or low-cost alternatives to a paid Cursor or Copilot subscription.
+Use the tool you're comfortable with because we teach transferable workflows instead of requiring one product.
 
-## What it costs
+## Costs
 
-The course is designed to be doable on free or cheap tools:
+You can complete most of the course with free tiers or low-cost tools. Free tiers have quota limits, and some exercises may use paid model APIs or cloud services. Check current provider pricing before you start. Set budget limits where available, and ask in Slack before paying for a service you're unsure about.
 
-- Module 1: free (works with free tools like Groq or Gemini).
-- Module 2: a coding assistant helps; Cursor or GitHub Copilot offer free trials, and Gemini CLI or Antigravity are free alternatives.
-- Module 4: a small API deposit (around $5) for OpenAI or Anthropic.
+See [Before You Start]({{ '/courses/zoomcamp-logistics/before-you-start/' | relative_url }}) for the shared guidance on cloud costs and account setup.
 
-Free tiers have quota limits, so you may need to switch tools or wait when you hit them. Tracking usage (`/stats`, quota extensions) and using auto modes helps.
+## Development environment
 
-## Where to run it
-
-You can work locally or in GitHub Codespaces (its free tier is usually enough). Python with uv is recommended for dependency management, and Docker is used for packaging and deployment in the later modules.
+You can work locally or in GitHub Codespaces. The examples use Git and GitHub, Python with `uv`, Node.js, and Docker. Check each module README for its setup commands and additional requirements.
 
 ## Cloud and deployment
 
-The end-to-end and project modules deploy real apps. Render, Google Cloud (free credits), and similar platforms all work. For projects that scrape external sites (for example YouTube transcripts), be aware that data-center IPs are often blocked and you may need a residential proxy.
+Modules 3 and 4 use a deployed application. You can choose a platform such as Render, Fly.io, Railway, or Cloud Run. Keep credentials in environment variables, check current pricing, and remove resources you no longer use.

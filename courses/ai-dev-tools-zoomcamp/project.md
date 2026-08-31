@@ -8,22 +8,25 @@ has_children: false
 
 # Project
 
-For the cross-course logistics, see [Final Project (Zoomcamp Logistics)]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}). That page covers attempts, deadlines, peer review, and certification mechanics.
-
-This page covers what is specific to the AI Dev Tools Zoomcamp.
+For the shared project rules, see [Final Project (Zoomcamp Logistics)]({{ '/courses/zoomcamp-logistics/project/' | relative_url }}). There you can check attempts and deadlines as well as peer review and certification. For the AI Dev Tools Zoomcamp, follow the requirements here.
 
 ## Goal
 
-Build a complete application of your own, end to end, using AI tools - the same way you did in the course modules, but with your own idea.
+Build and deploy a full-stack application of your own with AI assistance. Apply the course workflow from specification and implementation through testing, deployment, operations, and agent extensions.
 
-## What to build
+## Project requirements
 
 You choose the idea and the stack:
 
-- Any tech stack is fine; you don't have to use Python or Django. Picking a stack you're less comfortable with is a good way to lean on AI-assisted development.
-- You can include a machine learning component (for example an image classifier) if you like.
-- A typical project has a frontend, a backend, a database, and is deployed somewhere others can try it.
+- Choose your own problem and tech stack.
+- Include a frontend, backend, API contract, and persistent storage.
+- Add automated tests, containerization, CI/CD, and a public deployment.
+- Document the specification, architecture, setup, tests, and deployment.
+- Explain how you gave AI tools context, delegated work, reviewed generated code, and verified the result.
+- Add the agent capabilities, operations, and security work required by the current rubric.
+
+Read the [current project requirements and scoring rubric](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/project) before you start. The course platform contains the exact submission and peer-review deadlines.
 
 ## Certificate
 
-Completing the final project and reviewing three peers' projects during a live cohort earns the certificate. Homework is not required. See [Certification]({{ '/courses/zoomcamp-logistics/certification/' | relative_url }}) for how certification works.
+To earn the certificate, submit a passing final project and complete the required peer reviews on time during the live cohort. Homework isn't required. See [Certification]({{ '/courses/zoomcamp-logistics/certification/' | relative_url }}) for the shared certificate process.

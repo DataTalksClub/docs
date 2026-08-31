@@ -8,40 +8,36 @@ has_children: false
 
 # Curriculum
 
-The AI Dev Tools Zoomcamp covers six modules plus a final project. Each module has video lectures and a homework assignment.
+In the 2026 AI Dev Tools Zoomcamp, you complete five modules plus a final project. You follow one application from specification through development and deployment. You then add operations and agent extensions.
 
 For the canonical curriculum (videos, code, exact homework), see the [GitHub repository](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp).
 
 ## Modules
 
-[Module 1: Introduction to Vibe Coding / AI Tools Overview](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/01-overview)
+[Module 1: AI-Native Developer Workflow](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/01-ai-native-workflow)
 
-- Chat applications, coding assistants / IDEs, project bootstrappers, and agents.
+- Compare AI developer tools, turn an idea into a specification and backlog, give agents durable project context, and verify their work independently.
 
-[Module 2: End-to-End Project (Snake)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/02-end-to-end)
+[Module 2: Build and Ship an AI-Assisted Full-Stack App](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/02-end-to-end)
 
-- Build a full app (frontend, backend, database) with a coding assistant; define an API with OpenAPI, generate a FastAPI server, add CI/CD, and deploy.
+- Write a product specification, build a frontend, define the API with OpenAPI, implement the backend, add persistence, and test the main behavior.
 
-[Module 3: Model-Context Protocol](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/03-mcp)
+[Module 3 - Test, Containerize, and Deploy](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/03-deployment)
 
-- Give AI assistants tools through MCP; core servers, practical workflows, local vs. remote servers, and security.
+- Add integration tests and move from SQLite to Postgres. Package the application with Docker, run checks in CI, and deploy from the main branch.
 
-[Module 4: Build an AI Coding Agent (Django)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/04-build-coding-agent)
+[Module 4: DevOps and Observability for AI-Built Apps](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/04-devops)
 
-- Build your own coding agent that scaffolds and extends a Django project; explore agent orchestration frameworks.
+- Connect metrics, logs, and traces, alert on user impact, investigate incidents with bounded agent access, and run recurring security audits.
 
-[Module 5: AI for Testing, CI/CD & DevOps](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/05-cicd-devops)
+[Module 5: Coding Agent Capabilities](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/05-agent-capabilities)
 
-- AI-assisted reviews, automated test generation and evals in CI, release notes, and incident copilots.
-
-[Module 6: Automation with Low-Code and No-Code AI (n8n)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/06-automation-lowcode)
-
-- Automate tasks with n8n - for example creating LinkedIn posts or tailoring a CV.
+- Extend coding agents with project instructions, MCP, reusable skills, hooks, specialized subagents, plugins, and custom agents. You also document permissions and guardrails.
 
 [Final Project](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/project)
 
-- Build a complete application of your own using AI tools, end to end.
+- Build and deploy a full-stack application of your own. Document how you directed and reviewed AI tools, then add the operations, security, and agent-extension work covered in the later modules.
 
 ## Homework and project
 
-Each module has a homework assignment, scored and shown on the leaderboard, but homework is not required for the certificate. To earn the certificate you complete the final project and review three peers' projects during a live cohort. See [Project]({{ '/courses/ai-dev-tools-zoomcamp/project/' | relative_url }}).
+We score homework during the live cohort and show it on the leaderboard, but it isn't required for the certificate. To earn the certificate, submit a passing final project and complete the required peer reviews during the live cohort. See [Project]({{ '/courses/ai-dev-tools-zoomcamp/project/' | relative_url }}) for the course requirements and the [course platform](https://courses.datatalks.club/ai-dev-tools-2026/) for exact deadlines.

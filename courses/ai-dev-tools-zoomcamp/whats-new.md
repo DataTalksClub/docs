@@ -6,12 +6,17 @@ parent: AI Dev Tools Zoomcamp
 has_children: false
 ---
 
-# Changes
+# 2026 Cohort
 
-Notable points about the current state of the course.
+The 2026 cohort starts on August 31, 2026. The course is free, and you can still join after the start date if you can meet the remaining deadlines.
 
-## Cohorts
+## Join the cohort
 
-The first cohort ran in November 2025. A 2026 cohort is planned, with the date to be announced. Between cohorts the course is available for self-paced study, and all materials stay in the GitHub repository.
+Use these links to join and follow the course:
 
-For the latest content and any new workshops, follow the module READMEs in the [GitHub repository](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) and the announcements in Slack and Telegram.
+- [Register for course updates](https://courses.datatalks.club/register/ai-dev-tools/).
+- Use the [2026 course platform](https://courses.datatalks.club/ai-dev-tools-2026/) for deadlines, submissions, and scores.
+- Follow the [course materials](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) and [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLuyafXPyhTdbF4s_uNhc43).
+- Join [Slack](https://datatalks.club/slack.html) for questions and the [Telegram channel](https://t.me/aidevtoolszoomcamp) for announcements.
+
+The pre-recorded lectures let you study on your schedule. During a live cohort, you also get shared deadlines and scored homework. You can complete peer review and become eligible for a certificate. See [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}) for the shared rules.

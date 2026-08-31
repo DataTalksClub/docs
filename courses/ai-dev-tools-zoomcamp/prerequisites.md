@@ -14,15 +14,22 @@ For general expectations about zoomcamp time commitment, see [Before You Start](
 
 ## Required skills
 
-- A basic ability to program in any language (Python, JavaScript, or similar).
+Before you start, you should have:
+
+- A basic ability to program in Python, JavaScript, TypeScript, or a similar language.
 - Comfort with the command line.
+- Git and GitHub basics.
 
 ## You do not need
 
+You can start without:
+
 - Prior experience with AI tools, coding assistants, or agents. The course introduces them from the start.
-- Web development or Django experience. Module 1 homework is beginner-friendly, and the AI assistants guide you through each step.
-- A powerful machine. A standard laptop is enough; the heavy lifting runs on hosted models and cloud APIs.
+- Prior web development or Docker experience. Familiarity helps, but the course introduces the parts you need.
+- A powerful machine. A standard laptop is enough. Hosted models and cloud APIs handle the computationally intensive work.
 
-## Who it is for
+## Intended audience
 
-The course is for anyone who writes code and wants to be more productive with AI tools - software developers, ML and MLOps engineers, AI engineers, data scientists, and analysts. It focuses on software development workflows rather than data-specific tasks.
+The course is for anyone who writes code and wants to use AI tools with an explicit engineering workflow. Software developers, ML and MLOps engineers, and AI engineers can apply the material. It's also relevant to data scientists, data engineers, analysts, and technical students.
+
+This isn't a non-technical AI introduction. We also don't focus on model training, fine-tuning, vector databases, or RAG.
