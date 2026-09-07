@@ -20,3 +20,20 @@ In addition to the behaviors outlined in the Python Software Foundation's code, 
 - Asking people to share their profiles (such as LinkedIn or Upwork)
 - Offering collaboration in DM without prior public communication
 - Continuing one-on-one communication after requests to cease
+- Seeking connections only with people from a specific country or region (such as asking only for members from the US)
+
+## Geographically targeted connection requests
+
+Our community is global and open to everyone. When you take part here, be open to connecting with all members. Do not limit your outreach to people from a specific country or region.
+
+Posts or messages that specifically seek out members from one country or region are not allowed.
+
+Examples:
+
+- Looking to connect with US citizens
+- Only people from the US please reply
+- Seeking members based in Europe or North America for a private opportunity
+
+Such messages will be removed. Members who repeatedly post them may be banned.
+
+We treat this as a red flag because requests that target people from specific countries are a common sign of fraud or spam. A typical pattern is the freelancing account scam, where someone asks a member from the US, Canada, or Europe to lend their account or front for them. Read more in [suspicious job postings]({{ '/general/jobs/suspicious-job-postings/' | relative_url }}).
