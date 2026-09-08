@@ -55,5 +55,8 @@ For the course-specific bootstrap, see your course's getting-started page:
 - [Data Engineering Zoomcamp: Getting Started]({{ '/courses/data-engineering-zoomcamp/getting-started/' | relative_url }})
 - [Machine Learning Zoomcamp: Getting Started]({{ '/courses/ml-zoomcamp/getting-started/' | relative_url }})
 - [LLM Zoomcamp: Getting Started]({{ '/courses/llm-zoomcamp/getting-started/' | relative_url }})
+- [MLOps Zoomcamp: Getting Started]({{ '/courses/mlops-zoomcamp/getting-started/' | relative_url }}) 
+- [AI Dev Tools Zoomcamp:	Getting Started]({{ '/courses/ai-dev-tools-zoomcamp/getting-started/' | relative_url }}) 
+- [Stock Market Analytics Zoomcamp: Getting Started]({{ '/courses/stock-markets-analytics-zoomcamp/getting-started/' | relative_url }}) 
 
 If the cohort has already started, see [Joining Mid-Cohort]({{ '/courses/zoomcamp-logistics/joining-mid-cohort/' | relative_url }}). You do not need to attend live sessions to be in the live cohort. Submitting homework on time is what matters.
