@@ -19,8 +19,17 @@ In addition to the behaviors outlined in the Python Software Foundation's code, 
 - Asking for personal or professional details in DM (such as location, current job, or skills)
 - Asking people to share their profiles (such as LinkedIn or Upwork)
 - Offering collaboration in DM without prior public communication
+- Starting unsolicited Slack huddles or calls with people you don't know
 - Continuing one-on-one communication after requests to cease
 - Seeking connections only with people from a specific country or region (such as asking only for members from the US)
+
+## Unsolicited calls and huddles
+
+Do not start Slack huddles or calls with people you don't know without asking first.
+
+Huddles and calls are only okay if you already know each other and the other person agrees to it. If you want to talk with someone, send a text message first - in a public channel or in DM - and ask if they are open to a call. Wait for a yes before calling.
+
+Unsolicited huddles or calls with strangers are not allowed and will be treated as a violation of these guidelines.
 
 ## Geographically targeted connection requests
 
