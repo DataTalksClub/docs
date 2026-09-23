@@ -11,5 +11,3 @@ permalink: /
 
 A comprehensive collection of notes and resources for the DataTalks.Club Zoomcamps. These are our free courses on data engineering, machine learning, and AI.
 {: .fs-6 .fw-300 }
-
-[Visit DataTalks.Club](https://datatalks.club/){: .btn .fs-5 .mb-4 .mb-md-0 }
