@@ -26,6 +26,7 @@ Follow these rules:
 - Clearly specify if you're an agency
 - No agencies for [`#job-search`](https://app.slack.com/client/T01ATQK62F8/C06A1QBFJ94)
 - Jobs should be posted with a clear link to the public job description on the website where the job is listed
+- Job aggregator and freelance platforms like Mercor, Upwork, or Fiverr are allowed only if you posted the job there yourself. Reposting other people's jobs will be deleted
 - Jobs where you ask people to DM you for details will most likely be removed
 - Please limit your posts to one post per week
 - Please read our full [community guidelines](https://datatalks.club/slack/guidelines.html)
