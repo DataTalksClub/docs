@@ -18,6 +18,7 @@ What is fine:
 
 - Looking up an answer with an AI tool and being explicit about it, such as "I asked ChatGPT and this is what it said"
 - Using AI as a starting point, then verifying, explaining, and taking responsibility for the result
+- Using a dictation tool, including AI-based ones, that turns your stream of consciousness into text - the thoughts are still yours
 - Making mistakes - we would rather you be honest and human
 
 What is not welcome:
