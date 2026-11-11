@@ -22,6 +22,11 @@ In addition to the behaviors outlined in the Python Software Foundation's code, 
 - Starting unsolicited Slack huddles or calls with people you don't know
 - Continuing one-on-one communication after requests to cease
 - Seeking connections only with people from a specific country or region (such as asking only for members from the US)
+- Impersonating other people in the community
+
+## Impersonation
+
+Do not impersonate other people in the community, such as other members, instructors, or organizers. Impersonating other people in the community is prohibited and results in a ban.
 
 ## Unsolicited calls and huddles
 
