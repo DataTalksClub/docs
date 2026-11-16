@@ -54,6 +54,22 @@ Not confirmed yet. We will update the course pages when that is decided.
 
 Open-weights models come with their own licences. Check each model's licence before commercial use.
 
+## Do I need special hardware, an OS or Docker locally?
+
+No minimum. CPU-only work and the agent run on a laptop (Python 3.11 is enough), and GPU work runs on Nebius Serverless AI. Docker is used to build the container for Module 1, so install it before then. Nebius also offers a hosted Jupyter Lab environment as a cloud alternative for older laptops.
+
+## Is late homework accepted?
+
+Not after the submission form closes. Catch up at your own pace and aim for the second capstone attempt.
+
+## What makes a capstone stand out?
+
+Explain the challenges you hit and how you solved them (cost, errors, performance), and show that you understand the system rather than only prompting a coding agent.
+
+## I applied and still see Pending. What should I do?
+
+Applications are reviewed in batches, usually within 2 business days. No further step is needed.
+
 ## Where can I ask more questions?
 
 Check the [full FAQ](https://datatalks.club/faq/), ask in the [DataTalks.Club Slack](https://datatalks.club/slack.html), and bring questions to the weekly live office hour. See [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first.
