@@ -42,6 +42,10 @@ All materials are public (MIT) in the [GitHub repository](https://github.com/Dat
 
 Yes. The course is free and open source. The GPU workloads cost money: applicants get credits through the Nebius AI Builder Program ($25 on joining, $50 more after Homework 2), and usage beyond the credits is billed. Each module reports cost per asset, so you know what a run costs before you scale it.
 
+## How long does the Nebius AI Builder Program review take?
+
+Nebius reviews Builder Program applications manually, so if you apply on a weekend, please be patient. It is separate from the course application.
+
 ## Am I locked into Nebius?
 
 No. The code is OpenAI- and S3-compatible, so you can run it elsewhere. Nebius Serverless AI and Nebius Token Factory are the reference platform for the code-alongs and homework.
