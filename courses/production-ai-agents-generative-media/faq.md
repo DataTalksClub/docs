@@ -68,7 +68,15 @@ Explain the challenges you hit and how you solved them (cost, errors, performanc
 
 ## I applied and still see Pending. What should I do?
 
-Applications are reviewed in batches, usually within 2 business days. No further step is needed.
+Applications are processed in batches, with the current batch processed just before launch. You can attend the launch stream and follow the public materials regardless of status.
+
+## I applied with an institutional email but the course site only offers Google, GitHub and Slack login. What can I do?
+
+Staff can move your registration to another address. Send them a direct message.
+
+## Can the course teach PDF or document generation?
+
+The course covers image, video and audio generation. A document generator is fine as your capstone idea if it uses at least two GPU media models.
 
 ## Where can I ask more questions?
 
