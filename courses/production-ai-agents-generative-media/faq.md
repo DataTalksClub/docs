@@ -20,7 +20,7 @@ Python, Docker basics, HTTP APIs, and the command line. Prior LLM or MLOps cours
 
 ## Do I need my own GPU?
 
-No. The models run as Jobs and Endpoints on Nebius Serverless AI, so there is no GPU or cluster to manage. Applicants get GPU credits through the [Nebius AI Builder Program](https://dev.nebius.com/builders). Usage beyond the credits is billed to your account. If you follow along without applying, you need your own GPU access.
+No. The models run as Jobs and Endpoints on Nebius Serverless AI, so there is no GPU or cluster to manage. Applicants get GPU credits through the [Nebius AI Builder Program](https://dev.nebius.com/builders): $25 of compute credits on joining and $50 more after Homework 2. Usage beyond the credits is billed to your account. If you follow along without applying, you need your own GPU access.
 
 ## Can I apply after the course starts?
 
@@ -40,7 +40,7 @@ All materials are public (MIT) in the [GitHub repository](https://github.com/Dat
 
 ## Is the course free?
 
-Yes. The course is free and open source. The GPU workloads cost money: applicants get credits through the Nebius AI Builder Program, and usage beyond the credits is billed. Each module reports cost per asset, so you know what a run costs before you scale it.
+Yes. The course is free and open source. The GPU workloads cost money: applicants get credits through the Nebius AI Builder Program ($25 on joining, $50 more after Homework 2), and usage beyond the credits is billed. Each module reports cost per asset, so you know what a run costs before you scale it.
 
 ## Am I locked into Nebius?
 
