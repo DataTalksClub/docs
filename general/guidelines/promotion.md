@@ -48,7 +48,7 @@ You can make one promotional post per week. The limit is shared by all four prom
 
 The week is counted from your last post: after posting, you can post again 7 days later. If you post again before that, in any of these channels, the new post is removed automatically. The removal message tells you when you can post again.
 
-Deleting your earlier post doesn't reset the wait. A post you deleted yourself still counts. Only a post that the moderators removed doesn't count, so you can fix it and post it again.
+Deleting your earlier post doesn't reset the wait. A post you deleted yourself still counts. Only a post that was removed automatically for breaking these rules doesn't count, so you can fix it and post it again.
 
 This keeps the channels from being flooded and leaves room for everyone.
 
