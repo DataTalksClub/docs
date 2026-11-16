@@ -13,6 +13,17 @@ Production AI Agents for Generative Media is a free, open-source (MIT), project-
 
 The first cohort starts on Monday, November 16, 2026. The live cohort is application only, and applications are open until Monday, November 30, 2026. [Apply for the cohort](https://courses.datatalks.club/register/production-ai-agents-generative-media/) and use the [course platform](https://courses.datatalks.club/production-ai-agents-generative-media/) for deadlines, homework submissions, and scores.
 
+## Links
+
+- [Course platform](https://courses.datatalks.club/production-ai-agents-generative-media/) - schedule, deadlines, homework, scores.
+- [Apply for the cohort](https://courses.datatalks.club/register/production-ai-agents-generative-media/)
+- [GitHub repository](https://github.com/DataTalksClub/open-source-llm-zoomcamp) - all materials, MIT license.
+- [Slack channel #course-ai-mediagen](https://app.slack.com/client/T01ATQK62F8/C0CEG1BUDKL) and the [Slack invite](https://datatalks.club/slack.html) if you are not in the workspace yet.
+- [YouTube playlist](https://www.youtube.com/playlist?list=PLC73BZc0zZKM) - session recordings, including the [course launch](https://www.youtube.com/watch?v=Y5__PUmOTdg) and the [pre-course Q&A](https://www.youtube.com/watch?v=iACtrkiXndw).
+- [Course FAQ](https://datatalks.club/faq/production-ai-agents-generative-media.html) and the [FAQ page in these docs]({{ '/courses/production-ai-agents-generative-media/faq/' | relative_url }}).
+- [Nebius AI Builder Program](https://dev.nebius.com/builders) - GPU credits.
+- [Learning in public]({{ '/courses/zoomcamp-logistics/learning-in-public/' | relative_url }}) and [Community Guidelines]({{ '/general/guidelines/' | relative_url }}).
+
 ## Docs order
 
 Read in this order:

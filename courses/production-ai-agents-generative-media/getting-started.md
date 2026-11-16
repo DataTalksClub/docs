@@ -36,7 +36,11 @@ The [course platform](https://courses.datatalks.club/production-ai-agents-genera
 
 ## Ask questions
 
-Join the [DataTalks.Club Slack workspace](https://datatalks.club/slack.html) and bring your questions to the weekly live office hour. Before asking, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}).
+Join the [DataTalks.Club Slack workspace](https://datatalks.club/slack.html), then open the [#course-ai-mediagen channel](https://app.slack.com/client/T01ATQK62F8/C0CEG1BUDKL) for questions and discussion. You can also bring questions to the weekly live office hour. Check the [course FAQ](https://datatalks.club/faq/production-ai-agents-generative-media.html) first. Before asking, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}).
+
+## Share your progress
+
+Post what you build. See [Learning in Public]({{ '/courses/zoomcamp-logistics/learning-in-public/' | relative_url }}) for how.
 
 ## Course workflow
 
@@ -45,6 +49,6 @@ Join the [DataTalks.Club Slack workspace](https://datatalks.club/slack.html) and
 3. Write the capstone proposal in Module 1 and build the capstone after Module 4.
 4. Complete the peer reviews assigned on the course platform.
 
-Live sessions in the cohort are the pre-course Live Q&A, the course launch, and the weekly office hour. Recordings are collected in a YouTube playlist linked from the repository.
+Live sessions in the cohort are the pre-course Live Q&A, the course launch, and the weekly office hour. Recordings are collected in the [course YouTube playlist](https://www.youtube.com/playlist?list=PLC73BZc0zZKM), including the [course launch](https://www.youtube.com/watch?v=Y5__PUmOTdg) and the [pre-course Q&A](https://www.youtube.com/watch?v=iACtrkiXndw).
 
 See the [curriculum]({{ '/courses/production-ai-agents-generative-media/curriculum/' | relative_url }}) for the full schedule.
