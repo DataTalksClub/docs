@@ -28,7 +28,7 @@ Follow these rules:
 - Posts in the shameless channels should follow the template (see below)
 - Posting the same content in multiple channels is not allowed
 - Posting promotional content outside of these 4 channels is not allowed
-- Don't post more than two promotional posts per week
+- One promotional post per week in total across all four promotion channels (see below)
 - Don't include more than one link per post
 - Non-relevant topics aren't allowed
 - If what you promote isn't free, you should mention the price
@@ -38,8 +38,30 @@ Follow these rules:
 - Don't make your `#welcome` message a pitch. Introduce yourself as a person, not your tool or agency
 - The content must be in English
 - Think of the reader. Explain why it is relevant and why they should click the link.
+- Develop the topic. Filling in the template with a few words is not enough (see below)
 
 Messages that don't follow these rules will be deleted.
+
+## One post per week
+
+You can make one promotional post per week. The limit is shared by all four promotion channels: `#events`, `#interesting-content`, `#shameless-social`, and `#shameless-promotion`. It isn't one post per channel.
+
+The week is counted from your last post: after posting, you can post again 7 days later. If you post again before that, in any of these channels, the new post is removed automatically. The removal message tells you when you can post again.
+
+Deleting your earlier post doesn't reset the wait. A post you deleted yourself still counts. Only a post that the moderators removed doesn't count, so you can fix it and post it again.
+
+This keeps the channels from being flooded and leaves room for everyone.
+
+## Develop the topic
+
+Filling in the template with a few words isn't enough. A post like this one is removed:
+
+> What is it: Nexus book chapter 6<br>
+> Who is it for: AI enthusiasts<br>
+> Why is it relevant: AI awareness<br>
+> Link: &lt;link&gt;
+
+It doesn't say what the chapter is about or what the reader learns from it. Write at least a sentence or two for "What is it" and "Why is it relevant". Say what you're sharing and what the reader gets from clicking the link.
 
 ## Post length
 
