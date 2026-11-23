@@ -27,17 +27,12 @@ Check your spam and promotions folders. If you still cannot find it, message the
 
 ## Get your Nebius credits
 
-1. Apply to the [Nebius AI Builder Program](https://dev.nebius.com/builders) separately from your course application. Nebius sends separate promo codes for AI Cloud and Token Factory. Use the AI Cloud code for the GPU Jobs and Endpoints in the course.
-2. Use the link and instructions in your AI Cloud promo code email to set up your Nebius AI Cloud account and redeem the code. Account setup creates a tenant for you. You can redeem the course promo code without a credit card. The code adds credit to your Nebius AI Cloud balance. Usage beyond the credits is billed to your account.
-3. If a code is still missing two days after your Builder Program welcome email, or your Builder Program application was rejected, send Mikhail Rozhkov a Slack DM with the email address you used to apply. Nebius is reviewing the cases already reported. See [Mikhail's promo code guide](https://datatalks-club.slack.com/archives/C0CEG1BUDKL/p1794992006015909) and [credit update](https://datatalks-club.slack.com/archives/C0CEG1BUDKL/p1795428925030219).
+[Apply to the Nebius AI Builder Program](https://dev.nebius.com/builders) separately from the course. After approval, look for separate AI Cloud and Token Factory promo code emails. The GPU workloads use your AI Cloud balance. Follow the AI Cloud email to redeem the course code without adding a card. In the Nebius console, go to Manage → Billing → Payments, select Apply promo code, and then choose With promo code. Check Billing → Transactions to verify that the credit was added.
 
-### What if I got a Token Factory code but my GPU balance is zero?
+If your Builder Program welcome email arrived at least two days ago and you are still missing a code, DM Mikhail Rozhkov in [course Slack] with your application email and which code is missing. Also message him if the Builder Program rejected your application or if you are unsure how earlier credits affect your application.
 
-The codes arrive separately. Redeem the AI Cloud code in AI Cloud Billing. If the AI Cloud code has not arrived, follow the steps above. If you have a duplicate application or a code from a previous program, describe that in your DM so the Nebius team can check.
+The [Nebius credits guide]({{ '/courses/production-ai-agents-generative-media/nebius-credits/' | relative_url }}) explains where to enter the code, how to check your balance, what the $25 charge means if you added a card, and what to do if the code or GPU is unavailable.
 
-### What if I cannot find an L40S for Sana?
-
-Check the Nebius Capacity dashboard and look in eu-north1. Spot prices can change while a Job is running, and Nebius bills at the rates in effect during the run. Stop or delete resources when you finish, including Endpoints, Jobs, and DevLabs. See the [capacity discussion](https://datatalks-club.slack.com/archives/C0CEG1BUDKL/p1795019710267619), [spot pricing discussion](https://datatalks-club.slack.com/archives/C0CEG1BUDKL/p1795366558106759), and [Nebius pricing](https://nebius.com/prices).
 
 ## Do and submit the coursework
 
@@ -45,6 +40,10 @@ Check the Nebius Capacity dashboard and look in eu-north1. Spot prices can chang
 2. Read the homework instructions in GitHub, then answer the fields shown in the submission form on the [course platform]. The platform shows deadlines in your timezone. Start with the [Homework 1 instructions](https://github.com/DataTalksClub/production-ai-agents-for-media-generation/blob/main/cohorts/2026/homework/01-consistent-media-generation-on-serverless-gpus/homework.md) and [submission form](https://courses.datatalks.club/production-ai-agents-generative-media/homework/module1).
 3. Start your capstone proposal during Module 1 with the [proposal template](https://github.com/DataTalksClub/production-ai-agents-for-media-generation/blob/main/projects/proposal-template.md). See the [capstone requirements and peer-review timeline]({{ '/courses/production-ai-agents-generative-media/project/' | relative_url }}).
 4. If you share what you learned publicly, include the post URL in your submission so it can count toward [Learning in Public]({{ '/courses/zoomcamp-logistics/learning-in-public/' | relative_url }}).
+
+### How do I do Homework 1 and estimate the cost?
+
+Choose a media idea and generate 10 assets in one run. Record startup time, model loading time, and time for each asset. Use the rate for the Nebius GPU and region you used to project the cost per asset at 1,000 assets. The [lesson on measuring costs](https://github.com/DataTalksClub/production-ai-agents-for-media-generation/blob/main/01-consistent-media-generation-on-serverless-gpus/05-measuring-costs.md) walks through the calculation. Use the [live Homework 1 form](https://courses.datatalks.club/production-ai-agents-generative-media/homework/module1) for the submission fields and deadline.
 
 ### What if I already ran Homework 1 on my own GPU?
 
