@@ -24,6 +24,8 @@ If you are not approved, all materials are public, and you can follow along on y
 
 Approved applicants get GPU credits through the [Nebius AI Builder Program](https://dev.nebius.com/builders), which is free to join. Usage beyond the credits is billed to your account. If you follow along without applying, you pay for your own GPU usage.
 
+The AI Cloud compute code and Token Factory code arrive in separate emails. Follow the promo code email to set up your Cloud account without adding a credit card. See the [Week 2 guide]({{ '/courses/production-ai-agents-generative-media/week-2/' | relative_url }}) for the credit status and what to do if a code is missing.
+
 ## Star the GitHub repository
 
 [github.com/DataTalksClub/open-source-llm-zoomcamp](https://github.com/DataTalksClub/open-source-llm-zoomcamp)

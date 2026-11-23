@@ -15,6 +15,7 @@ The first cohort starts on Monday, November 16, 2026. The live cohort is applica
 
 ## Links
 
+- [Week 2 guide]({{ '/courses/production-ai-agents-generative-media/week-2/' | relative_url }}) - Module 1 materials, Homework 1, and Nebius credits.
 - [Course platform](https://courses.datatalks.club/production-ai-agents-generative-media/) - schedule, deadlines, homework, scores.
 - [Apply for the cohort](https://courses.datatalks.club/register/production-ai-agents-generative-media/)
 - [GitHub repository](https://github.com/DataTalksClub/open-source-llm-zoomcamp) - all materials, MIT license.
