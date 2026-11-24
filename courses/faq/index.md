@@ -10,18 +10,18 @@ parent: Courses
 
 The DataTalks.Club FAQ contains answers to frequently asked questions from the community. Each course has its own comprehensive FAQ covering general questions, module-specific topics, and technical issues.
 
-[Visit the FAQ website](https://datatalks.club/faq/)
+[Visit the FAQ website](/faq/)
 
 ## Available Course FAQs
 
 Available FAQ pages:
 
-- [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html)
-- [Machine Learning Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html)
-- [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp.html)
-- [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html)
-- [AI Dev Tools Zoomcamp FAQ](https://datatalks.club/faq/ai-dev-tools-zoomcamp.html)
-- [Stock Market Analytics Zoomcamp FAQ](https://datatalks.club/faq/stock-markets-analytics-zoomcamp.html)
+- [Data Engineering Zoomcamp FAQ](/faq/data-engineering-zoomcamp.html)
+- [Machine Learning Zoomcamp FAQ](/faq/machine-learning-zoomcamp.html)
+- [MLOps Zoomcamp FAQ](/faq/mlops-zoomcamp.html)
+- [LLM Zoomcamp FAQ](/faq/llm-zoomcamp.html)
+- [AI Dev Tools Zoomcamp FAQ](/faq/ai-dev-tools-zoomcamp.html)
+- [Stock Market Analytics Zoomcamp FAQ](/faq/stock-markets-analytics-zoomcamp.html)
 
 ## Contents
 

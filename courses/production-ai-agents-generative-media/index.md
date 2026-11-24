@@ -21,7 +21,7 @@ The first cohort starts on Monday, November 16, 2026. The live cohort is applica
 - [GitHub repository](https://github.com/DataTalksClub/open-source-llm-zoomcamp) - all materials, MIT license.
 - [Slack channel #course-ai-mediagen](https://app.slack.com/client/T01ATQK62F8/C0CEG1BUDKL) and the [Slack invite](https://datatalks.club/slack.html) if you are not in the workspace yet.
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLC73BZc0zZKM) - session recordings, including the [course launch](https://www.youtube.com/watch?v=Y5__PUmOTdg) and the [pre-course Q&A](https://www.youtube.com/watch?v=iACtrkiXndw).
-- [Course FAQ](https://datatalks.club/faq/production-ai-agents-generative-media.html) and the [FAQ page in these docs]({{ '/courses/production-ai-agents-generative-media/faq/' | relative_url }}).
+- [Course FAQ](/faq/production-ai-agents-generative-media.html) and the [FAQ page in these docs]({{ '/courses/production-ai-agents-generative-media/faq/' | relative_url }}).
 - [Nebius AI Builder Program](https://dev.nebius.com/builders) - GPU credits.
 - [Learning in public]({{ '/courses/zoomcamp-logistics/learning-in-public/' | relative_url }}) and [Community Guidelines]({{ '/general/guidelines/' | relative_url }}).
 

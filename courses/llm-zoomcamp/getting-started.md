@@ -43,7 +43,7 @@ For all the playlist links, see [Resources]({{ '/courses/llm-zoomcamp/resources/
 
 ## Bookmark the FAQ
 
-The [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html) collects answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
+The [LLM Zoomcamp FAQ](/faq/llm-zoomcamp.html) collects answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
 
 There is also a community-built bot that answers questions using the FAQ and Slack history. The link is saved in the course Slack channel.
 

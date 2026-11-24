@@ -20,7 +20,7 @@ Read in this order:
 1. [Community Guidelines]({{ '/general/guidelines/' | relative_url }}) - code of conduct, how to ask questions, how to use Slack channels.
 2. [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}) - how DataTalks.Club zoomcamps work in general (joining, homework, project, peer review, certification).
 3. Read the course-specific pages for the curriculum, environment, project, and resources.
-4. The [AI Dev Tools Zoomcamp FAQ](https://datatalks.club/faq/ai-dev-tools-zoomcamp.html) - module-specific and technical questions from previous cohorts.
+4. The [AI Dev Tools Zoomcamp FAQ](/faq/ai-dev-tools-zoomcamp.html) - module-specific and technical questions from previous cohorts.
 
 ## Course outcomes
 

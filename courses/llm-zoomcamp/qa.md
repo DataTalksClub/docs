@@ -8,7 +8,7 @@ has_children: false
 
 # Questions and Answers
 
-This page covers LLM-specific questions about course scope and philosophy. For general zoomcamp logistics, see [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}). For module-specific and technical issues, check the [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html).
+This page covers LLM-specific questions about course scope and philosophy. For general zoomcamp logistics, see [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}). For module-specific and technical issues, check the [LLM Zoomcamp FAQ](/faq/llm-zoomcamp.html).
 
 ## Agents module
 

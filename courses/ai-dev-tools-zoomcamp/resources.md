@@ -26,7 +26,7 @@ Use the [2026 course platform](https://courses.datatalks.club/ai-dev-tools-2026/
 
 ## FAQ
 
-The [AI Dev Tools Zoomcamp FAQ](https://datatalks.club/faq/ai-dev-tools-zoomcamp.html) collects module-specific and technical questions from previous cohorts.
+The [AI Dev Tools Zoomcamp FAQ](/faq/ai-dev-tools-zoomcamp.html) collects module-specific and technical questions from previous cohorts.
 
 ## Slack
 

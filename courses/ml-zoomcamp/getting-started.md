@@ -54,7 +54,7 @@ The lectures are pre-recorded and available in the [ML Zoomcamp YouTube playlist
 
 ## Bookmark the FAQ
 
-The [Machine Learning Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html) is a comprehensive resource with answers from previous cohorts. Check it before posting in Slack.
+The [Machine Learning Zoomcamp FAQ](/faq/machine-learning-zoomcamp.html) is a comprehensive resource with answers from previous cohorts. Check it before posting in Slack.
 
 <div align="center">
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-faq.png' | relative_url }}" alt="ML Zoomcamp FAQ" width="80%">

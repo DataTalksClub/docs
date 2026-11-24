@@ -39,7 +39,7 @@ Watch both before the course starts, then fork the code and run it.
 
 ## FAQ
 
-The [Stock Market Analytics Zoomcamp FAQ](https://datatalks.club/faq/stock-markets-analytics-zoomcamp.html) collects module-specific and technical questions from previous cohorts.
+The [Stock Market Analytics Zoomcamp FAQ](/faq/stock-markets-analytics-zoomcamp.html) collects module-specific and technical questions from previous cohorts.
 
 ## Slack
 

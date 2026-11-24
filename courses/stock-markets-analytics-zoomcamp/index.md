@@ -24,7 +24,7 @@ Read in this order:
 1. [Community Guidelines]({{ '/general/guidelines/' | relative_url }}) - code of conduct, how to ask questions, how to use Slack channels.
 2. [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}) - how DataTalks.Club zoomcamps work in general (joining, live sessions, homework, project, peer review, certification). Most of your logistical questions are answered there.
 3. The pages in this section - what is specific to the Stock Market Analytics Zoomcamp (curriculum, data sources, project, resources).
-4. The [Stock Market Analytics Zoomcamp FAQ](https://datatalks.club/faq/stock-markets-analytics-zoomcamp.html) - module-specific and technical questions from previous cohorts.
+4. The [Stock Market Analytics Zoomcamp FAQ](/faq/stock-markets-analytics-zoomcamp.html) - module-specific and technical questions from previous cohorts.
 
 For platform mechanics (where to click on the submission form, how the leaderboard appears), see [Course Management Platform]({{ '/courses/course-management-platform/' | relative_url }}).
 

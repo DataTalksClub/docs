@@ -71,7 +71,7 @@ The [DataTalks.Club newsletter](https://datatalks.club/newsletter.html) goes out
 
 ## FAQ
 
-The [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html) collects answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
+The [LLM Zoomcamp FAQ](/faq/llm-zoomcamp.html) collects answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
 
 The course repo also has an [asking questions guide](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/asking-questions.md) with tips for posting useful questions in Slack.
 

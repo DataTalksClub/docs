@@ -13,10 +13,10 @@ If you have a course question, ask it in the course-specific Slack channel. Use 
 
 Course channels and FAQs:
 
-- Data Engineering Zoomcamp: [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG), [FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html).
-- Machine Learning Zoomcamp: [`#course-ml-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA), [FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html).
-- MLOps Zoomcamp: [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9), [FAQ](https://datatalks.club/faq/mlops-zoomcamp.html).
-- LLM Zoomcamp: [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J), [FAQ](https://datatalks.club/faq/llm-zoomcamp.html).
+- Data Engineering Zoomcamp: [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG), [FAQ](/faq/data-engineering-zoomcamp.html).
+- Machine Learning Zoomcamp: [`#course-ml-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA), [FAQ](/faq/machine-learning-zoomcamp.html).
+- MLOps Zoomcamp: [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9), [FAQ](/faq/mlops-zoomcamp.html).
+- LLM Zoomcamp: [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J), [FAQ](/faq/llm-zoomcamp.html).
 - AI Dev Tools Zoomcamp: [`#course-ai-dev-tools-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C09HWT76L95).
 - Stock Market Analytics Zoomcamp: [`#course-stocks-analytics-zoomcamp`](https://datatalks-club.slack.com/archives/C06L1RTF10F).
 

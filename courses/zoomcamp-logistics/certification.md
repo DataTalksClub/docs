@@ -98,4 +98,4 @@ Common next steps:
 - Polish your project and add it to your portfolio.
 - Write a LinkedIn post about what you learned.
 - Help next cohort's students by answering questions in Slack.
-- Contribute to the public [FAQ](https://datatalks.club/faq/).
+- Contribute to the public [FAQ](/faq/).

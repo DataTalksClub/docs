@@ -8,7 +8,7 @@ has_children: false
 
 # Questions and Answers
 
-DE-specific questions. For general zoomcamp logistics, see [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}). For module-specific and technical issues, check the [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html).
+DE-specific questions. For general zoomcamp logistics, see [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}). For module-specific and technical issues, check the [Data Engineering Zoomcamp FAQ](/faq/data-engineering-zoomcamp.html).
 
 ## Google Cloud Platform
 

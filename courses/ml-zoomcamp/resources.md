@@ -76,7 +76,7 @@ The [DataTalks.Club Newsletter](https://datatalks.club/newsletter.html) goes out
 
 ## FAQ
 
-The [Machine Learning Zoomcamp FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html) contains answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
+The [Machine Learning Zoomcamp FAQ](/faq/machine-learning-zoomcamp.html) contains answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
 
 <div align="center">
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-faq.png' | relative_url }}" alt="ML Zoomcamp FAQ" width="80%">

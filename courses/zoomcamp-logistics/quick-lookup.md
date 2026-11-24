@@ -12,7 +12,7 @@ If you have a question, this page tells you where the answer is. Send this link 
 
 Topic and where to look:
 
-- Course content, a video, a homework problem, a tool error: the course-specific FAQ first ([DE FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html), [ML FAQ](https://datatalks.club/faq/machine-learning-zoomcamp.html), [MLOps FAQ](https://datatalks.club/faq/mlops-zoomcamp.html), [LLM FAQ](https://datatalks.club/faq/llm-zoomcamp.html)). If your question is not in the FAQ, post in the course Slack channel and consider [contributing your answer back](https://github.com/DataTalksClub/faq/issues/new?template=faq-proposal.yml) once you find one.
+- Course content, a video, a homework problem, a tool error: the course-specific FAQ first ([DE FAQ](/faq/data-engineering-zoomcamp.html), [ML FAQ](/faq/machine-learning-zoomcamp.html), [MLOps FAQ](/faq/mlops-zoomcamp.html), [LLM FAQ](/faq/llm-zoomcamp.html)). If your question is not in the FAQ, post in the course Slack channel and consider [contributing your answer back](https://github.com/DataTalksClub/faq/issues/new?template=faq-proposal.yml) once you find one.
 - When the next cohort starts, how often the course runs: [Before You Start]({{ '/courses/zoomcamp-logistics/before-you-start/' | relative_url }}).
 - How to register, what email to use, missing confirmation email: [Joining a Cohort]({{ '/courses/zoomcamp-logistics/joining/' | relative_url }}).
 - The course already started, can I still join: [Joining Mid-Cohort]({{ '/courses/zoomcamp-logistics/joining-mid-cohort/' | relative_url }}).

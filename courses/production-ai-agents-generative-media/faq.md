@@ -8,7 +8,7 @@ has_children: false
 
 # FAQ
 
-A short list of the most common questions. The full course FAQ is on [datatalks.club/faq](https://datatalks.club/faq/).
+A short list of the most common questions. The full course FAQ is on [datatalks.club/faq](/faq/).
 
 ## Who is this course for?
 
@@ -84,4 +84,4 @@ The course covers image, video and audio generation. A document generator is fin
 
 ## Where can I ask more questions?
 
-Check the [full FAQ](https://datatalks.club/faq/), ask in the [DataTalks.Club Slack](https://datatalks.club/slack.html), and bring questions to the weekly live office hour. See [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first.
+Check the [full FAQ](/faq/), ask in the [DataTalks.Club Slack](https://datatalks.club/slack.html), and bring questions to the weekly live office hour. See [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first.

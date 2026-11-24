@@ -89,7 +89,7 @@ DE announcements channel: [t.me/dezoomcamp](https://t.me/dezoomcamp). It is anno
 
 ## FAQ
 
-The [Data Engineering Zoomcamp FAQ](https://datatalks.club/faq/data-engineering-zoomcamp.html) contains answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
+The [Data Engineering Zoomcamp FAQ](/faq/data-engineering-zoomcamp.html) contains answers to module-specific and technical questions from previous cohorts. Check it before posting in Slack.
 
 ## Community Notes
 

@@ -8,7 +8,7 @@ has_children: false
 
 # Questions and Answers
 
-Questions about the scope and philosophy of this course, collected from the cohort launch sessions. For general zoomcamp logistics, see [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}). For module-specific and technical issues, check the [Stock Market Analytics Zoomcamp FAQ](https://datatalks.club/faq/stock-markets-analytics-zoomcamp.html).
+Questions about the scope and philosophy of this course, collected from the cohort launch sessions. For general zoomcamp logistics, see [Zoomcamp Logistics]({{ '/courses/zoomcamp-logistics/' | relative_url }}). For module-specific and technical issues, check the [Stock Market Analytics Zoomcamp FAQ](/faq/stock-markets-analytics-zoomcamp.html).
 
 ## Automated trading bots
 

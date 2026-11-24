@@ -30,7 +30,7 @@ All lectures are on the [course YouTube playlist](https://www.youtube.com/playli
 
 ## FAQ
 
-The [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp.html) collects module-specific and technical questions from previous cohorts.
+The [MLOps Zoomcamp FAQ](/faq/mlops-zoomcamp.html) collects module-specific and technical questions from previous cohorts.
 
 ## Slack
 
