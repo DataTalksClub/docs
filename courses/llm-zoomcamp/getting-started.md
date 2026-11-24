@@ -26,7 +26,7 @@ After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack)
 
 `#course-llm-zoomcamp`
 
-This is your primary support and Q+A channel for the course. Use threads when replying. Don't tag instructors directly - other participants often answer first, and tagging discourages that.
+This is your primary support and Q+A channel for the course. Use threads when replying. Don't tag instructors directly - other participants often answer first, and tagging discourages that. For the other DataTalks.Club channels and how to get help, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## Subscribe to LLM Telegram (optional, recommended)
 

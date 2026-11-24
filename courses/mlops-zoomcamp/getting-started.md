@@ -24,7 +24,7 @@ See [Resources]({{ '/courses/mlops-zoomcamp/resources/' | relative_url }}) for m
 
 After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack), find the `#course-mlops-zoomcamp` channel. This is where questions, announcements, and discussion happen.
 
-Before asking questions, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) and the [community guidelines](https://datatalks.club/slack/guidelines.html).
+Before asking questions, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) and the [community guidelines]({{ '/general/guidelines/' | relative_url }}). For the other DataTalks.Club channels, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## Follow the announcements
 

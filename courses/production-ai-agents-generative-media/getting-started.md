@@ -51,7 +51,7 @@ Local runs are accepted. State that you ran it locally, name the GPU, and estima
 
 ## Ask a question
 
-[Join the DataTalks.Club Slack workspace](https://datatalks.club/slack.html) and open [course Slack]. Reply in a thread when someone has already raised the topic. For a technical question, include what you tried, where you got stuck, and the relevant error. Share account details only in a DM with the person helping you. See [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) and the [course FAQ]({{ '/courses/production-ai-agents-generative-media/faq/' | relative_url }}).
+[Join the DataTalks.Club Slack workspace](https://datatalks.club/slack.html) and open [course Slack]. Reply in a thread when someone has already raised the topic. For a technical question, include what you tried, where you got stuck, and the relevant error. Share account details only in a DM with the person helping you. See [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) and the [course FAQ]({{ '/courses/production-ai-agents-generative-media/faq/' | relative_url }}). For the other DataTalks.Club channels, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 [Module 1]: https://github.com/DataTalksClub/production-ai-agents-for-media-generation/tree/main/01-consistent-media-generation-on-serverless-gpus
 [course platform]: https://courses.datatalks.club/production-ai-agents-generative-media/

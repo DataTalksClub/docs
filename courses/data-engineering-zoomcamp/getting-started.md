@@ -24,7 +24,7 @@ After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack)
 
 [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG)
 
-This is where DE-specific announcements, homework discussions, project Q+A, and the live-session links go. Use threads when replying.
+This is where DE-specific announcements, homework discussions, project Q+A, and the live-session links go. Use threads when replying. For the other DataTalks.Club channels and how to get help, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## Subscribe to DE Telegram (optional, recommended)
 

@@ -34,7 +34,7 @@ The [MLOps Zoomcamp FAQ](/faq/mlops-zoomcamp.html) collects module-specific and 
 
 ## Slack
 
-Questions and discussion happen in the `#course-mlops-zoomcamp` channel on [DataTalks.Club Slack](https://datatalks.club/slack.html). Read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first.
+Questions and discussion happen in the `#course-mlops-zoomcamp` channel on [DataTalks.Club Slack](https://datatalks.club/slack.html). Read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first. For the other DataTalks.Club channels and how to get help, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## Tools used in the course
 

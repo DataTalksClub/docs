@@ -11,3 +11,7 @@ permalink: /
 
 A comprehensive collection of notes and resources for the DataTalks.Club Zoomcamps. These are our free courses on data engineering, machine learning, and AI.
 {: .fs-6 .fw-300 }
+
+## Community
+
+New to DataTalks.Club? Start with the [Slack guide]({{ '/general/slack/' | relative_url }}). It explains how to join our Slack, which channels to use, and how to get help. Then read the [Community Guidelines]({{ '/general/guidelines/' | relative_url }}).

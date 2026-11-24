@@ -43,7 +43,7 @@ The [Stock Market Analytics Zoomcamp FAQ](/faq/stock-markets-analytics-zoomcamp.
 
 ## Slack
 
-Questions and discussion happen in the `#course-stocks-analytics-zoomcamp` channel on [DataTalks.Club Slack](https://datatalks.club/slack.html). Read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first.
+Questions and discussion happen in the `#course-stocks-analytics-zoomcamp` channel on [DataTalks.Club Slack](https://datatalks.club/slack.html). Read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first. For the other DataTalks.Club channels and how to get help, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## PythonInvest
 

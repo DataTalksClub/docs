@@ -24,7 +24,7 @@ Registration happens on the [PythonInvest course page](https://pythoninvest.com/
 
 ## Join the Slack channel
 
-After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack), find the `#course-stocks-analytics-zoomcamp` channel. This is where questions, announcements, and discussion happen. Before asking, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}).
+After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack), find the `#course-stocks-analytics-zoomcamp` channel. This is where questions, announcements, and discussion happen. Before asking, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}). For the other DataTalks.Club channels and how to get help, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## Follow the announcements
 

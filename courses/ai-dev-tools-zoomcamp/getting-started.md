@@ -20,7 +20,7 @@ Create an account on the [2026 course platform](https://courses.datatalks.club/a
 
 ## Join the Slack channel
 
-After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack), find the `#course-ai-dev-tools-zoomcamp` channel for questions and discussion. Before asking, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}).
+After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack), find the `#course-ai-dev-tools-zoomcamp` channel for questions and discussion. Before asking, read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}). For the other DataTalks.Club channels and how to get help, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## Follow the announcements
 

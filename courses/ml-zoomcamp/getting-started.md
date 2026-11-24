@@ -30,7 +30,7 @@ After joining the [DataTalks.Club Slack workspace](https://datatalks.club/slack)
 
 [`#course-ml-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA)
 
-This is your primary support and Q+A channel for the course.
+This is your primary support and Q+A channel for the course. For the other DataTalks.Club channels and how to get help, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 <div align="center">
   <img src="{{ '/assets/images/ml-zoomcamp/ml-zoomcamp-slack.png' | relative_url }}" alt="ML Zoomcamp Slack channel" width="80%">

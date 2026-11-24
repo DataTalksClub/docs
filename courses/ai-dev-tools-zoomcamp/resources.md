@@ -30,7 +30,7 @@ The [AI Dev Tools Zoomcamp FAQ](/faq/ai-dev-tools-zoomcamp.html) collects module
 
 ## Slack
 
-Questions and discussion happen in the `#course-ai-dev-tools-zoomcamp` channel on [DataTalks.Club Slack](https://datatalks.club/slack.html). Read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first.
+Questions and discussion happen in the `#course-ai-dev-tools-zoomcamp` channel on [DataTalks.Club Slack](https://datatalks.club/slack.html). Read [Asking Questions]({{ '/courses/zoomcamp-logistics/asking-questions/' | relative_url }}) first. For the other DataTalks.Club channels and how to get help, see the [Slack guide]({{ '/general/slack/' | relative_url }}).
 
 ## Tools used in the course
 
